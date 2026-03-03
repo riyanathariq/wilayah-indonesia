@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3304012001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Berta",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Brengkok",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Derik",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012013,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Dermasari",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Gumelem Kulon",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Gumelem Wetan",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012015,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Karangjati",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012010,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Karangsalam",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012014,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Kedawung",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012011,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Kemranggon",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Pekikiran (Pakikiran)",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Penarusan Kulon (Panerusan Kulon)",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Penarusan Wetan (Panerusan Wetan)",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012009,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Piasa Wetan",
+    "postal_code": "53475"
+  },
+  {
+    "id": 3304012012,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330401,
+    "value": "Susukan",
+    "postal_code": "53475"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3212282001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Cangkingan",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Jayalaksana",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Jayawinangun",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Kaplongan",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Kedokan Agung",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Kedokanbunder",
+    "postal_code": "45280"
+  },
+  {
+    "id": 3212282005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321228,
+    "value": "Kedokanbunderwetan (Kedokanbunder Wetan)",
+    "postal_code": "45280"
+  }
+]

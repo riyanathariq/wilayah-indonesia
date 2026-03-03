@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3212142007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Balongan",
+    "postal_code": "45217"
+  },
+  {
+    "id": 3212142005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Gelarmendala",
+    "postal_code": "45285"
+  },
+  {
+    "id": 3212142008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Majakerta",
+    "postal_code": "45285"
+  },
+  {
+    "id": 3212142004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Rawadalem",
+    "postal_code": "45217"
+  },
+  {
+    "id": 3212142009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Sudimampir",
+    "postal_code": "45285"
+  },
+  {
+    "id": 3212142010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Sudimampir Lor (Sudimampirlor)",
+    "postal_code": "45285"
+  },
+  {
+    "id": 3212142002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Sukareja",
+    "postal_code": "45217"
+  },
+  {
+    "id": 3212142003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Sukaurip",
+    "postal_code": "45217"
+  },
+  {
+    "id": 3212142001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Tegal Sembadra (Tegalsembadra)",
+    "postal_code": "45285"
+  },
+  {
+    "id": 3212142006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321214,
+    "value": "Tegalurung",
+    "postal_code": "45217"
+  }
+]

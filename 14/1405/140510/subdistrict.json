@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1405102006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Serapung",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Sokoi",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Sungai Mas",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Sungai Solok",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Sungai Upih",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Tanjung Sum",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Teluk",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Teluk Bakau",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405102007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Teluk Beringin",
+    "postal_code": "28385"
+  },
+  {
+    "id": 1405101001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140510,
+    "value": "Teluk Dalam",
+    "postal_code": "28385"
+  }
+]

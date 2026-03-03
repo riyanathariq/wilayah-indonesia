@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1605202009,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Air Beliti",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202011,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Bamasco (Bamasko)",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Banpres",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202004,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Dharma/Darma Sakti",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202005,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Jaya Bhakti (Jaya Bakti)",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Jaya Tunggal",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202010,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Leban Jaya (Lebanjaya)",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202008,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Lubuk Rumbai",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202007,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Petunang",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202006,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Remayu",
+    "postal_code": "31664"
+  },
+  {
+    "id": 1605202003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160520,
+    "value": "Sukamulya",
+    "postal_code": "31664"
+  }
+]

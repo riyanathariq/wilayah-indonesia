@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7209122005,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Kabalutan",
+    "postal_code": "94692"
+  },
+  {
+    "id": 7209122006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Kadoda",
+    "postal_code": "94692"
+  },
+  {
+    "id": 7209122001,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Kalia",
+    "postal_code": "94692"
+  },
+  {
+    "id": 7209122002,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Malenge",
+    "postal_code": "94692"
+  },
+  {
+    "id": 7209122003,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Pautu",
+    "postal_code": "94692"
+  },
+  {
+    "id": 7209122004,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720912,
+    "value": "Tumotok",
+    "postal_code": "94692"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3508202005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Alun Alun",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Jenggrong",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Meninjo",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Penawungan",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Ranubedali",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Ranuyoso",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Sumberpetung",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Tegalbangsri",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Wates Kulon",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Wates Wetan",
+    "postal_code": "67357"
+  },
+  {
+    "id": 3508202008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350820,
+    "value": "Wonoayu",
+    "postal_code": "67357"
+  }
+]

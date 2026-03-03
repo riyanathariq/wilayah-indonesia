@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1202022006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Enda Portibi",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Lobu Hole (Lobuhole)",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Lumban Siagian Jae",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Lumban Siagian Julu",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Pansur Napitu",
+    "postal_code": "22419"
+  },
+  {
+    "id": 1202022008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Sangkaran",
+    "postal_code": "22418"
+  },
+  {
+    "id": 1202022004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Sidagal",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Simanampang",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Simorangkir Habinsaran",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Simorangkir Julu",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Siraja Hutagalung (Si Raja Hutagalung)",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202022011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120202,
+    "value": "Sitompul",
+    "postal_code": "22418"
+  }
+]

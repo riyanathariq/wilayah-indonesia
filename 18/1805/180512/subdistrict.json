@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1805122009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Bumi Ratu",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Gedung Karya Jitu",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122013,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Hargo Mulyo",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Hargo Rejo",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122014,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Karya Cipta Abadi",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Karya Jitu Mukti",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122010,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Medasari (Meda Sari)",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Wono Agung",
+    "postal_code": "34591"
+  },
+  {
+    "id": 1805122003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180512,
+    "value": "Yudha Karya Jitu",
+    "postal_code": "34591"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 3173,
+    "province_id": 31,
+    "type": "Kota",
+    "value": "Kota Jakarta Barat"
+  },
+  {
+    "id": 3171,
+    "province_id": 31,
+    "type": "Kota",
+    "value": "Kota Jakarta Pusat"
+  },
+  {
+    "id": 3174,
+    "province_id": 31,
+    "type": "Kota",
+    "value": "Kota Jakarta Selatan"
+  },
+  {
+    "id": 3175,
+    "province_id": 31,
+    "type": "Kota",
+    "value": "Kota Jakarta Timur"
+  },
+  {
+    "id": 3172,
+    "province_id": 31,
+    "type": "Kota",
+    "value": "Kota Jakarta Utara"
+  },
+  {
+    "id": 3101,
+    "province_id": 31,
+    "type": "Kabupaten",
+    "value": "Kepulauan Seribu"
+  }
+]

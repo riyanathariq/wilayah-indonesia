@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3209092001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Karangwuni",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Kertawangun",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Panongan",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Panongan Lor",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Penambangan (Panambangan)",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Putat",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Sedong Kidul",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Sedong Lor",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Winduhaji",
+    "postal_code": "45189"
+  },
+  {
+    "id": 3209092004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320909,
+    "value": "Windujaya",
+    "postal_code": "45189"
+  }
+]

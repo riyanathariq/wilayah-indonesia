@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3215142010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Balonggandu",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Barugbug",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Cikalongsari",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Cirejag",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Jatibaru",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Jatiragas",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Jatisari",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Jatiwangi",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Kalijati",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Mekarsari",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Pacing",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Situdam",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142013,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Sukamekar",
+    "postal_code": "41375"
+  },
+  {
+    "id": 3215142014,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321514,
+    "value": "Telarsari",
+    "postal_code": "41375"
+  }
+]

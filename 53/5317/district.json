@@ -1,0 +1,38 @@
+[
+  {
+    "id": 531701,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Katiku Tana"
+  },
+  {
+    "id": 531705,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Katiku Tana Selatan (Katikutana Selatan)"
+  },
+  {
+    "id": 531703,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Mamboro"
+  },
+  {
+    "id": 531704,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Umbu Ratu Nggay"
+  },
+  {
+    "id": 531702,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Umbu Ratu Nggay Barat"
+  },
+  {
+    "id": 531706,
+    "province_id": 53,
+    "regency_id": 5317,
+    "value": "Umbu Ratu Nggay Tengah"
+  }
+]

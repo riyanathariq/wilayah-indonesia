@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5314072004,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Bo'a (Boa)",
+    "postal_code": "85982"
+  },
+  {
+    "id": 5314072007,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Mbueain",
+    "postal_code": "85981"
+  },
+  {
+    "id": 5314072002,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Nemberala",
+    "postal_code": "85982"
+  },
+  {
+    "id": 5314072006,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Oelolot",
+    "postal_code": "85981"
+  },
+  {
+    "id": 5314072003,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Oenggaut",
+    "postal_code": "85982"
+  },
+  {
+    "id": 5314072005,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Oenitas",
+    "postal_code": "85981"
+  },
+  {
+    "id": 5314072001,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531407,
+    "value": "Sedeoen",
+    "postal_code": "85982"
+  }
+]

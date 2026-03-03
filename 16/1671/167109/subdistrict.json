@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1671091001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "20 Ilir D II (20 Ilir II)",
+    "postal_code": "30127"
+  },
+  {
+    "id": 1671091002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "Ario Kemuning",
+    "postal_code": "30128"
+  },
+  {
+    "id": 1671091004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "Pahlawan",
+    "postal_code": "30128"
+  },
+  {
+    "id": 1671091005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "Pipa Reja",
+    "postal_code": "30128"
+  },
+  {
+    "id": 1671091003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "Sekip Jaya",
+    "postal_code": "30128"
+  },
+  {
+    "id": 1671091006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167109,
+    "value": "Talang Aman",
+    "postal_code": "30128"
+  }
+]

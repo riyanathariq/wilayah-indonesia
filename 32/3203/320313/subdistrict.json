@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203132005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Cibadak",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Cibanteng",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Cikancana",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Cikanyere",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Ciwalen",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Kawungluwuk",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Kubang",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Pakuon",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Rawabelut",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Sukamahi",
+    "postal_code": "43254"
+  },
+  {
+    "id": 3203132007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320313,
+    "value": "Sukaresmi",
+    "postal_code": "43254"
+  }
+]

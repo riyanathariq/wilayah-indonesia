@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504432009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Aliduda",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Andomak",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Bogonuk",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Ewan",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Laura",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Paba",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Talinamber",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Walelo",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Wisman",
+    "postal_code": "99042"
+  },
+  {
+    "id": 9504432005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950443,
+    "value": "Wumelak",
+    "postal_code": "99042"
+  }
+]

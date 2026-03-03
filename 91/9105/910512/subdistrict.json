@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9105122009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Aryobu",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Asai",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Kaonda",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Karawi",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Munggui",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Rosbori",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Saruman",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Waisani",
+    "postal_code": "98651"
+  },
+  {
+    "id": 9105122002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910512,
+    "value": "Windesi",
+    "postal_code": "98651"
+  }
+]

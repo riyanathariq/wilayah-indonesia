@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3214072005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Cijati",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Ciramahilir",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Citamiang",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Gunungkarung",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Pasirjambu",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Sinargalih",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Sukamukti",
+    "postal_code": "41166"
+  },
+  {
+    "id": 3214072004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321407,
+    "value": "Tegaldatar",
+    "postal_code": "41166"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1304092001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Batu Basa",
+    "postal_code": "27264"
+  },
+  {
+    "id": 1304092005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Pariangan",
+    "postal_code": "27264"
+  },
+  {
+    "id": 1304092003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Sawah Tangah",
+    "postal_code": "27264"
+  },
+  {
+    "id": 1304092004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Simabur",
+    "postal_code": "27264"
+  },
+  {
+    "id": 1304092006,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Sungai Jambu",
+    "postal_code": "27264"
+  },
+  {
+    "id": 1304092002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130409,
+    "value": "Tabek",
+    "postal_code": "27264"
+  }
+]

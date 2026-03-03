@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1601322001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Bunglai",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Kampai",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Kedaton",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Kedaton Timur",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322008,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Lubuk Kemiling",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Rantau Panjang",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Sinar Kedaton",
+    "postal_code": "32193"
+  },
+  {
+    "id": 1601322006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160132,
+    "value": "Suka Pindah",
+    "postal_code": "32193"
+  }
+]

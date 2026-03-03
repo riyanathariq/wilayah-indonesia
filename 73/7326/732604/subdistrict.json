@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7326042007,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Ampang Batu (Appang)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042009,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Buntu Batu",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042008,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Lempo Poton (Lempopoton)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Limbong Malting",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Lo'ko' Uru (Lo Ko Uru Tanete Batu)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Mai'ting (Maiting)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326041002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Pangala' (Pangala)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326041004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Pangala' Utara (Pangala Utara)",
+    "postal_code": "91849"
+  },
+  {
+    "id": 7326042003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732604,
+    "value": "Rindingallo",
+    "postal_code": "91849"
+  }
+]

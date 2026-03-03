@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7471051005,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Benu Benua",
+    "postal_code": "93123"
+  },
+  {
+    "id": 7471051008,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Dapu Dapura",
+    "postal_code": "93127"
+  },
+  {
+    "id": 7471051001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Kemaraya",
+    "postal_code": "93121"
+  },
+  {
+    "id": 7471051009,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Lahundape",
+    "postal_code": "93127"
+  },
+  {
+    "id": 7471051004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Punggaloba",
+    "postal_code": "93123"
+  },
+  {
+    "id": 7471051007,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Sanua",
+    "postal_code": "93127"
+  },
+  {
+    "id": 7471051006,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Sodohoa (Sodoha)",
+    "postal_code": "93124"
+  },
+  {
+    "id": 7471051003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Tipulu",
+    "postal_code": "93122"
+  },
+  {
+    "id": 7471051002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747105,
+    "value": "Watu-Watu",
+    "postal_code": "93121"
+  }
+]

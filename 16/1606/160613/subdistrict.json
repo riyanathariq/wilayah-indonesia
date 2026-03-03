@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1606132009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Bumi Ayu",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132011,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Karang Anyar",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Karang Ringin I",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Karang Ringin II",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Karang Waru",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Napal",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132015,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Pandan Dulang",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132005,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Rantau Kasih",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132012,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Rantau Panjang",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132013,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Simpang Sari",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Talang Piase",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Tanjung Durian",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132001,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Ulak Paceh",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Ulak Paceh Jaya",
+    "postal_code": "30753"
+  },
+  {
+    "id": 1606132008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160613,
+    "value": "Ulak Teberau",
+    "postal_code": "30753"
+  }
+]

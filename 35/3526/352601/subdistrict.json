@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3526011007,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Bancaran",
+    "postal_code": "69112"
+  },
+  {
+    "id": 3526011004,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Demangan",
+    "postal_code": "69115"
+  },
+  {
+    "id": 3526012013,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Gebang",
+    "postal_code": "69114"
+  },
+  {
+    "id": 3526011002,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Kemayoran",
+    "postal_code": "69116"
+  },
+  {
+    "id": 3526012010,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Kramat (Keramat)",
+    "postal_code": "69119"
+  },
+  {
+    "id": 3526011005,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Kraton (Keraton)",
+    "postal_code": "69119"
+  },
+  {
+    "id": 3526012011,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Mertajasah (Martajasah)",
+    "postal_code": "69119"
+  },
+  {
+    "id": 3526011001,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Mlajah",
+    "postal_code": "69116"
+  },
+  {
+    "id": 3526011003,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Pangeranan",
+    "postal_code": "69115"
+  },
+  {
+    "id": 3526011006,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Pejagan (Pajagan)",
+    "postal_code": "69112"
+  },
+  {
+    "id": 3526012012,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Sabiyan",
+    "postal_code": "69113"
+  },
+  {
+    "id": 3526012008,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Sembilangan",
+    "postal_code": "69118"
+  },
+  {
+    "id": 3526012009,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352601,
+    "value": "Ujung Piring",
+    "postal_code": "69118"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3517192003,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Alang Alang Caruban",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192010,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Janti",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192002,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Jarakkulon (Jarak Kulon)",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192001,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Jogoroto",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192006,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Mayangan",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192008,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Ngumpul",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192011,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Sambirejo",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192005,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Sawiji",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192004,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Sukosari",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192007,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Sumbermulyo (Sumber Mulyo)",
+    "postal_code": "61485"
+  },
+  {
+    "id": 3517192009,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351719,
+    "value": "Tambar",
+    "postal_code": "61485"
+  }
+]

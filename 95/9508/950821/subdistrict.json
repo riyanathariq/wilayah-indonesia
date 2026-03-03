@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9508212002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Baklema",
+    "postal_code": "99905"
+  },
+  {
+    "id": 9508212005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Embuklem",
+    "postal_code": "99905"
+  },
+  {
+    "id": 9508212001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Iniye",
+    "postal_code": "99905"
+  },
+  {
+    "id": 9508212003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Kibendumu",
+    "postal_code": "99905"
+  },
+  {
+    "id": 9508212006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Kosobak",
+    "postal_code": "99905"
+  },
+  {
+    "id": 9508212004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950821,
+    "value": "Simiye",
+    "postal_code": "99905"
+  }
+]

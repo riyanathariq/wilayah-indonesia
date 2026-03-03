@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3601182002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Batubantar",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Cimanuk",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Dalembalar",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182015,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Gunungcupu",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Gunungdatar",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Kadubungbang",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Kadudodol",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Kadumadang",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Kupahandap",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Rocek",
+    "postal_code": "42270"
+  },
+  {
+    "id": 3601182013,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360118,
+    "value": "Sekong",
+    "postal_code": "42270"
+  }
+]

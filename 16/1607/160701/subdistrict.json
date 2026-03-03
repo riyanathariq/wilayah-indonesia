@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1607012005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Cinta Manis Lama",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012028,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Duren Ijo",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607011016,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Mariana",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607011021,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Mariana Ilir",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Merah Mata",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012011,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Pematang Palas",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Perajen",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012008,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Perambahan",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012025,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Perambahan Baru",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012014,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Pulauborang (Pulau Borang)",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Sungaigerong (Sungai Gerong)",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Sungairebo (Sungai Rebo)",
+    "postal_code": "30963"
+  },
+  {
+    "id": 1607012012,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160701,
+    "value": "Tirto Sari",
+    "postal_code": "30963"
+  }
+]

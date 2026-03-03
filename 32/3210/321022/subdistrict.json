@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3210222005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Banjaran",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Cimeong",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Darmalarang",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Genteng",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Girimulya",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Hegarmanah",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Kagok",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Kareo",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Panyindangan",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Sangiang",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Sindangpala",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Sunia",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210222011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321022,
+    "value": "Sunia Baru (Suniabaru)",
+    "postal_code": "45468"
+  }
+]

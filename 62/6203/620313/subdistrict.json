@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6203132007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Bandar Mekar",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Bandaraya (Bandar Raya)",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Sidomulyo",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Sidorejo",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Tamban Baru Mekar",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Tamban Baru Tengah",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Tamban Baru Timur",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132010,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Tamban Jaya (Tambun Jaya)",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Tamban Makmur (Tambun Makmur)",
+    "postal_code": "73582"
+  },
+  {
+    "id": 6203132006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620313,
+    "value": "Warna Sari",
+    "postal_code": "73582"
+  }
+]

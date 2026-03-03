@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1701072011,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Air Sulau",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072002,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Betungan",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Karang Caya",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072008,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Limus",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072010,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Lubuk Ladung",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Nanjungan",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Padang Bindu",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072003,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Pagar Banyu",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072007,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Penindaian",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072012,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Suka Jaya",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Suka Rami (Sukarami I)",
+    "postal_code": "38554"
+  },
+  {
+    "id": 1701072009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170107,
+    "value": "Sukaraja (Suka Raja)",
+    "postal_code": "38554"
+  }
+]

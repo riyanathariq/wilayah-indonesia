@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9119012016,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Awaki",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012010,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Biniki",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012011,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Didiabolo",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012003,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Fanindi",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012019,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Maryaidori",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012004,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Odori",
+    "postal_code": "98572"
+  },
+  {
+    "id": 9119012015,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911901,
+    "value": "Warbefondi (Waberfondi / Warbepondi)",
+    "postal_code": "98572"
+  }
+]

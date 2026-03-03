@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7111062007,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Bakida",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062002,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Biniha",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062003,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Biniha Selatan",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062001,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Biniha Timur",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062004,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Duminanga",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062005,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Halabolu",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062011,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Motolohu",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062010,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Pangia",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062008,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Sinandaka",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062009,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Soputa",
+    "postal_code": "95779"
+  },
+  {
+    "id": 7111062006,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711106,
+    "value": "Trans Patoa",
+    "postal_code": "95779"
+  }
+]

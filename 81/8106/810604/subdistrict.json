@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106042002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Allang Asaude",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042007,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Buano Selatan (Boano Selatan)",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042006,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Buano Utara (Boano Utara)",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Sole",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Tahalupu",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Tonu Jaya",
+    "postal_code": "97567"
+  },
+  {
+    "id": 8106042001,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810604,
+    "value": "Waesala",
+    "postal_code": "97567"
+  }
+]

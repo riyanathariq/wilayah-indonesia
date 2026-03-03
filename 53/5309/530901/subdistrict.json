@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5309011002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Aimere",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012014,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Aimere Timur",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012021,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Binawali",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309011003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Foa",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012018,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Heawea",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Keligejo",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012022,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Kila",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012019,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Legelapu",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012020,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Lekogoko (Lekogoku)",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012024,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Mawwo Kisa",
+    "postal_code": "86452"
+  },
+  {
+    "id": 5309012023,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530901,
+    "value": "Waesae",
+    "postal_code": "86452"
+  }
+]

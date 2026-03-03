@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503252004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Honggolek (Honggoluk)",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Hontulun",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Solinggul (Solingul)",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Walma",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Werene",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Weri",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Wewasi",
+    "postal_code": "99765"
+  },
+  {
+    "id": 9503252008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950325,
+    "value": "Yetehup",
+    "postal_code": "99765"
+  }
+]

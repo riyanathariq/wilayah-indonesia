@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7602122003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Botteng",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602122007,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Botteng Utara",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602122009,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Pati'di",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602121002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Rangas",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602122004,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Saletto (Salletto)",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602121001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Simboro",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602122005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Sumare",
+    "postal_code": "91513"
+  },
+  {
+    "id": 7602122008,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760212,
+    "value": "Tapandullu",
+    "postal_code": "91512"
+  }
+]

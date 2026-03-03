@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3216172006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Jayasakti",
+    "postal_code": "17730"
+  },
+  {
+    "id": 3216172002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Pantai Bahagia",
+    "postal_code": "17730"
+  },
+  {
+    "id": 3216172003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Pantai Bakti",
+    "postal_code": "17730"
+  },
+  {
+    "id": 3216172004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Pantai Harapanjaya (Pantai Harapan Jaya)",
+    "postal_code": "17730"
+  },
+  {
+    "id": 3216172001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Pantai Mekar",
+    "postal_code": "17730"
+  },
+  {
+    "id": 3216172005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321617,
+    "value": "Pantai Sederhana",
+    "postal_code": "17730"
+  }
+]

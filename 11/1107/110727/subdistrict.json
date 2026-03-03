@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1107272002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110727,
+    "value": "Blang Dalam",
+    "postal_code": "24189"
+  },
+  {
+    "id": 1107272001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110727,
+    "value": "Lutueng (Leuteung)",
+    "postal_code": "24189"
+  },
+  {
+    "id": 1107272003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110727,
+    "value": "Mane",
+    "postal_code": "24189"
+  },
+  {
+    "id": 1107272004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110727,
+    "value": "Turue Cut",
+    "postal_code": "24189"
+  }
+]

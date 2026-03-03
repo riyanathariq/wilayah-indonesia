@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9508072006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Arugia",
+    "postal_code": "99910"
+  },
+  {
+    "id": 9508072008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Digilimu",
+    "postal_code": "99910"
+  },
+  {
+    "id": 9508072017,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Kogomaru",
+    "postal_code": "99910"
+  },
+  {
+    "id": 9508072001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Mbua (Mbuwa)",
+    "postal_code": "99910"
+  },
+  {
+    "id": 9508072007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Opmu",
+    "postal_code": "99910"
+  },
+  {
+    "id": 9508072005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950807,
+    "value": "Otalama",
+    "postal_code": "99910"
+  }
+]

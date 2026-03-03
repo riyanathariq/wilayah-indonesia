@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1113062012,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Akang Siwah",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062010,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Anak Reje",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Bener Baru",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Blang Bengkik (Blangbengkik)",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Cinta Maju",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Gantung Geluni",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Kong",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Kutebukit (Kute / Kuta Bukit)",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Porang Ayu",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062011,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Rak Lintang",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062009,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Tetingi",
+    "postal_code": "24653"
+  },
+  {
+    "id": 1113062006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111306,
+    "value": "Ume Lah",
+    "postal_code": "24653"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9212062002,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Ansum",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062009,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Awigau",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062003,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Deurohu",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062008,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Disura",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062001,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Genyu",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062004,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Horeta",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062011,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Irbos",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062010,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Siskedowo",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062006,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Taige",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062007,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Tridaga",
+    "postal_code": "98357"
+  },
+  {
+    "id": 9212062005,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921206,
+    "value": "Ubeisa",
+    "postal_code": "98357"
+  }
+]

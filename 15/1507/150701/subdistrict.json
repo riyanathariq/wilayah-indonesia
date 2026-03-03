@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1507012001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Alang-Alang",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012017,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Kota Harapan",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012014,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Kota Raja",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012018,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Kuala Simbur",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Lambur",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012011,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Lambur I",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012012,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Lambur II",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507011010,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Muara Sabak Ilir",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507011013,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Muara Sabak Ulu",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012015,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Siau Dalam",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Simbur Naik",
+    "postal_code": "36762"
+  },
+  {
+    "id": 1507012016,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150701,
+    "value": "Sungai Ular",
+    "postal_code": "36762"
+  }
+]

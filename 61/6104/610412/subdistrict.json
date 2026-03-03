@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6104122018,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Harapan Baru",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122017,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Kemuning Biutak",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122019,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Pagar Mentimun",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122013,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Pematang Gadung",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122014,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Pesaguan Kanan",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Pesaguan Kiri",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122012,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Sei/Sungai Bakau",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122015,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Sei/Sungai Besar",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Sei/Sungai Jawi",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122016,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Sei/Sungai Nanjung",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104122008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610412,
+    "value": "Sei/Sungai Pelang",
+    "postal_code": "78822"
+  }
+]

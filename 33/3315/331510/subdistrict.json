@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3315102004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Dapurno",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102013,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Dokoro",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102010,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Gedangan",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Kalirejo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102012,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Karangasem",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Kropak",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315101007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Kunden",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Mojorebo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Sambirejo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Tambahrejo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102011,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Tambakselo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Tanjungrejo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315102014,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Tegalrejo",
+    "postal_code": "58192"
+  },
+  {
+    "id": 3315101006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331510,
+    "value": "Wirosari",
+    "postal_code": "58192"
+  }
+]

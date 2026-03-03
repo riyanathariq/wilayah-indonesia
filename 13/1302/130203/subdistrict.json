@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1302032001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130203,
+    "value": "Lolo",
+    "postal_code": "27373"
+  },
+  {
+    "id": 1302032002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130203,
+    "value": "Surian",
+    "postal_code": "27373"
+  }
+]

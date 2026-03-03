@@ -1,0 +1,44 @@
+[
+  {
+    "id": 741201,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Barat"
+  },
+  {
+    "id": 741206,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Selatan"
+  },
+  {
+    "id": 741207,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Tengah"
+  },
+  {
+    "id": 741205,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Tenggara"
+  },
+  {
+    "id": 741204,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Timur"
+  },
+  {
+    "id": 741203,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Timur Laut"
+  },
+  {
+    "id": 741202,
+    "province_id": 74,
+    "regency_id": 7412,
+    "value": "Wawonii Utara"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3204312002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Cibeureum",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Cihawuk",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Cikembang",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Neglawangi",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Resmi Tingal",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Santosa",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Sukapura",
+    "postal_code": "40386"
+  },
+  {
+    "id": 3204312004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320431,
+    "value": "Tarumajaya",
+    "postal_code": "40386"
+  }
+]

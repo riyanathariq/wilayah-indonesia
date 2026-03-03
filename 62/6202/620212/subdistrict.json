@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6202122003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Batuah",
+    "postal_code": "74315"
+  },
+  {
+    "id": 6202122005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Ganepo",
+    "postal_code": "74314"
+  },
+  {
+    "id": 6202121001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Mentaya Seberang",
+    "postal_code": "74324"
+  },
+  {
+    "id": 6202122006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Seragam Jaya",
+    "postal_code": "74315"
+  },
+  {
+    "id": 6202122002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Terantang",
+    "postal_code": "74314"
+  },
+  {
+    "id": 6202122004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620212,
+    "value": "Terantang Hilir",
+    "postal_code": "74315"
+  }
+]

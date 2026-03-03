@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9208072005,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Hairapara",
+    "postal_code": "98122"
+  },
+  {
+    "id": 9208072006,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Omba Pamuku",
+    "postal_code": "98122"
+  },
+  {
+    "id": 9208072001,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Ure (Mury/Uray)",
+    "postal_code": "98122"
+  },
+  {
+    "id": 9208072003,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Urubika",
+    "postal_code": "98122"
+  },
+  {
+    "id": 9208072004,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Wagoha (Wagioha)",
+    "postal_code": "98122"
+  },
+  {
+    "id": 9208072002,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920807,
+    "value": "Wosokuno",
+    "postal_code": "98122"
+  }
+]

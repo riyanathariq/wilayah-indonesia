@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219052017,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Benteng",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052015,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Dahari Indah",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052004,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Dahari Silebar (Dahari Selebar)",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052014,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Gunungrante (Gunung Rante)",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052016,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Indra Yaman",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219051001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Labuhan Ruku",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052006,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Mesjid Lama",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052007,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Padang Genting",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052008,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Pahang",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219052009,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121905,
+    "value": "Panjang",
+    "postal_code": "21254"
+  }
+]

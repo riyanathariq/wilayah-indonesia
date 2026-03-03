@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3523012006,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Bendonglateng",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012003,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Jamprong",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012001,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Jlodro",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012007,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Sidohasri",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012005,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Sidomukti",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012008,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Sidorejo",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012009,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Sokogrenjeng",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012002,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Sokogunung",
+    "postal_code": "62363"
+  },
+  {
+    "id": 3523012004,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352301,
+    "value": "Tawaran",
+    "postal_code": "62363"
+  }
+]

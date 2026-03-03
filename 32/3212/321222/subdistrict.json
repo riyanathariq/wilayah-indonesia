@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3212222005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Bongas",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Cipaat",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Cipedang",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Kertajaya",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Kertamulya",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Margamulya",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Plawangan",
+    "postal_code": "45255"
+  },
+  {
+    "id": 3212222002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321222,
+    "value": "Sidamulya",
+    "postal_code": "45255"
+  }
+]

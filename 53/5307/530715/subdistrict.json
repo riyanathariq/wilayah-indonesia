@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5307151001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Beru",
+    "postal_code": "86111"
+  },
+  {
+    "id": 5307152011,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Gong Bekor",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307152006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Koja Doi (Kojadoi)",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307152007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Kojagete",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307151002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Kota Baru",
+    "postal_code": "86215"
+  },
+  {
+    "id": 5307152008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Lepo Lima (Lepolima)",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307151003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Nangameting",
+    "postal_code": "86118"
+  },
+  {
+    "id": 5307152009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Perumaan (Parumaan)",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307151004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Waioti",
+    "postal_code": "86118"
+  },
+  {
+    "id": 5307151005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Wairotang",
+    "postal_code": "86111"
+  },
+  {
+    "id": 5307152010,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530715,
+    "value": "Watugong",
+    "postal_code": "86116"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1305012004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Aie Tajun Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012009,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Nagari Balah Hilia Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Pasie Laweh Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Pungguang Kasiak Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012008,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Salibutan Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Sikabu Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012007,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Singguliang Lubuk Alung",
+    "postal_code": "25581"
+  },
+  {
+    "id": 1305012006,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130501,
+    "value": "Sungai Abang Lubuk Alung",
+    "postal_code": "25581"
+  }
+]

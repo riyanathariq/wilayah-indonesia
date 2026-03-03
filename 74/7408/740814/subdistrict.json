@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7408142006,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Lapolu",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142002,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Lawadia",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142001,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Mattiro Bulu",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142005,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Tahibua",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142007,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Tanggeawo (Tanggeau)",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142004,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Tiwu",
+    "postal_code": "93963"
+  },
+  {
+    "id": 7408142003,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740814,
+    "value": "Watumea",
+    "postal_code": "93963"
+  }
+]

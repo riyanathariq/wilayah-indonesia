@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1271201003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Durian",
+    "postal_code": "20235"
+  },
+  {
+    "id": 1271201011,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Gaharu",
+    "postal_code": "20235"
+  },
+  {
+    "id": 1271201001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Gang Buntu",
+    "postal_code": "20231"
+  },
+  {
+    "id": 1271201004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Glugur Darat I",
+    "postal_code": "20238"
+  },
+  {
+    "id": 1271201005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Glugur Darat II",
+    "postal_code": "20238"
+  },
+  {
+    "id": 1271201008,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "P Berayan Bengkel (Pulo Brayan Bengkel)",
+    "postal_code": "20239"
+  },
+  {
+    "id": 1271201006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "P Berayan Darat I (Pulo Brayan Darat I)",
+    "postal_code": "20239"
+  },
+  {
+    "id": 1271201007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "P Berayan Darat II",
+    "postal_code": "20239"
+  },
+  {
+    "id": 1271201009,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "PB Bengkel Baru (Pulo Brayan Bengkel Baru)",
+    "postal_code": "20239"
+  },
+  {
+    "id": 1271201010,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Perintis",
+    "postal_code": "20231"
+  },
+  {
+    "id": 1271201002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127120,
+    "value": "Sidodadi",
+    "postal_code": "20234"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1112022001,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Adan",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022014,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Bineh Krueng",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022006,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Blang Padang",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022016,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Drien Jalo",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022015,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Drien Kipah",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022004,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Gunong Cut (Gunung Cut)",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022020,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Ie Lhob",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022019,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Kuta Bak Drien",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022003,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Mesjid",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022007,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Padang Bak Jeumpa",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022017,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Padang Bak Jok",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022005,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Padang Kawa",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022002,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Pante Geulumpang",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022008,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Suak Labu",
+    "postal_code": "23768"
+  },
+  {
+    "id": 1112022018,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111202,
+    "value": "Suak Nibong",
+    "postal_code": "23768"
+  }
+]

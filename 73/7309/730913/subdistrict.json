@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7309132004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730913,
+    "value": "Bonto Bunga",
+    "postal_code": "90564"
+  },
+  {
+    "id": 7309132005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730913,
+    "value": "Bonto Marannu",
+    "postal_code": "90564"
+  },
+  {
+    "id": 7309132001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730913,
+    "value": "Moncong Loe (Moncongloe)",
+    "postal_code": "90564"
+  },
+  {
+    "id": 7309132002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730913,
+    "value": "Moncong Loe Bulu (Moncongloe Bulu)",
+    "postal_code": "90564"
+  },
+  {
+    "id": 7309132003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730913,
+    "value": "Moncong Loe Lappara (Moncongloe Lappara)",
+    "postal_code": "90564"
+  }
+]

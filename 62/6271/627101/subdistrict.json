@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6271011003,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Langkai",
+    "postal_code": "73111"
+  },
+  {
+    "id": 6271011001,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Pahandut",
+    "postal_code": "73111"
+  },
+  {
+    "id": 6271011005,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Pahandut Seberang",
+    "postal_code": "73111"
+  },
+  {
+    "id": 6271011002,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Panarung",
+    "postal_code": "73111"
+  },
+  {
+    "id": 6271011006,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Tanjung Pinang",
+    "postal_code": "73111"
+  },
+  {
+    "id": 6271011004,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627101,
+    "value": "Tumbang Rungan",
+    "postal_code": "73111"
+  }
+]

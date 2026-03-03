@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1905052007,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Air Lintang",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052006,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Benteng Kota",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052004,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Buyan Kelumbi",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052005,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Penyampak",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052003,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Sangku",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052009,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Simpang Yul",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052008,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Sinar Surya",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052002,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Tanjung Niur (Tanjungniur)",
+    "postal_code": "33365"
+  },
+  {
+    "id": 1905052001,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190505,
+    "value": "Tempilang",
+    "postal_code": "33365"
+  }
+]

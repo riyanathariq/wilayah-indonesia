@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6171011006,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617101,
+    "value": "Akcaya",
+    "postal_code": "78121"
+  },
+  {
+    "id": 6171011003,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617101,
+    "value": "Benuamelayu Darat (Benua Melayu Darat)",
+    "postal_code": "78122"
+  },
+  {
+    "id": 6171011002,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617101,
+    "value": "Benuamelayu Laut (Benua Melayu Laut)",
+    "postal_code": "78123"
+  },
+  {
+    "id": 6171011005,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617101,
+    "value": "Kotabaru (Kota Baru)",
+    "postal_code": "78121"
+  },
+  {
+    "id": 6171011004,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617101,
+    "value": "Parittokaya (Parit Tokaya)",
+    "postal_code": "78121"
+  }
+]

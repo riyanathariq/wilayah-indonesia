@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3202102003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Bojong",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Bojongkembar",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Bojongraharja",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Cibatu",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Cikembar",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Cimanggu",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Kertaraharja",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Parakanlima",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Sukamaju",
+    "postal_code": "43157"
+  },
+  {
+    "id": 3202102009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320210,
+    "value": "Sukamulya",
+    "postal_code": "43157"
+  }
+]

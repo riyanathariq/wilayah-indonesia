@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8205092002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820509,
+    "value": "Fuata",
+    "postal_code": "97798"
+  },
+  {
+    "id": 8205092004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820509,
+    "value": "Skom",
+    "postal_code": "97798"
+  },
+  {
+    "id": 8205092005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820509,
+    "value": "Wai Tamua",
+    "postal_code": "97798"
+  },
+  {
+    "id": 8205092001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820509,
+    "value": "Waigai",
+    "postal_code": "97798"
+  },
+  {
+    "id": 8205092003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820509,
+    "value": "Wainib",
+    "postal_code": "97798"
+  }
+]

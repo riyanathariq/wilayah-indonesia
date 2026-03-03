@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1673061004,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Bandung Kanan",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061005,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Keputraan",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061006,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Lubuklinggau Ilir (Lubuk Linggau Ilir)",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061007,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Lubuklinggau Ulu (Lubuk Linggau Ulu)",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061008,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Pasar Permiri",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061001,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Sidorejo",
+    "postal_code": "31616"
+  },
+  {
+    "id": 1673061003,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Tapak Lebar",
+    "postal_code": "31611"
+  },
+  {
+    "id": 1673061002,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167306,
+    "value": "Ulak Lebar",
+    "postal_code": "31611"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1372021005,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Kampung Jawa",
+    "postal_code": "27321"
+  },
+  {
+    "id": 1372021001,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Koto Panjang",
+    "postal_code": "27323"
+  },
+  {
+    "id": 1372021006,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Laing",
+    "postal_code": "27325"
+  },
+  {
+    "id": 1372021004,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Nan Balimo",
+    "postal_code": "27326"
+  },
+  {
+    "id": 1372021002,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Pasar Pandan Air Mati",
+    "postal_code": "27322"
+  },
+  {
+    "id": 1372021003,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137202,
+    "value": "Tanjung Paku",
+    "postal_code": "27324"
+  }
+]

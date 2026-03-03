@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213062005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Belendung (Blendung)",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Koranji",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Pagon",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Panyingkiran",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Pasirbungur",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Prapatan (Parapatan)",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Purwadadi (Purwadadi Timur)",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Purwadadi Barat",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Rancamahi",
+    "postal_code": "41261"
+  },
+  {
+    "id": 3213062001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321306,
+    "value": "Wanakerta",
+    "postal_code": "41261"
+  }
+]

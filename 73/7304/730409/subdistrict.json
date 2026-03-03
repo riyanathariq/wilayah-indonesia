@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7304092002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Arungkeke",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Arungkeke Pallantikang",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Boronglamu (Borong Lamu)",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Bulo-Bulo",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Kalumpangloe (Kalumpang Loe)",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Kampala",
+    "postal_code": "92361"
+  },
+  {
+    "id": 7304092003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730409,
+    "value": "Palajau",
+    "postal_code": "92361"
+  }
+]

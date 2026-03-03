@@ -1,0 +1,114 @@
+[
+  {
+    "id": 6303032009,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Banyu Hirang",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303031001,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Gambut",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303031014,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Gambut Barat",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032003,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Guntung Papuyu",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032010,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Guntung Ujung",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032008,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Kayu Bawang",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032013,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Keladan Baru",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032004,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Makmur",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032007,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Malintang",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032012,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Malintang Baru",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032002,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Sei/Sungai Kupang",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032011,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Tambak Sirang Baru",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032005,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Tambak Sirang Darat",
+    "postal_code": "70652"
+  },
+  {
+    "id": 6303032006,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630303,
+    "value": "Tambak Sirang Laut",
+    "postal_code": "70652"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9301182005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Iromoro",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Konjombando",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Suam",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Tabonji",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Wanggambi",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Yamuka",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301182007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930118,
+    "value": "Yeraha",
+    "postal_code": "99642"
+  }
+]

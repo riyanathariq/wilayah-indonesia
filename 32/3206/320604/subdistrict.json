@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3206042004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Cibongas",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Cibuniasih",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Cikawung",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Jayamukti",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Margaluyu",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Mekarsari",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Neglasari",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042011,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Pancawangi",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Pangliaran",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Tawang",
+    "postal_code": "46194"
+  },
+  {
+    "id": 3206042003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320604,
+    "value": "Tonjong",
+    "postal_code": "46194"
+  }
+]

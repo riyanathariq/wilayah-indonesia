@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3208282003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Cibeureum",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Cimara",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Kawungsari",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Randusari",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Sukadana",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Sukarapih",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Sumurwiru",
+    "postal_code": "45588"
+  },
+  {
+    "id": 3208282004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320828,
+    "value": "Tarikolot",
+    "postal_code": "45588"
+  }
+]

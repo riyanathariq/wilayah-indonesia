@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1206142003,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Bukit",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Dolat Rayat",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142001,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Kubu Colia (Kubucolia)",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Melas",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142005,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Sampun",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142006,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Sugihen",
+    "postal_code": "22171"
+  },
+  {
+    "id": 1206142002,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120614,
+    "value": "Ujung Sampun",
+    "postal_code": "22171"
+  }
+]

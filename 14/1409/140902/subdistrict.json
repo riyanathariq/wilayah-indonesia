@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1409022001,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Bandar Alai",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022023,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Beringin Taluk",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022020,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Jake",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022022,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Jaya",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022007,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Kopah",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022017,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Koto Kari",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022015,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Koto Taluk",
+    "postal_code": "29515"
+  },
+  {
+    "id": 1409022006,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Koto Tuo",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022008,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Munsalo",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409021016,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pasar Teluk",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022019,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pintu Gobang",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022005,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pulau Baru (Pulaubaru)",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022021,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pulau Godang Kari (Pulaugodang Kari)",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022003,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pulauaro",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022028,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pulaubanjar Kari",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022002,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Pulaukedundung",
+    "postal_code": "29514"
+  },
+  {
+    "id": 1409022014,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Sawah",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022004,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Seberang Taluk",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022026,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Seberang Taluk Hilir",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409021018,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Simpang Tiga",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409022024,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Sitorajo",
+    "postal_code": "29511"
+  },
+  {
+    "id": 1409021025,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Sungaijering",
+    "postal_code": "29513"
+  },
+  {
+    "id": 1409022027,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140902,
+    "value": "Titian Modang Kopah",
+    "postal_code": "29512"
+  }
+]

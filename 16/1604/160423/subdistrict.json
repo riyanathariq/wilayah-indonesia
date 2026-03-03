@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1604232005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Arahan",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Banjar Sari",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232012,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Cempaka Wangi",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Gedung Agung",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Gunung Kembang",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604231014,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Lebuay Bandung",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232013,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Lematang Jaya",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Muara Lawai",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Nanjungan",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Prabu Menang",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Sengkuang",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Sirah Pulau",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232011,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Tanjung Jambu",
+    "postal_code": "31473"
+  },
+  {
+    "id": 1604232008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160423,
+    "value": "Tanjung Lontar",
+    "postal_code": "31473"
+  }
+]

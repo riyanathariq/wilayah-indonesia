@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3204282004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Bojongloa",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Bojongsalam",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Cangkuang",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Haurpugur",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Jelegong",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Linggar",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282013,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Nanjung Mekar (Nanjungmekar)",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204281014,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Rancaekek Kencana",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Rancaekek Kulon",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Rancaekek Wetan",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282012,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Sangiang",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Sukamanah",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Sukamulya",
+    "postal_code": "40394"
+  },
+  {
+    "id": 3204282011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320428,
+    "value": "Tegal Sumedang",
+    "postal_code": "40394"
+  }
+]

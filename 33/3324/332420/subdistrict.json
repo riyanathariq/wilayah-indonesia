@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3324202003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Darupono (Derupono)",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202001,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Jeruk Giling (Jerukgiling)",
+    "postal_code": "51382"
+  },
+  {
+    "id": 3324202002,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Kedungsuren",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202005,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Magelung",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202006,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Plantaran",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Protomulyo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202008,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Sidomakmur",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324202007,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332420,
+    "value": "Sukomulyo",
+    "postal_code": "51372"
+  }
+]

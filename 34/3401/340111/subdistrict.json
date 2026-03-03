@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3401112002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Banjarsari",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Gerbosari",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Kebonharjo (Kebon Harjo)",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Ngargosari",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112007,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Pagerharjo",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Purwoharjo",
+    "postal_code": "55673"
+  },
+  {
+    "id": 3401112004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340111,
+    "value": "Sidoharjo",
+    "postal_code": "55673"
+  }
+]

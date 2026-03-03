@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8202082001,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820208,
+    "value": "Banemo",
+    "postal_code": "97856"
+  },
+  {
+    "id": 8202082003,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820208,
+    "value": "Bobane Indah",
+    "postal_code": "97856"
+  },
+  {
+    "id": 8202082002,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820208,
+    "value": "Bobane Jaya",
+    "postal_code": "97856"
+  },
+  {
+    "id": 8202082004,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820208,
+    "value": "Mareala (Moreala)",
+    "postal_code": "97856"
+  },
+  {
+    "id": 8202082005,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820208,
+    "value": "Sibenpope (Sibenpopo)",
+    "postal_code": "97856"
+  }
+]

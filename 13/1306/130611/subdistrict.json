@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1306112004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Ampek Koto (Ampek Koto Palembayan)",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Baringin",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112006,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Salareh Aia",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112009,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Salareh Aia Barat",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112007,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Salareh Aia Timur",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112008,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Salareh Aia Utara",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Sipinang",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Sungai Puar",
+    "postal_code": "26164"
+  },
+  {
+    "id": 1306112005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130611,
+    "value": "Tigo Koto Silungkang",
+    "postal_code": "26164"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9408052004,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940805,
+    "value": "Idego",
+    "postal_code": "98752"
+  },
+  {
+    "id": 9408052001,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940805,
+    "value": "Kapiraya (Komauto)",
+    "postal_code": "98752"
+  },
+  {
+    "id": 9408052002,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940805,
+    "value": "Mogodagi",
+    "postal_code": "98752"
+  },
+  {
+    "id": 9408052005,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940805,
+    "value": "Uwe Onagei",
+    "postal_code": "98752"
+  },
+  {
+    "id": 9408052003,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940805,
+    "value": "Yamouwitina",
+    "postal_code": "98752"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 127503,
+    "province_id": 12,
+    "regency_id": 1275,
+    "value": "Binjai Barat"
+  },
+  {
+    "id": 127502,
+    "province_id": 12,
+    "regency_id": 1275,
+    "value": "Binjai Kota"
+  },
+  {
+    "id": 127505,
+    "province_id": 12,
+    "regency_id": 1275,
+    "value": "Binjai Selatan"
+  },
+  {
+    "id": 127504,
+    "province_id": 12,
+    "regency_id": 1275,
+    "value": "Binjai Timur"
+  },
+  {
+    "id": 127501,
+    "province_id": 12,
+    "regency_id": 1275,
+    "value": "Binjai Utara"
+  }
+]

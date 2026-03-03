@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1807042012,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Adijaya",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Adirejo",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Ganti Warno",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042011,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Gantimulyo",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Gondangrejo (Gondang Rejo)",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Jojog",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042009,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Kalibening (Kali Bening)",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Pekalongan",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Sidodadi",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Siraman",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Tulusrejo (Tulus Rejo)",
+    "postal_code": "34391"
+  },
+  {
+    "id": 1807042010,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180704,
+    "value": "Wonosari (Wono Sari)",
+    "postal_code": "34391"
+  }
+]

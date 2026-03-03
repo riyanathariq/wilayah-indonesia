@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6107072007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Gersik",
+    "postal_code": "79286"
+  },
+  {
+    "id": 6107072001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Jagoi",
+    "postal_code": "79286"
+  },
+  {
+    "id": 6107072002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Kumba",
+    "postal_code": "79286"
+  },
+  {
+    "id": 6107072006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Sekida (Jagoi Sekida)",
+    "postal_code": "79286"
+  },
+  {
+    "id": 6107072008,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Semunying Jaya (Semunyin Jaya)",
+    "postal_code": "79286"
+  },
+  {
+    "id": 6107072009,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610707,
+    "value": "Sinar Baru",
+    "postal_code": "79286"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1210192007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Baru",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210191001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Berombang",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192003,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Lumut",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Penggantungan",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192006,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Sakat",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192005,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Sanggul",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192004,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Sei Tawar",
+    "postal_code": "21473"
+  },
+  {
+    "id": 1210192008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121019,
+    "value": "Wonosari",
+    "postal_code": "21473"
+  }
+]

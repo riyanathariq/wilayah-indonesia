@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1305062001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Campago",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Campago Barat",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Campago Selatan",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Sikucua",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062008,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Sikucua Barat",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062007,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Sikucua Tengah",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062006,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Sikucua Timur",
+    "postal_code": "25552"
+  },
+  {
+    "id": 1305062005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130506,
+    "value": "Sikucua Utara",
+    "postal_code": "25552"
+  }
+]

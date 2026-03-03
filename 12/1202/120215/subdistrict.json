@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1202152015,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Aritonang",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Batubinumbun (Batu Binumbun)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Dolok Matumbur (Dolok Martumbur)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Hutaginjang (Huta Ginjang)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Hutalontung (Huta Lontung)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Hutanagodang (Huta Nagodang)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Mariba Ni Aek (Bariba Niaek)",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152014,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Papande",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Sampuran",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Sibandang",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Silali Toruan",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Silando",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Simatupang",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152013,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Sitanggor",
+    "postal_code": "22476"
+  },
+  {
+    "id": 1202152002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120215,
+    "value": "Unte Mungkur",
+    "postal_code": "22476"
+  }
+]

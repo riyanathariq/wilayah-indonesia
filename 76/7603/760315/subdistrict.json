@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7603152005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Bambang Buda",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Buangin",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Kirak",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Leko",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Salumokanan",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Salumokanan Barat",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Salumokanan Utara",
+    "postal_code": "91376"
+  },
+  {
+    "id": 7603152009,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760315,
+    "value": "Sampale",
+    "postal_code": "91376"
+  }
+]

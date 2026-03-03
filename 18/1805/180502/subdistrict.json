@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1805022007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Astra Ksetra (Astra Kesetra)",
+    "postal_code": "34613"
+  },
+  {
+    "id": 1805022001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Bujung Tenuk",
+    "postal_code": "34613"
+  },
+  {
+    "id": 1805022013,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Kagungan Rahayu",
+    "postal_code": "34613"
+  },
+  {
+    "id": 1805021011,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Menggala Kota",
+    "postal_code": "34611"
+  },
+  {
+    "id": 1805021008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Menggala Selatan",
+    "postal_code": "34611"
+  },
+  {
+    "id": 1805021010,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Menggala Tengah",
+    "postal_code": "34611"
+  },
+  {
+    "id": 1805022014,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Tiuh Tohou (Tiuh Toho)",
+    "postal_code": "34611"
+  },
+  {
+    "id": 1805021009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Ujung Gunung Ilir",
+    "postal_code": "34611"
+  },
+  {
+    "id": 1805022002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180502,
+    "value": "Ujung Gunung Ilir",
+    "postal_code": "34614"
+  }
+]

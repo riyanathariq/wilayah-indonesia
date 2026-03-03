@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8101132001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Aboru",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Haruku",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132011,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Hulaliu",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Kabauw (Kabau)",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Kailolo",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Kariu (Kariuw)",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Oma",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Pelauw",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Rohomoni",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Sameth",
+    "postal_code": "97583"
+  },
+  {
+    "id": 8101132002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810113,
+    "value": "Wassu",
+    "postal_code": "97583"
+  }
+]

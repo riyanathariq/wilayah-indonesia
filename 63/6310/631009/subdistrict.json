@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6310092005,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Angsana",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092006,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Banjar Sari",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092007,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Bayan Sari",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Bunati",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092004,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Karang Indah",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092008,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Makmur",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092009,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Mekar Jaya",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092002,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Purwodadi",
+    "postal_code": "72275"
+  },
+  {
+    "id": 6310092003,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631009,
+    "value": "Sumber Baru",
+    "postal_code": "72275"
+  }
+]

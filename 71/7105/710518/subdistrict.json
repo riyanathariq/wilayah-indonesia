@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7105182005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Kota Menara",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Lopana",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Lopana Satu",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Malenos Baru",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Maliku",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Maliku Satu",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Pinaling",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105181002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Pondang",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105181003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Ranomea",
+    "postal_code": "95954"
+  },
+  {
+    "id": 7105182007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710518,
+    "value": "Ritey",
+    "postal_code": "95954"
+  }
+]

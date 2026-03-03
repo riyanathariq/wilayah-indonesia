@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3601202005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Bandung",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Banjar",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202012,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Cibeureum",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Cibodas",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Citalahab",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Gunungputri",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202011,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Kadubale",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Kadulimus",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202013,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Kadumaneuh",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Mogana",
+    "postal_code": "42252"
+  },
+  {
+    "id": 3601202014,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360120,
+    "value": "Pasirawi",
+    "postal_code": "42252"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1810032001,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Ambarawa",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032002,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Ambarawa Barat",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032008,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Ambarawa Timur",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032006,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Jati Agung",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032003,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Kresno Mulyo (Kresnomulyo)",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032007,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Margodadi",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032004,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Sumber Agung",
+    "postal_code": "35376"
+  },
+  {
+    "id": 1810032005,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181003,
+    "value": "Tanjung Anom",
+    "postal_code": "35376"
+  }
+]

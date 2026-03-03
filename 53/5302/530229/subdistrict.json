@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5302292002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Besnam",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Ello",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Fatukopa",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Kiki",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Nifulinah",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Nunfutu",
+    "postal_code": "85581"
+  },
+  {
+    "id": 5302292003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530229,
+    "value": "Taebone",
+    "postal_code": "85581"
+  }
+]

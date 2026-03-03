@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1803152002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Bandar Agung",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Banjar Negeri",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Banjar Ratu",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Karang Mulyo",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Karang Rejo II",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Karang Sakti",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Karang Sari",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Negeri Ratu",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Negeri Ujung Karang",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Pakuon Agung (Pakuan Agung)",
+    "postal_code": "34559"
+  },
+  {
+    "id": 1803152011,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180315,
+    "value": "Sumber Agung",
+    "postal_code": "34559"
+  }
+]

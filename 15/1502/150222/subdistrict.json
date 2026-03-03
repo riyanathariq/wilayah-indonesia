@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1502222004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150222,
+    "value": "Koto Baru",
+    "postal_code": "37357"
+  },
+  {
+    "id": 1502222003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150222,
+    "value": "Mensango",
+    "postal_code": "37357"
+  },
+  {
+    "id": 1502222005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150222,
+    "value": "Sido Harjo",
+    "postal_code": "37357"
+  },
+  {
+    "id": 1502222002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150222,
+    "value": "Sido Lego",
+    "postal_code": "37357"
+  },
+  {
+    "id": 1502222001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150222,
+    "value": "Tambang Baru",
+    "postal_code": "37357"
+  }
+]

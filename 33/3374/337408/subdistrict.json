@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3374081001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Candi",
+    "postal_code": "50257"
+  },
+  {
+    "id": 3374081002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Jatingaleh",
+    "postal_code": "50254"
+  },
+  {
+    "id": 3374081004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Jomblang",
+    "postal_code": "50256"
+  },
+  {
+    "id": 3374081003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Kaliwiru",
+    "postal_code": "50253"
+  },
+  {
+    "id": 3374081005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Karanganyar Gunung",
+    "postal_code": "50255"
+  },
+  {
+    "id": 3374081006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Tegalsari",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3374081007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337408,
+    "value": "Wonotinggal (Wonotingal)",
+    "postal_code": "50252"
+  }
+]

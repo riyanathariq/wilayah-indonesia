@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3512112007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Arjasa",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Bayeman",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Curah Tatal",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Jatisari",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Kayumas (Kayu Mas)",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Kedungdowo (Kedung Dowo)",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Ketowan",
+    "postal_code": "68371"
+  },
+  {
+    "id": 3512112008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351211,
+    "value": "Lamongan",
+    "postal_code": "68371"
+  }
+]

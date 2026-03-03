@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3509242002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Bedadung",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Jatian",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Kertosari",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Pakusari",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Patemon",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Subo",
+    "postal_code": "68181"
+  },
+  {
+    "id": 3509242003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350924,
+    "value": "Sumberpinang (Sumber Pinang)",
+    "postal_code": "68181"
+  }
+]

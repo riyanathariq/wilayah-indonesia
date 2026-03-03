@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2172011004,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217201,
+    "value": "Bukit Cermin",
+    "postal_code": "29111"
+  },
+  {
+    "id": 2172011003,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217201,
+    "value": "Kampung Baru",
+    "postal_code": "29113"
+  },
+  {
+    "id": 2172011002,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217201,
+    "value": "Kemboja",
+    "postal_code": "29112"
+  },
+  {
+    "id": 2172011001,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217201,
+    "value": "Tanjung Pinang Barat",
+    "postal_code": "29113"
+  }
+]

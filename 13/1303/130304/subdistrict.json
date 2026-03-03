@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1303042008,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Aie Angek",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042007,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Durian Gadang",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Kandang Baru",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Muaro",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042006,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Paru",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Pematang Panjang",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042009,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Sijunjung",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Silokek",
+    "postal_code": "27554"
+  },
+  {
+    "id": 1303042005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130304,
+    "value": "Solok Ambah",
+    "postal_code": "27554"
+  }
+]

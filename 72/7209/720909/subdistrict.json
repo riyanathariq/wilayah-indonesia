@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7209092001,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Biga",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092007,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Katogop (Kotogop)",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Kondongan",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092004,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Malapo",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092005,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Pasokan",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092002,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Salinggoha",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092003,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Tingki",
+    "postal_code": "94693"
+  },
+  {
+    "id": 7209092008,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720909,
+    "value": "Tongidon",
+    "postal_code": "94693"
+  }
+]

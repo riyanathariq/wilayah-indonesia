@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9508222004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Brambel",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Kabolilangen",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Kibisim",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Klabypma (Kiabypma)",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Kolma",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Labrik",
+    "postal_code": "99911"
+  },
+  {
+    "id": 9508222001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950822,
+    "value": "Uburu",
+    "postal_code": "99911"
+  }
+]

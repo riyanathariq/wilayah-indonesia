@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3672051005,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367205,
+    "value": "Gedong Dalem",
+    "postal_code": "42413"
+  },
+  {
+    "id": 3672051002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367205,
+    "value": "Jombang Wetan",
+    "postal_code": "42411"
+  },
+  {
+    "id": 3672051003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367205,
+    "value": "Masigit",
+    "postal_code": "42414"
+  },
+  {
+    "id": 3672051004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367205,
+    "value": "Panggung Rawi",
+    "postal_code": "42412"
+  },
+  {
+    "id": 3672051001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367205,
+    "value": "Sukmajaya",
+    "postal_code": "42416"
+  }
+]

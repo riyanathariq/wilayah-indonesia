@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6202062011,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Bangkuang Makmur (Bengkuang Makmur)",
+    "postal_code": "74326"
+  },
+  {
+    "id": 6202062012,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Bapanggang Raya",
+    "postal_code": "74326"
+  },
+  {
+    "id": 6202062006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Bapeang",
+    "postal_code": "74326"
+  },
+  {
+    "id": 6202062008,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Eka Bahurui",
+    "postal_code": "74326"
+  },
+  {
+    "id": 6202061003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Ketapang",
+    "postal_code": "74325"
+  },
+  {
+    "id": 6202061002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Mentawa Baru Hilir",
+    "postal_code": "74323"
+  },
+  {
+    "id": 6202061001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Mentawa Baru Hulu",
+    "postal_code": "74322"
+  },
+  {
+    "id": 6202061009,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Pasir Putih",
+    "postal_code": "74322"
+  },
+  {
+    "id": 6202062005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Pelangsian",
+    "postal_code": "74326"
+  },
+  {
+    "id": 6202061007,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Sawahan",
+    "postal_code": "74321"
+  },
+  {
+    "id": 6202062010,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620206,
+    "value": "Telaga Baru",
+    "postal_code": "74326"
+  }
+]

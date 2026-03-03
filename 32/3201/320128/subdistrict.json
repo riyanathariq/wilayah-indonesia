@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201282006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Cibalung",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Cijeruk",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Cipelang",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Cipicung",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Palasari",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Sukaharja",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Tajur Halang",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Tanjungsari (Tanjung Sari)",
+    "postal_code": "16740"
+  },
+  {
+    "id": 3201282003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320128,
+    "value": "Warung Menteng",
+    "postal_code": "16740"
+  }
+]

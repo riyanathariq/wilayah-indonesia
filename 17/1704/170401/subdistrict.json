@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1704012001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Gedung Wani",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Geramat",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012010,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Gunung Megang",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Gunung Terang",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012021,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Jawi",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012022,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Papahan",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Penandingan",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Pengurung",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Pinang Jawa",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012023,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Pinang Jawa II",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012020,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Talang Berangin (Talang Beringin)",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Talang Padang",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Tanjung Alam",
+    "postal_code": "38962"
+  },
+  {
+    "id": 1704012005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170401,
+    "value": "Tanjung Baru",
+    "postal_code": "38962"
+  }
+]

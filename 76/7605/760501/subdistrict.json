@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7605011001,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Banggae",
+    "postal_code": "91411"
+  },
+  {
+    "id": 7605011003,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Baru",
+    "postal_code": "91415"
+  },
+  {
+    "id": 7605011013,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Galung",
+    "postal_code": "91411"
+  },
+  {
+    "id": 7605012011,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Palipi Soreang",
+    "postal_code": "91415"
+  },
+  {
+    "id": 7605012012,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Pamboborang",
+    "postal_code": "91415"
+  },
+  {
+    "id": 7605011007,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Pangali-Ali",
+    "postal_code": "91411"
+  },
+  {
+    "id": 7605011010,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Rangas",
+    "postal_code": "91415"
+  },
+  {
+    "id": 7605011009,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760501,
+    "value": "Totoli",
+    "postal_code": "91415"
+  }
+]

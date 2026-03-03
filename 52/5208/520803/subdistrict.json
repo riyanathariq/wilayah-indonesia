@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5208032007,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Dangiang",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032005,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Gumantar",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032001,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Kayangan",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032009,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Pansor",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032008,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Pendua",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032006,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Salut",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032002,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Santong",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032010,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Santong Mulia",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032003,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Selengen",
+    "postal_code": "83356"
+  },
+  {
+    "id": 5208032004,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520803,
+    "value": "Sesait",
+    "postal_code": "83356"
+  }
+]

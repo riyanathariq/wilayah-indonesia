@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1307112001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130711,
+    "value": "Jopang Manganti",
+    "postal_code": "26254"
+  },
+  {
+    "id": 1307112003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130711,
+    "value": "Mungka",
+    "postal_code": "26254"
+  },
+  {
+    "id": 1307112002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130711,
+    "value": "Simpang Kapuak",
+    "postal_code": "26254"
+  },
+  {
+    "id": 1307112005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130711,
+    "value": "Sungai Antuan",
+    "postal_code": "26254"
+  },
+  {
+    "id": 1307112004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130711,
+    "value": "Talang Maur (Talang Maua)",
+    "postal_code": "26254"
+  }
+]

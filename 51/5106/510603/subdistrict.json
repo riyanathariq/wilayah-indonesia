@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5106032005,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Bangbang",
+    "postal_code": "80671"
+  },
+  {
+    "id": 5106032001,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Jehem",
+    "postal_code": "80671"
+  },
+  {
+    "id": 5106032006,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Peninjoan",
+    "postal_code": "80671"
+  },
+  {
+    "id": 5106032002,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Tembuku",
+    "postal_code": "80671"
+  },
+  {
+    "id": 5106032004,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Undisan",
+    "postal_code": "80671"
+  },
+  {
+    "id": 5106032003,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510603,
+    "value": "Yangapi",
+    "postal_code": "80671"
+  }
+]

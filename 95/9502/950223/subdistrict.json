@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9502232007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Atang Doki",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Bemhimiku",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Bilip Bayo",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Kaep",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Okalut Kumal",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Okbem",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Okngam",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Oktaru",
+    "postal_code": "99423"
+  },
+  {
+    "id": 9502232001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950223,
+    "value": "Oktau",
+    "postal_code": "99423"
+  }
+]

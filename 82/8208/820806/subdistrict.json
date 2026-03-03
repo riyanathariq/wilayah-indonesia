@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8208062006,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Belo",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062007,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Kamaya",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062003,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Kawadang",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062002,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Losseng",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062005,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Mantarara",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062004,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Sofan",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062001,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Waikadai",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062009,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Waikadai Sula",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208062008,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820806,
+    "value": "Waikoka",
+    "postal_code": "97794"
+  }
+]

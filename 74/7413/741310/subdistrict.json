@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7413102010,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Bakeramba",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102007,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Guali",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Kasakamu",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413101008,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Konawe",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102009,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Kusambi",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Lakawoghe",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Lapokainse",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Lemoambo",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Sidamangura",
+    "postal_code": "93655"
+  },
+  {
+    "id": 7413102003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741310,
+    "value": "Tanjung Pinang",
+    "postal_code": "93655"
+  }
+]

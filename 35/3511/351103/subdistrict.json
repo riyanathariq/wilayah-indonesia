@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3511032010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Brambang Darussalam (Brambang Darussolah)",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Gunosari",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Jebung Kidul",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Jebung Lor",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Kembang",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Pakisan",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Patemon",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Sulek",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Tlogosari",
+    "postal_code": "68272"
+  },
+  {
+    "id": 3511032003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351103,
+    "value": "Trotosari",
+    "postal_code": "68272"
+  }
+]

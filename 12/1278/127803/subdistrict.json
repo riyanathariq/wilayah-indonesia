@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1278032001,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Afia",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032007,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Gawu-Gawu Bo'uso (Gawu Gawu Bouso / Bauso)",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032006,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Hambawa",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032010,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Hiligodu Ulu",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032009,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Hilimbowo Olora",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032003,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Lasara Sowu",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032002,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Lolo'ana'a Lolomoyo (Loloanaa)",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032008,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Olora",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032004,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Telukbelukar (Teluk Belukar)",
+    "postal_code": "22851"
+  },
+  {
+    "id": 1278032005,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127803,
+    "value": "Tetehosi Afia",
+    "postal_code": "22851"
+  }
+]

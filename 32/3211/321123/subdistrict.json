@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3211232004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Bantarmara",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Cimara",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Cipandanwangi",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Cisalak",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Cisarua",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Ciuyah",
+    "postal_code": "45355"
+  },
+  {
+    "id": 3211232007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321123,
+    "value": "Kebonkalapa",
+    "postal_code": "45355"
+  }
+]

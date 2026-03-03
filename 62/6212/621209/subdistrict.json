@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6212092003,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Muara Joloi I",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092004,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Muara Joloi II",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092005,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Parahau",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092007,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Takajung",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092006,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Tumbang Jojang",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092002,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Tumbang Naan",
+    "postal_code": "73981"
+  },
+  {
+    "id": 6212092001,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621209,
+    "value": "Tumbang Tuhan/Tohan",
+    "postal_code": "73981"
+  }
+]

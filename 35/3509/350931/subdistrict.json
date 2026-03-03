@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3509312005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Cumedak",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Gunungmalang (Gunung Malang)",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Jambearum (Jambe Arum)",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Plerean (Plereyan)",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Pringgondani",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Randuagung (Randu Agung)",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Rowosari",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Sumberjambe",
+    "postal_code": "68195"
+  },
+  {
+    "id": 3509312002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350931,
+    "value": "Sumberpakem (Sumber Pakem)",
+    "postal_code": "68195"
+  }
+]

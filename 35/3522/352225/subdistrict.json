@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3522252005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352225,
+    "value": "Beji",
+    "postal_code": "62160"
+  },
+  {
+    "id": 3522252003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352225,
+    "value": "Hargomulyo",
+    "postal_code": "62160"
+  },
+  {
+    "id": 3522252001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352225,
+    "value": "Kawengan",
+    "postal_code": "62160"
+  },
+  {
+    "id": 3522252004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352225,
+    "value": "Kedewan",
+    "postal_code": "62160"
+  },
+  {
+    "id": 3522252002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352225,
+    "value": "Wonocolo",
+    "postal_code": "62160"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3202212002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Bojonggenteng (Bojong Genteng)",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Bojongsari",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Cikarang",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212016,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Cikaranggeusan",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212011,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Ciparay",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202211001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Jampangkulon (Jampang Kulon)",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212014,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Karanganyar",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Mekarjaya",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Nagraksari",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212013,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Padajaya",
+    "postal_code": "43170"
+  },
+  {
+    "id": 3202212009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320221,
+    "value": "Tanjung",
+    "postal_code": "43170"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1218152003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Bakaran Batu",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Gempolan",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Penggalangan",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Pon (Kampung Pon)",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Rampah Estate",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Sei Bamban",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152007,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Sei Bamban Estate",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152008,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Sei Belutu",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152009,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Sei Buluh (Sei Buluh Estate)",
+    "postal_code": "20995"
+  },
+  {
+    "id": 1218152006,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121815,
+    "value": "Suka Damai",
+    "postal_code": "20995"
+  }
+]

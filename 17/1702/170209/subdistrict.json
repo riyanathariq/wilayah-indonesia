@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1702091023,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Adirejo",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702091013,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Air Putih Lama",
+    "postal_code": "39112"
+  },
+  {
+    "id": 1702091025,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Air Rambai",
+    "postal_code": "39111"
+  },
+  {
+    "id": 1702091012,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Dwi Tunggal",
+    "postal_code": "39112"
+  },
+  {
+    "id": 1702091031,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Jalan Baru",
+    "postal_code": "39117"
+  },
+  {
+    "id": 1702091026,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Pasar Baru",
+    "postal_code": "39113"
+  },
+  {
+    "id": 1702091027,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Pasar Tengah",
+    "postal_code": "39117"
+  },
+  {
+    "id": 1702091033,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Talang Benih",
+    "postal_code": "39118"
+  },
+  {
+    "id": 1702091047,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170209,
+    "value": "Timbul Rejo",
+    "postal_code": "39125"
+  }
+]

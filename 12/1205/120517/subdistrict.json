@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1205171002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Alur Dua",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205171008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Alur Dua Baru",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172012,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Harapan Baru",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205171009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Harapan Jaya",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172013,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Harapan Maju",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172014,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Harapan Makmur",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Lama",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Lama Baru",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Mekar Makmur",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Puraka I (Puraka I Pertamina)",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Puraka II",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205171001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Sei Bilah (Sei Bilah Barat)",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205171010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Sei Bilah Timur",
+    "postal_code": "20776"
+  },
+  {
+    "id": 1205172006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120517,
+    "value": "Telaga Said",
+    "postal_code": "20776"
+  }
+]

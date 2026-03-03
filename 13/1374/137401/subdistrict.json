@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1374011003,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Ekor Lubuk",
+    "postal_code": "27125"
+  },
+  {
+    "id": 1374011001,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Ganting",
+    "postal_code": "27127"
+  },
+  {
+    "id": 1374011005,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Guguk Malintang",
+    "postal_code": "27128"
+  },
+  {
+    "id": 1374011007,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Koto Katik",
+    "postal_code": "27123"
+  },
+  {
+    "id": 1374011006,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Koto Panjang",
+    "postal_code": "27122"
+  },
+  {
+    "id": 1374011004,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Ngalau",
+    "postal_code": "27124"
+  },
+  {
+    "id": 1374011002,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Sigando",
+    "postal_code": "27126"
+  },
+  {
+    "id": 1374011008,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137401,
+    "value": "Tanah Pak Lambik",
+    "postal_code": "27121"
+  }
+]

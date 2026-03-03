@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1408012015,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Buantan Besar",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408011001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Kampung Dalam",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408011002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Kampung Rempak",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408012003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Langkai",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408012012,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Merempan Hulu",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408012013,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Rawang Air Putih",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408012014,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Suak Lanjut",
+    "postal_code": "28673"
+  },
+  {
+    "id": 1408012011,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140801,
+    "value": "Tumang",
+    "postal_code": "28673"
+  }
+]

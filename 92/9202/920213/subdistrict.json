@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9202132006,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Aipiri",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202132005,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Arowi",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202132003,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Ayambori",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202132004,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Bakaro",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202132002,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Mansinam",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202131001,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Pasir Putih",
+    "postal_code": "98311"
+  },
+  {
+    "id": 9202132007,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920213,
+    "value": "Susweni",
+    "postal_code": "98311"
+  }
+]

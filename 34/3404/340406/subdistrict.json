@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3404062002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340406,
+    "value": "Sendangadi",
+    "postal_code": "55285"
+  },
+  {
+    "id": 3404062001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340406,
+    "value": "Sinduadi",
+    "postal_code": "55284"
+  },
+  {
+    "id": 3404062005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340406,
+    "value": "Sumberadi",
+    "postal_code": "55288"
+  },
+  {
+    "id": 3404062004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340406,
+    "value": "Tirtoadi",
+    "postal_code": "55287"
+  },
+  {
+    "id": 3404062003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340406,
+    "value": "Tlogoadi",
+    "postal_code": "55286"
+  }
+]

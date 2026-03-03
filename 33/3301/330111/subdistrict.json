@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3301112009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Gunungreja",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Karanggedang",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Kunci",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Margasari",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Penyarang",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Sidamulya",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Sidareja",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Sudagaran",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Tegalsari",
+    "postal_code": "53261"
+  },
+  {
+    "id": 3301112001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330111,
+    "value": "Tinggarjaya",
+    "postal_code": "53261"
+  }
+]

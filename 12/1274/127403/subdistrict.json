@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1274031001,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127403,
+    "value": "Keramat Kubah",
+    "postal_code": "21344"
+  },
+  {
+    "id": 1274031003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127403,
+    "value": "Muara Sentosa",
+    "postal_code": "21342"
+  },
+  {
+    "id": 1274031004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127403,
+    "value": "Pasar Baru",
+    "postal_code": "21341"
+  },
+  {
+    "id": 1274031005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127403,
+    "value": "Sei Raja",
+    "postal_code": "21345"
+  },
+  {
+    "id": 1274031002,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127403,
+    "value": "Sumber Sari",
+    "postal_code": "21343"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215261002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Adiarsa Timur",
+    "postal_code": "41314"
+  },
+  {
+    "id": 3215261001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Karawang Wetan",
+    "postal_code": "41314"
+  },
+  {
+    "id": 3215262007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Kondangjaya",
+    "postal_code": "41313"
+  },
+  {
+    "id": 3215262005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Margasari",
+    "postal_code": "41313"
+  },
+  {
+    "id": 3215261003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Palumbonsari",
+    "postal_code": "41314"
+  },
+  {
+    "id": 3215261004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Plawad (Palawad)",
+    "postal_code": "41314"
+  },
+  {
+    "id": 3215262008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Tegal Sawah (Tegalsawah)",
+    "postal_code": "41314"
+  },
+  {
+    "id": 3215262006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321526,
+    "value": "Warungbambu",
+    "postal_code": "41313"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9501072009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Abulukmo",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Anegara (Anegera)",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Elabukama",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Hamuhi",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Kosihave",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Mulupalek",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Pumasili",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Siapma",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Temia",
+    "postal_code": "99533"
+  },
+  {
+    "id": 9501072010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950107,
+    "value": "Yumugima",
+    "postal_code": "99533"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3512092002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Mangaran",
+    "postal_code": "68363"
+  },
+  {
+    "id": 3512092004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Semiring",
+    "postal_code": "68363"
+  },
+  {
+    "id": 3512092001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Tanjung Glugur",
+    "postal_code": "68363"
+  },
+  {
+    "id": 3512092003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Tanjung Kamal",
+    "postal_code": "68363"
+  },
+  {
+    "id": 3512092005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Tanjung Pecinan",
+    "postal_code": "68363"
+  },
+  {
+    "id": 3512092006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351209,
+    "value": "Trebungan",
+    "postal_code": "68363"
+  }
+]

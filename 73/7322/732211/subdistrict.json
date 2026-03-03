@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7322112004,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Baebunta",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112015,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Bumi Harapan",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112010,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Kariango",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112008,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Mario",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112011,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Melli (Meli)",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112013,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Palandan",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112003,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Radda",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322111005,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Salassa",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112002,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Salulemo",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112009,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Sassa",
+    "postal_code": "92965"
+  },
+  {
+    "id": 7322112007,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732211,
+    "value": "Tarobok",
+    "postal_code": "92965"
+  }
+]

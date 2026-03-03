@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1207212001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Lantasan Baru",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Lantasan Lama",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Marendal I (Marindal Satu)",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Marindal II (Marindal Dua)",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Patumbak I (Patumbak Satu)",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Patumbak II (Patumbak Dua)",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Patumbak Kampung",
+    "postal_code": "20361"
+  },
+  {
+    "id": 1207212005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120721,
+    "value": "Sigara Gara",
+    "postal_code": "20361"
+  }
+]

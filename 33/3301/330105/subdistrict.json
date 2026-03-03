@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3301052005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Banjareja",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Banjarsari",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052012,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Banjarwaru",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052016,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Danasri",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052013,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Danasri Kidul",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052015,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Danasri Lor",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Jetis",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Karangpakis",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052011,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Karangputat",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Karangsembung",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Karangtawang",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Kedungbenda",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Klumprit",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Nusawangkal",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052014,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Nusawungu",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Purwodadi (Purwadadi)",
+    "postal_code": "53283"
+  },
+  {
+    "id": 3301052017,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330105,
+    "value": "Sikanco",
+    "postal_code": "53283"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7317202001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Bonelemo",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202009,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Bonelemo Barat",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Bonelemo Utara",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Kadong-Kadong",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Marinding",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Sampeang",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Saronda",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Tettekang (Tetekang)",
+    "postal_code": "91996"
+  },
+  {
+    "id": 7317202006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731720,
+    "value": "Tumbubara (Tumbu Barak)",
+    "postal_code": "91996"
+  }
+]

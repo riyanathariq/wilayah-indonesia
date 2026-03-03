@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3209132011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Beber",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Ciawigajah",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Cikancas",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Cipinang",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Halimpu",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Kondangsari",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Patapan",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Sindanghayu",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Sindangkasih",
+    "postal_code": "45172"
+  },
+  {
+    "id": 3209132001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320913,
+    "value": "Wanayasa",
+    "postal_code": "45172"
+  }
+]

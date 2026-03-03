@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3511192003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Jampit",
+    "postal_code": "68288"
+  },
+  {
+    "id": 3511192005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Kali Gedang (Kaligedang)",
+    "postal_code": "68288"
+  },
+  {
+    "id": 3511192002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Kalianyar",
+    "postal_code": "68288"
+  },
+  {
+    "id": 3511192004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Kalisat",
+    "postal_code": "68288"
+  },
+  {
+    "id": 3511192001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Sempol",
+    "postal_code": "68288"
+  },
+  {
+    "id": 3511192006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351119,
+    "value": "Sumber Rejo",
+    "postal_code": "68288"
+  }
+]

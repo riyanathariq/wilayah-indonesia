@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7203242003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Batusuya",
+    "postal_code": "94344"
+  },
+  {
+    "id": 7203242005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Batusuya Go'o",
+    "postal_code": "94344"
+  },
+  {
+    "id": 7203242002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Kaliburu",
+    "postal_code": "94344"
+  },
+  {
+    "id": 7203242006,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Kaliburu Kata",
+    "postal_code": "94344"
+  },
+  {
+    "id": 7203242004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Saloya",
+    "postal_code": "94344"
+  },
+  {
+    "id": 7203242001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720324,
+    "value": "Tibo",
+    "postal_code": "94344"
+  }
+]

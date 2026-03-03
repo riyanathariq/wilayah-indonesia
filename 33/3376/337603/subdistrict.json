@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3376031002,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Bandung",
+    "postal_code": "52137"
+  },
+  {
+    "id": 3376031003,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Debong Kidul",
+    "postal_code": "52138"
+  },
+  {
+    "id": 3376031006,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Debong Kulon",
+    "postal_code": "52133"
+  },
+  {
+    "id": 3376031007,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Debong Tengah",
+    "postal_code": "52132"
+  },
+  {
+    "id": 3376031001,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Kalinyamat Wetan",
+    "postal_code": "52136"
+  },
+  {
+    "id": 3376031005,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Keturen",
+    "postal_code": "52134"
+  },
+  {
+    "id": 3376031008,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Randugunting",
+    "postal_code": "52131"
+  },
+  {
+    "id": 3376031004,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337603,
+    "value": "Tunon",
+    "postal_code": "52135"
+  }
+]

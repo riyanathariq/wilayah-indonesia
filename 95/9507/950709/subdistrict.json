@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507092001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Kuyawage",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Luarem",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092014,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Peko",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092011,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Tumbupur",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092013,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Tunikele",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092012,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Uwome",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Wupaga",
+    "postal_code": "99587"
+  },
+  {
+    "id": 9507092015,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950709,
+    "value": "Yugunomba",
+    "postal_code": "99587"
+  }
+]

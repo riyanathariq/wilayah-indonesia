@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3374101004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Bulusan",
+    "postal_code": "50277"
+  },
+  {
+    "id": 3374101007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Jangli",
+    "postal_code": "50274"
+  },
+  {
+    "id": 3374101009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Kedungmundu",
+    "postal_code": "50273"
+  },
+  {
+    "id": 3374101005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Kramas",
+    "postal_code": "50278"
+  },
+  {
+    "id": 3374101003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Mangunharjo",
+    "postal_code": "50272"
+  },
+  {
+    "id": 3374101001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Meteseh",
+    "postal_code": "50271"
+  },
+  {
+    "id": 3374101002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Rowosari",
+    "postal_code": "50279"
+  },
+  {
+    "id": 3374101012,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Sambiroto",
+    "postal_code": "50276"
+  },
+  {
+    "id": 3374101010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Sendangguwo",
+    "postal_code": "50273"
+  },
+  {
+    "id": 3374101011,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Sendangmulyo",
+    "postal_code": "50272"
+  },
+  {
+    "id": 3374101008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Tandang",
+    "postal_code": "50274"
+  },
+  {
+    "id": 3374101006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337410,
+    "value": "Tembalang",
+    "postal_code": "50275"
+  }
+]

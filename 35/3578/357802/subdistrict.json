@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3578021002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357802,
+    "value": "Bendul Merisi",
+    "postal_code": "60239"
+  },
+  {
+    "id": 3578021004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357802,
+    "value": "Jemur Wonosari",
+    "postal_code": "60237"
+  },
+  {
+    "id": 3578021003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357802,
+    "value": "Margorejo",
+    "postal_code": "60238"
+  },
+  {
+    "id": 3578021001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357802,
+    "value": "Sidosermo",
+    "postal_code": "60239"
+  },
+  {
+    "id": 3578021005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357802,
+    "value": "Siwalankerto",
+    "postal_code": "60236"
+  }
+]

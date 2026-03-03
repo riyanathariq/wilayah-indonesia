@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1703202004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Balam",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Kembang Manis",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Lubuk Mumpo",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Mesigit",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Padang Kala",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Retes",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Suka Rami (Sukarami)",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Talang Ulu",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Tanjung Aur",
+    "postal_code": "38653"
+  },
+  {
+    "id": 1703202003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170320,
+    "value": "Teluk Ajang",
+    "postal_code": "38653"
+  }
+]

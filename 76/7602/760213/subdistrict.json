@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7602132007,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Ahu",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Dungkait",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Labuang Rano",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Lebani",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132006,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Pangasaan",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132004,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Pasabu (Pasa Bu)",
+    "postal_code": "91552"
+  },
+  {
+    "id": 7602132005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760213,
+    "value": "Tanete Pao",
+    "postal_code": "91552"
+  }
+]

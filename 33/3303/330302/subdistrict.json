@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3303022014,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Bajong",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022012,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Bukateja",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Cipawon",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Karangcengis",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Karanggedang",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Karangnangka",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022009,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Kebutuh",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022011,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Kedungjati",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Kembangan",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022008,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Kutawis",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022013,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Majasari",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022010,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Penaruban",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Tidu",
+    "postal_code": "53382"
+  },
+  {
+    "id": 3303022002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330302,
+    "value": "Wirasaba",
+    "postal_code": "53382"
+  }
+]

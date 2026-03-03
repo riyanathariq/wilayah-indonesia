@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3276081002,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327608,
+    "value": "Cilodong",
+    "postal_code": "16414"
+  },
+  {
+    "id": 3276081005,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327608,
+    "value": "Jatimulya",
+    "postal_code": "16413"
+  },
+  {
+    "id": 3276081003,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327608,
+    "value": "Kalibaru",
+    "postal_code": "16414"
+  },
+  {
+    "id": 3276081004,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327608,
+    "value": "Kalimulya",
+    "postal_code": "16413"
+  },
+  {
+    "id": 3276081001,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327608,
+    "value": "Sukamaju",
+    "postal_code": "16415"
+  }
+]

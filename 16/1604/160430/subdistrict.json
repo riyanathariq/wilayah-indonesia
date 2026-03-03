@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1604302006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Danau Belidang",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Durian Dangkal",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Jadian Baru",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Jadian Lama",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Keban Agung",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Lubuk Dendan",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Padang Bindu",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Penandingan",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Talang Berangin",
+    "postal_code": "31454"
+  },
+  {
+    "id": 1604302007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160430,
+    "value": "Talang Padang",
+    "postal_code": "31454"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6306042005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Angkinang",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Angkinang Selatan",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042011,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Bakarung",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Bamban",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Bamban Selatan",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Bamban Utara",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Kayu Abang",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042009,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Taniran Kubah",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042010,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Taniran Selatan",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042008,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Tawia",
+    "postal_code": "71291"
+  },
+  {
+    "id": 6306042006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630604,
+    "value": "Telaga Sili Sili",
+    "postal_code": "71291"
+  }
+]

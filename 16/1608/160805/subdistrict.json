@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1608052011,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Bandar Jaya",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052010,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Bantan",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052013,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Bantan Pelita",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052004,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Banu Ayu (Banuayu)",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052003,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Banu Mas (Banumas)",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052002,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Negeri Agung",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052012,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Negeri Agung Jaya",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Negeri Pakuan",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052009,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Pahang Asri",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052008,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Pemetung Besuki (Pemetung Basuki)",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052005,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Pulau Negara",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052006,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Saung Dadi",
+    "postal_code": "32367"
+  },
+  {
+    "id": 1608052007,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160805,
+    "value": "Terantang/Trantang Sakti",
+    "postal_code": "32367"
+  }
+]

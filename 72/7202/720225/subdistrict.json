@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7202252002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720225,
+    "value": "Betue",
+    "postal_code": "94653"
+  },
+  {
+    "id": 7202252005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720225,
+    "value": "Siliwanga",
+    "postal_code": "94653"
+  },
+  {
+    "id": 7202252003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720225,
+    "value": "Talabosa",
+    "postal_code": "94653"
+  },
+  {
+    "id": 7202252004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720225,
+    "value": "Wanga",
+    "postal_code": "94653"
+  },
+  {
+    "id": 7202252001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720225,
+    "value": "Watutau",
+    "postal_code": "94653"
+  }
+]

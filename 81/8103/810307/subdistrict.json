@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8103072001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Abat",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072009,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Awear Rumngeur",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072010,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Karatat",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072012,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Kiloon",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Labobar",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072013,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Lingada",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072016,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Romnus",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072014,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Teineman",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072015,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Wabar",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072008,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Watmasa",
+    "postal_code": "97465"
+  },
+  {
+    "id": 8103072011,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810307,
+    "value": "Wunlah",
+    "postal_code": "97465"
+  }
+]

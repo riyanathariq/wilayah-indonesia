@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506132006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Kempas Jaya",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Lumahan",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Margo Rukun",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506131001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Senyerang",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Sungaikayu Aro (Sungai Kayu Aro)",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132010,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Sungaikepayang (Sungai Kepayang)",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Sungailandak (Sungai Landak)",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Sungairambai (Sungai Rambai)",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132009,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Sungsang",
+    "postal_code": "36513"
+  },
+  {
+    "id": 1506132003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150613,
+    "value": "Telukketapang (Teluk Ketapang)",
+    "postal_code": "36513"
+  }
+]

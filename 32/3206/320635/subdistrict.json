@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206352002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Bojonggaok",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Condong",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Geresik",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Karangmulya",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Karangresik",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Karangsembung",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Sindangraja",
+    "postal_code": "46175"
+  },
+  {
+    "id": 3206352007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320635,
+    "value": "Tanjungmekar",
+    "postal_code": "46175"
+  }
+]

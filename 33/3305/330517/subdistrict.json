@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3305172005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Bumiagung",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Giyanti",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Jatiluhur",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Kalisari",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Kretek",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Pringtutul",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Redisari",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Rowokele",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Sukomulyo",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172011,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Wagirpandan",
+    "postal_code": "54472"
+  },
+  {
+    "id": 3305172010,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330517,
+    "value": "Wonoharjo",
+    "postal_code": "54472"
+  }
+]

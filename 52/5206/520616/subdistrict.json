@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5206162004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520616,
+    "value": "Kanca",
+    "postal_code": "84170"
+  },
+  {
+    "id": 5206162003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520616,
+    "value": "Kuta",
+    "postal_code": "84170"
+  },
+  {
+    "id": 5206162005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520616,
+    "value": "Lere",
+    "postal_code": "84170"
+  },
+  {
+    "id": 5206162002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520616,
+    "value": "Parado Rato (Paradorato)",
+    "postal_code": "84170"
+  },
+  {
+    "id": 5206162001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520616,
+    "value": "Parado Wane (Paradowane)",
+    "postal_code": "84170"
+  }
+]

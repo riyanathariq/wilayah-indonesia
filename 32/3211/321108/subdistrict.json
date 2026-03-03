@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3211082005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Bongkok",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Cijambe",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Citepok",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Haurkuning",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Legok Kaler",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Legok Kidul",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Padanan (Padanaan)",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Paseh Kaler",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Pasehkidul (Paseh Kidul)",
+    "postal_code": "45381"
+  },
+  {
+    "id": 3211082007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321108,
+    "value": "Pasirreungit (Pasireungit)",
+    "postal_code": "45381"
+  }
+]

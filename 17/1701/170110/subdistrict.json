@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1701102003,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Gindo Suli (Gindosuli)",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102002,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Gunung Kayo",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Kuripan",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102010,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Padang Burnai",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102008,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Padang Jawi",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Padang Nibung",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Talang Indah",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Tanjung Aur",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102007,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Tanjung Tebat",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701102001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170110,
+    "value": "Tumbak Tebing (Tumbuk Tebing)",
+    "postal_code": "38511"
+  }
+]

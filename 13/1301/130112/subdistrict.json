@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1301122002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Koto Ranah",
+    "postal_code": "25653"
+  },
+  {
+    "id": 1301122006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Limau Gadang Pancung Taba",
+    "postal_code": "25653"
+  },
+  {
+    "id": 1301122003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Muaro Aie",
+    "postal_code": "25653"
+  },
+  {
+    "id": 1301122004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Pancuang Taba (Pancung Taba)",
+    "postal_code": "25653"
+  },
+  {
+    "id": 1301122001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Puluik Puluik",
+    "postal_code": "25653"
+  },
+  {
+    "id": 1301122005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130112,
+    "value": "Puluik-Puluik Selatan",
+    "postal_code": "25653"
+  }
+]

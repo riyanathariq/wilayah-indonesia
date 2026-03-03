@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1502202003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150220,
+    "value": "Pulau Bayur",
+    "postal_code": "37319"
+  },
+  {
+    "id": 1502202004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150220,
+    "value": "Selango",
+    "postal_code": "37319"
+  },
+  {
+    "id": 1502202001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150220,
+    "value": "Tambang Emas",
+    "postal_code": "37319"
+  },
+  {
+    "id": 1502202002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150220,
+    "value": "Tanjung Benuang",
+    "postal_code": "37319"
+  }
+]

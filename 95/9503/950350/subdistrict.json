@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9503502006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Alhai",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Hombesaloma",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Kayo",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Molama",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Sebu",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Uase",
+    "postal_code": "99704"
+  },
+  {
+    "id": 9503502004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950350,
+    "value": "Walet",
+    "postal_code": "99704"
+  }
+]

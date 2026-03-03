@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1807162007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Kebon Damar",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Mandala Sari",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Mataram Baru",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Rajabasa Baru",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Teluk Dalem",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Tulung Pasik (Tulungpasik)",
+    "postal_code": "34199"
+  },
+  {
+    "id": 1807162004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180716,
+    "value": "Way Areng (Wai Arang)",
+    "postal_code": "34199"
+  }
+]

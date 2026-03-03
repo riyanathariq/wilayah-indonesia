@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1571081002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Cempaka Putih",
+    "postal_code": "36134"
+  },
+  {
+    "id": 1571081007,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Handil Jaya",
+    "postal_code": "36137"
+  },
+  {
+    "id": 1571081006,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Jelutung",
+    "postal_code": "36136"
+  },
+  {
+    "id": 1571081003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Kebun Handil",
+    "postal_code": "36137"
+  },
+  {
+    "id": 1571081004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Lebak Bandung",
+    "postal_code": "36135"
+  },
+  {
+    "id": 1571081005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Payo Lebar",
+    "postal_code": "36135"
+  },
+  {
+    "id": 1571081001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157108,
+    "value": "Talang Jauh",
+    "postal_code": "36133"
+  }
+]

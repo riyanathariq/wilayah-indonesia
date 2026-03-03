@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1212092018,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Aek Natolu Jaya",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Hatinggian",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092016,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Hutanamora",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092015,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Jangga Dolok",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Jangga Toruan",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092017,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Jonggi Nihuta",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Lintong Julu",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Pasar Lumban Julu",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Sibaruang",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Sionggang Selatan",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092014,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Sionggang Tengah",
+    "postal_code": "22388"
+  },
+  {
+    "id": 1212092008,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121209,
+    "value": "Sionggang Utara",
+    "postal_code": "22388"
+  }
+]

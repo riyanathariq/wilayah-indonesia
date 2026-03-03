@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1213092001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Aek Marian MG",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Bangun Purba",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Maga Dolok",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Maga Lombang",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Pangkat",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213091008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Pasar Maga",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Purba Baru",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Purba Lamo",
+    "postal_code": "22993"
+  },
+  {
+    "id": 1213092009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121309,
+    "value": "Siantona (Sian Tona)",
+    "postal_code": "22993"
+  }
+]

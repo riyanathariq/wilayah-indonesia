@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3371021005,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337102,
+    "value": "Kedungsari",
+    "postal_code": "56114"
+  },
+  {
+    "id": 3371021009,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337102,
+    "value": "Kramat Selatan",
+    "postal_code": "56115"
+  },
+  {
+    "id": 3371021008,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337102,
+    "value": "Kramat Utara",
+    "postal_code": "56115"
+  },
+  {
+    "id": 3371021004,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337102,
+    "value": "Potrobangsan",
+    "postal_code": "56116"
+  },
+  {
+    "id": 3371021003,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337102,
+    "value": "Wates",
+    "postal_code": "56113"
+  }
+]

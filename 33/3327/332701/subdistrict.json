@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3327012006,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Banyumudal",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012010,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Gendoang (Gendowang)",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012008,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Kebanggan",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012002,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Mandiraja",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012005,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Moga",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012009,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Pepedan",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012001,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Plakaran",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012004,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Sima",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012003,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Walangsanga",
+    "postal_code": "52354"
+  },
+  {
+    "id": 3327012007,
+    "province_id": 33,
+    "regency_id": 3327,
+    "district_id": 332701,
+    "value": "Wangkelang",
+    "postal_code": "52354"
+  }
+]

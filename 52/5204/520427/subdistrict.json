@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5204272003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520427,
+    "value": "Ledang",
+    "postal_code": "84370"
+  },
+  {
+    "id": 5204272002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520427,
+    "value": "Lenangguar",
+    "postal_code": "84370"
+  },
+  {
+    "id": 5204272001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520427,
+    "value": "Tatebal",
+    "postal_code": "84370"
+  },
+  {
+    "id": 5204272004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520427,
+    "value": "Telaga",
+    "postal_code": "84370"
+  }
+]

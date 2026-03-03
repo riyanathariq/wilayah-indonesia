@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3204142004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Bojongkunci",
+    "postal_code": "40376"
+  },
+  {
+    "id": 3204142002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Bojongmanggu",
+    "postal_code": "40376"
+  },
+  {
+    "id": 3204142006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Langonsari",
+    "postal_code": "40376"
+  },
+  {
+    "id": 3204142005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Rancamulya",
+    "postal_code": "40376"
+  },
+  {
+    "id": 3204142003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Rancatungku",
+    "postal_code": "40376"
+  },
+  {
+    "id": 3204142001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320414,
+    "value": "Sukasari",
+    "postal_code": "40376"
+  }
+]

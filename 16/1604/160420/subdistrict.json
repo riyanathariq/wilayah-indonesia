@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1604202005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Batu Niding (Batuniding)",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Lubuk Atung",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Lubuk Mabar",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Lubuk Tuba",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202011,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Muara Cawang",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Pagar Agung",
+    "postal_code": "31417"
+  },
+  {
+    "id": 1604202003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Penandingan",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Sukajadi",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Talang Tinggi",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Tanjung Agung",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604202006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160420,
+    "value": "Tanjung Raya",
+    "postal_code": "31419"
+  }
+]

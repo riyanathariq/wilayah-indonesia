@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7171081006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Bengkol",
+    "postal_code": "95251"
+  },
+  {
+    "id": 7171081005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Buha",
+    "postal_code": "95252"
+  },
+  {
+    "id": 7171081009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Kairagi Dua",
+    "postal_code": "95254"
+  },
+  {
+    "id": 7171081008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Kairagi Satu",
+    "postal_code": "95253"
+  },
+  {
+    "id": 7171081004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Kima Atas",
+    "postal_code": "95259"
+  },
+  {
+    "id": 7171081002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Lapangan",
+    "postal_code": "95258"
+  },
+  {
+    "id": 7171081003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Mapanget Barat",
+    "postal_code": "95258"
+  },
+  {
+    "id": 7171081001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Paniki Bawah",
+    "postal_code": "95256"
+  },
+  {
+    "id": 7171081011,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Paniki Dua",
+    "postal_code": "95257"
+  },
+  {
+    "id": 7171081010,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717108,
+    "value": "Paniki Satu",
+    "postal_code": "95259"
+  }
+]

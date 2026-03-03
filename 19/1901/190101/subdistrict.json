@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1901011013,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Bukit Betung",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011010,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Jelitik",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Kenanga",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Kudai",
+    "postal_code": "33213"
+  },
+  {
+    "id": 1901011012,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Lubuk Kelik",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011009,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Matras",
+    "postal_code": "33212"
+  },
+  {
+    "id": 1901011006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Parit Padang",
+    "postal_code": "33215"
+  },
+  {
+    "id": 1901012007,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Rebo",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Sinar Baru",
+    "postal_code": "33212"
+  },
+  {
+    "id": 1901011008,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Sinar Jaya Jelutung",
+    "postal_code": "33212"
+  },
+  {
+    "id": 1901011002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Sri Menanti",
+    "postal_code": "33214"
+  },
+  {
+    "id": 1901011001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Sungailiat",
+    "postal_code": "33211"
+  },
+  {
+    "id": 1901011011,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190101,
+    "value": "Surya Timur",
+    "postal_code": "33211"
+  }
+]

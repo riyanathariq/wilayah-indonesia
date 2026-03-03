@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1408042004,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Meredan",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042007,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Meredan Barat",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408041001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Perawang",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042008,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Perawang Barat",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Pinang Sebatang",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042006,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Pinang Sebatang Barat",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042005,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Pinang Sebatang Timur",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Tualang",
+    "postal_code": "28772"
+  },
+  {
+    "id": 1408042009,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140804,
+    "value": "Tualang Timur",
+    "postal_code": "28772"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5309162002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Denatana",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Denatana Timur",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Larilaki",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Mainai",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Mulumese",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Nginamanu",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162006,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Nginamanu Barat",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Nginamanu Selatan",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162004,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Turaloa",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Turaloa Timur",
+    "postal_code": "86423"
+  },
+  {
+    "id": 5309162007,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530916,
+    "value": "Wue",
+    "postal_code": "86423"
+  }
+]

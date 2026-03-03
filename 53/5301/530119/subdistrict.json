@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5301192004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530119,
+    "value": "Enoraen",
+    "postal_code": "85378"
+  },
+  {
+    "id": 5301192001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530119,
+    "value": "Oebesi",
+    "postal_code": "85378"
+  },
+  {
+    "id": 5301192002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530119,
+    "value": "Pakubaun",
+    "postal_code": "85378"
+  },
+  {
+    "id": 5301192003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530119,
+    "value": "Rabeka",
+    "postal_code": "85378"
+  }
+]

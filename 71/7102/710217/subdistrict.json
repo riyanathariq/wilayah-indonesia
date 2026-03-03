@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102172002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Atep",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Atep Satu",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Kaayuran Atas",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Kaayuran Bawah",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Kawatak",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Manembo",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Palamba",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Rumbia",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Temboan",
+    "postal_code": "95695"
+  },
+  {
+    "id": 7102172006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710217,
+    "value": "Winebetan",
+    "postal_code": "95695"
+  }
+]

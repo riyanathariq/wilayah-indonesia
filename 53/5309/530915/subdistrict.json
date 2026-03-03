@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5309152012,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Bowado",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Genamere",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Inegena",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Inelika",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152007,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Nabelena",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Tura Muri",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Uluwae",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Uluwae I",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Uluwae II",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152006,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Waewea",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Watukapu",
+    "postal_code": "86413"
+  },
+  {
+    "id": 5309152004,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530915,
+    "value": "Wololika",
+    "postal_code": "86413"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1804222002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Heni Arong (Heni Harong)",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Keagungan",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Lombok",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222011,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Lombok Selatan",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Lombok Timur",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Pancur Mas",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Suka Banjar",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Suka Banjar II Ujung Rembun",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Suka Maju",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Tawan Suka Mulya",
+    "postal_code": "34879"
+  },
+  {
+    "id": 1804222007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180422,
+    "value": "Ujung",
+    "postal_code": "34879"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472041014,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647204,
+    "value": "Pelita",
+    "postal_code": "75117"
+  },
+  {
+    "id": 6472041001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647204,
+    "value": "Selili",
+    "postal_code": "75114"
+  },
+  {
+    "id": 6472041013,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647204,
+    "value": "Sidodamai",
+    "postal_code": "75116"
+  },
+  {
+    "id": 6472041003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647204,
+    "value": "Sidomulyo",
+    "postal_code": "75116"
+  },
+  {
+    "id": 6472041002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647204,
+    "value": "Sungai Dama",
+    "postal_code": "75115"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1504022004,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Ampelu",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022012,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Ampelu Mudo",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022003,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Jebak",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504021001,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Kampung Baru",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504021002,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Pasar Muara Tembesi",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022013,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Pelayangan",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022015,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Pematang Lima Suku",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022009,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Pulau",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022005,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Rambutan Masam",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022006,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Rantau Kapas Mudo",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022007,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Rantau Kapas Tuo",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022011,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Suka Ramai (Sukaramai)",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022008,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Sungai Pulai",
+    "postal_code": "36653"
+  },
+  {
+    "id": 1504022010,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150402,
+    "value": "Tanjung Marwo",
+    "postal_code": "36653"
+  }
+]

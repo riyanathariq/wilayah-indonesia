@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1572052003,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Air Teluh (Air Teluk)",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052005,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Debai",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052001,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Kumun Hilir",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052002,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Kumun Mudik",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052009,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Muara Jaya",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052006,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Pinggir Air",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052007,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Renah Kayu Embun",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052004,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Sandaran Galeh",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572052008,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157205,
+    "value": "Ulu Air",
+    "postal_code": "37111"
+  }
+]

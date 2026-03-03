@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1219042016,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Antara",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219041001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Lima Puluh Kota",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042011,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Mangkai Baru",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042012,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Mangkai Lama",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042014,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Perkebunan Dolok",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042015,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Perkebunan Kwala Gunung",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042017,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Perkebunan Lima Puluh",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042018,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Perkebunan Limau Manis",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042019,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Perkebunan Tanah Gambus",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042025,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Simpang Gambus",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042026,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Sumber Makmur",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219042027,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121904,
+    "value": "Sumber Padi",
+    "postal_code": "21255"
+  }
+]

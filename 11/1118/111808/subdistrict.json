@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1118082023,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Buloh",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082026,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Cot Lheue Rheng (Cot Lheu Rheng)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082022,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Cot Makaso",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082020,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Deah Pangwa (Dayah Pangwa)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082008,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Deah Teumanah (Dayah Teumanah)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082017,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Deah Ujong Baroh (Dayah Ujong Baroh)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082006,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Dee (De / Gampong Dee)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082010,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Keude Trienggadeng",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082025,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Kuta Pangwa",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082016,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Matang",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082024,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Mee Pangwa (Me Pangwa)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082002,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Mee Peuduek (Me Peuduek / Peudok Baroh)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082003,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Mesjid Peuduek",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082014,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Mesjid Trienggadeng",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082021,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Meucat (Meucat Pangwa)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082013,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Meue",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082007,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Panton Raya",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082012,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Paya",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082018,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Peulandok Teungoh",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082019,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Peulandok Tunong",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082027,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Rawasari",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082011,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Raya",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082005,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Reuseb",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082001,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Sagoe (Sagou)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082009,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Tampui",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082015,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Teungkluet (Tungkluet / Tung Kleut)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118082004,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111808,
+    "value": "Tuha",
+    "postal_code": "24185"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1905062006,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Air Gantang",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062004,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Bakit",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062003,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Cupat",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062008,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Kapit",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062007,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Kelabat",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062005,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Puput",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062001,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Sekar Biru",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062009,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Semulut",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062002,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Telak",
+    "postal_code": "33363"
+  },
+  {
+    "id": 1905062010,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190506,
+    "value": "Teluk Limau",
+    "postal_code": "33363"
+  }
+]

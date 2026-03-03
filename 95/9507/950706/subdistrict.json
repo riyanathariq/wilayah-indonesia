@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507062005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Bagi",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Binilani",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Ganume",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Gumban",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Lowanom",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Malagai",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Nambu",
+    "postal_code": "99589"
+  },
+  {
+    "id": 9507062003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950706,
+    "value": "Oka",
+    "postal_code": "99589"
+  }
+]

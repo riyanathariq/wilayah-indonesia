@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7503032012,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Boludawa",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032013,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Bube",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032023,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Bube Baru",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032022,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Bubeya",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032028,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Helumo",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032014,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Huluduotamo",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032021,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Tinelo",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Tingkohubu",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032027,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Tingkohubu Timur",
+    "postal_code": "96562"
+  },
+  {
+    "id": 7503032020,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750303,
+    "value": "Ulanta",
+    "postal_code": "96562"
+  }
+]

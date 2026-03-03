@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9209222006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Afrawi",
+    "postal_code": "98395"
+  },
+  {
+    "id": 9209222007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Ajokwapi",
+    "postal_code": "98395"
+  },
+  {
+    "id": 9209222002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Asiti",
+    "postal_code": "98395"
+  },
+  {
+    "id": 9209222003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Bisaud",
+    "postal_code": "98395"
+  },
+  {
+    "id": 9209222005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Nisandauw",
+    "postal_code": "98395"
+  },
+  {
+    "id": 9209222001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920922,
+    "value": "Wausin",
+    "postal_code": "98395"
+  }
+]

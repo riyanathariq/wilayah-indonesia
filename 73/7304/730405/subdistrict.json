@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7304052009,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Bontolebang",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304052010,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Bontonompo (Bonto Nompo)",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304052006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Gantarang",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304052014,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Samataring",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304051001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tolo",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304051005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tolo Barat",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304051003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tolo Selatan",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304051004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tolo Timur",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304051002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tolo Utara",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304052021,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730405,
+    "value": "Tombolo (Tombo)",
+    "postal_code": "92371"
+  }
+]

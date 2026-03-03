@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578041005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Darmo",
+    "postal_code": "60241"
+  },
+  {
+    "id": 3578041002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Jagir",
+    "postal_code": "60244"
+  },
+  {
+    "id": 3578041003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Ngagel",
+    "postal_code": "60246"
+  },
+  {
+    "id": 3578041004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Ngagel Rejo (Ngagelrejo)",
+    "postal_code": "60245"
+  },
+  {
+    "id": 3578041006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Sawunggaling",
+    "postal_code": "60242"
+  },
+  {
+    "id": 3578041001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357804,
+    "value": "Wonokromo",
+    "postal_code": "60243"
+  }
+]

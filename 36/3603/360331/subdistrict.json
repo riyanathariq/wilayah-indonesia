@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3603312005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Cikareo",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Cikasungka",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Cikuya",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Cireundeu",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Munjul",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Pasanggrahan",
+    "postal_code": "15731"
+  },
+  {
+    "id": 3603312001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360331,
+    "value": "Solear",
+    "postal_code": "15731"
+  }
+]

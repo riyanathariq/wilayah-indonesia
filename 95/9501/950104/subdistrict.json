@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9501042001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Hubikosi",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042029,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Ikilumo",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042019,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Isakusa",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042028,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Jibilabaga",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042021,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Kikhumo",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Kosihilapok",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Kosimeage (Kosimeaga)",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042015,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Meagama",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042020,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Pelima",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042018,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Pipukmo",
+    "postal_code": "99552"
+  },
+  {
+    "id": 9501042030,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950104,
+    "value": "Sunili",
+    "postal_code": "99552"
+  }
+]

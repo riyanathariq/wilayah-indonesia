@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3273231001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327323,
+    "value": "Cipamokolan",
+    "postal_code": "40292"
+  },
+  {
+    "id": 3273231002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327323,
+    "value": "Derwati (Darwati)",
+    "postal_code": "40292"
+  },
+  {
+    "id": 3273231004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327323,
+    "value": "Mekarmulya (Mekar Mulya / Mekarjaya)",
+    "postal_code": "40292"
+  },
+  {
+    "id": 3273231003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327323,
+    "value": "Munjahlega (Manjahlega / Cisarantenkidul)",
+    "postal_code": "40295"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406142002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740614,
+    "value": "Baliara",
+    "postal_code": "93780"
+  },
+  {
+    "id": 7406142004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740614,
+    "value": "Baliara Kepulauan",
+    "postal_code": "93780"
+  },
+  {
+    "id": 7406142005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740614,
+    "value": "Baliara Selatan",
+    "postal_code": "93780"
+  },
+  {
+    "id": 7406142003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740614,
+    "value": "Rahantari",
+    "postal_code": "93780"
+  },
+  {
+    "id": 7406141001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740614,
+    "value": "Sikeli",
+    "postal_code": "93780"
+  }
+]

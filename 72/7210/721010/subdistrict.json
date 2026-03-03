@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7210102001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721010,
+    "value": "Lambara",
+    "postal_code": "94368"
+  },
+  {
+    "id": 7210102005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721010,
+    "value": "Sibalaya Barat",
+    "postal_code": "94368"
+  },
+  {
+    "id": 7210102002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721010,
+    "value": "Sibalaya Selatan",
+    "postal_code": "94368"
+  },
+  {
+    "id": 7210102003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721010,
+    "value": "Sibalaya Utara",
+    "postal_code": "94368"
+  },
+  {
+    "id": 7210102004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721010,
+    "value": "Sibowi",
+    "postal_code": "94368"
+  }
+]

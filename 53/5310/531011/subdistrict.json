@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5310112010,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Bajak",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310111019,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Baru",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310111018,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Mata Air",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310111017,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Reo",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310112001,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Robek",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310112009,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Ruis",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310112012,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Salama",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310111020,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Wangkung",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310112011,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Watu Baur",
+    "postal_code": "86592"
+  },
+  {
+    "id": 5310112016,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531011,
+    "value": "Watu Tango",
+    "postal_code": "86592"
+  }
+]

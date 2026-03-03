@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1410082006,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Bandul",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Dedap",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082005,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Kudap",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Mekar Delima",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082010,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Mengkirau",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Mengkopot",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Putri Puyu",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Selat Akar",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Tanjung Padang",
+    "postal_code": "28751"
+  },
+  {
+    "id": 1410082008,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141008,
+    "value": "Tanjung Pisang",
+    "postal_code": "28751"
+  }
+]

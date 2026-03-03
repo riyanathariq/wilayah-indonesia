@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1273031001,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127303,
+    "value": "Aek Habil",
+    "postal_code": "22533"
+  },
+  {
+    "id": 1273031002,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127303,
+    "value": "Aek Manis",
+    "postal_code": "22536"
+  },
+  {
+    "id": 1273031003,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127303,
+    "value": "Aek Muara Pinang",
+    "postal_code": "22537"
+  },
+  {
+    "id": 1273031004,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127303,
+    "value": "Aek Parombunan",
+    "postal_code": "22538"
+  }
+]

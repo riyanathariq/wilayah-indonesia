@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3210132003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Babakananyar (Babakan Anyar)",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Cipaku",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Heuleut",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Kadipaten",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Karangsambung",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Liangjulang",
+    "postal_code": "45452"
+  },
+  {
+    "id": 3210132006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321013,
+    "value": "Pagandon",
+    "postal_code": "45452"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7401181003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Anaiwoi",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Lalonggolosua",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Lamedai",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182013,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Lamoiko",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182012,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Oneeha",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182010,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Palewai",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182008,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Petudua",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Pewisoa Jaya",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Popalia",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182011,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Puundaipa",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182009,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Rahanggada",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Tanggetada",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182014,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Tinggo",
+    "postal_code": "93564"
+  },
+  {
+    "id": 7401182005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740118,
+    "value": "Tondowolio",
+    "postal_code": "93564"
+  }
+]

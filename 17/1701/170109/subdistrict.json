@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1701092010,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Air Tenam Dalam",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092003,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Bandar Agung",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092002,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Batu Kuning",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Batu Panco",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Kayu Ajaran",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092007,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Keban Jati",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092008,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Lubuk Tapi",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Merambung",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Simpang Pino",
+    "postal_code": "38573"
+  },
+  {
+    "id": 1701092006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170109,
+    "value": "Talang Tinggi",
+    "postal_code": "38573"
+  }
+]

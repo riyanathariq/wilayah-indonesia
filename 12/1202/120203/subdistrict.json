@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1202032008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Adian Koting (Adiankoting)",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Banuaji I",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Banuaji II",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Banuaji IV",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Dolok Nauli",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pagaran Lambung III",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pagaran Lambung IV",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032013,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pangaran Lambung I (Pagaran Lambung I)",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032014,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pangaran Lambung II (Pagaran Lambung II)",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pangaran Pisang",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pansurbatu",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032015,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pansurbatu I",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032016,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pansurbatu II",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Pardomuan Nauli",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Siantar Naipospos",
+    "postal_code": "22461"
+  },
+  {
+    "id": 1202032005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120203,
+    "value": "Sibalanga",
+    "postal_code": "22461"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3203282005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Batulawang",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Ciloto",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Cimacan",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Cipanas",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Palasari",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Sindangjaya",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203282004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320328,
+    "value": "Sindanglaya",
+    "postal_code": "43253"
+  }
+]

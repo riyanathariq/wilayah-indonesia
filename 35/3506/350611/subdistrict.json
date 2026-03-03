@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3506112011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Bendo",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Bulupasar",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112016,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Jagung",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Kambingan",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Menang",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Pagu",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Semanding",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Semen",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Sitimerto (Sitimert0)",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Tanjung",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Tengger Kidul",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Wates",
+    "postal_code": "64184"
+  },
+  {
+    "id": 3506112002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350611,
+    "value": "Wonosari",
+    "postal_code": "64184"
+  }
+]

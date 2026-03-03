@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1110102006,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Gosong Telaga Barat",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Gosong Telaga Selatan",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102005,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Gosong Telaga Timur",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Gosong Telaga Utara",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102003,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Kampung Baru",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Ketapang Indah",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110102007,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111010,
+    "value": "Telaga Bakti (Telaga Sakti)",
+    "postal_code": "24791"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7505082002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750508,
+    "value": "Malambe",
+    "postal_code": "96517"
+  },
+  {
+    "id": 7505082003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750508,
+    "value": "Otiola",
+    "postal_code": "96517"
+  },
+  {
+    "id": 7505082001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750508,
+    "value": "Ponelo",
+    "postal_code": "96517"
+  },
+  {
+    "id": 7505082004,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750508,
+    "value": "Tihengo",
+    "postal_code": "96517"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7172081010,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Batukota",
+    "postal_code": "95551"
+  },
+  {
+    "id": 7172081003,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Binuang",
+    "postal_code": "95558"
+  },
+  {
+    "id": 7172081009,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Gunung Woka (Batu Woka)",
+    "postal_code": "95551"
+  },
+  {
+    "id": 7172081008,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Kareko",
+    "postal_code": "95551"
+  },
+  {
+    "id": 7172081005,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Lirang",
+    "postal_code": "95559"
+  },
+  {
+    "id": 7172081001,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Mawali",
+    "postal_code": "95555"
+  },
+  {
+    "id": 7172081004,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Motto",
+    "postal_code": "95559"
+  },
+  {
+    "id": 7172081007,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Nusu",
+    "postal_code": "95551"
+  },
+  {
+    "id": 7172081002,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Pintukota",
+    "postal_code": "95557"
+  },
+  {
+    "id": 7172081006,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717208,
+    "value": "Posokan",
+    "postal_code": "95551"
+  }
+]

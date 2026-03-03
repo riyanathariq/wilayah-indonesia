@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3212262007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Cibereng",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Cikawung",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Jatimulya",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Jatimunggul",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Karangasem",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Kendayakan",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Manggungan",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Plosokerep",
+    "postal_code": "45260"
+  },
+  {
+    "id": 3212262005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321226,
+    "value": "Rajasinga",
+    "postal_code": "45260"
+  }
+]

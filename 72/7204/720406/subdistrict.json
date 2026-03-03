@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7204062001,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Janja",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062004,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Lampasio",
+    "postal_code": "94517"
+  },
+  {
+    "id": 7204062007,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Maibua",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062008,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Mulya Sari (Mulyasari / Mulia Sari)",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062009,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Ogomatanang",
+    "postal_code": "94517"
+  },
+  {
+    "id": 7204062002,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Oyom",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062003,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Salugan",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062006,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Sibea",
+    "postal_code": "94518"
+  },
+  {
+    "id": 7204062005,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720406,
+    "value": "Tinading",
+    "postal_code": "94517"
+  }
+]

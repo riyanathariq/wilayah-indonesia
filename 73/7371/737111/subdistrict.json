@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7371111011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Bakung",
+    "postal_code": "90242"
+  },
+  {
+    "id": 7371111009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Berua",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371111004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Buluroken (Bulurokeng)",
+    "postal_code": "90243"
+  },
+  {
+    "id": 7371111002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Daya",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371111010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Katimbang",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371111008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Laikang",
+    "postal_code": "90242"
+  },
+  {
+    "id": 7371111001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Paccerakkang (Paccerakang)",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371111003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Pai",
+    "postal_code": "90243"
+  },
+  {
+    "id": 7371111005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Sudiang",
+    "postal_code": "90242"
+  },
+  {
+    "id": 7371111006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Sudiang Raya",
+    "postal_code": "90242"
+  },
+  {
+    "id": 7371111007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737111,
+    "value": "Untia",
+    "postal_code": "90241"
+  }
+]

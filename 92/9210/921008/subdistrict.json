@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9210082020,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Afes",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210081001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Ayamaru",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082017,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Fraharo",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082010,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Framu",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082011,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Mefkajim II",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082018,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Smusswioh (Smusuwioh)",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082021,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Tuso",
+    "postal_code": "98240"
+  },
+  {
+    "id": 9210082019,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921008,
+    "value": "Twer",
+    "postal_code": "98240"
+  }
+]

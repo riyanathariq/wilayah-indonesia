@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1805082001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Banjar Agung",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082024,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Banjar Dewa",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082011,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Dwi Warga Tunggal Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Moris Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Tri Dharma Wira Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082020,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Tri Mukti Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082019,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Tri Mulya Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082021,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Tri Tunggal Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082010,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Tunggal Warga",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082023,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Warga Indah Jaya",
+    "postal_code": "34682"
+  },
+  {
+    "id": 1805082022,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180508,
+    "value": "Warga Makmur Jaya",
+    "postal_code": "34682"
+  }
+]

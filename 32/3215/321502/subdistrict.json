@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215022005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Cintaasih",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Ciptasari",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Jatilaksana",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Kertasari",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Medalsari",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Mulangsari",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Tamanmekar",
+    "postal_code": "41362"
+  },
+  {
+    "id": 3215022003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321502,
+    "value": "Tamansari",
+    "postal_code": "41362"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3278061009,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Awipari",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061012,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Ciakar",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061011,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Ciherang",
+    "postal_code": "46416"
+  },
+  {
+    "id": 3278061007,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Kersanagara",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061008,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Kota Baru (Kotabaru)",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061013,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Margabakti",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061014,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Setiajaya",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061010,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Setianagara",
+    "postal_code": "46196"
+  },
+  {
+    "id": 3278061005,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327806,
+    "value": "Setiaratu",
+    "postal_code": "46196"
+  }
+]

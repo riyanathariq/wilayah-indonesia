@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7310112001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Benteng",
+    "postal_code": "90655"
+  },
+  {
+    "id": 7310112005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Boddie",
+    "postal_code": "90655"
+  },
+  {
+    "id": 7310112006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Coppo Tompong",
+    "postal_code": "90655"
+  },
+  {
+    "id": 7310112004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Mandalle",
+    "postal_code": "90655"
+  },
+  {
+    "id": 7310112002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Manggalung",
+    "postal_code": "90655"
+  },
+  {
+    "id": 7310112003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731011,
+    "value": "Tama'rupa",
+    "postal_code": "90655"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1812022006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Daya Asri",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812021001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Daya Murni",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Daya Sakti",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Gunung Menanti",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022010,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Gunung Timbul",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Makarti",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022009,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Margo Dadi",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Margo Mulyo",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Murni Jaya",
+    "postal_code": "34794"
+  },
+  {
+    "id": 1812022008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181202,
+    "value": "Sumber Rejo",
+    "postal_code": "34794"
+  }
+]

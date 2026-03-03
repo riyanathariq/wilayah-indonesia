@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3208272003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Cipancur",
+    "postal_code": "45594"
+  },
+  {
+    "id": 3208272001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Kalimanggis Kulon",
+    "postal_code": "45594"
+  },
+  {
+    "id": 3208272006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Kalimanggis Wetan",
+    "postal_code": "45594"
+  },
+  {
+    "id": 3208272004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Kertawana",
+    "postal_code": "45594"
+  },
+  {
+    "id": 3208272002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Kertawinangun (Partawangunan)",
+    "postal_code": "45594"
+  },
+  {
+    "id": 3208272005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320827,
+    "value": "Wanasaraya",
+    "postal_code": "45594"
+  }
+]

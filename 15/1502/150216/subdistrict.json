@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1502162008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Air Batu",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Durian Batakuk",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Guguk",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Markeh",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Marus Jaya",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Muara Bantan",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Muaro Panco Barat",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162012,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Muaro Panco Timur (Simpang Muaro Panco Timur)",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Parit Ujung Tanjung",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Renah Medan",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Simpang Parit",
+    "postal_code": "37362"
+  },
+  {
+    "id": 1502162002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150216,
+    "value": "Talang Segegah",
+    "postal_code": "37362"
+  }
+]

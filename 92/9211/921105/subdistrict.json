@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9211052001,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Dembek",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052006,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Demini",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052004,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Gaya Baru",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052002,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Nij (Neny Pantai / Nenei Pantai)",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052003,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Siwi",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052005,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Waren",
+    "postal_code": "98322"
+  },
+  {
+    "id": 9211052007,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921105,
+    "value": "Yekwandi",
+    "postal_code": "98322"
+  }
+]

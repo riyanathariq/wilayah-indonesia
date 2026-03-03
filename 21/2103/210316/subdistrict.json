@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2103162003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210316,
+    "value": "Air Lengit",
+    "postal_code": "29778"
+  },
+  {
+    "id": 2103162002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210316,
+    "value": "Harapan Jaya",
+    "postal_code": "29778"
+  },
+  {
+    "id": 2103162001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210316,
+    "value": "Tapau",
+    "postal_code": "29778"
+  }
+]

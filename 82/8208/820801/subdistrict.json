@@ -1,0 +1,106 @@
+[
+  {
+    "id": 8208012001,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Bobong",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012007,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Holbota",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012003,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Kawalo",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012011,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Kilong",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012006,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Kramat",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012004,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Limbo",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012010,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Loho Bubba",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012005,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Meranti Jaya (Maranti Jaya)",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012008,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Pancoran",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012012,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Ratahaya",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012002,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Talo",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012009,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Wayo",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208012013,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820801,
+    "value": "Woyo",
+    "postal_code": "97794"
+  }
+]

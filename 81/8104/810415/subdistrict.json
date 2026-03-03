@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8104152002,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810415,
+    "value": "Jikumarasa (Jikumerasa)",
+    "postal_code": "97570"
+  },
+  {
+    "id": 8104152004,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810415,
+    "value": "Sawa",
+    "postal_code": "97570"
+  },
+  {
+    "id": 8104152001,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810415,
+    "value": "Ubung",
+    "postal_code": "97570"
+  },
+  {
+    "id": 8104152005,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810415,
+    "value": "Waeperang",
+    "postal_code": "97570"
+  },
+  {
+    "id": 8104152003,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810415,
+    "value": "Waimiting (Waemiting)",
+    "postal_code": "97570"
+  }
+]

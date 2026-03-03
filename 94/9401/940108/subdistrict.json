@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9401082003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940108,
+    "value": "Bawei",
+    "postal_code": "98851"
+  },
+  {
+    "id": 9401082004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940108,
+    "value": "Goni",
+    "postal_code": "98851"
+  },
+  {
+    "id": 9401082001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940108,
+    "value": "Napan Yaur",
+    "postal_code": "98851"
+  },
+  {
+    "id": 9401082002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940108,
+    "value": "Yeretuar",
+    "postal_code": "98851"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1309022002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Beriulou",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Bosua",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022004,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Mara",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022007,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Matobe (Matobek)",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Nemnemleleu (Nem-Nem Leleu)",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022008,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Saureinu (Saureinuk)",
+    "postal_code": "25392"
+  },
+  {
+    "id": 1309022006,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130902,
+    "value": "Sioban",
+    "postal_code": "25392"
+  }
+]

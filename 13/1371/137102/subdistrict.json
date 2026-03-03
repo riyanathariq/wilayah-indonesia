@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1371021007,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Andalas",
+    "postal_code": "25126"
+  },
+  {
+    "id": 1371021010,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Ganting Parak Gadang",
+    "postal_code": "25122"
+  },
+  {
+    "id": 1371021003,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Jati",
+    "postal_code": "25129"
+  },
+  {
+    "id": 1371021002,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Jati Baru",
+    "postal_code": "25129"
+  },
+  {
+    "id": 1371021008,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Kubu Dalam Parak Karakah",
+    "postal_code": "25126"
+  },
+  {
+    "id": 1371021006,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Kubu Marapalam",
+    "postal_code": "25125"
+  },
+  {
+    "id": 1371021009,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Parak Gadang Timur",
+    "postal_code": "25123"
+  },
+  {
+    "id": 1371021001,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Sawahan",
+    "postal_code": "25121"
+  },
+  {
+    "id": 1371021004,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Sawahan Timur",
+    "postal_code": "25121"
+  },
+  {
+    "id": 1371021005,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137102,
+    "value": "Simpang Haru",
+    "postal_code": "25123"
+  }
+]

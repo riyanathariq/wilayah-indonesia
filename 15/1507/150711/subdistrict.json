@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1507112003,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Rantau Makmur",
+    "postal_code": "36751"
+  },
+  {
+    "id": 1507112002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Rantau Rasau Desa (Rantau Rasau)",
+    "postal_code": "36751"
+  },
+  {
+    "id": 1507112005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Rawasari",
+    "postal_code": "36751"
+  },
+  {
+    "id": 1507111001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Simpang",
+    "postal_code": "36751"
+  },
+  {
+    "id": 1507112004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Sungai Rambut",
+    "postal_code": "36751"
+  },
+  {
+    "id": 1507112006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150711,
+    "value": "Telaga Limo (Telaga Lima / Telago Limo)",
+    "postal_code": "36751"
+  }
+]

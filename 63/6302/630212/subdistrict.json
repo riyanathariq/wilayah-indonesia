@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6302122009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Banjarsari (Banjar Sari)",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Basuang",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Gunung Batu Besar",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Papaan",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Rampa Manunggul",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Sampanahan",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Sampanahan Hilir",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Sepapah",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122010,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "72166"
+  },
+  {
+    "id": 6302122002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630212,
+    "value": "Sungai Betung",
+    "postal_code": "72166"
+  }
+]

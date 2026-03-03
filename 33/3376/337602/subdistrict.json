@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3376021001,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337602,
+    "value": "Kejambon",
+    "postal_code": "52124"
+  },
+  {
+    "id": 3376021004,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337602,
+    "value": "Mangkukusuman",
+    "postal_code": "52123"
+  },
+  {
+    "id": 3376021005,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337602,
+    "value": "Mintaragen",
+    "postal_code": "52121"
+  },
+  {
+    "id": 3376021003,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337602,
+    "value": "Panggung",
+    "postal_code": "52122"
+  },
+  {
+    "id": 3376021002,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337602,
+    "value": "Slerok",
+    "postal_code": "52125"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5318012001,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Bondo Boghila",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012003,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Karuni",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012002,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Lete Konda",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012017,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Lete Konda Selatan",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012016,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Loko Kalada",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012014,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Payola Umbu",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012013,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Pogo Tena",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012009,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Rama Dana",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012004,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Totok",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012015,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Wee Kambala",
+    "postal_code": "87254"
+  },
+  {
+    "id": 5318012010,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531801,
+    "value": "Wee Mananda",
+    "postal_code": "87254"
+  }
+]

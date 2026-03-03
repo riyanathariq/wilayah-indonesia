@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3203232002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Cibuluh",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Cidamar",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Cimaragang",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Cisalak",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Gelarpawitan",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232014,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Gelarwangi",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Jayapura",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Karangwangi",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Karyabakti",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Kertajadi",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Mekarjaya",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232012,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Neglasari",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232013,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Puncakbaru",
+    "postal_code": "43275"
+  },
+  {
+    "id": 3203232007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320323,
+    "value": "Sukapura",
+    "postal_code": "43275"
+  }
+]

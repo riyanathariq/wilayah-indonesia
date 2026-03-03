@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3210032010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Bagjasari",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Banjaransari",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Cidulang",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Cikijing",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Cilancang (Cilangcang)",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Cipulus",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Cisoka",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Jagasari",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Kancana",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Kasturi",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Sindang",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Sindangpanji",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Sukamukti",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Sukasari",
+    "postal_code": "45466"
+  },
+  {
+    "id": 3210032011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321003,
+    "value": "Sunalari",
+    "postal_code": "45466"
+  }
+]

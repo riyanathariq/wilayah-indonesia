@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6172041002,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Naram",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041003,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Sei/Sungai Bulan",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041001,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Sei/Sungai Garam Hilir",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041004,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Sei/Sungai Rasau",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041007,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Semelagi Kecil",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041006,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Setapuk Besar",
+    "postal_code": "79151"
+  },
+  {
+    "id": 6172041005,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617204,
+    "value": "Setapuk Kecil",
+    "postal_code": "79151"
+  }
+]

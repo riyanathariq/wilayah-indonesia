@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6502032006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Aran",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032009,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Belaka Pitau",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Bena",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Jelet",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Ketaman",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Lame (Lame)",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Peliran (Long Paliran)",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Pua",
+    "postal_code": "77563"
+  },
+  {
+    "id": 6502032001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650203,
+    "value": "Long Pujungan",
+    "postal_code": "77563"
+  }
+]

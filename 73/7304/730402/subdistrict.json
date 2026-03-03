@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7304021001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Bonto Tangnga (Bontotangnga)",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022011,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Bontojai",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022008,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Bontosunggu",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Borongtala",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022010,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Karelayu",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304021006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Manjangloe",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304021005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Taman Roya",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304021002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Tonro Kassi (Tonrokassi)",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304021003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Tonro Kassi Barat (Tonrokassi Barat)",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304021004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Tonro Kassi Timur (Tonrokassi Timur)",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022009,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Turatea",
+    "postal_code": "92350"
+  },
+  {
+    "id": 7304022012,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730402,
+    "value": "Turatea Timur",
+    "postal_code": "92350"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9503132002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Leinoko (Lemoko)",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Lowet",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Pasema",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Pupi",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Sengangge",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Wea",
+    "postal_code": "99709"
+  },
+  {
+    "id": 9503132006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950313,
+    "value": "Wulin",
+    "postal_code": "99709"
+  }
+]

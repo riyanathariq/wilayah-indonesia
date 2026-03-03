@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3507322008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Bangelan",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Kebobang",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Kluwut",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Plandi",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Plaosan",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Sumberdem",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Sumbertempur (Sumber Tempur)",
+    "postal_code": "65161"
+  },
+  {
+    "id": 3507322007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350732,
+    "value": "Wonosari",
+    "postal_code": "65161"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1471051005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Kampung Bandar",
+    "postal_code": "28153"
+  },
+  {
+    "id": 1471051003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Kampung Baru",
+    "postal_code": "28154"
+  },
+  {
+    "id": 1471051004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Kampung Dalam",
+    "postal_code": "28152"
+  },
+  {
+    "id": 1471051001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Padang Bulan",
+    "postal_code": "28156"
+  },
+  {
+    "id": 1471051006,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Padang Terubuk",
+    "postal_code": "28155"
+  },
+  {
+    "id": 1471051002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147105,
+    "value": "Sago",
+    "postal_code": "28151"
+  }
+]

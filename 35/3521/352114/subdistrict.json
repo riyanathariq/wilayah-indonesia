@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3521142001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Babadan",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Gandri",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Ngompro",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Pangkur",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Paras",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Pleset",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Pohkonyal (Poh Konyal)",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Sumber",
+    "postal_code": "63282"
+  },
+  {
+    "id": 3521142006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352114,
+    "value": "Warutengah (Waruk Tengah)",
+    "postal_code": "63282"
+  }
+]

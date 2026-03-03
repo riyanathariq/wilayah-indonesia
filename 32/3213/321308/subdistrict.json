@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213082003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Binong",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Cicadas",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Citrajaya",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082014,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Karangsari",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082016,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Karangwangi",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Kediri",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Kihiyang",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Mulyasari",
+    "postal_code": "41253"
+  },
+  {
+    "id": 3213082018,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321308,
+    "value": "Nanggerang",
+    "postal_code": "41253"
+  }
+]

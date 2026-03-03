@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6106102004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Entipan",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Kenepai Komplek",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Kenerak",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Marsedan Raya",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Nanga Kenepai",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Nanga Lemedak",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Nanga Seberuang",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102011,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Padung Kumang",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102012,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Sekedau",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Semitau Hilir",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Semitau Hulu",
+    "postal_code": "78771"
+  },
+  {
+    "id": 6106102008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610610,
+    "value": "Tua' Abang (Tua Abang)",
+    "postal_code": "78771"
+  }
+]

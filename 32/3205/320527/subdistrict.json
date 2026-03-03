@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3205272006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Bojong",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Bojong Kidul",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Jatimulya",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Mancagahar",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Mandalakasih",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Paas",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Pameungpeuk",
+    "postal_code": "44175"
+  },
+  {
+    "id": 3205272007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320527,
+    "value": "Sirnabakti",
+    "postal_code": "44175"
+  }
+]

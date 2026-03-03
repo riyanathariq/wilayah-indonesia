@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3301211002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330121,
+    "value": "Cilacap",
+    "postal_code": "53211"
+  },
+  {
+    "id": 3301211001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330121,
+    "value": "Sidakaya",
+    "postal_code": "53212"
+  },
+  {
+    "id": 3301211003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330121,
+    "value": "Tambakreja",
+    "postal_code": "53213"
+  },
+  {
+    "id": 3301211004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330121,
+    "value": "Tegalkamulyan",
+    "postal_code": "53215"
+  },
+  {
+    "id": 3301211005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330121,
+    "value": "Tegalreja (Tegalrejo)",
+    "postal_code": "53215"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3213122009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Bunihayu",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Curugrendeng",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122017,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Jalancagak",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Kumpay",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122012,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Sarireja",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Tambakan",
+    "postal_code": "41281"
+  },
+  {
+    "id": 3213122014,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321312,
+    "value": "Tambakmekar",
+    "postal_code": "41281"
+  }
+]

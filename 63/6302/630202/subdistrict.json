@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6302022015,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Gemuruh",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Lontar Selatan",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Lontar Timur",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022018,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Lontar Utara",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Sebanti",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Semaras",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Sepagar",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022022,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Subur Makmur",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022021,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Sumber Sari",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022017,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Tapian Balai (Tepian Balai)",
+    "postal_code": "72153"
+  },
+  {
+    "id": 6302022012,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630202,
+    "value": "Terangkih (Terangkeh)",
+    "postal_code": "72153"
+  }
+]

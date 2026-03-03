@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3524072004,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Brengkok",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524071010,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Brondong",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072002,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Labuhan",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072007,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Lembor",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072001,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Lohgung",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072008,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Sedayulawas",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072006,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Sendangharjo",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072003,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Sidomukti",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072009,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Sumberagung",
+    "postal_code": "62263"
+  },
+  {
+    "id": 3524072005,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352407,
+    "value": "Tlogoretno",
+    "postal_code": "62263"
+  }
+]

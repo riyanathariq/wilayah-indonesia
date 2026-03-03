@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5204222003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Boak",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Jorok",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Kerato",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Kerekeh",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222008,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Nijang",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Pelat",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Pungka",
+    "postal_code": "84310"
+  },
+  {
+    "id": 5204222007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520422,
+    "value": "Uma Beringin",
+    "postal_code": "84310"
+  }
+]

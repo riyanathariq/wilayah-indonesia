@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9106182001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Andei",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Andei Sup",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Bawei",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182009,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Koryakam",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Manggari",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Saunbri (Sauribru)",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182006,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Sauri",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Serdori",
+    "postal_code": "98563"
+  },
+  {
+    "id": 9106182002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910618,
+    "value": "Syoribu (Syoribo)",
+    "postal_code": "98563"
+  }
+]

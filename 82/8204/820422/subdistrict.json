@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204222005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Bibinoi",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Songa",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Tabapoma",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Tawa",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Tomara",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Tutupa",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204222001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820422,
+    "value": "Wayatim",
+    "postal_code": "97791"
+  }
+]

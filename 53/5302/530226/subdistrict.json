@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5302262007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Eno Nabuasa",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Fatutnana",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Naip",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Oe'ekam (Oe Ekam / Oelekam)",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Oebaki",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Oepliki",
+    "postal_code": "85567"
+  },
+  {
+    "id": 5302262005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530226,
+    "value": "Teas",
+    "postal_code": "85567"
+  }
+]

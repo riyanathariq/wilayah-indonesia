@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1608042014,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Campang Tiga Hulu (Campang Tiga Ulu)",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042018,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Campang Tiga Ilir",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042021,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Campang Tiga Jaya",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042016,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Cempaka",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Gunung Batu",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042011,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Gunung Jati",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042020,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Harisan Jaya",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042012,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Kuripan",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042019,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Maluai Indah (Meluai Indah)",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042013,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Negeri Sakti",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042017,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Sukabumi",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042015,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Sukaraja",
+    "postal_code": "32384"
+  },
+  {
+    "id": 1608042010,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160804,
+    "value": "Ulak Baru",
+    "postal_code": "32384"
+  }
+]

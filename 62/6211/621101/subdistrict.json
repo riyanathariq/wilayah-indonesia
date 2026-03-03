@@ -1,0 +1,130 @@
+[
+  {
+    "id": 6211012011,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Belanti Siam",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012001,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Dandang",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012012,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Gadabung",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012015,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Kantan Atas",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012014,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Kantan Dalam",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012005,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Kantan Muara",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012016,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Karya Bersama",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012013,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Mulyasari (Mulia Sari)",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012003,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Pangkoh Hilir",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012004,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Pangkoh Hulu",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012008,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Pangkoh Sari",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012010,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Pantik",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012009,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Sanggang",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012002,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Talio",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012007,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Talio Hulu",
+    "postal_code": "74871"
+  },
+  {
+    "id": 6211012006,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621101,
+    "value": "Talio Muara",
+    "postal_code": "74871"
+  }
+]

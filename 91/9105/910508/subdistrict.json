@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9105082011,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Aisau",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Barawai",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Kororompui",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082013,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Sawendui",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082012,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Sewenui",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Waindu",
+    "postal_code": "98641"
+  },
+  {
+    "id": 9105082009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910508,
+    "value": "Woda",
+    "postal_code": "98641"
+  }
+]

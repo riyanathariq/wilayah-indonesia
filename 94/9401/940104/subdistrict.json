@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9401042016,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Argo Mulyo (Argomulyo)",
+    "postal_code": "98842"
+  },
+  {
+    "id": 9401042018,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Gamei Jaya",
+    "postal_code": "98842"
+  },
+  {
+    "id": 9401042015,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Marga Jaya (Margajaya)",
+    "postal_code": "98842"
+  },
+  {
+    "id": 9401042005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Topo",
+    "postal_code": "98842"
+  },
+  {
+    "id": 9401042017,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Topo Jaya",
+    "postal_code": "98842"
+  },
+  {
+    "id": 9401042013,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940104,
+    "value": "Urumusu",
+    "postal_code": "98842"
+  }
+]

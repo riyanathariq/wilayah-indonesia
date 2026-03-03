@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9502332007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Baramirye",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Barice",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Imde",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Kalek",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Lumdakna",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Mandalak",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Marikla",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Pamek",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Pinggon",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Yabosorom",
+    "postal_code": "99454"
+  },
+  {
+    "id": 9502332009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950233,
+    "value": "Yokul",
+    "postal_code": "99454"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5307102020,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Geliting",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Iantena (Ian Tena)",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Kopong",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Namangkewa",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Seusina",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102016,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Umagera",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102021,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Waiara",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102024,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Wairkoja",
+    "postal_code": "86182"
+  },
+  {
+    "id": 5307102026,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530710,
+    "value": "Watukobu",
+    "postal_code": "86182"
+  }
+]

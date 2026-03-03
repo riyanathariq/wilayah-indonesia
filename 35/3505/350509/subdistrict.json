@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3505092005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Bangsri",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Dayu",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Jiwut",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Kedawung",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Kemloko",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Krenceng",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Modangan",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505091009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Nglegok",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Ngoran",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Penataran",
+    "postal_code": "66181"
+  },
+  {
+    "id": 3505092001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350509,
+    "value": "Sumberasri",
+    "postal_code": "66181"
+  }
+]

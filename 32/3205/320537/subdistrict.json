@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3205372003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Mekarmukti",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Mekarmulya",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Mekarwangi",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Selaawi",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Sukalaksana",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Sukamaju",
+    "postal_code": "44167"
+  },
+  {
+    "id": 3205372002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320537,
+    "value": "Sukamulya",
+    "postal_code": "44167"
+  }
+]

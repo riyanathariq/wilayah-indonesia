@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1276021007,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Karya Jaya",
+    "postal_code": "20611"
+  },
+  {
+    "id": 1276021009,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Lalang",
+    "postal_code": "20614"
+  },
+  {
+    "id": 1276021013,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Mekar Sentosa",
+    "postal_code": "20616"
+  },
+  {
+    "id": 1276021004,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Rantau Laban",
+    "postal_code": "20614"
+  },
+  {
+    "id": 1276021011,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Sri Padang",
+    "postal_code": "20616"
+  },
+  {
+    "id": 1276021010,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Tanjung Marulak",
+    "postal_code": "20616"
+  },
+  {
+    "id": 1276021012,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127602,
+    "value": "Tanjung Marulak Hilir",
+    "postal_code": "20616"
+  }
+]

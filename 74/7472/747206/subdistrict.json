@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7472061010,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747206,
+    "value": "Baadia",
+    "postal_code": "93727"
+  },
+  {
+    "id": 7472061008,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747206,
+    "value": "Lamangga",
+    "postal_code": "93725"
+  },
+  {
+    "id": 7472061009,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747206,
+    "value": "Melai",
+    "postal_code": "93727"
+  },
+  {
+    "id": 7472061011,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747206,
+    "value": "Tanganapada",
+    "postal_code": "93721"
+  },
+  {
+    "id": 7472061007,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747206,
+    "value": "Wajo",
+    "postal_code": "93726"
+  }
+]

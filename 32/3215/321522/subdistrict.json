@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215222007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Ciptamarga",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Jayakerta",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Jayamakmur",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Kampungsawah",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Kemiri",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Kertajaya",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Makmurjaya",
+    "postal_code": "41351"
+  },
+  {
+    "id": 3215222006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321522,
+    "value": "Medangasem",
+    "postal_code": "41351"
+  }
+]

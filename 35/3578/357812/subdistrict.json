@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578121001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357812,
+    "value": "Bongkaran",
+    "postal_code": "60161"
+  },
+  {
+    "id": 3578121003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357812,
+    "value": "Krembangan Utara",
+    "postal_code": "60163"
+  },
+  {
+    "id": 3578121002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357812,
+    "value": "Nyamplungan",
+    "postal_code": "60162"
+  },
+  {
+    "id": 3578121006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357812,
+    "value": "Tanjung Perak",
+    "postal_code": "60164"
+  }
+]

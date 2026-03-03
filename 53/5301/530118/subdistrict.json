@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5301181001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530118,
+    "value": "Buraen",
+    "postal_code": "85377"
+  },
+  {
+    "id": 5301182003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530118,
+    "value": "Nekmese",
+    "postal_code": "85377"
+  },
+  {
+    "id": 5301182004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530118,
+    "value": "Retraen",
+    "postal_code": "85377"
+  },
+  {
+    "id": 5301182005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530118,
+    "value": "Sahraen",
+    "postal_code": "85377"
+  },
+  {
+    "id": 5301181002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530118,
+    "value": "Sonraen",
+    "postal_code": "85377"
+  }
+]

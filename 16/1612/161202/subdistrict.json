@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1612022005,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Karang Tanding",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022009,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Kota Baru",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022006,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Lubuk Tampui",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022013,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Muara Ikan",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022003,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Prabu Menang",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022001,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Sukarami",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022012,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tambak",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022004,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tanding Marga",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022002,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tanjung Baru",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022007,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tempirai",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022008,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tempirai Selatan",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022011,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tempirai Timur (Tempurai Timur)",
+    "postal_code": "31317"
+  },
+  {
+    "id": 1612022010,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161202,
+    "value": "Tempirai Utara (Tempurai Utara)",
+    "postal_code": "31317"
+  }
+]

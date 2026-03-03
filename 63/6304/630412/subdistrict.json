@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6304122008,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Bandar Karya",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Karya Indah",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122010,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Karya Jadi",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122009,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Karya Makmur",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Muara Pulau",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122011,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Pantang Baru",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Pantang Raya",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Rantau Bamban",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Tabukan Raya",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Tamba Jaya",
+    "postal_code": "70553"
+  },
+  {
+    "id": 6304122003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630412,
+    "value": "Teluk Tamba",
+    "postal_code": "70553"
+  }
+]

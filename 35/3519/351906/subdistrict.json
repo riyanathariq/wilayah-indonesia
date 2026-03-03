@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3519062001,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Batok",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062002,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Durenan",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062005,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Gemarang",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062007,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Nampu",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062006,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Sebayi",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062004,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Tawangrejo",
+    "postal_code": "63156"
+  },
+  {
+    "id": 3519062003,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351906,
+    "value": "Winong",
+    "postal_code": "63156"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3529102001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Bataal Barat",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Bataal Timur",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Billapora Barat (Bilapora Barat)",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Billapora Timur (Bilapora Timur)",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102010,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Gadu Barat",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Gadu Timur",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Ganding",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102013,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Ketawang Daleman",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102014,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Ketawang Karay",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102011,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Ketawang Larangan",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102012,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Ketawang Parebaan",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Rombiya Barat",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Rombiya Timur",
+    "postal_code": "69462"
+  },
+  {
+    "id": 3529102005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352910,
+    "value": "Talaga",
+    "postal_code": "69462"
+  }
+]

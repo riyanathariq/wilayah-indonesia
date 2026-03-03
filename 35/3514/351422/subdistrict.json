@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3514222003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Alas Tlogo",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Balonganyar (Balung Anyar)",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Branang",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Gejugjati (Gejug Jati)",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Jatirejo",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Pasinan",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Rowogempol (Rowo Gempol)",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222011,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Semedusari",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Tambaklekok (Tambak Lekok)",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Tampung",
+    "postal_code": "67186"
+  },
+  {
+    "id": 3514222010,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351422,
+    "value": "Wates",
+    "postal_code": "67186"
+  }
+]

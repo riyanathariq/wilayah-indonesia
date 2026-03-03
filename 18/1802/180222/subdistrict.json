@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1802222009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Kutowinangun",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Agung",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Asih",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Baru",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Mukti",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Mulyo",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Rejo",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Retno",
+    "postal_code": "34178"
+  },
+  {
+    "id": 1802222007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180222,
+    "value": "Sendang Sari (Asri)",
+    "postal_code": "34178"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9111062013,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Amyu",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062008,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Kibay",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062014,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Kikere (Pikere)",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062006,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Kriku",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062015,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Petewi",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062009,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Sangke",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062007,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Skofro",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062011,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Suskun",
+    "postal_code": "99472"
+  },
+  {
+    "id": 9111062005,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911106,
+    "value": "Yetti",
+    "postal_code": "99472"
+  }
+]

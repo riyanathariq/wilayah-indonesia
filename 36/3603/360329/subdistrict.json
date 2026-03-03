@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3603292007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Badak Anom",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Sindang Jaya",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Sindangasih (Sindang Asih)",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Sindangpanon (Sindang Panon)",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Sindangsono (Sindang Sono)",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Sukaharja (Suka Harja)",
+    "postal_code": "15561"
+  },
+  {
+    "id": 3603292002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360329,
+    "value": "Wanakerta (Wana Kerta)",
+    "postal_code": "15561"
+  }
+]

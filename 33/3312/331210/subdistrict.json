@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3312102003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Bero",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312102004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Gunungan",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312102005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Karanglor",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312102001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Kepuhsari",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312101006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Pagutan",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312102002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Pijiharjo",
+    "postal_code": "57662"
+  },
+  {
+    "id": 3312101007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331210,
+    "value": "Punduhsari",
+    "postal_code": "57662"
+  }
+]

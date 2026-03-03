@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3505012009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Gandekan",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Jaten",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Kaliboto",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Kebonagung",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Kolomayan",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Kunir",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Pikatan",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Rejosari",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Salam",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Tawangrejo",
+    "postal_code": "66155"
+  },
+  {
+    "id": 3505012005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350501,
+    "value": "Wonodadi",
+    "postal_code": "66155"
+  }
+]

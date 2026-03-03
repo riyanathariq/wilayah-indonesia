@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1171062006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Gampong Jawa",
+    "postal_code": "23128"
+  },
+  {
+    "id": 1171062005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Gampong Pande",
+    "postal_code": "23128"
+  },
+  {
+    "id": 1171062001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Keudah",
+    "postal_code": "23129"
+  },
+  {
+    "id": 1171062004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Lampaseh Kota",
+    "postal_code": "23231"
+  },
+  {
+    "id": 1171062003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Merduati",
+    "postal_code": "23242"
+  },
+  {
+    "id": 1171062002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117106,
+    "value": "Peulanggahan",
+    "postal_code": "23129"
+  }
+]

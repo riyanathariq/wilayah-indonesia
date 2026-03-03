@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7314052007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Bulo",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314052006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Bulowattang (Bulo Wattang)",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314052008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Cipotakari",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314051004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Kadidi",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314051002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Lelebata (Lalebata)",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314051003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Maccorawalie (Macorawalie)",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314051001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Rappang",
+    "postal_code": "91651"
+  },
+  {
+    "id": 7314052005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731405,
+    "value": "Timoreng Panua",
+    "postal_code": "91651"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 111504,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Beutong"
+  },
+  {
+    "id": 111510,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Beutong Ateuh Banggalang"
+  },
+  {
+    "id": 111505,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Darul Makmur"
+  },
+  {
+    "id": 111501,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Kuala"
+  },
+  {
+    "id": 111507,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Kuala Pesisir"
+  },
+  {
+    "id": 111502,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Seunagan"
+  },
+  {
+    "id": 111503,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Seunagan Timur"
+  },
+  {
+    "id": 111506,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Suka Makmue"
+  },
+  {
+    "id": 111508,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Tadu Raya"
+  },
+  {
+    "id": 111509,
+    "province_id": 11,
+    "regency_id": 1115,
+    "value": "Tripa Makmur"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3528102001,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Bajur",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102007,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Ragang",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102008,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Sana Laok",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102002,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Sumber Waru",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102004,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tampojung Guwa",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102003,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tampojung Pregih (Tampojung Pregi)",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102005,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tampojung Tengah",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102006,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tampojung Tenggina",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102012,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tegangser Laok (Tagangser Laok)",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102011,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Tlonto Ares",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102010,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Waru Barat",
+    "postal_code": "69353"
+  },
+  {
+    "id": 3528102009,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352810,
+    "value": "Waru Timur",
+    "postal_code": "69353"
+  }
+]

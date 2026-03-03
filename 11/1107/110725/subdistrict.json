@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1107252004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Baroh",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Beureuleung",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Daka",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Gintong",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Grong Grong",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Karieng",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Mee Beureuleung (Meunasah Mee)",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Mesjid Beureuleung",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Mesjid Memeuaneuk",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Nicah (Nicah Meuaneuk)",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Pangge Pilok (Pangge / Pilok)",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Paya",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Sentosa",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Sukon",
+    "postal_code": "24150"
+  },
+  {
+    "id": 1107252007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110725,
+    "value": "Teungoh",
+    "postal_code": "24150"
+  }
+]

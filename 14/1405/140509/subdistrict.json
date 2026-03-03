@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1405092006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Gambut Mutiara",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Kuala Panduk",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Labuhan Bilik",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Pangkalan Terap",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Petodaan",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Pulau Muda",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Segamai",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405092004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Teluk Binjai",
+    "postal_code": "28354"
+  },
+  {
+    "id": 1405091001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140509,
+    "value": "Teluk Meranti",
+    "postal_code": "28354"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3402012001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340201,
+    "value": "Poncosari",
+    "postal_code": "55762"
+  },
+  {
+    "id": 3402012002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340201,
+    "value": "Trimurti",
+    "postal_code": "55762"
+  }
+]

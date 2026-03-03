@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7101222007,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Insil",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222012,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Insil Baru",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Manembo",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222009,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Mobuya",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Pangian",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222014,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Pangian Barat",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222013,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Pangian Tengah",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Poopo",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222015,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Poopo Barat",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222016,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Poopo Selatan",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Sinsingon",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222017,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Sinsingon Barat",
+    "postal_code": "95750"
+  },
+  {
+    "id": 7101222018,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710122,
+    "value": "Sinsingon Timur",
+    "postal_code": "95750"
+  }
+]

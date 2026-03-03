@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1103242001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110324,
+    "value": "Arul Pinang",
+    "postal_code": "24461"
+  },
+  {
+    "id": 1103242004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110324,
+    "value": "Bukit Tiga",
+    "postal_code": "24461"
+  },
+  {
+    "id": 1103242002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110324,
+    "value": "Peunaron Baru",
+    "postal_code": "24461"
+  },
+  {
+    "id": 1103242003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110324,
+    "value": "Peunaron Lama",
+    "postal_code": "24461"
+  },
+  {
+    "id": 1103242006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110324,
+    "value": "Sri Mulya (Srimulya)",
+    "postal_code": "24461"
+  }
+]

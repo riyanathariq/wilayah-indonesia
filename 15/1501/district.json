@@ -1,0 +1,110 @@
+[
+  {
+    "id": 150105,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Air Hangat"
+  },
+  {
+    "id": 150121,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Air Hangat Barat"
+  },
+  {
+    "id": 150111,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Air Hangat Timur"
+  },
+  {
+    "id": 150107,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Batang Merangin"
+  },
+  {
+    "id": 150120,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Bukitkerman"
+  },
+  {
+    "id": 150102,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Danau Kerinci"
+  },
+  {
+    "id": 150123,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Danau Kerinci Barat"
+  },
+  {
+    "id": 150117,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Depati Tujuh"
+  },
+  {
+    "id": 150106,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Gunung Kerinci"
+  },
+  {
+    "id": 150101,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Gunung Raya"
+  },
+  {
+    "id": 150115,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Gunung Tujuh"
+  },
+  {
+    "id": 150109,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Kayu Aro"
+  },
+  {
+    "id": 150119,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Kayu Aro Barat"
+  },
+  {
+    "id": 150108,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Keliling Danau"
+  },
+  {
+    "id": 150104,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Sitinjau Laut"
+  },
+  {
+    "id": 150116,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Siulak"
+  },
+  {
+    "id": 150118,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Siulak Mukai"
+  },
+  {
+    "id": 150122,
+    "province_id": 15,
+    "regency_id": 1501,
+    "value": "Tanah Cogok"
+  }
+]

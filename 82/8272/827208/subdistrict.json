@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8272081005,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Cobodoe",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081003,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Dowora",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081006,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Doyado",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081007,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Jiko Cobo",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081004,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Kalaodi",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081001,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Mafututu",
+    "postal_code": "97822"
+  },
+  {
+    "id": 8272081002,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827208,
+    "value": "Tosa",
+    "postal_code": "97822"
+  }
+]

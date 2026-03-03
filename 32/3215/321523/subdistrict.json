@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3215232005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Bayur Kidul",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Bayur Lor",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Kiara",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Langensari",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Manggungjaya",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Muktijaya",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Pasirjaya",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Pasirukem",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Sukajaya",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Sukamulya",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Sumurgede",
+    "postal_code": "41384"
+  },
+  {
+    "id": 3215232002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321523,
+    "value": "Tegalurung",
+    "postal_code": "41384"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7104102004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Ammat",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102009,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Ammat Selatan",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Binalang",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102010,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Binalang Timur",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Dapalan",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Dapihe",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Ganalo",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Riung",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102011,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Riung Utara",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Tuabatu",
+    "postal_code": "95882"
+  },
+  {
+    "id": 7104102008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710410,
+    "value": "Tuabatu Barat",
+    "postal_code": "95882"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7505012004,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Bintana",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012005,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Buata",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012013,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Iloheluma",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Imana",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012011,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Inomata (Ilomata)",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012008,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Kotajin (Kota Jin)",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012018,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Kotajin Utara",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Monggupo",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012019,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Oluhuta",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012006,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Pinontoyonga",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012015,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Posono",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012016,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Sigaso",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012017,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Tombulilato",
+    "postal_code": "96516"
+  },
+  {
+    "id": 7505012014,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750501,
+    "value": "Wapalo",
+    "postal_code": "96516"
+  }
+]

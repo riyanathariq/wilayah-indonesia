@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3173031007,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Glodok",
+    "postal_code": "11120"
+  },
+  {
+    "id": 3173031006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Keagungan",
+    "postal_code": "11130"
+  },
+  {
+    "id": 3173031002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Krukut",
+    "postal_code": "11140"
+  },
+  {
+    "id": 3173031005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Mangga Besar",
+    "postal_code": "11180"
+  },
+  {
+    "id": 3173031003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Maphar",
+    "postal_code": "11160"
+  },
+  {
+    "id": 3173031008,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Pinangsia",
+    "postal_code": "11110"
+  },
+  {
+    "id": 3173031001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Taman Sari",
+    "postal_code": "11150"
+  },
+  {
+    "id": 3173031004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317303,
+    "value": "Tangki",
+    "postal_code": "11170"
+  }
+]

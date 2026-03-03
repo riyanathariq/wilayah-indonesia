@@ -1,0 +1,234 @@
+[
+  {
+    "id": 3318082017,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Agungmulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082027,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bajomulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082018,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bakaran Kulon",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082019,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bakaran Wetan",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082028,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bendar",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082002,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bringin",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082007,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Bumirejo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082011,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Doropayung",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082020,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Dukutalit",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082013,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Gadingrejo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082016,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Genengmulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082021,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Growong Kidul",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082022,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Growong Lor",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082009,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Jepuro",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082005,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Karang",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082006,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Karangrejo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082023,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Kauman",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082026,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Kebonsawahan",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082008,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Kedungpancing",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082003,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Ketip",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082025,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Kudukeras",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082015,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Langgenharjo (Langenharjo)",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082014,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Margomulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082012,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Mintomulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082024,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Pajeksan",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082004,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Pekuwon",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082001,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Sejomulyo",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082010,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Tluwah",
+    "postal_code": "59185"
+  },
+  {
+    "id": 3318082029,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331808,
+    "value": "Trimulyo",
+    "postal_code": "59185"
+  }
+]

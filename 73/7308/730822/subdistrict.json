@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7308221005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Bulu Tempe",
+    "postal_code": "92735"
+  },
+  {
+    "id": 7308221006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Jeppee",
+    "postal_code": "92732"
+  },
+  {
+    "id": 7308221003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Macanang",
+    "postal_code": "92733"
+  },
+  {
+    "id": 7308221001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Macege",
+    "postal_code": "92732"
+  },
+  {
+    "id": 7308221004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Majang",
+    "postal_code": "92734"
+  },
+  {
+    "id": 7308221002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Matirro Walie (Mattiro Walie)",
+    "postal_code": "92731"
+  },
+  {
+    "id": 7308221007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Polewali",
+    "postal_code": "92731"
+  },
+  {
+    "id": 7308221008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730822,
+    "value": "Watang Palakka",
+    "postal_code": "92731"
+  }
+]

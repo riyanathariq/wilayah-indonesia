@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206072004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920607,
+    "value": "Mamuranu",
+    "postal_code": "98146"
+  },
+  {
+    "id": 9206072001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920607,
+    "value": "Wamesa I - Idoor",
+    "postal_code": "98146"
+  },
+  {
+    "id": 9206072002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920607,
+    "value": "Wamesa II - Yakati",
+    "postal_code": "98146"
+  },
+  {
+    "id": 9206072003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920607,
+    "value": "Yansei (Yansey/Ensei/Yensei)",
+    "postal_code": "98146"
+  }
+]

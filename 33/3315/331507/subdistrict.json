@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3315072006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Bago",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Banjardowo",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072010,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Banjarsari",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Crewek",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072013,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Grabagan",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072011,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Kalisari",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Kradenan",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072012,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Kuwu",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Pakis",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Rejosari",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Sambongbangi",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Sengonwetan",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Simo",
+    "postal_code": "58182"
+  },
+  {
+    "id": 3315072014,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331507,
+    "value": "Tanjungsari",
+    "postal_code": "58182"
+  }
+]

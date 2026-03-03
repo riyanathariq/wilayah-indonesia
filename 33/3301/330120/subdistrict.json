@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3301202002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Bantarsari",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Binangun",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Bulaksari",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Cikedondong",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Citembong",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Kamulyan",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Kedungwadas",
+    "postal_code": "53281"
+  },
+  {
+    "id": 3301202007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330120,
+    "value": "Rawajaya",
+    "postal_code": "53281"
+  }
+]

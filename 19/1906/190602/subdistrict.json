@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1906022010,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Batu Penyu",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Gantung",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022003,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Jangkar Asam",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022009,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Lenggang",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022004,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Lilangan",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022011,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Limbongan",
+    "postal_code": "33562"
+  },
+  {
+    "id": 1906022002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190602,
+    "value": "Selingsing",
+    "postal_code": "33562"
+  }
+]

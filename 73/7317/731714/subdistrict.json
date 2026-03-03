@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7317142002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Lamunre",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317142008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Lamunre Tengah",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317142003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Lauwa",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317142007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Lebani",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317142006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Paconne",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317141004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Pammanu",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317141001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Sabe",
+    "postal_code": "91984"
+  },
+  {
+    "id": 7317142005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731714,
+    "value": "Seppong",
+    "postal_code": "91984"
+  }
+]

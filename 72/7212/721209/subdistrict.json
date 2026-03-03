@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7212092010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Girimulya",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Kolo Atas",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Kolo Bawah",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Lijo",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092014,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Menyo'e (Manyoe)",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Momo",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Pandauke",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Parangisi",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092013,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Sea",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092012,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Tambale",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Tananagaya (Tanangaya)",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Tanasumpu",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Uepakatu (Uepaku)",
+    "postal_code": "94968"
+  },
+  {
+    "id": 7212092011,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721209,
+    "value": "Winangobino (Winangabino)",
+    "postal_code": "94968"
+  }
+]

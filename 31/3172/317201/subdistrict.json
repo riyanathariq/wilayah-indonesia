@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3172011002,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317201,
+    "value": "Kamal Muara",
+    "postal_code": "14470"
+  },
+  {
+    "id": 3172011003,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317201,
+    "value": "Kapuk Muara",
+    "postal_code": "14460"
+  },
+  {
+    "id": 3172011004,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317201,
+    "value": "Pejagalan",
+    "postal_code": "14450"
+  },
+  {
+    "id": 3172011001,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317201,
+    "value": "Penjaringan",
+    "postal_code": "14440"
+  },
+  {
+    "id": 3172011005,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317201,
+    "value": "Pluit",
+    "postal_code": "14450"
+  }
+]

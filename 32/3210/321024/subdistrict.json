@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3210242010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Gandasari",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Girimukti",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Gunungsari",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Jatimulya",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Jatisawit",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Kasokandel",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Leuwikidang",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Ranji Kulon (Ranjikulon)",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Ranji Wetan (Ranjiwetan)",
+    "postal_code": "45451"
+  },
+  {
+    "id": 3210242009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321024,
+    "value": "Wanajaya",
+    "postal_code": "45451"
+  }
+]

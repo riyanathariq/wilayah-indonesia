@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504442002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Aburage",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Bogome",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Erimbur",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Gubura",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Kogoyapura",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Leragawi/Megagirakuk",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Longgoboma",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Lubuk",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Tingwi",
+    "postal_code": "99031"
+  },
+  {
+    "id": 9504442001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950444,
+    "value": "Wiyaluk",
+    "postal_code": "99031"
+  }
+]

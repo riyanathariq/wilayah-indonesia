@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7326142004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732614,
+    "value": "Baruppu Baropo (Baruppu Parodo)",
+    "postal_code": "91846"
+  },
+  {
+    "id": 7326142003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732614,
+    "value": "Baruppu Benteng Batu",
+    "postal_code": "91846"
+  },
+  {
+    "id": 7326141002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732614,
+    "value": "Baruppu Selatan",
+    "postal_code": "91846"
+  },
+  {
+    "id": 7326142001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732614,
+    "value": "Baruupu Utara (Baruppu Utara)",
+    "postal_code": "91846"
+  }
+]

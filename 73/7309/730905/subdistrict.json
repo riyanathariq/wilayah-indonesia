@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7309052008,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Ampikale (Ampekale)",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052009,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Bonto Bahari",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309051001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Bontoa",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Botolempangang",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052007,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Minasupa (Minasa Upa)",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Pajukukang",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Salenrang",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Tunikamaseang",
+    "postal_code": "90554"
+  },
+  {
+    "id": 7309052004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730905,
+    "value": "Tuppabiring (Tupabiring)",
+    "postal_code": "90554"
+  }
+]

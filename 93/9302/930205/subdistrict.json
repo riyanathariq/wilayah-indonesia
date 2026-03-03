@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9302052008,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Anggai",
+    "postal_code": "99651"
+  },
+  {
+    "id": 9302052010,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Asiki",
+    "postal_code": "99651"
+  },
+  {
+    "id": 9302052009,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Butiptiri",
+    "postal_code": "99651"
+  },
+  {
+    "id": 9302052006,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Getentiri",
+    "postal_code": "99651"
+  },
+  {
+    "id": 9302052013,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Kapogu",
+    "postal_code": "99651"
+  },
+  {
+    "id": 9302052014,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930205,
+    "value": "Miri",
+    "postal_code": "99651"
+  }
+]

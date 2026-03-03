@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7201212008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Awu",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Biak",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Boyou",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Bumi Beringin",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Bunga",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Buon Mandiri",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Kamumu",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201211010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Kilongan",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201211011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Kilongan Permai",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Lenyek",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201212004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720121,
+    "value": "Salodik",
+    "postal_code": "94711"
+  }
+]

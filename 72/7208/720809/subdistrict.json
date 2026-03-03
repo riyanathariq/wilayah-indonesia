@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7208092003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Astina",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Purwosari",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Tanalanto (Tanah Lanto)",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Tolai",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Tolai Barat",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Tolai Timur",
+    "postal_code": "94470"
+  },
+  {
+    "id": 7208092002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720809,
+    "value": "Torue",
+    "postal_code": "94470"
+  }
+]

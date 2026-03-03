@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6106232003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Kantuk Asam",
+    "postal_code": "78769"
+  },
+  {
+    "id": 6106232004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Kantuk Bunut",
+    "postal_code": "78769"
+  },
+  {
+    "id": 6106232006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Langau",
+    "postal_code": "78769"
+  },
+  {
+    "id": 6106232002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Merakai Panjang",
+    "postal_code": "78769"
+  },
+  {
+    "id": 6106232001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Sei/Sungai Antu",
+    "postal_code": "78769"
+  },
+  {
+    "id": 6106232005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610623,
+    "value": "Sungai Mawang",
+    "postal_code": "78769"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5321072001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "As Manulea",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072008,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Beaneno",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Builaran",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Fatuaruin",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Manulea",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Manumutin Silole",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Naibone",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072009,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Naisau",
+    "postal_code": "85769"
+  },
+  {
+    "id": 5321072007,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532107,
+    "value": "Umutnana",
+    "postal_code": "85769"
+  }
+]

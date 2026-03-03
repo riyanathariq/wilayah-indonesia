@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9302062004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930206,
+    "value": "Aifa (Aifo)",
+    "postal_code": "99672"
+  },
+  {
+    "id": 9302062002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930206,
+    "value": "Bomakia Dua (II)",
+    "postal_code": "99672"
+  },
+  {
+    "id": 9302062001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930206,
+    "value": "Bomakia Satu (I)",
+    "postal_code": "99672"
+  },
+  {
+    "id": 9302062003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930206,
+    "value": "Somi",
+    "postal_code": "99672"
+  },
+  {
+    "id": 9302062005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930206,
+    "value": "Uni",
+    "postal_code": "99672"
+  }
+]

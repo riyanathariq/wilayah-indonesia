@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3209242004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Arjawinangun",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Bulak",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Geyongan",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Jungjang",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Jungjang Wetan",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Karangsambung",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Kebonturi",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Rawagatel",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Sende",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Tegal Gubug Lor (Tegalgubug Lor)",
+    "postal_code": "45162"
+  },
+  {
+    "id": 3209242005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320924,
+    "value": "Tegalgubug",
+    "postal_code": "45162"
+  }
+]

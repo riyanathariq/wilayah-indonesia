@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7103152015,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Batuwingkung",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Bentung",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Binebas",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152016,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Birahi",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152018,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Bukide",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152021,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Bulo",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152019,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Kalagheng",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152017,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Laotongan",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Lesabe",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152020,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Lesabe I",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Malammenggu (Malamenggu)",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152008,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Mandoi",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Palareng",
+    "postal_code": "95858"
+  },
+  {
+    "id": 7103152001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710315,
+    "value": "Simueng",
+    "postal_code": "95858"
+  }
+]

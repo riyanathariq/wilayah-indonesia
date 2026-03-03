@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3202392004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Bojongkalong",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Bojongsari",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Cijangkar",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Cisitu",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Kertaangsana",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Mekarsari",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Neglasari",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Nyalindung",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Sukamaju",
+    "postal_code": "43196"
+  },
+  {
+    "id": 3202392007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320239,
+    "value": "Wangunreja",
+    "postal_code": "43196"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9503112001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Amuma",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Balum Erang",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Golowen",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112013,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Harapan",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112012,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Kinika",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Orugai",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Plau",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Sagasal",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Sarmuge",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Silorin",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Tolikapura (Talikapura)",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Waeklek",
+    "postal_code": "99701"
+  },
+  {
+    "id": 9503112004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950311,
+    "value": "Wisikma",
+    "postal_code": "99701"
+  }
+]

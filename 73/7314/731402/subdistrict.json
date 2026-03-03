@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7314021001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Amparita",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314021006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Arateng",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314021005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Baula",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314021002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Messape (Massepe)",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314021004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Pajalele",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314022008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Polewali",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314022009,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Teppo",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314022007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Teteaji",
+    "postal_code": "91662"
+  },
+  {
+    "id": 7314021003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731402,
+    "value": "Toddang Pulu (Todang Pulu)",
+    "postal_code": "91662"
+  }
+]

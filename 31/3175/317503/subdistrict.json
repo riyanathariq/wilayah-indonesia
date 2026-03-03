@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3175031003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Bali Mester",
+    "postal_code": "13310"
+  },
+  {
+    "id": 3175031002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Bidara Cina (Bidaracina)",
+    "postal_code": "13330"
+  },
+  {
+    "id": 3175031007,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Cipinang Besar Selatan",
+    "postal_code": "13410"
+  },
+  {
+    "id": 3175031008,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Cipinang Besar Utara",
+    "postal_code": "13410"
+  },
+  {
+    "id": 3175031005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Cipinang Cempedak",
+    "postal_code": "13340"
+  },
+  {
+    "id": 3175031006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Cipinang Muara",
+    "postal_code": "13420"
+  },
+  {
+    "id": 3175031001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Kampung Melayu",
+    "postal_code": "13320"
+  },
+  {
+    "id": 3175031004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317503,
+    "value": "Rawa Bunga",
+    "postal_code": "13350"
+  }
+]

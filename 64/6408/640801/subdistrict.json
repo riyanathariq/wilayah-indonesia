@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6408012009,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Gemar Baru",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Kelinjau Ilir",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Kelinjau Ulu",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408012004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Long Nah",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012012,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Long Poq Baru",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Long Tesak",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012013,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Muara Dun",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Senyiur",
+    "postal_code": "75656"
+  },
+  {
+    "id": 6408012014,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640801,
+    "value": "Teluk Baru",
+    "postal_code": "75656"
+  }
+]

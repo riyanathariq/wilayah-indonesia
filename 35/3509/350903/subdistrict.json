@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3509032007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Gelang",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Jambesari",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Jamintoro",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Jatiroto",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Kaliglagah",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Karangbayat (Karang Bayat)",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Pringgowirawan",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Rowotengah (Rowo Tengah)",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "68156"
+  },
+  {
+    "id": 3509032005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350903,
+    "value": "Yosorati",
+    "postal_code": "68156"
+  }
+]

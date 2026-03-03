@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5315012001,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Bari",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012015,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Lewat",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012003,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Mbakung",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012008,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Nanga Kantor",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012026,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Nanga Kantor Barat",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012004,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Nggilat",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012007,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Raba",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012005,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Rego",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012002,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Rokap",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012025,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Sarae Naru",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012016,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Watu Manggar",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012014,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Watubaru",
+    "postal_code": "86756"
+  },
+  {
+    "id": 5315012006,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531501,
+    "value": "Wontong",
+    "postal_code": "86756"
+  }
+]

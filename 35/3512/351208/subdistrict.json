@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3512081002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Ardirejo",
+    "postal_code": "68321"
+  },
+  {
+    "id": 3512082003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Battal",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082010,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Curah Jeru",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Juglangan",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082012,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Kayu Putih",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Klampokan",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512081007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Mimbaan",
+    "postal_code": "68322"
+  },
+  {
+    "id": 3512082006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Panji Kidul",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Panji Lor",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Sliwung",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082011,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Tenggir",
+    "postal_code": "68323"
+  },
+  {
+    "id": 3512082009,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351208,
+    "value": "Tokelan",
+    "postal_code": "68323"
+  }
+]

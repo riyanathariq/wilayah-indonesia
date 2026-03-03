@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1113032001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Ampa Kolak",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Cane Toa",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032012,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Cane Uken",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032014,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Kota Rikit Gaib",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Kuning",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032016,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Lukup Baru",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Mangang",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Padang Pasir",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032017,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Penomon Jaya",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Pinang Rugub",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032011,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Rempelam",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032013,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Tungel",
+    "postal_code": "24651"
+  },
+  {
+    "id": 1113032018,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111303,
+    "value": "Tungel Baru",
+    "postal_code": "24651"
+  }
+]

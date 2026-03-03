@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3603222002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Cicalengka",
+    "postal_code": "15336"
+  },
+  {
+    "id": 3603222009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Cihuni",
+    "postal_code": "15332"
+  },
+  {
+    "id": 3603222005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Cijantra",
+    "postal_code": "15335"
+  },
+  {
+    "id": 3603222008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Jatake",
+    "postal_code": "15330"
+  },
+  {
+    "id": 3603222010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Kadu Sirung",
+    "postal_code": "15337"
+  },
+  {
+    "id": 3603222012,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Karang Tengah",
+    "postal_code": "15157"
+  },
+  {
+    "id": 3603222006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Lengkong Kulon",
+    "postal_code": "15331"
+  },
+  {
+    "id": 3603222011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Malang Nengah",
+    "postal_code": "15330"
+  },
+  {
+    "id": 3603221004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Medang",
+    "postal_code": "15334"
+  },
+  {
+    "id": 3603222003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Pagedangan",
+    "postal_code": "15339"
+  },
+  {
+    "id": 3603222007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360322,
+    "value": "Situ Gadung",
+    "postal_code": "15338"
+  }
+]

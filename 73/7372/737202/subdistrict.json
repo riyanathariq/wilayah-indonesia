@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7372021001,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737202,
+    "value": "Labukkang",
+    "postal_code": "91111"
+  },
+  {
+    "id": 7372021004,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737202,
+    "value": "Lapadde",
+    "postal_code": "91112"
+  },
+  {
+    "id": 7372021005,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737202,
+    "value": "Mallusetasi",
+    "postal_code": "91111"
+  },
+  {
+    "id": 7372021003,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737202,
+    "value": "Ujung Bulu",
+    "postal_code": "91113"
+  },
+  {
+    "id": 7372021002,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737202,
+    "value": "Ujung Sabbang",
+    "postal_code": "91114"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5309192010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Bewapawe (Bea Pawe)",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Bopoma",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Dizi Gedha",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309191001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Mangulewa",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Rakalaba",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192012,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Rakalaba I",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192007,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Rakateda Dua (Rakateda II)",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192006,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Rakateda Satu (Rakateda I)",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192004,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Sobo",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192013,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Sobo II",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Sobo Satu (Sobo I)",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Turekisa",
+    "postal_code": "86460"
+  },
+  {
+    "id": 5309192008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530919,
+    "value": "Watunay",
+    "postal_code": "86460"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1207252001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120725,
+    "value": "Helvetia",
+    "postal_code": "20373"
+  },
+  {
+    "id": 1207252004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120725,
+    "value": "Karang Gading",
+    "postal_code": "20373"
+  },
+  {
+    "id": 1207252002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120725,
+    "value": "Manunggal",
+    "postal_code": "20373"
+  },
+  {
+    "id": 1207252003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120725,
+    "value": "Pematang Johar",
+    "postal_code": "20373"
+  },
+  {
+    "id": 1207252005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120725,
+    "value": "Telaga Tujuh",
+    "postal_code": "20373"
+  }
+]

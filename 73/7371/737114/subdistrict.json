@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7371141005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Bira",
+    "postal_code": "90244"
+  },
+  {
+    "id": 7371141007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Buntusu",
+    "postal_code": "90245"
+  },
+  {
+    "id": 7371141002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Kapasa",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371141008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Kapasa Raya",
+    "postal_code": "90241"
+  },
+  {
+    "id": 7371141004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Parang Loe",
+    "postal_code": "90245"
+  },
+  {
+    "id": 7371141001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Tamalanrea",
+    "postal_code": "90245"
+  },
+  {
+    "id": 7371141003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Tamalanrea Indah",
+    "postal_code": "90245"
+  },
+  {
+    "id": 7371141006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737114,
+    "value": "Tamalanrea Jaya",
+    "postal_code": "90245"
+  }
+]

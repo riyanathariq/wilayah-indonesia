@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3271051001,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Bantarjati",
+    "postal_code": "16153"
+  },
+  {
+    "id": 3271051005,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Cibuluh",
+    "postal_code": "16151"
+  },
+  {
+    "id": 3271051006,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Ciluar",
+    "postal_code": "16156"
+  },
+  {
+    "id": 3271051008,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Cimahpar",
+    "postal_code": "16155"
+  },
+  {
+    "id": 3271051004,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Ciparigi",
+    "postal_code": "16157"
+  },
+  {
+    "id": 3271051003,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Kedung Halang (Kedunghalang)",
+    "postal_code": "16158"
+  },
+  {
+    "id": 3271051007,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Tanah Baru",
+    "postal_code": "16154"
+  },
+  {
+    "id": 3271051002,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327105,
+    "value": "Tegal Gundil",
+    "postal_code": "16152"
+  }
+]

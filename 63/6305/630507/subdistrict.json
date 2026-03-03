@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6305072002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Bakarangan",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Bundung",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Gadung",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072009,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Gadung Keramat (Gadung Karamat)",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072011,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Ketapang",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072010,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Masta",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Parigi",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Parigi Kecil",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Paul",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Tangkawang",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072012,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Tangkawang Baru",
+    "postal_code": "71152"
+  },
+  {
+    "id": 6305072008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630507,
+    "value": "Waringin",
+    "postal_code": "71152"
+  }
+]

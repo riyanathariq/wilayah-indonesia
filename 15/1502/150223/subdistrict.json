@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1502232008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Air Liki",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232014,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Air Liki Baru",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232012,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Baru Kibul",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Batang Kibul",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Muara Kibul",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Muara Langeh (Muaro Langeh)",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Ngaol",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232013,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Ngaol Ilir",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Pulau Lebar",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Pulau Tebakar (Pulau Terbakar)",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Sungai Tabir",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Tanjung Beringin",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Tanjung Putus",
+    "postal_code": "37356"
+  },
+  {
+    "id": 1502232006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150223,
+    "value": "Telentam",
+    "postal_code": "37356"
+  }
+]

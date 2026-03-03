@@ -1,0 +1,38 @@
+[
+  {
+    "id": 127801,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli"
+  },
+  {
+    "id": 127805,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli Alo'oa"
+  },
+  {
+    "id": 127806,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli Barat"
+  },
+  {
+    "id": 127804,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli Idanoi"
+  },
+  {
+    "id": 127802,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli Selatan"
+  },
+  {
+    "id": 127803,
+    "province_id": 12,
+    "regency_id": 1278,
+    "value": "Gunungsitoli Utara"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7208112003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Boyantongo",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Dolago",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112010,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Dolago Padang",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Gangga",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Lemusa",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Masari",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Nambaru",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Olobaru",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Sumbersari",
+    "postal_code": "94461"
+  },
+  {
+    "id": 7208112008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720811,
+    "value": "Tindaki",
+    "postal_code": "94461"
+  }
+]

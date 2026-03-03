@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8102152002,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Debut",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152006,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Lairngangas",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152003,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Namar",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152009,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Ngayub",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152004,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Ngilngof",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152008,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Ohoililir",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152007,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Ohoiluk",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152001,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Rumadian",
+    "postal_code": "97623"
+  },
+  {
+    "id": 8102152005,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810215,
+    "value": "Selayar",
+    "postal_code": "97623"
+  }
+]

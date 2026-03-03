@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9304152003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Aikut",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Airo Sapem (Sapen)",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Hahare",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Heiyaram",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Kaipom",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Kawem",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Sanem",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Sasime",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Simipit",
+    "postal_code": "99772"
+  },
+  {
+    "id": 9304152009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930415,
+    "value": "Wagasu",
+    "postal_code": "99772"
+  }
+]

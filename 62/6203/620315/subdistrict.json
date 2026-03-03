@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6203152009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Jakatan Masaha",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Karetau Manta'a (Karetau Mantaa)",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Lawang Tamang",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Masaha",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152010,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Masupa Ria",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Sei/Sungai Pinang",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Tanjung Rendan",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Tumbang Bukoi/Bokoi",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Tumbang Manyarung",
+    "postal_code": "73556"
+  },
+  {
+    "id": 6203152006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620315,
+    "value": "Tumbang Tihis",
+    "postal_code": "73556"
+  }
+]

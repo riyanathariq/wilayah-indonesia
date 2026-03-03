@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3324092003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Blorok",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092011,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Brangsong",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092012,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Kebonadem (Kebon Adem)",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092005,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Kertomulyo",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Penjalin",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092010,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Purwokerto",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092008,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Rejosari",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092006,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Sidorejo",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092002,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Sumur",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092007,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Tosari",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092001,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Tunggulsari",
+    "postal_code": "51371"
+  },
+  {
+    "id": 3324092009,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332409,
+    "value": "Turunrejo",
+    "postal_code": "51371"
+  }
+]

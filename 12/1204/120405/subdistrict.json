@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1204052021,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Dima",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052027,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Fadoro Lauru",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052030,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Hiliduho",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052031,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Hiligodu Tanoseo",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052028,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Lasara Tanose'o",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052034,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Mazingo Tanose'o (Tanoseo)",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052023,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Ombolata Salo'o (Ombolalasalo'o)",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052042,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Ombolata Sisarahili",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052001,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Ononamolo I Bot",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052040,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Onowaembo Hiligara",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052033,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Onozitolidulu",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052041,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Silimabanua",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052022,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Sinarikhi",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052032,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Sisobahili I Tanoseo",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052024,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Sisobalauru",
+    "postal_code": "22854"
+  },
+  {
+    "id": 1204052025,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120405,
+    "value": "Tuhegafoa II",
+    "postal_code": "22854"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206162001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920616,
+    "value": "Aroba",
+    "postal_code": "98131"
+  },
+  {
+    "id": 9206162005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920616,
+    "value": "Sangguar",
+    "postal_code": "98131"
+  },
+  {
+    "id": 9206162003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920616,
+    "value": "Sido Makmur",
+    "postal_code": "98131"
+  },
+  {
+    "id": 9206162004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920616,
+    "value": "Wimbro (Nelayan Wimbro)",
+    "postal_code": "98131"
+  },
+  {
+    "id": 9206162002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920616,
+    "value": "Yaru",
+    "postal_code": "98131"
+  }
+]

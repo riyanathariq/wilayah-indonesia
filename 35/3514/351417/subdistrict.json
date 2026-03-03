@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3514172005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Logowok",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Parasrejo (Paras Rejo)",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Pleret",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Sukorejo",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Sungikulon (Sungi Kulon)",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Sungiwetan (Sungi Wetan)",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Susukan Rejo",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Tidu",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3514172002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351417,
+    "value": "Warungdowo (Warung Dowo)",
+    "postal_code": "67171"
+  }
+]

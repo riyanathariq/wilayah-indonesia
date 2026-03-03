@@ -1,0 +1,122 @@
+[
+  {
+    "id": 9303022003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Agham",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022025,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Ghanu",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022014,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Ima",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Khatan",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022015,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Kogoyaman",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022019,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Linggua",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022016,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Magabag",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022008,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Monana",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Mur",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022017,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Tereyemu",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Waghien/Koba",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022009,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Wagin",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022013,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Waman",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022024,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Waruwe",
+    "postal_code": "99873"
+  },
+  {
+    "id": 9303022018,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930302,
+    "value": "Yatan",
+    "postal_code": "99873"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206212002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920621,
+    "value": "Mogotira (Mogmesa)",
+    "postal_code": "98157"
+  },
+  {
+    "id": 9206212005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920621,
+    "value": "Tuanaikin",
+    "postal_code": "98157"
+  },
+  {
+    "id": 9206212001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920621,
+    "value": "Weriagar",
+    "postal_code": "98157"
+  },
+  {
+    "id": 9206212003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920621,
+    "value": "Weriagar Baru",
+    "postal_code": "98157"
+  },
+  {
+    "id": 9206212004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920621,
+    "value": "Weriagar Utara",
+    "postal_code": "98157"
+  }
+]

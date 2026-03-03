@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7326152005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Angin Angin",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326151003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Ba'tan",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326151004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Pantanakan Lolo",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326152002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Rinding Batu",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326152006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Sangbua'",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326152007,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Tadongkon",
+    "postal_code": "91852"
+  },
+  {
+    "id": 7326152001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732615,
+    "value": "Tallulolo",
+    "postal_code": "91852"
+  }
+]

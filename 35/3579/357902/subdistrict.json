@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3579022008,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Bulukerto",
+    "postal_code": "65334"
+  },
+  {
+    "id": 3579022006,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Bumiaji",
+    "postal_code": "65331"
+  },
+  {
+    "id": 3579022007,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Giripurno",
+    "postal_code": "65333"
+  },
+  {
+    "id": 3579022002,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "65337"
+  },
+  {
+    "id": 3579022005,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Pandanrejo (Pandan Rejo)",
+    "postal_code": "65332"
+  },
+  {
+    "id": 3579022001,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Punten",
+    "postal_code": "65338"
+  },
+  {
+    "id": 3579022009,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Sumberbrantas (Sumber Brantas)",
+    "postal_code": "65338"
+  },
+  {
+    "id": 3579022004,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Sumbergondo (Sumber Gondo)",
+    "postal_code": "65335"
+  },
+  {
+    "id": 3579022003,
+    "province_id": 35,
+    "regency_id": 3579,
+    "district_id": 357902,
+    "value": "Tulungrejo (Tulung Rejo)",
+    "postal_code": "65336"
+  }
+]

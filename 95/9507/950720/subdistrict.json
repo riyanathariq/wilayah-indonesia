@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9507202001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Golopura",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Gubugame",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Kamenak",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Kulia",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Libome",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202011,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Nengguga",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Nileme",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Perime",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Wadinawi",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Wirini",
+    "postal_code": "99576"
+  },
+  {
+    "id": 9507202006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950720,
+    "value": "Yamiga",
+    "postal_code": "99576"
+  }
+]

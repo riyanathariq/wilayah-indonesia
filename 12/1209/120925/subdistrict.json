@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1209252004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120925,
+    "value": "Sarang Helang",
+    "postal_code": "21383"
+  },
+  {
+    "id": 1209252001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120925,
+    "value": "Sei Lunang",
+    "postal_code": "21383"
+  },
+  {
+    "id": 1209252002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120925,
+    "value": "Sei Pasir",
+    "postal_code": "21383"
+  },
+  {
+    "id": 1209252005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120925,
+    "value": "Sei Sembilang",
+    "postal_code": "21383"
+  },
+  {
+    "id": 1209252003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120925,
+    "value": "Sei Tempurung",
+    "postal_code": "21383"
+  }
+]

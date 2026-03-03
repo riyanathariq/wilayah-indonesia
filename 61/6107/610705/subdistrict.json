@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6107052002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Bengkawan",
+    "postal_code": "79285"
+  },
+  {
+    "id": 6107052005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Kalon",
+    "postal_code": "79285"
+  },
+  {
+    "id": 6107052004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Mayak",
+    "postal_code": "79285"
+  },
+  {
+    "id": 6107052003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Sahan",
+    "postal_code": "79285"
+  },
+  {
+    "id": 6107052001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Seluas",
+    "postal_code": "79285"
+  },
+  {
+    "id": 6107052006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610705,
+    "value": "Setangau Jaya (Sentangau Jaya)",
+    "postal_code": "79285"
+  }
+]

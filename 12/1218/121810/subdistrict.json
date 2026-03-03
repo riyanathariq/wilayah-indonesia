@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1218102013,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Bandar Bayu",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Banjaran Godang",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102014,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Durian Kondot",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102023,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Huta Galuh",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Kotarih Baru",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Kotarih Pekan",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102015,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Perbahingan",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102024,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Rubun Dunia",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Sei Kari (Sei Karih)",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Si Ujan Ujan (Sei Ujan-Ujan)",
+    "postal_code": "20982"
+  },
+  {
+    "id": 1218102022,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121810,
+    "value": "Sialtong",
+    "postal_code": "20982"
+  }
+]

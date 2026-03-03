@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7308112009,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Bolli",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Mappe Sangka (Mappesangka)",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Matampae (Mattampae)",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Pattimpa",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Poleonro",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Salampe",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Salebba",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Telu Boccoe (Tellu Boccoe)",
+    "postal_code": "92765"
+  },
+  {
+    "id": 7308112006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730811,
+    "value": "Turu Adae",
+    "postal_code": "92765"
+  }
+]

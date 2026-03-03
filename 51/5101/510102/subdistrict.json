@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5101022005,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Delodberawah (Delod Berawah)",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022003,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Mendoyo Dangin Tukad",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022001,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Mendoyo Dauh Tukad",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022007,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Penyaringan",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022004,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Pergung",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022002,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Pohsanten",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101021006,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Tegalcangkring (Tegal Cangkring)",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022009,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Yeh Sumbul",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022008,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Yehembang (Yeh Embang)",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022011,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Yehembang Kangin (Yeh Embang Kangin)",
+    "postal_code": "82261"
+  },
+  {
+    "id": 5101022010,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510102,
+    "value": "Yehembang Kauh (Yeh Embang Kauh)",
+    "postal_code": "82261"
+  }
+]

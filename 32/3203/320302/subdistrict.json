@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203022008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Bunikasih",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022014,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Bunisari",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022017,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Cieundeur",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Cikaroya",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Cisarandi",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Ciwalen",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Jambudipa",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022018,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Mekarwangi",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022016,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Sukamulya",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Sukawangi",
+    "postal_code": "43260"
+  },
+  {
+    "id": 3203022010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320302,
+    "value": "Tegallega",
+    "postal_code": "43260"
+  }
+]

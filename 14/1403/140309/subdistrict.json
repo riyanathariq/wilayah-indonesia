@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1403091001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Air Jamban",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Babussalam",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Balik Alam",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Batang Serosa",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403092021,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Bathin Betuah",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Duri Barat",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Duri Timur",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091008,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Gajah Sakti",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403092011,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Harapan Baru",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091010,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Pematang Pudu",
+    "postal_code": "28783"
+  },
+  {
+    "id": 1403091009,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140309,
+    "value": "Talang Mandi",
+    "postal_code": "28783"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9205052006,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920505,
+    "value": "Boiseran",
+    "postal_code": "98462"
+  },
+  {
+    "id": 9205052001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920505,
+    "value": "Dorehkar (Doreker / Dorekar)",
+    "postal_code": "98462"
+  },
+  {
+    "id": 9205052007,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920505,
+    "value": "Runi (Reni)",
+    "postal_code": "98462"
+  },
+  {
+    "id": 9205052008,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920505,
+    "value": "Yenkanfan",
+    "postal_code": "98462"
+  },
+  {
+    "id": 9205052003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920505,
+    "value": "Yenkawir",
+    "postal_code": "98462"
+  }
+]

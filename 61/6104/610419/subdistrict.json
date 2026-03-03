@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6104192008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Batu Lapis",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Beginci Darat",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Benua Krio",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Cinta Manis",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192010,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Kenyabur",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192009,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Krio Hulu",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192012,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Lubuk Kakap",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Menyumbung",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Riam Dadap",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Sekukun (Sekunkun)",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Senduruhan",
+    "postal_code": "78871"
+  },
+  {
+    "id": 6104192011,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610419,
+    "value": "Sunge Bengaras (Sungai Bengaras)",
+    "postal_code": "78871"
+  }
+]

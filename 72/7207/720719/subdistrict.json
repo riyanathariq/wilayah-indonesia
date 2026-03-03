@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7207192006,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Bampanga",
+    "postal_code": "94886"
+  },
+  {
+    "id": 7207192002,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Lalong",
+    "postal_code": "94886"
+  },
+  {
+    "id": 7207192004,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Luksagu (Luk Sagu)",
+    "postal_code": "94886"
+  },
+  {
+    "id": 7207192005,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Palam",
+    "postal_code": "94886"
+  },
+  {
+    "id": 7207192003,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Ponding-Ponding",
+    "postal_code": "94886"
+  },
+  {
+    "id": 7207192001,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720719,
+    "value": "Tatakalai",
+    "postal_code": "94886"
+  }
+]

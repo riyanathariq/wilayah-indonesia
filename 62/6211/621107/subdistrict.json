@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6211072001,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Garung (Garong)",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072002,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Henda",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072005,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Jabiren",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072006,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Pilang",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072004,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Sakakajang (Saka Kajang)",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072003,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Simpur",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072008,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Tanjung Taruna",
+    "postal_code": "74816"
+  },
+  {
+    "id": 6211072007,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621107,
+    "value": "Tumbang Nusa",
+    "postal_code": "74816"
+  }
+]

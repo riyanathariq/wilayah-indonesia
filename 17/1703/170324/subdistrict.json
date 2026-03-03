@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1703242001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Air Sebayur",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Air Sekamanak",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Air Simpang",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Bukit Harapan",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Bukit Makmur",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Bumi Harjo",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Gunung Payung",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Marga Bhakti (Marga Bakti)",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Sumber Mulya",
+    "postal_code": "38362"
+  },
+  {
+    "id": 1703242010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170324,
+    "value": "Tanjung Muara",
+    "postal_code": "38362"
+  }
+]

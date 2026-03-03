@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1601131011,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Air Gading",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601131007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Batu Kuning",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601132001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Batu Putih",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601132008,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Karang Agung",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601132009,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Karang Endah",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601132002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Laya",
+    "postal_code": "32125"
+  },
+  {
+    "id": 1601132006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Pusar",
+    "postal_code": "32126"
+  },
+  {
+    "id": 1601131004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Saung Naga",
+    "postal_code": "32124"
+  },
+  {
+    "id": 1601132012,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Sukamaju",
+    "postal_code": "32124"
+  },
+  {
+    "id": 1601131005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Talang Jawa",
+    "postal_code": "32122"
+  },
+  {
+    "id": 1601132010,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Tanjung Karang",
+    "postal_code": "32121"
+  },
+  {
+    "id": 1601131003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160113,
+    "value": "Tanjungagung (Tanjung Agung)",
+    "postal_code": "32123"
+  }
+]

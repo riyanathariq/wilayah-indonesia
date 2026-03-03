@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3217102003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Cihampelas",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Cipatik",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Citapen",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Mekarjaya",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Mekarmukti",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Pataruman",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Singajaya",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Situwangi",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Tanjungjaya",
+    "postal_code": "40562"
+  },
+  {
+    "id": 3217102009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321710,
+    "value": "Tanjungwangi",
+    "postal_code": "40562"
+  }
+]

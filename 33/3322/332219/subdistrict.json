@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3322191008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Beji",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322191007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Gedanganak",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322192006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Kalikayen",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322191002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Kalirejo",
+    "postal_code": "50515"
+  },
+  {
+    "id": 3322192010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Kalongan",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322192005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Kawengen",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322192009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Leyangan",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322192004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Mluweh",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322191001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Sidomulyo",
+    "postal_code": "50514"
+  },
+  {
+    "id": 3322191003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332219,
+    "value": "Susukan",
+    "postal_code": "50516"
+  }
+]

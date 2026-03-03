@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3403082004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340308,
+    "value": "Candirejo",
+    "postal_code": "55893"
+  },
+  {
+    "id": 3403082005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340308,
+    "value": "Dadapayu",
+    "postal_code": "55893"
+  },
+  {
+    "id": 3403082001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340308,
+    "value": "Ngeposari",
+    "postal_code": "55893"
+  },
+  {
+    "id": 3403082003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340308,
+    "value": "Pacarejo",
+    "postal_code": "55893"
+  },
+  {
+    "id": 3403082002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340308,
+    "value": "Semanu",
+    "postal_code": "55893"
+  }
+]

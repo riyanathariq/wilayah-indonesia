@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6106032012,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Belatung",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Keliling Semulung",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Kirin Nangka",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Lawik",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Nanga Embaloh",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Nanga Lauk",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Nanga Palin",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Pala Pintas",
+    "postal_code": "78754"
+  },
+  {
+    "id": 6106032011,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610603,
+    "value": "Ujung Bayur",
+    "postal_code": "78754"
+  }
+]

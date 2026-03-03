@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1209092002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Air Joman",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209092003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Air Joman Baru",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209092005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Banjar",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209091001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Binjai Serbangan",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209092007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Pasar Lembu",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209092008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Punggulan",
+    "postal_code": "21263"
+  },
+  {
+    "id": 1209092012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120909,
+    "value": "Subur",
+    "postal_code": "21263"
+  }
+]

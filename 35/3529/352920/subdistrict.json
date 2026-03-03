@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3529202006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Gayam",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Gendang Barat",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Gendang Timur",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Jambuir",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Kalowang",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Karang Tengah (Karangtengah)",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Nyamplong",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Pancor",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Prambanan",
+    "postal_code": "69483"
+  },
+  {
+    "id": 3529202010,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352920,
+    "value": "Tarebung",
+    "postal_code": "69483"
+  }
+]

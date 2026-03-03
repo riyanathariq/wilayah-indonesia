@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1407092003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Batu Hampar",
+    "postal_code": "28986"
+  },
+  {
+    "id": 1407092006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Labuhan papan",
+    "postal_code": "28986"
+  },
+  {
+    "id": 1407092001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Melayu Besar",
+    "postal_code": "28986"
+  },
+  {
+    "id": 1407091005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Melayu Besar Kota",
+    "postal_code": "28986"
+  },
+  {
+    "id": 1407092002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Melayu Tengah",
+    "postal_code": "28986"
+  },
+  {
+    "id": 1407092004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140709,
+    "value": "Mesah",
+    "postal_code": "28986"
+  }
+]

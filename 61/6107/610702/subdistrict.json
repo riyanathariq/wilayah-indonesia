@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6107022004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Babane",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Bukit Serayan",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Marunsu",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Pasti Jaya",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Sabau (Saba'u)",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Samalantan",
+    "postal_code": "79280"
+  },
+  {
+    "id": 6107022003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610702,
+    "value": "Tumiang",
+    "postal_code": "79280"
+  }
+]

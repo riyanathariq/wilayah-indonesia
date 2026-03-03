@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3273021001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Cipaganti",
+    "postal_code": "40131"
+  },
+  {
+    "id": 3273021004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Dago",
+    "postal_code": "40135"
+  },
+  {
+    "id": 3273021006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Lebak Siliwangi",
+    "postal_code": "40132"
+  },
+  {
+    "id": 3273021002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Lebakgede (Lebak Gede)",
+    "postal_code": "40132"
+  },
+  {
+    "id": 3273021003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Sadangserang (Sadang Serang)",
+    "postal_code": "40133"
+  },
+  {
+    "id": 3273021005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327302,
+    "value": "Sekeloa",
+    "postal_code": "40134"
+  }
+]

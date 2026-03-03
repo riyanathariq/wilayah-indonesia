@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9210152008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Hawioh",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Kanisabar",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Koma Koma",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Lemauk Klit",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152010,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Sagrim",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Saneh (Seneh)",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Sauf",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Sembaro",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Sfarare",
+    "postal_code": "98243"
+  },
+  {
+    "id": 9210152009,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921015,
+    "value": "Simiyah",
+    "postal_code": "98243"
+  }
+]

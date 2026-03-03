@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1803112001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Gunung Besar",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Gunung Gijul",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Gunung Sadar",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Kedaton",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Kinciran",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Negla Sari",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112016,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Pekurun Barat",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112017,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Pekurun Selatan",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112018,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Pekurun Utara",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Sri Bandung",
+    "postal_code": "34584"
+  },
+  {
+    "id": 1803112006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180311,
+    "value": "Subik",
+    "postal_code": "34584"
+  }
+]

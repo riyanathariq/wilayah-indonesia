@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7309121001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Allepolea",
+    "postal_code": "90514"
+  },
+  {
+    "id": 7309122006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Bonto Marrannu",
+    "postal_code": "90513"
+  },
+  {
+    "id": 7309121002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Maccini Baji",
+    "postal_code": "90513"
+  },
+  {
+    "id": 7309122005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Marannu (Marrannu)",
+    "postal_code": "90513"
+  },
+  {
+    "id": 7309121004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Mattirodeceng (Mattiro Deceng)",
+    "postal_code": "90513"
+  },
+  {
+    "id": 7309121003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730912,
+    "value": "Soreang",
+    "postal_code": "90513"
+  }
+]

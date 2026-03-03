@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3211122003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Banyuresmi",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Genteng",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Mekarsari",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Nanggerang",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Sindangsari",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Sukarapih",
+    "postal_code": "45366"
+  },
+  {
+    "id": 3211122001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321112,
+    "value": "Sukasari",
+    "postal_code": "45366"
+  }
+]

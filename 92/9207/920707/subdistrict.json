@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9207072005,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Inyora",
+    "postal_code": "98342"
+  },
+  {
+    "id": 9207072004,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Oya (Oyaa)",
+    "postal_code": "98342"
+  },
+  {
+    "id": 9207072002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Sararti",
+    "postal_code": "98342"
+  },
+  {
+    "id": 9207072006,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Undurara",
+    "postal_code": "98342"
+  },
+  {
+    "id": 9207072001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Wosimi (Wosimo)",
+    "postal_code": "98342"
+  },
+  {
+    "id": 9207072003,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920707,
+    "value": "Yabore",
+    "postal_code": "98342"
+  }
+]

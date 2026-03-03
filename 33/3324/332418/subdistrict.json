@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3324182009,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Caruban",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Kedunggading",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182002,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Kedungsari (Kedungasri)",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182010,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Mojo",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182005,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Ngawensari",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182001,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Ngerjo",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182012,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Pegerdawung (Pagerdawung)",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182011,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Purworejo",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Ringinarum",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182008,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Rowobranten",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182006,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Tejorejo",
+    "postal_code": "51359"
+  },
+  {
+    "id": 3324182007,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332418,
+    "value": "Wungurejo",
+    "postal_code": "51359"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1224022009,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Hiliduruwa",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022007,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Lasara Sawo",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Ombolata Sawo",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Onozitoli Sawo",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Sanawuyu",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022008,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Sawo",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Seriwa'u (Seriwau)",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Sifahandro",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Sisarahili Teluk Siabang",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224022010,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122402,
+    "value": "Teluk Bengkuang",
+    "postal_code": "22852"
+  }
+]

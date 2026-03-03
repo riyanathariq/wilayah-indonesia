@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1225012002,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Bawozamaiwo",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012009,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Haliadulo (Hiliadulo)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012005,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Iraonogaila",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012004,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Lologundre",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012011,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Lolowau",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012008,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Onolimbu (Ono Limbu)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012007,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Onowaembo (Ono Waembo)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012010,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Sisobambowo",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012001,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Sisobaoho",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012003,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Sitolubanua (Sitolu Banua)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1225012006,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122501,
+    "value": "Tigaserangkai (Tiga Serangkai)",
+    "postal_code": "22864"
+  }
+]

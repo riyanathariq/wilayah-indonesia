@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3172041001,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Cilincing",
+    "postal_code": "14120"
+  },
+  {
+    "id": 3172041004,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Kalibaru (Kali Baru)",
+    "postal_code": "14110"
+  },
+  {
+    "id": 3172041003,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Marunda",
+    "postal_code": "14150"
+  },
+  {
+    "id": 3172041006,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Rorotan",
+    "postal_code": "14140"
+  },
+  {
+    "id": 3172041007,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Semper Barat",
+    "postal_code": "14130"
+  },
+  {
+    "id": 3172041005,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Semper Timur",
+    "postal_code": "14130"
+  },
+  {
+    "id": 3172041002,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317204,
+    "value": "Sukapura",
+    "postal_code": "14140"
+  }
+]

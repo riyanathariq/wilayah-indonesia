@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5307012020,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Aebubu",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012017,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Begu",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012018,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Kotandelu",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Lenandareta",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012019,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Lowolabo",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Masabewa (Masebewa)",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012012,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Mauloo",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Mbengu",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Paga",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012021,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Regapu���u",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012022,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Rejo",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012013,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Wolorega",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Wolowiro",
+    "postal_code": "86153"
+  },
+  {
+    "id": 5307012015,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530701,
+    "value": "Wolowona",
+    "postal_code": "86153"
+  }
+]

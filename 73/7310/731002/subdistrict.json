@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7310022007,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Dewakang",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310022005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Doang Doangan Lompo (Doang Doanganlompo)",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310021001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Kalukuang (Kalu-Kalukuang)",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310022004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Kanyurang",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310022006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Mara Sende (Marasende)",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310022002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Pammas",
+    "postal_code": "90672"
+  },
+  {
+    "id": 7310022003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731002,
+    "value": "Sabaru",
+    "postal_code": "90672"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3173051005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Duri Kepa",
+    "postal_code": "11510"
+  },
+  {
+    "id": 3173051001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Kebon Jeruk",
+    "postal_code": "11530"
+  },
+  {
+    "id": 3173051007,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Kedoya Selatan",
+    "postal_code": "11520"
+  },
+  {
+    "id": 3173051006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Kedoya Utara",
+    "postal_code": "11520"
+  },
+  {
+    "id": 3173051004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Kelapa Dua",
+    "postal_code": "11550"
+  },
+  {
+    "id": 3173051003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Sukabumi Selatan (Udik)",
+    "postal_code": "11560"
+  },
+  {
+    "id": 3173051002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317305,
+    "value": "Sukabumi Utara (Ilir)",
+    "postal_code": "11540"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8104012012,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Batu Boy",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012010,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Jamilu",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012003,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Karang Jaya",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012002,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Lala",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012001,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Namlea",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012011,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Sanleko",
+    "postal_code": "97571"
+  },
+  {
+    "id": 8104012009,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810401,
+    "value": "Siahoni",
+    "postal_code": "97571"
+  }
+]

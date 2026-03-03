@@ -1,0 +1,38 @@
+[
+  {
+    "id": 327104,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Bogor Barat"
+  },
+  {
+    "id": 327101,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Bogor Selatan"
+  },
+  {
+    "id": 327103,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Bogor Tengah"
+  },
+  {
+    "id": 327102,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Bogor Timur"
+  },
+  {
+    "id": 327105,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Bogor Utara"
+  },
+  {
+    "id": 327106,
+    "province_id": 32,
+    "regency_id": 3271,
+    "value": "Tanah Sareal (Tanah Sereal)"
+  }
+]

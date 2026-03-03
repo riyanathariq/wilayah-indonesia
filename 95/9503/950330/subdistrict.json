@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503302003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Bako",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Balsek",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Baru",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Famek",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Kasen",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Manbolak",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Puldama",
+    "postal_code": "99761"
+  },
+  {
+    "id": 9503302007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950330,
+    "value": "Semlu",
+    "postal_code": "99761"
+  }
+]

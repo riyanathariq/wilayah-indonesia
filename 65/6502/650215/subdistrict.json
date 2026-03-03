@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6502152001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650215,
+    "value": "Long Nyau",
+    "postal_code": "77556"
+  },
+  {
+    "id": 6502152005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650215,
+    "value": "Long Pada",
+    "postal_code": "77556"
+  },
+  {
+    "id": 6502152003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650215,
+    "value": "Long Ranau",
+    "postal_code": "77556"
+  },
+  {
+    "id": 6502152002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650215,
+    "value": "Long Titi",
+    "postal_code": "77556"
+  },
+  {
+    "id": 6502152004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650215,
+    "value": "Rian Tubu",
+    "postal_code": "77556"
+  }
+]

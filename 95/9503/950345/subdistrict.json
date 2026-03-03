@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9503452006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Baluk",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Debula",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Kabulan",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Kemligin",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Kubuk Dua",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Kwelemdua",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Obis",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Senayom",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Sesepne",
+    "postal_code": "99736"
+  },
+  {
+    "id": 9503452009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950345,
+    "value": "Yalidamon",
+    "postal_code": "99736"
+  }
+]

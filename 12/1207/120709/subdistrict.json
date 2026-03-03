@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1207092003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bah Balua",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bah Perak",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bandar Gugung (Bandar Gunung)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bandar Kuala (Kwala)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bandar Meriah",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bangun Purba",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Bangun Purba Tengah",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Batu Gingging",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Batu Rata",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Begerpang (Bagerpang)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Cimahi (Cimahe)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092014,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Damak Maliho",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Geriahan (Greahan)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092019,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Mabar",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092018,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Marambun Barat (Marombun Barat)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092017,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Marombun Ujung Jawi (Marambun Ujung Jawi)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092020,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Perguroan (Perguruan)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092023,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Rumah Deleng",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092025,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Sialang",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092024,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Sibaganding",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092027,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Sukaluwei (Suka Luae / Lewei)",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092030,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Tanjung Purba",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092033,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Ujung Rambe",
+    "postal_code": "20581"
+  },
+  {
+    "id": 1207092032,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120709,
+    "value": "Urung Ganjang",
+    "postal_code": "20581"
+  }
+]

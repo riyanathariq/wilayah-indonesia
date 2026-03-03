@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5302202006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Binenok",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Fatuat",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Hoibeti",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Kot'olin (Kot Olin)",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Nualunat",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Nunbena",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "O'obibi (O Obibi)",
+    "postal_code": "85576"
+  },
+  {
+    "id": 5302202007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530220,
+    "value": "Ponite (Panite)",
+    "postal_code": "85576"
+  }
+]

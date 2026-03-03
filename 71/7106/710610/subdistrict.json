@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7106102006,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Batu",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102004,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Kaweruan",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102002,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Kokoleh Dua",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102001,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Kokoleh Satu",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102003,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Paslaten",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102005,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Wangurer",
+    "postal_code": "95374"
+  },
+  {
+    "id": 7106102007,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710610,
+    "value": "Werot",
+    "postal_code": "95374"
+  }
+]

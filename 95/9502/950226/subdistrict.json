@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9502262007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Bakata",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Batani",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Karye / Kariye",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Palur Dua",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Palur Satu",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Segame",
+    "postal_code": "99441"
+  },
+  {
+    "id": 9502262006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950226,
+    "value": "Sople",
+    "postal_code": "99441"
+  }
+]

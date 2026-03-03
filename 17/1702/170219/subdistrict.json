@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1702191006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Air Bang",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702192010,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Air Merah",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702191009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Banyu Mas (Banyumas)",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702191008,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Batu Galing",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702191005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Kampung Jawa",
+    "postal_code": "39115"
+  },
+  {
+    "id": 1702191001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Kepala Siring",
+    "postal_code": "39116"
+  },
+  {
+    "id": 1702191007,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Pelabuhan Baru",
+    "postal_code": "39115"
+  },
+  {
+    "id": 1702191004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Sidorejo/Siderejo",
+    "postal_code": "39119"
+  },
+  {
+    "id": 1702191002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Talang Rimbo Baru",
+    "postal_code": "39113"
+  },
+  {
+    "id": 1702191003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170219,
+    "value": "Talang Rimbo Lama",
+    "postal_code": "39114"
+  }
+]

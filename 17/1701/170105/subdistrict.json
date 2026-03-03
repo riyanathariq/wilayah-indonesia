@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1701052006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Gelombang (Gelumbang)",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701051009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Gunung Ayu (Gunung Ayu I)",
+    "postal_code": "38513"
+  },
+  {
+    "id": 1701051019,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Ibul",
+    "postal_code": "38513"
+  },
+  {
+    "id": 1701051016,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Kampung Baru",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701051010,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Kota Medan",
+    "postal_code": "38513"
+  },
+  {
+    "id": 1701052018,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Padang Berangin",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701051020,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Padang Kapuk",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701052004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Padang Niur",
+    "postal_code": "38511"
+  },
+  {
+    "id": 1701052001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Pagar Dewa",
+    "postal_code": "38513"
+  },
+  {
+    "id": 1701051017,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Pasar Baru",
+    "postal_code": "38512"
+  },
+  {
+    "id": 1701052005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170105,
+    "value": "Tebat Kubu",
+    "postal_code": "38511"
+  }
+]

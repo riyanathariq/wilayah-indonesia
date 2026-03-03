@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3604052005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Harjatani",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Kramatwatu",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052011,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Lebakwana",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Margasana",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052015,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Margatani",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Pamengkang",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Pegadingan",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Pejaten",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052013,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Pelamunan",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Serdang",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052014,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Teluk Terate",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Terate",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Tonjong",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Toyomerto",
+    "postal_code": "42161"
+  },
+  {
+    "id": 3604052012,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360405,
+    "value": "Wanayasa",
+    "postal_code": "42161"
+  }
+]

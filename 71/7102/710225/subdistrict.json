@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102252001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Penaesaan",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Pinabetengan",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Pinabetengan Selatan",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Pinabetengan Utara",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Tompaso Dua",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Tompaso Dua Utara",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Tonsewer",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Tonsewer Selatan",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Touure",
+    "postal_code": "95698"
+  },
+  {
+    "id": 7102252010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710225,
+    "value": "Touure Dua",
+    "postal_code": "95698"
+  }
+]

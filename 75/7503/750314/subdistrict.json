@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7503142005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Ilomata",
+    "postal_code": "96543"
+  },
+  {
+    "id": 7503142001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Mongiilo",
+    "postal_code": "96543"
+  },
+  {
+    "id": 7503142003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Mongiilo Utara",
+    "postal_code": "96543"
+  },
+  {
+    "id": 7503142002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Owata",
+    "postal_code": "96543"
+  },
+  {
+    "id": 7503142004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Pilolaheya",
+    "postal_code": "96543"
+  },
+  {
+    "id": 7503142006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750314,
+    "value": "Suka Makmur",
+    "postal_code": "96543"
+  }
+]

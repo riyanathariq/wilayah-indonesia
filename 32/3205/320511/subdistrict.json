@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3205112005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Dungusiku",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Karanganyar",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Karangsari",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Leuwigoong",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Margacinta",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Margahayu",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Sindangsari",
+    "postal_code": "44192"
+  },
+  {
+    "id": 3205112006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320511,
+    "value": "Tambak Sari (Tambaksari)",
+    "postal_code": "44192"
+  }
+]

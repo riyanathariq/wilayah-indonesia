@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318381002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Bambalu",
+    "postal_code": "91862"
+  },
+  {
+    "id": 7318382006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Limbong Sangpolo",
+    "postal_code": "91862"
+  },
+  {
+    "id": 7318382004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Lipungan Tanete",
+    "postal_code": "91862"
+  },
+  {
+    "id": 7318382003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Maroson",
+    "postal_code": "91862"
+  },
+  {
+    "id": 7318382001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Rante Kurra",
+    "postal_code": "91862"
+  },
+  {
+    "id": 7318382005,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731838,
+    "value": "Rante Limbong",
+    "postal_code": "91862"
+  }
+]

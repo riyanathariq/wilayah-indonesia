@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9201512003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920151,
+    "value": "Barros (Bar Ros)",
+    "postal_code": "98442"
+  },
+  {
+    "id": 9201512001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920151,
+    "value": "Keladum/Maladuk",
+    "postal_code": "98442"
+  },
+  {
+    "id": 9201512002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920151,
+    "value": "Klamono Olie (Klamono Oil)",
+    "postal_code": "98442"
+  },
+  {
+    "id": 9201512005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920151,
+    "value": "Klawilibe (Klawili Be)",
+    "postal_code": "98442"
+  },
+  {
+    "id": 9201512004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920151,
+    "value": "Pusu Tiligum",
+    "postal_code": "98442"
+  }
+]

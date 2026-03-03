@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5107072008,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Amerta Bhuana",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072003,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Duda",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072006,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Duda Timur",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072005,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Duda Utara",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072001,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Muncan",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072007,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Pering Sari",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072004,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Sebudi",
+    "postal_code": "80862"
+  },
+  {
+    "id": 5107072002,
+    "province_id": 51,
+    "regency_id": 5107,
+    "district_id": 510707,
+    "value": "Selat",
+    "postal_code": "80862"
+  }
+]

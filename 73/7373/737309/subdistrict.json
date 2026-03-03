@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7373091002,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737309,
+    "value": "Balandai",
+    "postal_code": "91914"
+  },
+  {
+    "id": 7373091005,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737309,
+    "value": "Buntu Datu",
+    "postal_code": "91914"
+  },
+  {
+    "id": 7373091003,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737309,
+    "value": "Rampoang",
+    "postal_code": "91914"
+  },
+  {
+    "id": 7373091001,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737309,
+    "value": "Temmalebba",
+    "postal_code": "91914"
+  },
+  {
+    "id": 7373091004,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737309,
+    "value": "Tobulung",
+    "postal_code": "91914"
+  }
+]

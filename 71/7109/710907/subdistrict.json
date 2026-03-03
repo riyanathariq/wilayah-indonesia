@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7109072001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710907,
+    "value": "Buang",
+    "postal_code": "95864"
+  },
+  {
+    "id": 7109072004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710907,
+    "value": "Dalinsaheng",
+    "postal_code": "95864"
+  },
+  {
+    "id": 7109072002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710907,
+    "value": "Karungo",
+    "postal_code": "95864"
+  },
+  {
+    "id": 7109072003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710907,
+    "value": "Lamanggo",
+    "postal_code": "95864"
+  },
+  {
+    "id": 7109072005,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710907,
+    "value": "Tope",
+    "postal_code": "95864"
+  }
+]

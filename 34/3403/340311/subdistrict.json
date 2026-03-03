@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3403112001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Bohol",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Botodayakan (Botodayaan)",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Karangwuni",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Melikan",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Petir",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Pringombo",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Pucanganom",
+    "postal_code": "55884"
+  },
+  {
+    "id": 3403112006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340311,
+    "value": "Semugih",
+    "postal_code": "55884"
+  }
+]

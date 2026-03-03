@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3101011003,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310101,
+    "value": "Pulau Harapan",
+    "postal_code": "14540"
+  },
+  {
+    "id": 3101011002,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310101,
+    "value": "Pulau Kelapa",
+    "postal_code": "14540"
+  },
+  {
+    "id": 3101011001,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310101,
+    "value": "Pulau Panggang",
+    "postal_code": "14530"
+  }
+]

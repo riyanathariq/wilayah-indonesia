@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3207372002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Banjaranyar",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Cigayam",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Cikaso",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Cikupa",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Kalijaya",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372009,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Karyamukti",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Langkapsari",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Pasawahan",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Sindangrasa",
+    "postal_code": "46384"
+  },
+  {
+    "id": 3207372010,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320737,
+    "value": "Tanjungsari (Tanjungasari)",
+    "postal_code": "46384"
+  }
+]

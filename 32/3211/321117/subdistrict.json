@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3211172006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Baginda",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Ciherang",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211171004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Cipameungpeuk",
+    "postal_code": "45315"
+  },
+  {
+    "id": 3211172007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Cipancar",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Citengah",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Gunasari",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211171002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Kotakulon",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172013,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Margalaksana",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Margamekar",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172014,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Mekar Rahayu",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211171001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Pasanggrahan Baru (Pasanggrahan)",
+    "postal_code": "45313"
+  },
+  {
+    "id": 3211171003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Regolwetan (Regol Wetan)",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Sukagalih",
+    "postal_code": "45311"
+  },
+  {
+    "id": 3211172010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321117,
+    "value": "Sukajaya",
+    "postal_code": "45314"
+  }
+]

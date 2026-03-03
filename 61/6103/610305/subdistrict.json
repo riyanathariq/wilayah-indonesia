@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6103052003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Bahta",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052008,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Bantai",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Bonti",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052006,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Empodis",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052007,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Kampuh",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052009,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Majel",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Sami",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Tunggul Boyok",
+    "postal_code": "78552"
+  },
+  {
+    "id": 6103052004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610305,
+    "value": "Upe",
+    "postal_code": "78552"
+  }
+]

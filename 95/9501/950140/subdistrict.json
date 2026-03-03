@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501402006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Agamoa",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501401001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Ilokama",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Kama",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Mawampi",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Parema",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Silumarek",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Wesaganya",
+    "postal_code": "99513"
+  },
+  {
+    "id": 9501402003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950140,
+    "value": "Yaloaput",
+    "postal_code": "99513"
+  }
+]

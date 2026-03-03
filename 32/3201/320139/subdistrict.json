@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3201392002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Babakan Sadeng",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Kalong I (Kalong 1)",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Kalong II (Kalong 2)",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Leuwisadeng",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Sadeng",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Sadeng Kolot (Sadengkolot)",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Sibanteng",
+    "postal_code": "16641"
+  },
+  {
+    "id": 3201392004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320139,
+    "value": "Wangunjaya (Wangun Jaya)",
+    "postal_code": "16641"
+  }
+]

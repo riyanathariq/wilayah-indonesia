@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3305262012,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Banioro",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Kaligending",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262010,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Kalisana",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262013,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Karangsambung",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Kedungwaru",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262011,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Langse",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Pencil",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Plumbon",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Pujotirto",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Seling",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Tlepok",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262014,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Totogan",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Wadasmalang",
+    "postal_code": "54353"
+  },
+  {
+    "id": 3305262001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330526,
+    "value": "Widoro",
+    "postal_code": "54353"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3175091002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317509,
+    "value": "Cibubur",
+    "postal_code": "13720"
+  },
+  {
+    "id": 3175091001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317509,
+    "value": "Ciracas",
+    "postal_code": "13740"
+  },
+  {
+    "id": 3175091003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317509,
+    "value": "Kelapa Dua Wetan",
+    "postal_code": "13730"
+  },
+  {
+    "id": 3175091005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317509,
+    "value": "Rambutan",
+    "postal_code": "13830"
+  },
+  {
+    "id": 3175091004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317509,
+    "value": "Susukan",
+    "postal_code": "13750"
+  }
+]

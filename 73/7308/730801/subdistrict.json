@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7308012005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Bana",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Bonto Jai (Bontojai)",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012009,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Bulu Sirua (Bulusirua)",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Erecinnong (Ere Cinnong)",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308011001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Kahu",
+    "postal_code": "92767"
+  },
+  {
+    "id": 7308012010,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Lamoncong",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Langi",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012011,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Mattiro Walie",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Pammusureng",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Pattuku",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308012002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730801,
+    "value": "Watang Cani (Watangcani)",
+    "postal_code": "92768"
+  }
+]

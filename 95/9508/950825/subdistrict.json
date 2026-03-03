@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9508252005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950825,
+    "value": "Brutnai",
+    "postal_code": "99923"
+  },
+  {
+    "id": 9508252001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950825,
+    "value": "Kora",
+    "postal_code": "99923"
+  },
+  {
+    "id": 9508252002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950825,
+    "value": "Nanggoal",
+    "postal_code": "99923"
+  },
+  {
+    "id": 9508252003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950825,
+    "value": "Wenam",
+    "postal_code": "99923"
+  },
+  {
+    "id": 9508252004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950825,
+    "value": "Wilimi",
+    "postal_code": "99923"
+  }
+]

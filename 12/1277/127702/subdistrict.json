@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1277021006,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Aek Tampang",
+    "postal_code": "22726"
+  },
+  {
+    "id": 1277021010,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Hanopan",
+    "postal_code": "22721"
+  },
+  {
+    "id": 1277021003,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Losung",
+    "postal_code": "22722"
+  },
+  {
+    "id": 1277021007,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Padang Matinggi",
+    "postal_code": "22727"
+  },
+  {
+    "id": 1277021011,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Padang Matinggi Lestari",
+    "postal_code": "22727"
+  },
+  {
+    "id": 1277021009,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Sidangkal",
+    "postal_code": "22721"
+  },
+  {
+    "id": 1277021008,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Silandit",
+    "postal_code": "22728"
+  },
+  {
+    "id": 1277021004,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Sitamiang",
+    "postal_code": "22723"
+  },
+  {
+    "id": 1277021012,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Sitamiang Baru",
+    "postal_code": "22723"
+  },
+  {
+    "id": 1277021005,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Ujung Padang",
+    "postal_code": "22725"
+  },
+  {
+    "id": 1277021001,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Wek V",
+    "postal_code": "22723"
+  },
+  {
+    "id": 1277021002,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127702,
+    "value": "Wek VI",
+    "postal_code": "22724"
+  }
+]

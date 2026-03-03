@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7403342004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740334,
+    "value": "Baluara",
+    "postal_code": "93682"
+  },
+  {
+    "id": 7403342001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740334,
+    "value": "Bone Bone",
+    "postal_code": "93682"
+  },
+  {
+    "id": 7403342002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740334,
+    "value": "Lanobake (Laano Bake)",
+    "postal_code": "93682"
+  },
+  {
+    "id": 7403342003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740334,
+    "value": "Moolo",
+    "postal_code": "93682"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3201032002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Citeureup",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Hambalang",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201031007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Karang Asem Barat",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Karang Asem Timur",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Leuwinutug",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032014,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Pasirmukti (Pasir Mukti)",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201031006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Puspanegara",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Puspasari",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Sanja",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Sukahati",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Tajur",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Tangkil",
+    "postal_code": "16811"
+  },
+  {
+    "id": 3201032009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320103,
+    "value": "Tarikolot",
+    "postal_code": "16811"
+  }
+]

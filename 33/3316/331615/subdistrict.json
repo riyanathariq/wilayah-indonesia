@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3316152007,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Bogorejo",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152012,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Gandu",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152010,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Gayam",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152008,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Gembol",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152001,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Gombang",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152006,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Jeruk",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152014,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Jurangjero",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152004,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Karang",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152003,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Karanganyar",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152013,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Nglengkir",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152005,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Prantaan",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152002,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Sarirejo",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152011,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Sendangrejo",
+    "postal_code": "58262"
+  },
+  {
+    "id": 3316152009,
+    "province_id": 33,
+    "regency_id": 3316,
+    "district_id": 331615,
+    "value": "Tempurejo",
+    "postal_code": "58262"
+  }
+]

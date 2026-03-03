@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3271011001,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Batu Tulis (Batutulis)",
+    "postal_code": "16133"
+  },
+  {
+    "id": 3271011009,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Bojongkerta",
+    "postal_code": "16139"
+  },
+  {
+    "id": 3271011002,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Bondongan",
+    "postal_code": "16131"
+  },
+  {
+    "id": 3271011008,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Cikaret",
+    "postal_code": "16132"
+  },
+  {
+    "id": 3271011016,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Cipaku",
+    "postal_code": "16133"
+  },
+  {
+    "id": 3271011003,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Empang",
+    "postal_code": "16132"
+  },
+  {
+    "id": 3271011014,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Genteng",
+    "postal_code": "16137"
+  },
+  {
+    "id": 3271011012,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Harjasari",
+    "postal_code": "16138"
+  },
+  {
+    "id": 3271011011,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Kertamaya",
+    "postal_code": "16138"
+  },
+  {
+    "id": 3271011004,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Lawanggintung (Lawang Gintung)",
+    "postal_code": "16134"
+  },
+  {
+    "id": 3271011013,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Muarasari",
+    "postal_code": "16137"
+  },
+  {
+    "id": 3271011007,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Mulyaharja",
+    "postal_code": "16135"
+  },
+  {
+    "id": 3271011015,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Pakuan",
+    "postal_code": "16134"
+  },
+  {
+    "id": 3271011005,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Pamoyanan",
+    "postal_code": "16136"
+  },
+  {
+    "id": 3271011010,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Rancamaya",
+    "postal_code": "16139"
+  },
+  {
+    "id": 3271011006,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327101,
+    "value": "Ranggamekar",
+    "postal_code": "16136"
+  }
+]

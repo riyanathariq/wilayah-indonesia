@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5317052005,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Dameka",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052008,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Elu",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052001,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Konda Maloba",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052003,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Malinjak",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052007,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Manurara",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052009,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Oka Wacu",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052002,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Tana Modu",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052004,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Wailawa",
+    "postal_code": "87280"
+  },
+  {
+    "id": 5317052006,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531705,
+    "value": "Waimanu",
+    "postal_code": "87280"
+  }
+]

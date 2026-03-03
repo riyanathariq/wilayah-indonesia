@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3212032002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Babakan Jaya (Babakanjaya)",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Drunten Kulon",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Drunten Wetan",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Gabus Kulon (Gabuskulon)",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Gabus Wetan (Gabuswetan)",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Kedokan Gabus (Kedokangabus)",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Kedung Dawa (Kedungdawa)",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Rancahan",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Rancamulya",
+    "postal_code": "45263"
+  },
+  {
+    "id": 3212032004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321203,
+    "value": "Sekar Mulya (Sekarmulya)",
+    "postal_code": "45263"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1901082007,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Kayu Besi",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Kota Waringin",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Labu",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Nibung",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Puding Besar (Pudingbesar)",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Saing",
+    "postal_code": "33179"
+  },
+  {
+    "id": 1901082004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190108,
+    "value": "Tanah Bawah",
+    "postal_code": "33179"
+  }
+]

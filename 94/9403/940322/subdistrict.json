@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9403222004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Bumaida",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403222005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Debaiye",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403222001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Deta",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403222007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Komopa",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403222002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Tuguwai",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403222003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940322,
+    "value": "Tuguwai Moma",
+    "postal_code": "98732"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3404102001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340410,
+    "value": "Purwomartani (Purwo Martani)",
+    "postal_code": "55571"
+  },
+  {
+    "id": 3404102004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340410,
+    "value": "Selomartani (Selo Martani)",
+    "postal_code": "55571"
+  },
+  {
+    "id": 3404102003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340410,
+    "value": "Tamanmartani (Taman Martani)",
+    "postal_code": "55571"
+  },
+  {
+    "id": 3404102002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340410,
+    "value": "Tirtomartani (Tirto Martani)",
+    "postal_code": "55571"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1802092014,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Bina Karya Buana",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092015,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Bina Karya mandiri",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092013,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Bina Karya Putra (Binakarya Putra)",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Rekso Binangun",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Reno Basuki",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Restu Baru",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Restu Buana",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Rukti Basuki",
+    "postal_code": "34154"
+  },
+  {
+    "id": 1802092001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180209,
+    "value": "Teluk Dalem Ilir",
+    "postal_code": "34154"
+  }
+]

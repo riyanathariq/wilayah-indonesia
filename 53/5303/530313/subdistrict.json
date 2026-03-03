@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5303132002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530313,
+    "value": "Naekake A",
+    "postal_code": "85663"
+  },
+  {
+    "id": 5303132003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530313,
+    "value": "Naekake B",
+    "postal_code": "85663"
+  },
+  {
+    "id": 5303132004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530313,
+    "value": "Noelelo",
+    "postal_code": "85663"
+  },
+  {
+    "id": 5303132001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530313,
+    "value": "Tasinifu",
+    "postal_code": "85663"
+  }
+]

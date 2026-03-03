@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7306142005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Bilalang (Billang)",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Manuju",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Moncongloe",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Pattallikang",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Tamalatea",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Tanakkaraeng",
+    "postal_code": "92173"
+  },
+  {
+    "id": 7306142006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730614,
+    "value": "Tassese",
+    "postal_code": "92173"
+  }
+]

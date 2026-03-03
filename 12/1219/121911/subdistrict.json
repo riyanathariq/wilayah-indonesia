@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219112005,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Bangun Sari",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112004,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Binjai Baru",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112010,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Glugur Makmur",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112006,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Karang Baru",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112008,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Mekar Baru",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112007,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Perkebunan Petatal",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112003,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Perkebunan Tanah Datar",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112009,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Petatal",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112002,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Sei Muka",
+    "postal_code": "21254"
+  },
+  {
+    "id": 1219112001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121911,
+    "value": "Sumber Tani",
+    "postal_code": "21254"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3471141002,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347114,
+    "value": "Prenggan",
+    "postal_code": "55172"
+  },
+  {
+    "id": 3471141003,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347114,
+    "value": "Purbayan",
+    "postal_code": "55173"
+  },
+  {
+    "id": 3471141001,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347114,
+    "value": "Rejowinangun",
+    "postal_code": "55171"
+  }
+]

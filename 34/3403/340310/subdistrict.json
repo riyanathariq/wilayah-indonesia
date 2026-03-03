@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3403102009,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Bedoyo",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Genjahan",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102011,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Gombang",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Karangasem (Karang Asem)",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Kenteng",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Ponjong",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Sawahan",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102010,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Sidorejo",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Sumbergiri (Sumber Giri)",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Tambakromo",
+    "postal_code": "55892"
+  },
+  {
+    "id": 3403102001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340310,
+    "value": "Umbulrejo (Umbul Rejo)",
+    "postal_code": "55892"
+  }
+]

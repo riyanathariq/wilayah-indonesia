@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9209142005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Babak",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209142001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Bamusbama",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209142002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Bamuswaiman",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209142006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Bano",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209142003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Syarwom",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209142007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920914,
+    "value": "Wormon",
+    "postal_code": "98379"
+  }
+]

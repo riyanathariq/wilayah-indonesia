@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2102142006,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Buluh Patah",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Keban",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Niur Permai",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Rawa Jaya (Rawajaya)",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142007,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Selat Mie",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Sugie",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102142005,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210214,
+    "value": "Tanjung Pelanduk",
+    "postal_code": "29663"
+  }
+]

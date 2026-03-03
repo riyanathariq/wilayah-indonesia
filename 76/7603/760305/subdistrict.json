@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7603052009,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Burana",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Gandang Dewata",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603051001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Lakahang",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052015,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Lakahang Utama",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Malatiro",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052011,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Pangandaran",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Periangan",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052013,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Peu' (Peu)",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052010,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Salubakka",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Saluleang",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Tabulahan",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052012,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Talopak",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Tampak Kurra",
+    "postal_code": "91372"
+  },
+  {
+    "id": 7603052014,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760305,
+    "value": "Timoro",
+    "postal_code": "91372"
+  }
+]

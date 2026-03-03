@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5301042011,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Batuinan",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Bokonusan",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Hansisi",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042009,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Huilelot",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042013,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Letbaun",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Otan",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Uiasa",
+    "postal_code": "85352"
+  },
+  {
+    "id": 5301042005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530104,
+    "value": "Uitao",
+    "postal_code": "85352"
+  }
+]

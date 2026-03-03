@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1308042004,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130804,
+    "value": "Ganggo Hilia",
+    "postal_code": "26381"
+  },
+  {
+    "id": 1308042003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130804,
+    "value": "Ganggo Mudiak",
+    "postal_code": "26381"
+  },
+  {
+    "id": 1308042002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130804,
+    "value": "Koto Kaciak",
+    "postal_code": "26381"
+  },
+  {
+    "id": 1308042007,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130804,
+    "value": "Koto Kaciak Barat",
+    "postal_code": "26381"
+  },
+  {
+    "id": 1308042001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130804,
+    "value": "Limo Koto",
+    "postal_code": "26381"
+  }
+]

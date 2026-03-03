@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3217032005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Cipada",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Jambudipa",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Kertawangi",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Padaasih",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Pasirhalang",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Pasirlangu",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Sadangmekar",
+    "postal_code": "40551"
+  },
+  {
+    "id": 3217032007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321703,
+    "value": "Tugumukti",
+    "postal_code": "40551"
+  }
+]

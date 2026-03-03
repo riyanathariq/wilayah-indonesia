@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9207032001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920703,
+    "value": "Aisandami",
+    "postal_code": "98345"
+  },
+  {
+    "id": 9207032002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920703,
+    "value": "Sobei (Sobey)",
+    "postal_code": "98345"
+  },
+  {
+    "id": 9207032011,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920703,
+    "value": "Sobey Indah",
+    "postal_code": "98345"
+  },
+  {
+    "id": 9207032006,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920703,
+    "value": "Yopanggar (Yopengar)",
+    "postal_code": "98345"
+  }
+]

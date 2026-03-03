@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3509042007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Bagorejo",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Gumukmas",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Karangrejo (Karang Rejo)",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Kepanjen",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Mayangan",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Menampu",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Purwoasri",
+    "postal_code": "68165"
+  },
+  {
+    "id": 3509042005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350904,
+    "value": "Tembokrejo",
+    "postal_code": "68165"
+  }
+]

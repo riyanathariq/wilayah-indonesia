@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5308202003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Kedebodu",
+    "postal_code": "86361"
+  },
+  {
+    "id": 5308201001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Mautapaga",
+    "postal_code": "86317"
+  },
+  {
+    "id": 5308202004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Ndungga",
+    "postal_code": "86361"
+  },
+  {
+    "id": 5308201002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Rewarangga",
+    "postal_code": "86319"
+  },
+  {
+    "id": 5308201006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Rewarangga Selatan",
+    "postal_code": "86361"
+  },
+  {
+    "id": 5308202005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530820,
+    "value": "Tiwutewa",
+    "postal_code": "86361"
+  }
+]

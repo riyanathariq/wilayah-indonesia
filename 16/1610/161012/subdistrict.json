@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1610122005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Penyandingan",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Pinang Jaya",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Pinang Mas",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Seri Jabo Baru (Serijabo Baru)",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Serijabo",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610121007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang I",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang II",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang III",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang Lagati",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Sungai Pinang Nibung",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Talang Dukun",
+    "postal_code": "30662"
+  },
+  {
+    "id": 1610122004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161012,
+    "value": "Tanjung Serian (Tajung Serian)",
+    "postal_code": "30662"
+  }
+]

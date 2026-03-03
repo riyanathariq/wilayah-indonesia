@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9501242002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950124,
+    "value": "Agulimo",
+    "postal_code": "99525"
+  },
+  {
+    "id": 9501242005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950124,
+    "value": "Luku-luku",
+    "postal_code": "99525"
+  },
+  {
+    "id": 9501242003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950124,
+    "value": "Musiem",
+    "postal_code": "99525"
+  },
+  {
+    "id": 9501242001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950124,
+    "value": "Wadangku",
+    "postal_code": "99525"
+  },
+  {
+    "id": 9501242004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950124,
+    "value": "Yomosimo",
+    "postal_code": "99525"
+  }
+]

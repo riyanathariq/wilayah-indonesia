@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7405182003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Amoito Jaya",
+    "postal_code": "93878"
+  },
+  {
+    "id": 7405182002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Aoma",
+    "postal_code": "93878"
+  },
+  {
+    "id": 7405182007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Aunupe",
+    "postal_code": "93878"
+  },
+  {
+    "id": 7405182004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Leleka",
+    "postal_code": "93878"
+  },
+  {
+    "id": 7405182005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Mata Wolasi",
+    "postal_code": "93878"
+  },
+  {
+    "id": 7405182001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740518,
+    "value": "Wolasi",
+    "postal_code": "93878"
+  }
+]

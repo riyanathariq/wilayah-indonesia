@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7606052007,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Benggaulu",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052004,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Kadaila",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052009,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Kambunong",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052001,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Karossa",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052005,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Kayu Calla",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052003,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Lara",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052006,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Lembah Hopo",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052010,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Salubiro",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052011,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Sanjango",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052008,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Suka Maju",
+    "postal_code": "91460"
+  },
+  {
+    "id": 7606052002,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760605,
+    "value": "Tasokko",
+    "postal_code": "91460"
+  }
+]

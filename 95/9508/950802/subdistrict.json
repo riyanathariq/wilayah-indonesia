@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9508022005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Duma",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Dumdum",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Endumu",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022011,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Kelapa Dua",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Litkui",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Lunggadumu",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Mapenduma",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022010,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Nowomlusu",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Palsam",
+    "postal_code": "99909"
+  },
+  {
+    "id": 9508022006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950802,
+    "value": "Yoe",
+    "postal_code": "99909"
+  }
+]

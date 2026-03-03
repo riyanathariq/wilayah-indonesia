@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3312232004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331223,
+    "value": "Jeblogan",
+    "postal_code": "57677"
+  },
+  {
+    "id": 3312232002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331223,
+    "value": "Karangtengah",
+    "postal_code": "57677"
+  },
+  {
+    "id": 3312232003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331223,
+    "value": "Ngambarsari",
+    "postal_code": "57677"
+  },
+  {
+    "id": 3312232001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331223,
+    "value": "Purwoharjo",
+    "postal_code": "57677"
+  },
+  {
+    "id": 3312232005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331223,
+    "value": "Temboro",
+    "postal_code": "57677"
+  }
+]

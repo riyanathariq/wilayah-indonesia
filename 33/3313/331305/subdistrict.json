@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3313052002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Dawung",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Gantiwarno",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Girilayu",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Karangbangun",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Koripan",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Matesih",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Ngadiluwih",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Pablengan",
+    "postal_code": "57781"
+  },
+  {
+    "id": 3313052008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331305,
+    "value": "Plosorejo",
+    "postal_code": "57781"
+  }
+]

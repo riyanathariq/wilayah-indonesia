@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1307022001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130702,
+    "value": "Guguak VIII Koto",
+    "postal_code": "26253"
+  },
+  {
+    "id": 1307022004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130702,
+    "value": "Kubang",
+    "postal_code": "26253"
+  },
+  {
+    "id": 1307022005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130702,
+    "value": "Simpang Sugiran",
+    "postal_code": "26253"
+  },
+  {
+    "id": 1307022003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130702,
+    "value": "Sungai Talang",
+    "postal_code": "26253"
+  },
+  {
+    "id": 1307022002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130702,
+    "value": "VII/Tujuh Koto Talago",
+    "postal_code": "26253"
+  }
+]

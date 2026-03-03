@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6102182003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Antibar",
+    "postal_code": "78917"
+  },
+  {
+    "id": 6102182008,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Parit Banjar",
+    "postal_code": "78919"
+  },
+  {
+    "id": 6102182005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Pasir Palembang",
+    "postal_code": "78916"
+  },
+  {
+    "id": 6102182006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Pasir Panjang",
+    "postal_code": "78915"
+  },
+  {
+    "id": 6102181002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Pasir Wan Salim",
+    "postal_code": "78915"
+  },
+  {
+    "id": 6102181001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Pulau Pedalaman",
+    "postal_code": "78917"
+  },
+  {
+    "id": 6102182007,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Sei/Sungai Bakau Kecil",
+    "postal_code": "78919"
+  },
+  {
+    "id": 6102182004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610218,
+    "value": "Sejegi",
+    "postal_code": "78918"
+  }
+]

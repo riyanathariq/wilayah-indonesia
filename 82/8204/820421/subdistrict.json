@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204212003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Liaro",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Pigaraja",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Silang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Tabajaya",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Tabangame",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Wayakuba",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204212001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820421,
+    "value": "Wayaua",
+    "postal_code": "97791"
+  }
+]

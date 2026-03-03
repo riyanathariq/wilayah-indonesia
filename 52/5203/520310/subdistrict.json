@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5203102007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Bagik Manis",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Belanting",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Dadap",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Darakunci",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Labuhan Pandan",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Madayin",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Obel Obel",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102011,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Padak Guar",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Sambalia (Sambelia)",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Senanggalih",
+    "postal_code": "83656"
+  },
+  {
+    "id": 5203102005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520310,
+    "value": "Sugian",
+    "postal_code": "83656"
+  }
+]

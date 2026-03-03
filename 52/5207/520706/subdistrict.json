@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5207062003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Kiantar",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062006,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Kokarlian",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Mantar",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062004,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Poto Tano",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Senayan",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062007,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Tebo",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062008,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "Tuananga",
+    "postal_code": "84454"
+  },
+  {
+    "id": 5207062005,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520706,
+    "value": "UPT Tambak Sari (Tambak Sari)",
+    "postal_code": "84454"
+  }
+]

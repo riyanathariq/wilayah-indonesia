@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6403072009,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640307,
+    "value": "Kasai",
+    "postal_code": "77380"
+  },
+  {
+    "id": 6403072001,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640307,
+    "value": "Pegat Batumbuk (Pegat Bertumbuk)",
+    "postal_code": "77380"
+  },
+  {
+    "id": 6403072004,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640307,
+    "value": "Pulau Derawan",
+    "postal_code": "77380"
+  },
+  {
+    "id": 6403072003,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640307,
+    "value": "Tanjung Batu",
+    "postal_code": "77380"
+  },
+  {
+    "id": 6403072002,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640307,
+    "value": "Teluk Semanting",
+    "postal_code": "77380"
+  }
+]

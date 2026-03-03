@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9508232001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Paris",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Pirim-Pirim",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Rapa",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Simie",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Sokore",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Tobonggom",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Tombisik",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Urugi",
+    "postal_code": "99925"
+  },
+  {
+    "id": 9508232006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950823,
+    "value": "Yepma",
+    "postal_code": "99925"
+  }
+]

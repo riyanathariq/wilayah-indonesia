@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6472061007,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Karang Anyar",
+    "postal_code": "75125"
+  },
+  {
+    "id": 6472061006,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Karang Asam Ilir",
+    "postal_code": "75126"
+  },
+  {
+    "id": 6472061003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Karang Asam Ulu",
+    "postal_code": "75126"
+  },
+  {
+    "id": 6472061001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Loa Bakung",
+    "postal_code": "75126"
+  },
+  {
+    "id": 6472061002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Loa Buah",
+    "postal_code": "75126"
+  },
+  {
+    "id": 6472061004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Lok Bahu",
+    "postal_code": "75125"
+  },
+  {
+    "id": 6472061005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647206,
+    "value": "Teluk Lerong Ulu",
+    "postal_code": "75127"
+  }
+]

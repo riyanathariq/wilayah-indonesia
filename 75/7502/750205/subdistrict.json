@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7502052004,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Bendungan",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052006,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Buti",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052002,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Kaaruyan",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052008,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Kramat (Keramat)",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052005,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Mananggu",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052007,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Pontolo",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052003,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Salilama",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052001,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Tabulo",
+    "postal_code": "96265"
+  },
+  {
+    "id": 7502052009,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750205,
+    "value": "Tabulo Selatan",
+    "postal_code": "96265"
+  }
+]

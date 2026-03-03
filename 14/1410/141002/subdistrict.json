@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1410022003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Anak Setatah",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Bantar",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022012,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Bina Maju",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022005,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Bokor",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Lemang",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022017,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Mekar Baru",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Melai",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022016,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Permai",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Segomeng",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022015,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Sialang Pasung",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022006,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Sungai Cina",
+    "postal_code": "28756"
+  },
+  {
+    "id": 1410022011,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141002,
+    "value": "Telaga Baru",
+    "postal_code": "28756"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3510022004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Bangorejo",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Kebondalem",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Ringintelu",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Sambimulyo",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Sambirejo",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Sukorejo",
+    "postal_code": "68487"
+  },
+  {
+    "id": 3510022003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351002,
+    "value": "Temurejo",
+    "postal_code": "68487"
+  }
+]

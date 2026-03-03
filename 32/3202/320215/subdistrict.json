@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202152002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Bojong Longok (Bojonglongok)",
+    "postal_code": "43355"
+  },
+  {
+    "id": 3202152005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Bojongasih",
+    "postal_code": "43355"
+  },
+  {
+    "id": 3202152006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Lebaksari",
+    "postal_code": "43355"
+  },
+  {
+    "id": 3202152001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Parakan Salak (Parakansalak)",
+    "postal_code": "43355"
+  },
+  {
+    "id": 3202152003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Sukakersa",
+    "postal_code": "43355"
+  },
+  {
+    "id": 3202152004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320215,
+    "value": "Sukatani",
+    "postal_code": "43355"
+  }
+]

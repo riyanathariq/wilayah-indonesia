@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3521102002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Babadan",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Dawu",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102013,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Gelung",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Gentong",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Jambangan",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102011,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Jeblogan",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102014,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Kebon",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Kedungputri (Kedung Putri)",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102012,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Ngale",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Paron",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Semen",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Sirigan",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Teguhan",
+    "postal_code": "63253"
+  },
+  {
+    "id": 3521102005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352110,
+    "value": "Tempuran",
+    "postal_code": "63253"
+  }
+]

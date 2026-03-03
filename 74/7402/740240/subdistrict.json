@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7402402004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Abelisawah",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402008,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Andobeu Jaya",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Anggalomoare",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402009,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Anggalomoare Jaya",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Galu",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Lakomea (Lakome)",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Lasoso",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402010,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Pusawah Jaya (Pusawa Jaya)",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Puusangi",
+    "postal_code": "93455"
+  },
+  {
+    "id": 7402402006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740240,
+    "value": "Tabanggele",
+    "postal_code": "93455"
+  }
+]

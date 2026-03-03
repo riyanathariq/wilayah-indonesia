@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1809072019,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Babakan Loa",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072014,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Gunung Sugih (Gunungsugih)",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072021,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Harapan Jaya",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072010,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Kedondong",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072013,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Kertasana (Kerta Sana)",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072011,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Pasar Baru",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072020,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Pesawaran Indah",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072017,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Sinar Harapan",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072009,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072018,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Teba Jawa",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072012,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Tempel Rejo",
+    "postal_code": "35368"
+  },
+  {
+    "id": 1809072008,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180907,
+    "value": "Way Kepayang",
+    "postal_code": "35368"
+  }
+]

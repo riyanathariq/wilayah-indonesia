@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6207092009,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Batu Menangis (Batu Manangis)",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092004,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Derawa",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092007,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Durian Kait",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092003,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Kalang",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Sandul",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Sebabi",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092008,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Sehabu (Sahabu/Sebabu)",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Suka Mulya",
+    "postal_code": "74281"
+  },
+  {
+    "id": 6207092005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620709,
+    "value": "Wana Tirta",
+    "postal_code": "74281"
+  }
+]

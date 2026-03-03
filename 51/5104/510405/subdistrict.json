@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5104052004,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Kedewatan",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052001,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Lodtunduh",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052002,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Mas",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052006,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Peliatan",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052007,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Petulu",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052008,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Sayan",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104052003,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Singakerta (Singekerta)",
+    "postal_code": "80571"
+  },
+  {
+    "id": 5104051005,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510405,
+    "value": "Ubud",
+    "postal_code": "80571"
+  }
+]

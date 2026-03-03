@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6207032006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Banua Usang",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Cempaka Baru",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032003,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Palingkau",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Paren",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032013,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Sembuluh I (Satu)",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032014,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Sembuluh II (Dua)",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Telaga Pulang",
+    "postal_code": "74261"
+  },
+  {
+    "id": 6207032004,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620703,
+    "value": "Ulak Batu",
+    "postal_code": "74261"
+  }
+]

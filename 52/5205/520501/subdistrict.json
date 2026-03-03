@@ -1,0 +1,122 @@
+[
+  {
+    "id": 5205011001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Bada",
+    "postal_code": "84211"
+  },
+  {
+    "id": 5205011002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Bali",
+    "postal_code": "84213"
+  },
+  {
+    "id": 5205011005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Dora Tangga",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012011,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Dore Bara",
+    "postal_code": "84212"
+  },
+  {
+    "id": 5205011006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Kandai I",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012009,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Karamabura",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012012,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Kareke",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205011004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Karijawa",
+    "postal_code": "84217"
+  },
+  {
+    "id": 5205012008,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Katua",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012013,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Mangge Nae",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012014,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Manggeasi",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012010,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Mbawi",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205012007,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "O'o",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205011003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Potu",
+    "postal_code": "84214"
+  },
+  {
+    "id": 5205012015,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520501,
+    "value": "Sori Sakolo",
+    "postal_code": "84213"
+  }
+]

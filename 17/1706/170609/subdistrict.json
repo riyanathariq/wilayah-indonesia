@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1706092009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Aur Cina",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Lubuk Bangko",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Lubuk Sahung",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Pondok Baru",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Sungai Gading",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Sungai Ipuh",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092012,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Sungai Ipuh Dua",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092011,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Sungai Ipuh Satu",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Sungai Jerinjing",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Surian Bungkal",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Talang Buai",
+    "postal_code": "38769"
+  },
+  {
+    "id": 1706092010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170609,
+    "value": "Talang Medan",
+    "postal_code": "38769"
+  }
+]

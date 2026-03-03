@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3201352005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Cileuksa",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Cisarua",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Harkatjaya",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Jayaraharja",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Kiarapandak (Kiara Pandak)",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Kiarasari",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Pasir Madang",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Sipayung",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Sukajaya",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Sukamulih",
+    "postal_code": "16661"
+  },
+  {
+    "id": 3201352010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320135,
+    "value": "Urug",
+    "postal_code": "16661"
+  }
+]

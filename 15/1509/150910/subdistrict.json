@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1509102003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Bukit Pamuatan (Bukit Pemuatan)",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Napal Putih",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Pagar Puding Lamo",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Pinang Belai/Balai",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Sako Makmur",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Sekutur Jaya",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Tanjung Aur Seberang",
+    "postal_code": "37554"
+  },
+  {
+    "id": 1509102008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150910,
+    "value": "Teluk Melintang",
+    "postal_code": "37554"
+  }
+]

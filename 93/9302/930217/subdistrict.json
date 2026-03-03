@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9302172003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930217,
+    "value": "Kawaktembut",
+    "postal_code": "99683"
+  },
+  {
+    "id": 9302172001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930217,
+    "value": "Ninati",
+    "postal_code": "99683"
+  },
+  {
+    "id": 9302172004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930217,
+    "value": "Tembutka",
+    "postal_code": "99683"
+  },
+  {
+    "id": 9302172005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930217,
+    "value": "Timka",
+    "postal_code": "99683"
+  },
+  {
+    "id": 9302172002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930217,
+    "value": "Upyetetko",
+    "postal_code": "99683"
+  }
+]

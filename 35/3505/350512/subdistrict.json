@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3505122009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Bacem",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Jegu",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Jingglong",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Kalipang",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505122011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Kaulon",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Kedungbunder (Kedung Bunder)",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Kembangarum",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505122001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Pandanarum",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Sotojayan (Sutojayan)",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505121007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Sukorejo",
+    "postal_code": "66172"
+  },
+  {
+    "id": 3505122010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350512,
+    "value": "Sumberjo",
+    "postal_code": "66172"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8204272001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Bisui",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Lelewi",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Luim",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Matuting",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Matuting Tanjung",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Tabahidayah",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Tabahijrah",
+    "postal_code": "97788"
+  },
+  {
+    "id": 8204272008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820427,
+    "value": "Tagia (Tagea)",
+    "postal_code": "97788"
+  }
+]

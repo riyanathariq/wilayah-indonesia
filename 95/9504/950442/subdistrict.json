@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504422006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Agin",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Kogagi",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Kolanggun",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Posman",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Tiyonggi",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Wamigi",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Wenggun",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Wuluk",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Yebena",
+    "postal_code": "99041"
+  },
+  {
+    "id": 9504422005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950442,
+    "value": "Yelly",
+    "postal_code": "99041"
+  }
+]

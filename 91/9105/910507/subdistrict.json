@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9105072010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Doreimanona",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Kiriyou (Kiriyow)",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Roswari (Artaneng)",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Sambrawai (Samrawai)",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Soromasen (Soromasem)",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Tindaret",
+    "postal_code": "98645"
+  },
+  {
+    "id": 9105072002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910507,
+    "value": "Yobi",
+    "postal_code": "98645"
+  }
+]

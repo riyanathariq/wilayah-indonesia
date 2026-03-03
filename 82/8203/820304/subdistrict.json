@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8203042031,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Barataku",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Mamuya",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Pune",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042024,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Simau",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Soa Sio",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042032,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Towara (Torawa)",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203042016,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820304,
+    "value": "Toweka",
+    "postal_code": "97761"
+  }
+]

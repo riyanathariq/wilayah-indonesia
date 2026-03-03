@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6401012011,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Batu Kajang (Batu Sopang)",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012010,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Busui",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012014,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Kasungai",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012012,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Legai",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012015,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Rantau Buta",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012016,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Rantau Layung",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012009,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Samuranggau (Samurangau)",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012013,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Sei/Sungai Terik",
+    "postal_code": "76252"
+  },
+  {
+    "id": 6401012017,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640101,
+    "value": "Songka",
+    "postal_code": "76252"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6106052001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Bunut Hilir",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Bunut Hulu",
+    "postal_code": "78762"
+  },
+  {
+    "id": 6106052009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Bunut Tengah",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Empangau",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052012,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Empangau Hilir",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Entibab",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052011,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Kapuas Raya",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Nanga Tuan",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Teluk Aur",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Tembang",
+    "postal_code": "78761"
+  },
+  {
+    "id": 6106052006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610605,
+    "value": "Ujung Pandang",
+    "postal_code": "78761"
+  }
+]

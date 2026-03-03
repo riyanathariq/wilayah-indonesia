@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1107312013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Alue",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Asan Tongpudeng (Asan Tumpeudeng)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Blang Thoe (Blang Tho)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Cut",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Dayah Meunara (Dayah Menara)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Lingkok",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Mesjid Tongpudeng (Mesjid Tumpeudeng)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Paloh Naleung (Paloh Naleueng)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Pante Kulu",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Pante Siren",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Pulo Lhoih (Pulo Loh / Loih)",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Pulo Raya",
+    "postal_code": "24168"
+  },
+  {
+    "id": 1107312003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110731,
+    "value": "Uke (Ukee)",
+    "postal_code": "24168"
+  }
+]

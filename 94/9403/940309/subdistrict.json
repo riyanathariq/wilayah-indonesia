@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9403092004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940309,
+    "value": "Dimiya",
+    "postal_code": "98726"
+  },
+  {
+    "id": 9403092002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940309,
+    "value": "Keniapa",
+    "postal_code": "98726"
+  },
+  {
+    "id": 9403092003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940309,
+    "value": "Memiyaibutu",
+    "postal_code": "98726"
+  },
+  {
+    "id": 9403092005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940309,
+    "value": "Udaugi",
+    "postal_code": "98726"
+  },
+  {
+    "id": 9403092001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940309,
+    "value": "Wotai",
+    "postal_code": "98726"
+  }
+]

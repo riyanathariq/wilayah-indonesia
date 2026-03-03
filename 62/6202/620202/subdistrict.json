@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6202022009,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Cempaka Mulia Barat",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022008,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Cempaka Mulia Timur",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022007,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Jemaras",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022010,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Luwuk Bunter (Lubuk Bunter)",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Luwuk Ranggan (Lubuk Ranggan)",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Patai",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Rubung Buyung",
+    "postal_code": "74354"
+  },
+  {
+    "id": 6202022011,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620202,
+    "value": "Sei/Sungai Paring",
+    "postal_code": "74354"
+  }
+]

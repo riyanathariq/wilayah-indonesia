@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3171011002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Cideng",
+    "postal_code": "10150"
+  },
+  {
+    "id": 3171011006,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Duri Pulo",
+    "postal_code": "10140"
+  },
+  {
+    "id": 3171011001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Gambir",
+    "postal_code": "10110"
+  },
+  {
+    "id": 3171011005,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Kebon Kelapa",
+    "postal_code": "10120"
+  },
+  {
+    "id": 3171011004,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Petojo Selatan",
+    "postal_code": "10160"
+  },
+  {
+    "id": 3171011003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317101,
+    "value": "Petojo Utara",
+    "postal_code": "10130"
+  }
+]

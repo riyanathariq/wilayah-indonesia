@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1211042012,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Adian Gupa",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Adian Nangka",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Bunturaja",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042011,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Gomit",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042009,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Huta Imbaru",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Juma Siulok",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Juma Teguh",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042010,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Jumantuang",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042013,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Maju",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Sihorbo",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Sinampang",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Soban",
+    "postal_code": "22261"
+  },
+  {
+    "id": 1211042008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121104,
+    "value": "Sosor Lontung",
+    "postal_code": "22261"
+  }
+]

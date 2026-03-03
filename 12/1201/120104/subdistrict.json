@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1201041009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Albion Prancis",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201042008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Danau Pandan",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201042002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Gunung Marijo",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201042006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Parjalihotan Baru",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201041007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Pinangbaru (Pinang Baru)",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201041001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Pinangsori",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201042003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Sihaporas",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201041004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Sitonong Bangun",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201041010,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Sori Nauli",
+    "postal_code": "22653"
+  },
+  {
+    "id": 1201042005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120104,
+    "value": "Toga Basir",
+    "postal_code": "22653"
+  }
+]

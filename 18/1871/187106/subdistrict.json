@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871061001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Durian Payung",
+    "postal_code": "35116"
+  },
+  {
+    "id": 1871061002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Gotong Royong",
+    "postal_code": "35119"
+  },
+  {
+    "id": 1871061006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Kaliawi",
+    "postal_code": "35115"
+  },
+  {
+    "id": 1871061012,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Kaliawi Persada",
+    "postal_code": "35115"
+  },
+  {
+    "id": 1871061007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Kelapa Tiga",
+    "postal_code": "35111"
+  },
+  {
+    "id": 1871061005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Palapa",
+    "postal_code": "35116"
+  },
+  {
+    "id": 1871061010,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187106,
+    "value": "Pasir Gintung",
+    "postal_code": "35113"
+  }
+]

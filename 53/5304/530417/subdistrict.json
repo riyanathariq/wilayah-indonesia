@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5304172007,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Baudaok",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172005,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Dualasi",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Dualasi Rai Ulun (Raiulun)",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172006,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Fatulotu",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Lakan Mau (Lakanmau)",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Lasiolat",
+    "postal_code": "85771"
+  },
+  {
+    "id": 5304172002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530417,
+    "value": "Maneikun",
+    "postal_code": "85771"
+  }
+]

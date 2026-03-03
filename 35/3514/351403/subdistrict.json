@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3514032002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Janjangwulung (Jangjangwulung)",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Jimbaran",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Keduwung",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Kemiri",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Palangsari (Palang Sari)",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Puspo",
+    "postal_code": "67176"
+  },
+  {
+    "id": 3514032006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351403,
+    "value": "Pusung Malang",
+    "postal_code": "67176"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1302072007,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Aie Batumbuak (Aia Batumbuak)",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072006,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Batang Barus",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Cupak",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Jawi Jawi",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Koto Gadang Guguak",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072008,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Koto Gaek Guguk",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Sungai Janiah",
+    "postal_code": "27365"
+  },
+  {
+    "id": 1302072002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130207,
+    "value": "Talang",
+    "postal_code": "27365"
+  }
+]

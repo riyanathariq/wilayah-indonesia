@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3312122009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Bulusulur",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312121006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Giripurwo",
+    "postal_code": "57612"
+  },
+  {
+    "id": 3312121003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Giritirto",
+    "postal_code": "57611"
+  },
+  {
+    "id": 3312121007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Giriwono",
+    "postal_code": "57613"
+  },
+  {
+    "id": 3312122012,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Manjung",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Pokohkidul",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Purworejo",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Purwosari",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Sendang",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122014,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Sonoharjo",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312121008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Wonoboyo",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312122011,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Wonoharjo",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312121015,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Wonokarto",
+    "postal_code": "57612"
+  },
+  {
+    "id": 3312122013,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Wonokerto",
+    "postal_code": "57615"
+  },
+  {
+    "id": 3312121002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331212,
+    "value": "Wuryorejo",
+    "postal_code": "57614"
+  }
+]

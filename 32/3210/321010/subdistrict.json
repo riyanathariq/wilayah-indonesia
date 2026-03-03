@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3210102010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Ciparay",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Heuleut",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Karangasem",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Lame",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Leuwikujang",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Leuwimunding",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Mindi",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Mirat",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Nanggerang",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Parakan",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Parungjaya",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Patuanan",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Rajawangi",
+    "postal_code": "45473"
+  },
+  {
+    "id": 3210102013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321010,
+    "value": "Tanjungsari",
+    "postal_code": "45473"
+  }
+]

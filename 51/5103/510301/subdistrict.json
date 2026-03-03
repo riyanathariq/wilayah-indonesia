@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5103011003,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510301,
+    "value": "Kedonganan",
+    "postal_code": "80361"
+  },
+  {
+    "id": 5103011002,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510301,
+    "value": "Kuta",
+    "postal_code": "80361"
+  },
+  {
+    "id": 5103011004,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510301,
+    "value": "Legian",
+    "postal_code": "80361"
+  },
+  {
+    "id": 5103011005,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510301,
+    "value": "Seminyak",
+    "postal_code": "80361"
+  },
+  {
+    "id": 5103011001,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510301,
+    "value": "Tuban",
+    "postal_code": "80361"
+  }
+]

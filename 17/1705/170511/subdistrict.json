@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1705112005,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Padang Genting",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112012,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Padang Merbau",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705111010,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Padang Rambun",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112004,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Pasar Seluma",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705111008,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Rimbo Kedui",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112006,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Sengkuang",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705111011,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Sido Mulyo",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112001,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Sukarami (Suka Rami)",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112007,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Tangga Batu",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112009,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Tanjung Seluai",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112002,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Tanjung Seru",
+    "postal_code": "38878"
+  },
+  {
+    "id": 1705112003,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170511,
+    "value": "Tanjungan",
+    "postal_code": "38878"
+  }
+]

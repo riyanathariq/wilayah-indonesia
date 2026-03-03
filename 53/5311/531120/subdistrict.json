@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5311202003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531120,
+    "value": "Hambapraing (Hamba Praing)",
+    "postal_code": "87154"
+  },
+  {
+    "id": 5311202002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531120,
+    "value": "Kuta",
+    "postal_code": "87154"
+  },
+  {
+    "id": 5311202004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531120,
+    "value": "Mondu",
+    "postal_code": "87154"
+  },
+  {
+    "id": 5311202005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531120,
+    "value": "Ndapayami",
+    "postal_code": "87154"
+  },
+  {
+    "id": 5311201001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531120,
+    "value": "Temu",
+    "postal_code": "87154"
+  }
+]

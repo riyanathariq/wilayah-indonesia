@@ -1,0 +1,38 @@
+[
+  {
+    "id": 820703,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Morotai Jaya"
+  },
+  {
+    "id": 820701,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Morotai Selatan"
+  },
+  {
+    "id": 820702,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Morotai Selatan Barat"
+  },
+  {
+    "id": 820705,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Morotai Timur"
+  },
+  {
+    "id": 820704,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Morotai Utara"
+  },
+  {
+    "id": 820706,
+    "province_id": 82,
+    "regency_id": 8207,
+    "value": "Pulau Rao"
+  }
+]

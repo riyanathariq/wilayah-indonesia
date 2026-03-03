@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7304102010,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Bontocini (Bonto Cini)",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Bontomanai",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Bontotiro",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7304102011,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Janetallasa (Jenetallasa)",
+    "postal_code": "92314"
+  },
+  {
+    "id": 7304102007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Kassi",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Lebangmanai (Lebang Manai)",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102009,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Lebangmanai Utara (Lebang Manai Utara)",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Loka",
+    "postal_code": "92516"
+  },
+  {
+    "id": 7304102008,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Pallantikang",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Rumbia",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Tompobulu",
+    "postal_code": "92371"
+  },
+  {
+    "id": 7304102012,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730410,
+    "value": "Ujung Bulu",
+    "postal_code": "92371"
+  }
+]

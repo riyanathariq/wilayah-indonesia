@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1403162002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Airkulim (Air Kulim)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162010,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Balaimakam (Balai Makam)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Bathinsobanga (Bathin Sobanga)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162009,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Boncahmahang (Boncah Mahang)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Buluhmanis (Buluh Manis)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Bumbung",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Kesumboampai",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162005,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Pamesi",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162013,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Pematangobo (Pematang Obo)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Petani",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162008,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Sebangar",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162012,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Simpangpadang (Simpang Padang)",
+    "postal_code": "28785"
+  },
+  {
+    "id": 1403162011,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140316,
+    "value": "Tambusaibatangdui (Tambusai Batang Dui)",
+    "postal_code": "28785"
+  }
+]

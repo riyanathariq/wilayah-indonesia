@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9502192006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Beten Dua",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Bitipding",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Imsin",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Marang Tiking",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Omor",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Onkor",
+    "postal_code": "99434"
+  },
+  {
+    "id": 9502192001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950219,
+    "value": "Tarup",
+    "postal_code": "99434"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1502012024,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Koto Rawang",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Koto Renah",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Lubuk Mentilin",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Lubuk Pungguk",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Muara Madras (Muara Manderas)",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Pulau Tengah",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Rantau Kermas",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Renah Alai",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Renah Kemumu",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012023,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Renah Pelaan",
+    "postal_code": "37372"
+  },
+  {
+    "id": 1502012002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150201,
+    "value": "Tanjung Kasri",
+    "postal_code": "37372"
+  }
+]

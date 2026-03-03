@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1707072002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Bukit Nibung",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072009,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Bungin",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Karang Dapo Atas",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Karang Dapo Bawah",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Pelabuhan Talang Liak (Pelabuhan Talang Leak)",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Pungguk Pedaro",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Talang Kerinci",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Talang Liak I (Talang Leak I)",
+    "postal_code": "39262"
+  },
+  {
+    "id": 1707072008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170707,
+    "value": "Talang Liak II (Talang Leak II)",
+    "postal_code": "39262"
+  }
+]

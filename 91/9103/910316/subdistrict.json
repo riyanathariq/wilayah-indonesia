@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9103162003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Aurina",
+    "postal_code": "99363"
+  },
+  {
+    "id": 9103162001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Hulu Atas",
+    "postal_code": "99363"
+  },
+  {
+    "id": 9103162005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Kamikaru",
+    "postal_code": "99363"
+  },
+  {
+    "id": 9103162004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Muara Nawa (Muarah Mawa)",
+    "postal_code": "99363"
+  },
+  {
+    "id": 9103162006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Naira",
+    "postal_code": "99363"
+  },
+  {
+    "id": 9103162002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910316,
+    "value": "Pagai",
+    "postal_code": "99363"
+  }
+]

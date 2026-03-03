@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5301082013,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Mata Air",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Noelbaki",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082010,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Oebelo",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Oelnasi",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082009,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Oelpuah",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082011,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Penfui Timur",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301082012,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Tanah Merah",
+    "postal_code": "85361"
+  },
+  {
+    "id": 5301081007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530108,
+    "value": "Tarus",
+    "postal_code": "85361"
+  }
+]

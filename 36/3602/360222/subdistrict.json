@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3602222001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Ciparasi",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Cirompang",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Hariang",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Majasari",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sinar Jaya",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sindanglaya",
+    "postal_code": "42315"
+  },
+  {
+    "id": 3602222002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sobang",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sukajaya",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sukamaju",
+    "postal_code": "42318"
+  },
+  {
+    "id": 3602222010,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360222,
+    "value": "Sukaresmi",
+    "postal_code": "42318"
+  }
+]

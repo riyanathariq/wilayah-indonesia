@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6101102012,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Arga Pura",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Balai Gemuruh",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Bukit Mulya",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102011,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Karaban Jaya",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Madak",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102010,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Mensade",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102008,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Mukti Raharja",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Sabung",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102013,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Sapak Hulu Trans",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102009,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Sempurna",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Sungai Deden",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Sungai Sapa' (Sungai Sapa)",
+    "postal_code": "79417"
+  },
+  {
+    "id": 6101102005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610110,
+    "value": "Tebuah Elok",
+    "postal_code": "79417"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1109102002,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Amarabu",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102007,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Borengan",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102001,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Bubuhan",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102003,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Kuta Inang",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102004,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Kuta Padang",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102006,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Latak Ayah",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102005,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Sibuluh",
+    "postal_code": "23895"
+  },
+  {
+    "id": 1109102008,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110910,
+    "value": "Ujung Pandang / Padang",
+    "postal_code": "23895"
+  }
+]

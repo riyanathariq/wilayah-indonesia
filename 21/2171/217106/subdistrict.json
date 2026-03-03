@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2171061006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217106,
+    "value": "Baloi Indah",
+    "postal_code": "29432"
+  },
+  {
+    "id": 2171061004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217106,
+    "value": "Batu Selicin",
+    "postal_code": "29441"
+  },
+  {
+    "id": 2171061001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217106,
+    "value": "Kampung Pelita",
+    "postal_code": "29443"
+  },
+  {
+    "id": 2171061003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217106,
+    "value": "Lubuk Baja Kota",
+    "postal_code": "29444"
+  },
+  {
+    "id": 2171061005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217106,
+    "value": "Tanjung Uma",
+    "postal_code": "29445"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3671031001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Batuceper (Batu Ceper)",
+    "postal_code": "15122"
+  },
+  {
+    "id": 3671031002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Batujaya (Batu Jaya)",
+    "postal_code": "15121"
+  },
+  {
+    "id": 3671031006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Batusari (Batu Sari)",
+    "postal_code": "15121"
+  },
+  {
+    "id": 3671031005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Kebon Besar",
+    "postal_code": "15122"
+  },
+  {
+    "id": 3671031003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Poris Gaga",
+    "postal_code": "15122"
+  },
+  {
+    "id": 3671031004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Poris Gaga Baru",
+    "postal_code": "15122"
+  },
+  {
+    "id": 3671031007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367103,
+    "value": "Poris Jaya",
+    "postal_code": "15122"
+  }
+]

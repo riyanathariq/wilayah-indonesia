@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1903062005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190306,
+    "value": "Bukit Terap",
+    "postal_code": "33784"
+  },
+  {
+    "id": 1903062003,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190306,
+    "value": "Pasir Putih",
+    "postal_code": "33784"
+  },
+  {
+    "id": 1903062001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190306,
+    "value": "Sadai",
+    "postal_code": "33784"
+  },
+  {
+    "id": 1903062004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190306,
+    "value": "Tiram",
+    "postal_code": "33784"
+  },
+  {
+    "id": 1903062002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190306,
+    "value": "Tukak",
+    "postal_code": "33784"
+  }
+]

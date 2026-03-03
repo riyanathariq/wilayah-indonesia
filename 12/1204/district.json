@@ -1,0 +1,62 @@
+[
+  {
+    "id": 120411,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Bawolato"
+  },
+  {
+    "id": 120421,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Botomuzoi"
+  },
+  {
+    "id": 120406,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Gido"
+  },
+  {
+    "id": 120405,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Hiliduho"
+  },
+  {
+    "id": 120420,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Hiliserangkai (Hili Serangkai / Hilisaranggu)"
+  },
+  {
+    "id": 120410,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Idanogawo (Idano Gawo)"
+  },
+  {
+    "id": 120428,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Ma'u"
+  },
+  {
+    "id": 120435,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Sogae'adu (Sogae Adu / Sogaeadu)"
+  },
+  {
+    "id": 120429,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Somolo-Molo (Samolo)"
+  },
+  {
+    "id": 120427,
+    "province_id": 12,
+    "regency_id": 1204,
+    "value": "Ulugawo"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3509082007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Bagon",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082011,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Grenden",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Jambearum",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Kasiyan",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Kasiyan Timur",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Mlokorejo",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Mojomulyo",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Mojosari",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Pugerkulon (Puger Kulon)",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082012,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Pugerwetan (Puger Wetan)",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Wonosari",
+    "postal_code": "68164"
+  },
+  {
+    "id": 3509082005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350908,
+    "value": "Wringintelu (Wringin Telu)",
+    "postal_code": "68164"
+  }
+]

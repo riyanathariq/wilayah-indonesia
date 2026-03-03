@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6172011005,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Bukit Batu",
+    "postal_code": "79114"
+  },
+  {
+    "id": 6172011002,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Condong",
+    "postal_code": "79111"
+  },
+  {
+    "id": 6172011004,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Jawa",
+    "postal_code": "79116"
+  },
+  {
+    "id": 6172011001,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Roban",
+    "postal_code": "79112"
+  },
+  {
+    "id": 6172011006,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Sei/Sungai Wie",
+    "postal_code": "79115"
+  },
+  {
+    "id": 6172011003,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617201,
+    "value": "Sekip Lama",
+    "postal_code": "79113"
+  }
+]

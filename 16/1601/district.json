@@ -1,0 +1,80 @@
+[
+  {
+    "id": 160113,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Baturaja Barat"
+  },
+  {
+    "id": 160114,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Baturaja Timur"
+  },
+  {
+    "id": 160132,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Kedaton Peninjauan Raya"
+  },
+  {
+    "id": 160128,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Lengkiti"
+  },
+  {
+    "id": 160122,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Lubuk Batang"
+  },
+  {
+    "id": 160130,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Lubuk Raja"
+  },
+  {
+    "id": 160131,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Muara Jaya"
+  },
+  {
+    "id": 160108,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Pengandonan"
+  },
+  {
+    "id": 160109,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Peninjauan"
+  },
+  {
+    "id": 160121,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Semidang Aji"
+  },
+  {
+    "id": 160129,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Sinar Peninjauan"
+  },
+  {
+    "id": 160107,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Sosoh Buay Rayap"
+  },
+  {
+    "id": 160120,
+    "province_id": 16,
+    "regency_id": 1601,
+    "value": "Ulu Ogan"
+  }
+]

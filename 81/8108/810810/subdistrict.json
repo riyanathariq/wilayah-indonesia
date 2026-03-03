@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8108102002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Ilmarang",
+    "postal_code": "97651"
+  },
+  {
+    "id": 8108102003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Letmasa",
+    "postal_code": "97651"
+  },
+  {
+    "id": 8108102006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Nurnyaman",
+    "postal_code": "97651"
+  },
+  {
+    "id": 8108102005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Wairatan (Wiratan/Wiratang)",
+    "postal_code": "97651"
+  },
+  {
+    "id": 8108102001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Watuwey (Watuwei)",
+    "postal_code": "97651"
+  },
+  {
+    "id": 8108102004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810810,
+    "value": "Welora",
+    "postal_code": "97651"
+  }
+]

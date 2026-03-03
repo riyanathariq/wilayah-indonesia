@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1674021015,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Arimbi Jaya",
+    "postal_code": "31111"
+  },
+  {
+    "id": 1674021007,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Gunung Ibul",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021008,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Gunung Ibul Barat",
+    "postal_code": "31117"
+  },
+  {
+    "id": 1674021013,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Gunung Ibul Selatan",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021012,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Gunung Ibul Timur",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021014,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Gunung Ibul Utara",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021010,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Karang Jaya",
+    "postal_code": "31115"
+  },
+  {
+    "id": 1674021003,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Karang Raja",
+    "postal_code": "31111"
+  },
+  {
+    "id": 1674021006,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Muara Dua",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021011,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Muara Dua Barat",
+    "postal_code": "31113"
+  },
+  {
+    "id": 1674021005,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Prabu Jaya",
+    "postal_code": "31111"
+  },
+  {
+    "id": 1674021009,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Sukajadi",
+    "postal_code": "31111"
+  },
+  {
+    "id": 1674021004,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167402,
+    "value": "Tugu Kecil",
+    "postal_code": "31111"
+  }
+]

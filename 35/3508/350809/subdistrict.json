@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3508092007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Karangbendo",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Klampokarum",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Mangunsari",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Tekung",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Tukum",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Wonogriyo",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Wonokerto",
+    "postal_code": "67381"
+  },
+  {
+    "id": 3508092002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350809,
+    "value": "Wonosari",
+    "postal_code": "67381"
+  }
+]

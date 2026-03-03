@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1205132005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Air Hitam",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Bukit Mengkirai",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Dogang",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Kwala Gebang",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Padang Langkat",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Paluh Manis",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Pasar Rawa",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Pasiran",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Paya Bengkuang",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205131001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Pekan Gebang",
+    "postal_code": "20856"
+  },
+  {
+    "id": 1205132008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120513,
+    "value": "Sangga Lima (Perkebunan Serap)",
+    "postal_code": "20856"
+  }
+]

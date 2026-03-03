@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1571101003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157110,
+    "value": "Legok",
+    "postal_code": "36121"
+  },
+  {
+    "id": 1571101002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157110,
+    "value": "Murni",
+    "postal_code": "36121"
+  },
+  {
+    "id": 1571101004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157110,
+    "value": "Selamat",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571101005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157110,
+    "value": "Solok Sipin",
+    "postal_code": "36121"
+  },
+  {
+    "id": 1571101001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157110,
+    "value": "Sungai Putri",
+    "postal_code": "36122"
+  }
+]

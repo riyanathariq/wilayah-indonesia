@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3401022005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Bendungan",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022007,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Giripeni (Giri Peni)",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Karangwuni (Karang Wuni)",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Kulwaru",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Ngestiharjo",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Sogan",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401022006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Triharjo",
+    "postal_code": "55651"
+  },
+  {
+    "id": 3401021008,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340102,
+    "value": "Wates",
+    "postal_code": "55651"
+  }
+]

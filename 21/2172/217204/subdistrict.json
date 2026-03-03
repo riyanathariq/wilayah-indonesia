@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2172041002,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217204,
+    "value": "Dompak",
+    "postal_code": "29124"
+  },
+  {
+    "id": 2172041004,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217204,
+    "value": "Sei Jang",
+    "postal_code": "29124"
+  },
+  {
+    "id": 2172041003,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217204,
+    "value": "Tanjung Ayun Sakti",
+    "postal_code": "29124"
+  },
+  {
+    "id": 2172041001,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217204,
+    "value": "Tanjung Pinang Timur",
+    "postal_code": "29122"
+  },
+  {
+    "id": 2172041005,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217204,
+    "value": "Tanjung Unggat",
+    "postal_code": "29122"
+  }
+]

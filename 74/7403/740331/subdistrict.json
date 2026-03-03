@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7403312001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740331,
+    "value": "Marobo",
+    "postal_code": "93666"
+  },
+  {
+    "id": 7403312003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740331,
+    "value": "Pasikuta",
+    "postal_code": "93666"
+  },
+  {
+    "id": 7403312005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740331,
+    "value": "Poaroha",
+    "postal_code": "93666"
+  },
+  {
+    "id": 7403312004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740331,
+    "value": "Tapitapi",
+    "postal_code": "93666"
+  },
+  {
+    "id": 7403312002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740331,
+    "value": "Wadolao / Wadolau",
+    "postal_code": "93666"
+  }
+]

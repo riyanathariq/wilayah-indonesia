@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201202001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Bubung",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Bukit Mambual (Bukit Membual)",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Hanga Hanga",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Hanga-Hanga Permai",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Jole",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Kompo",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Maahas",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Simpong",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Tanjung Tuwis",
+    "postal_code": "94717"
+  },
+  {
+    "id": 7201201008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720120,
+    "value": "Tombang Permai",
+    "postal_code": "94717"
+  }
+]

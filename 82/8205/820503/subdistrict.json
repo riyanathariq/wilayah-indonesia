@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8205032008,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Kabau Darat",
+    "postal_code": "97797"
+  },
+  {
+    "id": 8205032006,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Kabau Pantai",
+    "postal_code": "97797"
+  },
+  {
+    "id": 8205032009,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Nahi",
+    "postal_code": "97797"
+  },
+  {
+    "id": 8205032007,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Ona",
+    "postal_code": "97797"
+  },
+  {
+    "id": 8205032010,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Paratina",
+    "postal_code": "97797"
+  },
+  {
+    "id": 8205032005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820503,
+    "value": "Wai Ina",
+    "postal_code": "97797"
+  }
+]

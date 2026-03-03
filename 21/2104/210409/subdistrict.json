@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2104091004,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210409,
+    "value": "Berlian",
+    "postal_code": "29878"
+  },
+  {
+    "id": 2104092001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210409,
+    "value": "Marok Kecil",
+    "postal_code": "29878"
+  },
+  {
+    "id": 2104092002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210409,
+    "value": "Pulau Lalang (Berhala)",
+    "postal_code": "29878"
+  },
+  {
+    "id": 2104092003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210409,
+    "value": "Resang",
+    "postal_code": "29878"
+  }
+]

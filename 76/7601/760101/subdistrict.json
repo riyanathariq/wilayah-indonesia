@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7601011006,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Bambalamotu",
+    "postal_code": "91575"
+  },
+  {
+    "id": 7601012008,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Kalola",
+    "postal_code": "91575"
+  },
+  {
+    "id": 7601012007,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Pangiang",
+    "postal_code": "91575"
+  },
+  {
+    "id": 7601012003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Polewali",
+    "postal_code": "91575"
+  },
+  {
+    "id": 7601012004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Randomayang",
+    "postal_code": "91575"
+  },
+  {
+    "id": 7601012009,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760101,
+    "value": "Wulai",
+    "postal_code": "91575"
+  }
+]

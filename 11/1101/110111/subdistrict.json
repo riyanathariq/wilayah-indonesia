@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1101112004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Aur Peulumat",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Beutong",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Gunung Rotan",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Keumumu Hilir",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Keumumu Hulu",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112011,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Keumumu Seberang",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Limau Saring",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Padang Peulumat",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Paya Peulumat",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Peuneulop (Peunalop)",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112012,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Sawang Indah",
+    "postal_code": "23758"
+  },
+  {
+    "id": 1101112001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110111,
+    "value": "Tengah Peulumat",
+    "postal_code": "23758"
+  }
+]

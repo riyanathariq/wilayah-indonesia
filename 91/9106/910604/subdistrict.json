@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9106042004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Baruki",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Kameri",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042014,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Kansai",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042020,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Mambodo Sawai",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Namber",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042022,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Pomdori Sup",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042015,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Pondori (Pomdori)",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042021,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Rimbaraya",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042019,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Semayen",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042013,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Serbin",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042012,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Sub Manggunsi (Subangungsi / Submanggunsi)",
+    "postal_code": "98564"
+  },
+  {
+    "id": 9106042008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910604,
+    "value": "Warido",
+    "postal_code": "98564"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8204192002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Bahu",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204192004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Galala",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204192003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Jiko (Jeko)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204192001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Lele",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204192005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Tabalema",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204192006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820419,
+    "value": "Yoyok",
+    "postal_code": "97791"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5305142003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Batu",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Bungabali (Bunga Bali)",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Kaera",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Kaleb",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142011,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Lalafang",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Lekom",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Mawar",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Merdeka",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Nule",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Ombay",
+    "postal_code": "85884"
+  },
+  {
+    "id": 5305142010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530514,
+    "value": "Tereweng (Treweng)",
+    "postal_code": "85884"
+  }
+]

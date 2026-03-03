@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7107122006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Pangu",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Pangu Dua",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Pangu Satu",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wioi Dua",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wioi Satu",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wioi Tiga",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wioi Timur",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wioy (Wioi)",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wongkai Satu",
+    "postal_code": "95995"
+  },
+  {
+    "id": 7107122009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710712,
+    "value": "Wongkay (Wongkai)",
+    "postal_code": "95995"
+  }
+]

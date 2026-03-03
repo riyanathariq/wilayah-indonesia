@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3524012002,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Banggle",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012003,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Kedungkumpul",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012006,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Kedungrejo",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012005,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Mragel",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012009,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Pendowokumpul",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012001,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Sembung",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012007,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Sewor",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012004,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Sukorame",
+    "postal_code": "62276"
+  },
+  {
+    "id": 3524012008,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352401,
+    "value": "Wedoro",
+    "postal_code": "62276"
+  }
+]

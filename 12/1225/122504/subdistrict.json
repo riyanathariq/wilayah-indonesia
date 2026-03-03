@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1225042002,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Gunungbaru (Gunung Baru)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042006,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Halifadolo (Hilifadolo)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042003,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Hilisoromi (Hili Soromi)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042008,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Hiliwaele (Hili Waele)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042001,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Hiliwaloo II",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042007,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Lasara Bahili",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042010,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Onozalukhu You",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042004,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Siduahili (Sidua Hili)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042005,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Sitolubanua Fadoro (Sitolu Banua Fadoro)",
+    "postal_code": "22862"
+  },
+  {
+    "id": 1225042009,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122504,
+    "value": "Sitoluewali (Sitolu Ewali)",
+    "postal_code": "22862"
+  }
+]

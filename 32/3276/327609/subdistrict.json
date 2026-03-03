@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3276091001,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327609,
+    "value": "Cinere",
+    "postal_code": "16514"
+  },
+  {
+    "id": 3276091002,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327609,
+    "value": "Gandul",
+    "postal_code": "16512"
+  },
+  {
+    "id": 3276091003,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327609,
+    "value": "Pangkalan Jati",
+    "postal_code": "16513"
+  },
+  {
+    "id": 3276091004,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327609,
+    "value": "Pangkalan Jati Baru",
+    "postal_code": "16513"
+  }
+]

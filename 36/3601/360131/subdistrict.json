@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601312003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Bojongmanik",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Cempakawarna (Campakawarna)",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Ciodeng",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Kadumalati",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Pasirdurung",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Pasirlancar",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Pasirloa",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Pasirtenjo",
+    "postal_code": "42276"
+  },
+  {
+    "id": 3601312007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360131,
+    "value": "Sidangresmi (Sindangresmi)",
+    "postal_code": "42276"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9508182001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Dal",
+    "postal_code": "99902"
+  },
+  {
+    "id": 9508182006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Grinbun",
+    "postal_code": "99902"
+  },
+  {
+    "id": 9508182003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Gurumbe",
+    "postal_code": "99902"
+  },
+  {
+    "id": 9508182004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Kaboneri",
+    "postal_code": "99902"
+  },
+  {
+    "id": 9508182002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Silan",
+    "postal_code": "99902"
+  },
+  {
+    "id": 9508182005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950818,
+    "value": "Silankuru",
+    "postal_code": "99902"
+  }
+]

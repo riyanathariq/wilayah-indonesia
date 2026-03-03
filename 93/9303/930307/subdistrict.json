@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9303072001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Amasu (Amazu)",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072007,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Binerbis",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Fomu",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Imembi",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072012,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Tayau",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Tiau",
+    "postal_code": "99876"
+  },
+  {
+    "id": 9303072003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930307,
+    "value": "Yemu",
+    "postal_code": "99876"
+  }
+]

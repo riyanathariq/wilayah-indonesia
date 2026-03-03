@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1708052007,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Batu Ampar",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052006,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Bukit Barisan",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708051002,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Durian Depun",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052004,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Lubuk Penyamun",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052001,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Pulo Geto (Pulogeto)",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052008,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Pulo Geto Baru",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052005,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Simpang Kota Bingin",
+    "postal_code": "39371"
+  },
+  {
+    "id": 1708052003,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170805,
+    "value": "Taba Mulan",
+    "postal_code": "39371"
+  }
+]

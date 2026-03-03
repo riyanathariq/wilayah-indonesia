@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6103062002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610306,
+    "value": "Bereng Berkawat",
+    "postal_code": "78555"
+  },
+  {
+    "id": 6103062001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610306,
+    "value": "Kasro Mego (Kasromego)",
+    "postal_code": "78555"
+  },
+  {
+    "id": 6103062005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610306,
+    "value": "Mawang Muda",
+    "postal_code": "78555"
+  },
+  {
+    "id": 6103062003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610306,
+    "value": "Sei/Sungai Ilai",
+    "postal_code": "78555"
+  },
+  {
+    "id": 6103062004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610306,
+    "value": "Thang Raya",
+    "postal_code": "78555"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5305042002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Kelaisi Barat",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Kelaisi Tengah",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305041001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Kelaisi Timur",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Kiraman",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Kuneman",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042012,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Lella",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Maikang",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Malaipea",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042013,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Manmas",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Padang Alang",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Sidabui",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Silaipui",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042014,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Subo",
+    "postal_code": "85871"
+  },
+  {
+    "id": 5305042011,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530504,
+    "value": "Tamanapui",
+    "postal_code": "85871"
+  }
+]

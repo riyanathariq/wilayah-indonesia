@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1409032009,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Air Mas/Emas",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032005,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Kebun Lado",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032004,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Logas",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032014,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Logas Hilir",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409031003,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Muara Lembu",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032001,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Pangkalan Indarung",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032010,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Pasir Emas",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032011,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Petai Baru",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032002,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Pulaupadang (Pulau Padang)",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032013,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Sumber Datar",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032008,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Sungaibawang (Sungai Bawang)",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032012,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Sungaikeranji (Sungai Keranji)",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032006,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Sungaikuning (Sungai Kuning)",
+    "postal_code": "29563"
+  },
+  {
+    "id": 1409032007,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140903,
+    "value": "Sungaisirih (Sungai Sirih)",
+    "postal_code": "29563"
+  }
+]

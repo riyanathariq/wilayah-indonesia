@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1604262009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Geramat",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Lubuk Betung",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Lubuk Pedaro/Pedaru",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Padang",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Perangai",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Suka Merindu",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Talang Akar",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Tanjung Beringin",
+    "postal_code": "31472"
+  },
+  {
+    "id": 1604262002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160426,
+    "value": "Tanjung Menang",
+    "postal_code": "31472"
+  }
+]

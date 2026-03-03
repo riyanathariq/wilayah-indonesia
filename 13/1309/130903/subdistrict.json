@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1309032007,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130903,
+    "value": "Madobag (Madobak Ugai)",
+    "postal_code": "25397"
+  },
+  {
+    "id": 1309032003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130903,
+    "value": "Maileppet/Maleppet",
+    "postal_code": "25397"
+  },
+  {
+    "id": 1309032005,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130903,
+    "value": "Matotonan",
+    "postal_code": "25397"
+  },
+  {
+    "id": 1309032002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130903,
+    "value": "Muara/Muaro Siberut",
+    "postal_code": "25397"
+  },
+  {
+    "id": 1309032004,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130903,
+    "value": "Muntei",
+    "postal_code": "25397"
+  }
+]

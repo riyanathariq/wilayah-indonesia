@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1805062001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Aji Jaya KNPI",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062024,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Aji Mesir",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062023,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Aji Murni Jaya",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062025,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Aji Permai Talang Buah",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062026,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Bandar Aji Jaya",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062015,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Gedung Aji",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Kecubung Jaya",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Kecubung Mulya",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062016,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Penawar",
+    "postal_code": "34681"
+  },
+  {
+    "id": 1805062022,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180506,
+    "value": "Penawar Baru",
+    "postal_code": "34681"
+  }
+]

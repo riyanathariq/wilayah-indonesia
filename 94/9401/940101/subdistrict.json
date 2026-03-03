@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9401011004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Girimulyo",
+    "postal_code": "98814"
+  },
+  {
+    "id": 9401011002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Kali Bobo (Kalibobo)",
+    "postal_code": "98818"
+  },
+  {
+    "id": 9401012012,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Kali Harapan",
+    "postal_code": "98822"
+  },
+  {
+    "id": 9401012011,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Kalisusu (Kali Susu)",
+    "postal_code": "98821"
+  },
+  {
+    "id": 9401011007,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Karang Mulia",
+    "postal_code": "98815"
+  },
+  {
+    "id": 9401011005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Karang Tumaritis",
+    "postal_code": "98812"
+  },
+  {
+    "id": 9401011003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Morgo",
+    "postal_code": "98811"
+  },
+  {
+    "id": 9401011009,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Nabarua",
+    "postal_code": "98817"
+  },
+  {
+    "id": 9401011006,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Oyehe",
+    "postal_code": "98816"
+  },
+  {
+    "id": 9401012013,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Sanoba (Sanoba Pantai)",
+    "postal_code": "98819"
+  },
+  {
+    "id": 9401011010,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Siriwini",
+    "postal_code": "98820"
+  },
+  {
+    "id": 9401011001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940101,
+    "value": "Wonorejo (Bumi Wonorejo)",
+    "postal_code": "98813"
+  }
+]

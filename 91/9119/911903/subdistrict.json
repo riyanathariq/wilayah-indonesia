@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9119032010,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Douwbo (Doubo)",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032004,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Duber",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032003,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Marsram",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032005,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Sauyas",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032007,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Sorendidori (Sorendiweri)",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032009,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Syurdori",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032006,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Wafor",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032008,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Waryesi",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032002,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Wombonda",
+    "postal_code": "98573"
+  },
+  {
+    "id": 9119032001,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911903,
+    "value": "Yawerma",
+    "postal_code": "98573"
+  }
+]

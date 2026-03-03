@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8206022025,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Baburino",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022001,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Buli",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022002,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Buli Asal",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022003,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Buli Karya",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022024,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Gamesan",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022013,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Geltoli",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022014,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Pekaulan",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022012,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Sailal",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022023,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Teluk Buli",
+    "postal_code": "97860"
+  },
+  {
+    "id": 8206022011,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820602,
+    "value": "Wayafly (Wayafli / Wayamli)",
+    "postal_code": "97860"
+  }
+]

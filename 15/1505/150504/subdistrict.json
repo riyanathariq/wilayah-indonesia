@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1505042017,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Bakung",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Baru",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042018,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Danau Kedap",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Danau Lamo",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505041002,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Jambi Kecil",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Jambi Kulo/Tulo",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042020,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Lubuk Raman",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042007,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Muara/Muaro Jambi",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042019,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Mudung Darat",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042016,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Niaso",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042001,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Setiris",
+    "postal_code": "36382"
+  },
+  {
+    "id": 1505042003,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150504,
+    "value": "Tanjung Katung",
+    "postal_code": "36382"
+  }
+]

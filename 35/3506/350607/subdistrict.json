@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3506072009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Babadan",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Bedali",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Jagul",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Kunjang",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506072006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Manggis",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Margourip",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Ngancar",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Pandantoyo",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Sempu",
+    "postal_code": "64291"
+  },
+  {
+    "id": 3506072008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350607,
+    "value": "Sugihwaras",
+    "postal_code": "64291"
+  }
+]

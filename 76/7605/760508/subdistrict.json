@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7605081002,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Baruga",
+    "postal_code": "91414"
+  },
+  {
+    "id": 7605081003,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Baruga Dhua (Baruga Dua)",
+    "postal_code": "91411"
+  },
+  {
+    "id": 7605081001,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Baurung",
+    "postal_code": "91412"
+  },
+  {
+    "id": 7605082009,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Buttu Baruga",
+    "postal_code": "91413"
+  },
+  {
+    "id": 7605081004,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Labuang",
+    "postal_code": "91412"
+  },
+  {
+    "id": 7605081007,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Labuang Utara",
+    "postal_code": "91413"
+  },
+  {
+    "id": 7605081006,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Lembang",
+    "postal_code": "91413"
+  },
+  {
+    "id": 7605081005,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Tande",
+    "postal_code": "91413"
+  },
+  {
+    "id": 7605081008,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760508,
+    "value": "Tande Timur",
+    "postal_code": "91413"
+  }
+]

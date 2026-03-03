@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7505042007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Buloila",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Bulontiyo Barat (Bulontio Barat)",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Bulontiyo Timur (Bulontio Timur)",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042020,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Hutakalo",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042009,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Kasia",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042010,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Kikia",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042014,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Lelato",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042013,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Mebongo",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042016,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Pulohenti",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042019,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Puncak Mandiri",
+    "postal_code": "96514"
+  },
+  {
+    "id": 7505042012,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750504,
+    "value": "Tumba",
+    "postal_code": "96514"
+  }
+]

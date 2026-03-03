@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1201102005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Aek Raso",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201101019,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Binasi",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102020,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Madani",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102014,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Maduma",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Pahieme I (Pahieme)",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102017,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Pahieme II",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Pasar Sorkam",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Pasaribu Tobing Jae",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102016,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Sidikalang",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Sipea Pea",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201101001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Sorkam Kanan (Desa)",
+    "postal_code": "22561"
+  },
+  {
+    "id": 1201102018,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120110,
+    "value": "Sorkam Kanan (Kelurahan)",
+    "postal_code": "22561"
+  }
+]

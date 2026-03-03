@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3203042005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Cibinonghilir (Cibinong Hilir)",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Ciharashas",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Mulyasari",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Munjul",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Rahong",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Rancagoong",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Sindangsari",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Sirnagalih",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Sukakerta",
+    "postal_code": "43285"
+  },
+  {
+    "id": 3203042002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320304,
+    "value": "Sukasari",
+    "postal_code": "43285"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7504012015,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Bukit Tingki",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012020,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Bumi Bahari",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012018,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Dambalo",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Popayato",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012008,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Telaga",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012019,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Telaga Biru",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012012,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Torosiaje",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Torosiaje Jaya",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012017,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Trikora",
+    "postal_code": "96466"
+  },
+  {
+    "id": 7504012016,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750401,
+    "value": "Tunas Harapan",
+    "postal_code": "96466"
+  }
+]

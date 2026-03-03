@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1802042011,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Bangun Rejo",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Buyut Ilir",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Buyut Udik",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042015,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Buyut Utara",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Fajar Bulan (Pajar Bulan)",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042014,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Gunung Sari",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802041005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Gunung Sugih",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802041006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Gunung Sugih Raya",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802041007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Komering Agung",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Komering Putih",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042013,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Putra Buyut",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802041008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Seputih Jaya",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Terbanggi Agung",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Terbanggi Subing",
+    "postal_code": "34165"
+  },
+  {
+    "id": 1802042012,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180204,
+    "value": "Wono Sari",
+    "postal_code": "34165"
+  }
+]

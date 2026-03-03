@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3524022002,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Banjargondang",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022003,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Bluluk",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022005,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Bronjong",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022004,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Cangkring",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022007,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Kuwurejo",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022009,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Primpen",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022006,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Songowareng",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022008,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Sumberbanjar",
+    "postal_code": "62274"
+  },
+  {
+    "id": 3524022001,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352402,
+    "value": "Talunrejo",
+    "postal_code": "62274"
+  }
+]

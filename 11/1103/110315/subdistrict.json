@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1103152010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Blang Rambong",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Buket Drien",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Jalan Dua",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Jambo Reuhat",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Panton Rayeuk A",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Panton Rayeuk B",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Panton Rayeuk M",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Panton Rayeuk T",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Paya Laman",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Seuneubok Bayu",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Seuneubok Benteng",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Seuneubok Kandang",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Seuneubok Pango (Seuneubok Pangou)",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Seuneubok Simpang",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Ulee Jalan",
+    "postal_code": "24458"
+  },
+  {
+    "id": 1103152008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110315,
+    "value": "Uram Jalan",
+    "postal_code": "24458"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7404282006,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Bungi",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282007,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Galanti",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282001,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Kaumbu",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282003,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Matawia",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282005,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282002,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Wolowa",
+    "postal_code": "93754"
+  },
+  {
+    "id": 7404282004,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740428,
+    "value": "Wolowa Baru",
+    "postal_code": "93754"
+  }
+]

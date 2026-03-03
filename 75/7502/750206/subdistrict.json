@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7502062007,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Bolihutuo",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062006,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Botumoito",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062009,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Dulangea (Dulangeya)",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062002,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Hutamonu",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062003,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Patoameme",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062005,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Potanga",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062008,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Rumbia",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062004,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Tapadaa",
+    "postal_code": "96264"
+  },
+  {
+    "id": 7502062001,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750206,
+    "value": "Tutulo",
+    "postal_code": "96264"
+  }
+]

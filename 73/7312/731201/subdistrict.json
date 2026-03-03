@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7312012006,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Barae",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012011,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Congko",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012003,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Gattareng",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012012,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Gattareng Toa",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012005,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Goarie",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312011001,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Labessi",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012007,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Marioriaja (Mario Riaja)",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012009,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Mariorilau (Mario Rilau)",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012008,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Marioritengnga (Mario Rittengnga)",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012013,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Soga",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312011002,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Tettikenrarae (Tettikengrarae)",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012004,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Watu",
+    "postal_code": "90862"
+  },
+  {
+    "id": 7312012010,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731201,
+    "value": "Watu Toa (Watutoa)",
+    "postal_code": "90862"
+  }
+]

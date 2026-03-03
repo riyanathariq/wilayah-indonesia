@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8203072036,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Biang",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072050,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Goruang",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Jati",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Kao",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072038,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Kukumutuk",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Kusu",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072051,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Kusu Lofra",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072037,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Patang",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072012,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Popon",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072011,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Sasur",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072010,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Soa Sangaji Dim-Dim (Soasangaji Dim Dim)",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072052,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Sumber Agung",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072039,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Waringin Lamo",
+    "postal_code": "97764"
+  },
+  {
+    "id": 8203072009,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820307,
+    "value": "Waringin Lelewi",
+    "postal_code": "97764"
+  }
+]

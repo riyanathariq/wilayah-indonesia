@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9202121004,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Amban",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202122008,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Ingramui (Inggramui)",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202121001,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Manokwari Barat",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202121006,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Manokwari Timur",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202121005,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Padarni",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202121002,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Sanggeng",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202122009,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Soribo",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202122010,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Tanah Merah Indah",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202122007,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Udopi",
+    "postal_code": "98312"
+  },
+  {
+    "id": 9202121003,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920212,
+    "value": "Wosi",
+    "postal_code": "98312"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1277062002,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Batu Layan",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062001,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Joring Lombang",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062008,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Joring Natobang",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062005,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Mompang",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062004,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Pintu Langit Jae",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062006,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Rimba Soping",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062003,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Simasom",
+    "postal_code": "22729"
+  },
+  {
+    "id": 1277062007,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127706,
+    "value": "Simatohir",
+    "postal_code": "22729"
+  }
+]

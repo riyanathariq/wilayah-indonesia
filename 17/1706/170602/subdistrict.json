@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1706021018,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Bandar Ratu",
+    "postal_code": "38712"
+  },
+  {
+    "id": 1706021017,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Koto Jaya",
+    "postal_code": "38715"
+  },
+  {
+    "id": 1706021009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Pasar Mukomuko",
+    "postal_code": "38711"
+  },
+  {
+    "id": 1706022007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Pasar Sebelah",
+    "postal_code": "38716"
+  },
+  {
+    "id": 1706022010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Pondok Batu",
+    "postal_code": "38713"
+  },
+  {
+    "id": 1706022012,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Selagan Jaya",
+    "postal_code": "38717"
+  },
+  {
+    "id": 1706022019,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Tanah Harapan",
+    "postal_code": "38718"
+  },
+  {
+    "id": 1706022011,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Tanah Rekah",
+    "postal_code": "38719"
+  },
+  {
+    "id": 1706022008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170602,
+    "value": "Ujung Padang",
+    "postal_code": "38714"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6301082005,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Bingkulu",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082006,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Gunung Raja",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082008,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Kayu Abang",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082003,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Martadah",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082009,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Martadah Baru",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082007,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Pulau Sari",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082004,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Sei/Sungai Jelai",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082002,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Sei/Sungai Pinang",
+    "postal_code": "70854"
+  },
+  {
+    "id": 6301082001,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630108,
+    "value": "Tambang Ulang",
+    "postal_code": "70854"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6502072008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Belayan",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Kaliamok",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072011,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Kelapis",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072010,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Lubak Manis (Lubok Manis)",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Luso",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Malinau Seberang",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Putat",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Respen Tubu",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Salap",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072009,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Sembuak Warot/Warod",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072012,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Semengaris (Semanggaris)",
+    "postal_code": "77557"
+  },
+  {
+    "id": 6502072006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650207,
+    "value": "Seruyung",
+    "postal_code": "77557"
+  }
+]

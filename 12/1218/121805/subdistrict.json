@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1218052008,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Bagan Kuala",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Mangga Dua",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Nagur",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Pekan Tanjung Beringin",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052006,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Pematang Cermai",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052007,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Pematang Terang",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Sukajadi",
+    "postal_code": "20996"
+  },
+  {
+    "id": 1218052005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121805,
+    "value": "Tebing Tinggi",
+    "postal_code": "20996"
+  }
+]

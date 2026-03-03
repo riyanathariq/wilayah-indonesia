@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3279012003,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Balokang",
+    "postal_code": "46312"
+  },
+  {
+    "id": 3279011001,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Banjar",
+    "postal_code": "46311"
+  },
+  {
+    "id": 3279012004,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Cibeureum",
+    "postal_code": "46313"
+  },
+  {
+    "id": 3279012007,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Jajawar",
+    "postal_code": "46317"
+  },
+  {
+    "id": 3279011002,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Mekarsari",
+    "postal_code": "46321"
+  },
+  {
+    "id": 3279012005,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Neglasari",
+    "postal_code": "46315"
+  },
+  {
+    "id": 3279011006,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327901,
+    "value": "Situbatu",
+    "postal_code": "46314"
+  }
+]

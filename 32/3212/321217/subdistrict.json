@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3212172001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Cangkring",
+    "postal_code": "45258"
+  },
+  {
+    "id": 3212172002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Cantigi Kulon",
+    "postal_code": "45258"
+  },
+  {
+    "id": 3212172003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Cantigi Wetan",
+    "postal_code": "45258"
+  },
+  {
+    "id": 3212172007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Cemara",
+    "postal_code": "45253"
+  },
+  {
+    "id": 3212172006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Lamarantarung",
+    "postal_code": "45258"
+  },
+  {
+    "id": 3212172004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Panyingkiran Kidul",
+    "postal_code": "45258"
+  },
+  {
+    "id": 3212172005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321217,
+    "value": "Panyingkiran Lor",
+    "postal_code": "45258"
+  }
+]

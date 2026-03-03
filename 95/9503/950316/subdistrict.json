@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9503162002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Hepinis",
+    "postal_code": "99713"
+  },
+  {
+    "id": 9503162004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Nilen",
+    "postal_code": "99713"
+  },
+  {
+    "id": 9503162001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Soba",
+    "postal_code": "99713"
+  },
+  {
+    "id": 9503162005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Surukmu",
+    "postal_code": "99713"
+  },
+  {
+    "id": 9503162006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Tanda",
+    "postal_code": "99713"
+  },
+  {
+    "id": 9503162003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950316,
+    "value": "Ugulintipmu",
+    "postal_code": "99713"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2105032005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Air Putih",
+    "postal_code": "29794"
+  },
+  {
+    "id": 2105032002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Batu Belah",
+    "postal_code": "29794"
+  },
+  {
+    "id": 2105032003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Munjan",
+    "postal_code": "29794"
+  },
+  {
+    "id": 2105032001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Nyamuk",
+    "postal_code": "29794"
+  },
+  {
+    "id": 2105032004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Serat",
+    "postal_code": "29794"
+  },
+  {
+    "id": 2105032006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210503,
+    "value": "Temburun",
+    "postal_code": "29794"
+  }
+]

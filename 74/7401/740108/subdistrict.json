@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7401082023,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Gunung Sari",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082020,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Kastura",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Kukutio",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Lamundre",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082011,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Langgosipi",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082017,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Mataosu",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082025,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Mataosu Ujung",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082016,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Peoho",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082018,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Polenga",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082026,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Ranoteta",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401082012,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Sumber Rejeki",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401081006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Tandebura",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401081001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Watubangga",
+    "postal_code": "93566"
+  },
+  {
+    "id": 7401081015,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740108,
+    "value": "Wolulu",
+    "postal_code": "93566"
+  }
+]

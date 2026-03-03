@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503412008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Binalkon",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Bongkok",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Bulbul",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Dirik",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Masumkon",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Suntamon",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Tapasik",
+    "postal_code": "99744"
+  },
+  {
+    "id": 9503412005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950341,
+    "value": "Yup",
+    "postal_code": "99744"
+  }
+]

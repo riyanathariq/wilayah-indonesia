@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106012012,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Hatusua",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012010,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Kairatu",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012008,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Kamarian",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012009,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Seruawan",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012015,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Uraur",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012011,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Waimital",
+    "postal_code": "97566"
+  },
+  {
+    "id": 8106012014,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810601,
+    "value": "Waipirit",
+    "postal_code": "97566"
+  }
+]

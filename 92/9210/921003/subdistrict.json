@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9210032004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Aikrer",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Aisa",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Aitrem",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032033,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Buoh Sa",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Sahbuku",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032027,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Sanem",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032009,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Sasior Frabuku",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Sawin",
+    "postal_code": "98273"
+  },
+  {
+    "id": 9210032026,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921003,
+    "value": "Wakom",
+    "postal_code": "98273"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3578091002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Gebang Putih",
+    "postal_code": "60117"
+  },
+  {
+    "id": 3578091001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Keputih",
+    "postal_code": "60111"
+  },
+  {
+    "id": 3578091003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Klampis Ngasem",
+    "postal_code": "60117"
+  },
+  {
+    "id": 3578091007,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Medokan Semampir",
+    "postal_code": "60119"
+  },
+  {
+    "id": 3578091004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Menur Pumpungan",
+    "postal_code": "60118"
+  },
+  {
+    "id": 3578091005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Nginden Jangkungan",
+    "postal_code": "60118"
+  },
+  {
+    "id": 3578091006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357809,
+    "value": "Semolowaru",
+    "postal_code": "60119"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "id": 3526,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Bangkalan"
+  },
+  {
+    "id": 3510,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Banyuwangi"
+  },
+  {
+    "id": 3579,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Batu"
+  },
+  {
+    "id": 3505,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Blitar"
+  },
+  {
+    "id": 3572,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Blitar"
+  },
+  {
+    "id": 3522,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Bojonegoro"
+  },
+  {
+    "id": 3511,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Bondowoso"
+  },
+  {
+    "id": 3525,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Gresik"
+  },
+  {
+    "id": 3509,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Jember"
+  },
+  {
+    "id": 3517,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Jombang"
+  },
+  {
+    "id": 3506,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Kediri"
+  },
+  {
+    "id": 3571,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Kediri"
+  },
+  {
+    "id": 3524,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Lamongan"
+  },
+  {
+    "id": 3508,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Lumajang"
+  },
+  {
+    "id": 3519,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Madiun"
+  },
+  {
+    "id": 3577,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Madiun"
+  },
+  {
+    "id": 3520,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Magetan"
+  },
+  {
+    "id": 3507,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Malang"
+  },
+  {
+    "id": 3573,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Malang"
+  },
+  {
+    "id": 3516,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Mojokerto"
+  },
+  {
+    "id": 3576,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Mojokerto"
+  },
+  {
+    "id": 3518,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Nganjuk"
+  },
+  {
+    "id": 3521,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Ngawi"
+  },
+  {
+    "id": 3501,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Pacitan"
+  },
+  {
+    "id": 3528,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Pamekasan"
+  },
+  {
+    "id": 3514,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Pasuruan"
+  },
+  {
+    "id": 3575,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Pasuruan"
+  },
+  {
+    "id": 3502,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Ponorogo"
+  },
+  {
+    "id": 3513,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Probolinggo"
+  },
+  {
+    "id": 3574,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Probolinggo"
+  },
+  {
+    "id": 3527,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Sampang"
+  },
+  {
+    "id": 3515,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Sidoarjo"
+  },
+  {
+    "id": 3512,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Situbondo"
+  },
+  {
+    "id": 3529,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Sumenep"
+  },
+  {
+    "id": 3578,
+    "province_id": 35,
+    "type": "Kota",
+    "value": "Kota Surabaya"
+  },
+  {
+    "id": 3503,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Trenggalek"
+  },
+  {
+    "id": 3523,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Tuban"
+  },
+  {
+    "id": 3504,
+    "province_id": 35,
+    "type": "Kabupaten",
+    "value": "Tulungagung"
+  }
+]

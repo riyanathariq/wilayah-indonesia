@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1702202005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170220,
+    "value": "Air Apo",
+    "postal_code": "39182"
+  },
+  {
+    "id": 1702202002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170220,
+    "value": "Kampung Jeruk",
+    "postal_code": "39182"
+  },
+  {
+    "id": 1702202001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170220,
+    "value": "Kepala Curup",
+    "postal_code": "39182"
+  },
+  {
+    "id": 1702202003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170220,
+    "value": "Simpang Beliti",
+    "postal_code": "39182"
+  },
+  {
+    "id": 1702202004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170220,
+    "value": "Taba Padang",
+    "postal_code": "39182"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5317032010,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Bondo Sulla",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032005,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Cendana",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032013,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Cendana Barat",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032008,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Manu Wolu",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032007,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Ole Ate",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032012,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Ole Dewa",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032011,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Susu Wendewa",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032009,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Watu Asa",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032006,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Wee Luri",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032004,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Wendewa Barat",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032002,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Wendewa Selatan",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032001,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Wendewa Timur",
+    "postal_code": "87258"
+  },
+  {
+    "id": 5317032003,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531703,
+    "value": "Wendewa Utara",
+    "postal_code": "87258"
+  }
+]

@@ -1,0 +1,514 @@
+[
+  {
+    "id": 1107142041,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Adang Beurabo (Adang)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142052,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Aron Bunot Gogo (Aron Beunot)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142031,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Balee Paloh (Balee)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142040,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Baro Beurabo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Baro Kunyet",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Blang Geuleudieng",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Blang Guci Kunyet (Blang Guci)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142053,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Buloh Gogo (Buloh)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Buloh Peudaya (Buloh Buni)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Buni Reulieng Peudaya (Buni Reuleung)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142029,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Capa Paloh (Capa)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142059,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Cot Keutapang Tanjong (Cot Keutapang)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Cut Paloh",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Cut Peudaya (Cut)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Dayah Baroh Kunyet",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Dayah Baroh Peudaya",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Dayah Tanoh Kunyet (Dayah Tanoh)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Geulumpang Geuleudieng (Geulumpang)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142048,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Glee Gogo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142051,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Grong-Grong Gogo (Grong Grong)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Hagu Kunyet (Hagu)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142056,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Jok Tanjong (Jok)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142030,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Jurong Anoe Paloh (Jurong Anoe)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142033,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Jurong Gampong Cut Paloh (Gurong Cot)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Kambuk Nicah Kunyet (Kambuk Nicah)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Kambuk Payapi Kunyet (Kambuk Payapi)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142055,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Keupula Tanjong",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142062,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Khang Tanjong",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Kreet Paloh",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142045,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Kumbang Gogo (Kumbang)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Leuhob Paloh (Leuhob)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142057,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Leun Tanjong (Leuen)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142038,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Beurabo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Geuleudieng",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142046,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Gogo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Kunyet",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142036,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Paloh",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Peudaya",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142061,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Mesjid Tanjong",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142037,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Meuke Beurabo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142049,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Meuke Gogo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142063,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Meuriya Tanjong (Meurinya)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142042,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Paloh Jeurat Beurabo (Paloh Jeurat)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142034,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Pante Cermen Paloh (Pante Cermen)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142058,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Pante Crung Tanjong",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142035,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Pasar Paloh (Pasar)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Perlak Peudaya (Perlak)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Piala Kunyet",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142064,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Pulo Hagu Tanjong (Pulo Hagu)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142050,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Raya Gogo (Raya)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142039,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Seukembrok Beurabo (Sekeumbrok)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142043,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Seuleunggieng Beurabo (Seuleunggieng)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Seunadeu Kunyet (Seunadeu)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142032,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Siron Paloh (Siron)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142060,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Siron Tanjong",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Sukon Peudaya (Sukon)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Suyo Paloh (Suyo)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142044,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Teungoh Drien Gogo (Teungoh Drien)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Teungoh Peudaya (Teungoh)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Trieng Paloh (Trieng)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142047,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Tuha Gogo",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Tuha Peudaya (Tuha)",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Tunong Peudaya",
+    "postal_code": "24161"
+  },
+  {
+    "id": 1107142054,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110714,
+    "value": "Tunong Tanjong",
+    "postal_code": "24161"
+  }
+]

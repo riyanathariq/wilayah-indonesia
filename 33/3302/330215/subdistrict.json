@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3302152003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Cihonje",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Cilangkap",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Gancang",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Gumelar",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Karangkemojing",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Kedungurang",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Paningkaban",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Samudra",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Samudra Kulon",
+    "postal_code": "53165"
+  },
+  {
+    "id": 3302152008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330215,
+    "value": "Tlaga",
+    "postal_code": "53165"
+  }
+]

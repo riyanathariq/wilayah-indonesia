@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3403182004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340318,
+    "value": "Giriasih",
+    "postal_code": "55873"
+  },
+  {
+    "id": 3403182002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340318,
+    "value": "Giricahyo",
+    "postal_code": "55873"
+  },
+  {
+    "id": 3403182003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340318,
+    "value": "Girijati",
+    "postal_code": "55873"
+  },
+  {
+    "id": 3403182001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340318,
+    "value": "Giripurwo",
+    "postal_code": "55873"
+  },
+  {
+    "id": 3403182005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340318,
+    "value": "Giritirto",
+    "postal_code": "55873"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3215032019,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Pinayungan",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Purwadana",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Puseurjaya",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Sirnabaya",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Sukaharja",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Sukaluyu",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Sukamakmur",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Telukjambe",
+    "postal_code": "41360"
+  },
+  {
+    "id": 3215032006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321503,
+    "value": "Wadas",
+    "postal_code": "41360"
+  }
+]

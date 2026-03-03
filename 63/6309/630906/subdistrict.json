@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6309061002,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Belimbing",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309061001,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Belimbing Raya",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309062007,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Kapar",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309062005,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Kasiau",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309062010,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Kasiau Raya",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309061006,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Mabu'un (Mabuun)",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309062004,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Maburai",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309062008,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Masukau",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309061009,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Pembataan",
+    "postal_code": "71571"
+  },
+  {
+    "id": 6309061003,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630906,
+    "value": "Sulingan",
+    "postal_code": "71571"
+  }
+]

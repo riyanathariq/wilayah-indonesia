@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3215162009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Bojongsari",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Cipondoh",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Citarik",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Kamurang",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Karangjaya",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Karangsinom",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Kertawaluya",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Parakan",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Parakanmulya",
+    "postal_code": "41372"
+  },
+  {
+    "id": 3215162010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321516,
+    "value": "Tirtasari",
+    "postal_code": "41372"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7503162001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750316,
+    "value": "Bulotalangi",
+    "postal_code": "96542"
+  },
+  {
+    "id": 7503162005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750316,
+    "value": "Bulotalangi Barat",
+    "postal_code": "96542"
+  },
+  {
+    "id": 7503162004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750316,
+    "value": "Bulotalangi Timur",
+    "postal_code": "96542"
+  },
+  {
+    "id": 7503162003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750316,
+    "value": "Popodu",
+    "postal_code": "96542"
+  },
+  {
+    "id": 7503162002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750316,
+    "value": "Toluwaya (Tuloa)",
+    "postal_code": "96542"
+  }
+]

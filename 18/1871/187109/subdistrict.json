@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871091007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Gulak Galik",
+    "postal_code": "35214"
+  },
+  {
+    "id": 1871091001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Kupang Kota",
+    "postal_code": "35211"
+  },
+  {
+    "id": 1871091003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Kupang Raya",
+    "postal_code": "35212"
+  },
+  {
+    "id": 1871091004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Kupang Teba",
+    "postal_code": "35212"
+  },
+  {
+    "id": 1871091006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Pengajaran",
+    "postal_code": "35215"
+  },
+  {
+    "id": 1871091008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187109,
+    "value": "Sumur Batu",
+    "postal_code": "35214"
+  }
+]

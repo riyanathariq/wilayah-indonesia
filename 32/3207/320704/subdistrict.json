@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3207042006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Bendasari",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Gunungsari",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Mangkubumi",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Mekarjadi",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Sadananya",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Sukajadi",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Tanjungsari",
+    "postal_code": "46256"
+  },
+  {
+    "id": 3207042003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320704,
+    "value": "Werasari",
+    "postal_code": "46256"
+  }
+]

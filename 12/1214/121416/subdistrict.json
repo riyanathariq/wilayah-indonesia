@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1214162007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Adam",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Bais",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Bais Baru",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Labara",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Labuan Hiu / Hiyu",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Labuan Rima",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Labuan Rima Baru",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Labuhan Bazau (Labuan Bajau)",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Lambak",
+    "postal_code": "22884"
+  },
+  {
+    "id": 1214162006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121416,
+    "value": "Mahang Labara",
+    "postal_code": "22884"
+  }
+]

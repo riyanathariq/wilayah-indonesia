@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3202112010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Batununggal",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202111001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Cibadak",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Ciheulang Tonggoh",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Karangtengah",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Neglasari",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Pamuruyan",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Sekarwangi",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Sukasirna",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Tenjojaya",
+    "postal_code": "43351"
+  },
+  {
+    "id": 3202112006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320211,
+    "value": "Warnajati",
+    "postal_code": "43351"
+  }
+]

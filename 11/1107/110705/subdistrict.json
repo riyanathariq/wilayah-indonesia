@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1107052001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110705,
+    "value": "Bangkeh",
+    "postal_code": "24167"
+  },
+  {
+    "id": 1107052006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110705,
+    "value": "Keune",
+    "postal_code": "24167"
+  },
+  {
+    "id": 1107052004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110705,
+    "value": "Leupu",
+    "postal_code": "24167"
+  },
+  {
+    "id": 1107052002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110705,
+    "value": "Pucok",
+    "postal_code": "24167"
+  },
+  {
+    "id": 1107052005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110705,
+    "value": "Pulo Loih/Lhoh",
+    "postal_code": "24167"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1603142020,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Air Asam (Air Masam)",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Aur",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Beringin",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Gunung Raja",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142014,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Jiwa Baru",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Kota Baru",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142021,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Menanti (Lubai Menanti)",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Pagar Gunung",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Suka Merindu",
+    "postal_code": "31173"
+  },
+  {
+    "id": 1603142010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160314,
+    "value": "Tanjung Kemala",
+    "postal_code": "31173"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7371091005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Karampuang",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Karuwisi",
+    "postal_code": "90232"
+  },
+  {
+    "id": 7371091009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Karuwisi Utara",
+    "postal_code": "90232"
+  },
+  {
+    "id": 7371091007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Masale",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Pampang",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Panaikang",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Pandang",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Paropo",
+    "postal_code": "90233"
+  },
+  {
+    "id": 7371091010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Sinrijala (Sinri Jala)",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Tamamaung",
+    "postal_code": "90231"
+  },
+  {
+    "id": 7371091003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737109,
+    "value": "Tello Baru",
+    "postal_code": "90233"
+  }
+]

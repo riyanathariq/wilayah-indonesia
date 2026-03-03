@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1607182002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Karang Anyar",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182006,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Karang Baru",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Muaratelang (Muara Telang)",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182007,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Muaratelang Marga (Muara Telang Marga / Margo)",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182010,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Sri Tiga",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Sumber Jaya",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182009,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Talang Lubuk",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Terusan Dalam",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182008,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Terusan Muara",
+    "postal_code": "30977"
+  },
+  {
+    "id": 1607182004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160718,
+    "value": "Terusan Tengah",
+    "postal_code": "30977"
+  }
+]

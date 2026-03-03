@@ -1,0 +1,110 @@
+[
+  {
+    "id": 110101,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Bakongan"
+  },
+  {
+    "id": 110115,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Bakongan Timur"
+  },
+  {
+    "id": 110103,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Kluet Selatan"
+  },
+  {
+    "id": 110113,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Kluet Tengah"
+  },
+  {
+    "id": 110114,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Kluet Timur"
+  },
+  {
+    "id": 110102,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Kluet Utara"
+  },
+  {
+    "id": 110117,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Kota Bahagia"
+  },
+  {
+    "id": 110104,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Labuhan Haji"
+  },
+  {
+    "id": 110112,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Labuhan Haji Barat"
+  },
+  {
+    "id": 110111,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Labuhan Haji Timur"
+  },
+  {
+    "id": 110105,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Meukek"
+  },
+  {
+    "id": 110110,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Pasi Raja (Pasie Raja)"
+  },
+  {
+    "id": 110106,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Samadua (Sama Dua)"
+  },
+  {
+    "id": 110107,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Sawang"
+  },
+  {
+    "id": 110108,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Tapaktuan (Tapak Tuan)"
+  },
+  {
+    "id": 110109,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Trumon"
+  },
+  {
+    "id": 110118,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Trumon Tengah"
+  },
+  {
+    "id": 110116,
+    "province_id": 11,
+    "regency_id": 1101,
+    "value": "Trumon Timur"
+  }
+]

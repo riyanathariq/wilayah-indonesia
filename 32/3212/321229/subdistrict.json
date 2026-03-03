@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3212292001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Brondong",
+    "postal_code": "45219"
+  },
+  {
+    "id": 3212292005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Karanganyar",
+    "postal_code": "45213"
+  },
+  {
+    "id": 3212292002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Pabean Ilir (Pabeanilir)",
+    "postal_code": "45219"
+  },
+  {
+    "id": 3212292003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Pagirikan",
+    "postal_code": "45227"
+  },
+  {
+    "id": 3212292004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Pasekan",
+    "postal_code": "45228"
+  },
+  {
+    "id": 3212292006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321229,
+    "value": "Totoran",
+    "postal_code": "45229"
+  }
+]

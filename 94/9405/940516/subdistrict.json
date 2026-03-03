@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9405162003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Amuleme",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Gelegi",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Jigunggi",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162009,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Kondokwe",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Kumikomo",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Nigilome",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Rumagi",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162010,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Tinibolu",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Weni",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162011,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Winanggwi",
+    "postal_code": "98974"
+  },
+  {
+    "id": 9405162008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940516,
+    "value": "Wombru",
+    "postal_code": "98974"
+  }
+]

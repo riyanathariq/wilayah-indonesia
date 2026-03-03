@@ -1,0 +1,38 @@
+[
+  {
+    "id": 647102,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Barat"
+  },
+  {
+    "id": 647106,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Kota"
+  },
+  {
+    "id": 647105,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Selatan"
+  },
+  {
+    "id": 647104,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Tengah"
+  },
+  {
+    "id": 647101,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Timur"
+  },
+  {
+    "id": 647103,
+    "province_id": 64,
+    "regency_id": 6471,
+    "value": "Balikpapan Utara"
+  }
+]

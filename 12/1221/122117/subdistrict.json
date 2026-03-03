@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1221172009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Gunung Inten (Gunung Intan)",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Gunung Manaon",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Muara Tige",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Pagaran Baringin/Beringin",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Papaso",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Pir Trans Sosa I A (Gunung Mulia)",
+    "postal_code": "22776"
+  },
+  {
+    "id": 1221172004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Pir Trans Sosa I B (Pirtrans Sosa Ib)",
+    "postal_code": "22776"
+  },
+  {
+    "id": 1221172013,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Rombayan",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Salambue",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Sibodak Papaso",
+    "postal_code": "22742"
+  },
+  {
+    "id": 1221172002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Sigala Gala",
+    "postal_code": "22776"
+  },
+  {
+    "id": 1221172003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Simangambat",
+    "postal_code": "22776"
+  },
+  {
+    "id": 1221172001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122117,
+    "value": "Tanjung Ale",
+    "postal_code": "22776"
+  }
+]

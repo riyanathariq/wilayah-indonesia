@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3309182008,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Bandung",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Banyusri",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182014,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Bojong",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Bolo",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Gosono",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182021,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Guwo",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309182002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Karangjati",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182019,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Kauman",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309182003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Ketoyan",
+    "postal_code": "57382"
+  },
+  {
+    "id": 3309182020,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Lemahireng",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309182007,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330918,
+    "value": "Wonosegoro",
+    "postal_code": "57382"
+  }
+]

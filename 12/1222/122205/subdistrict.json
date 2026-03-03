@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1222052003,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Aek Goti",
+    "postal_code": "21461"
+  },
+  {
+    "id": 1222052002,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Binangadua (Binanga Dua)",
+    "postal_code": "21461"
+  },
+  {
+    "id": 1222052001,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Mandalasena (Mandala Sena)",
+    "postal_code": "21461"
+  },
+  {
+    "id": 1222052005,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Rintis",
+    "postal_code": "21461"
+  },
+  {
+    "id": 1222052006,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Sukadame (Suka Dame)",
+    "postal_code": "21461"
+  },
+  {
+    "id": 1222052004,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122205,
+    "value": "Ulu Mahuam (Ulumahuam)",
+    "postal_code": "21461"
+  }
+]

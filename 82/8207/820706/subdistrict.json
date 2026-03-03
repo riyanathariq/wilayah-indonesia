@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8207062002,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820706,
+    "value": "Aru Burung",
+    "postal_code": "97770"
+  },
+  {
+    "id": 8207062004,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820706,
+    "value": "Leo Leo",
+    "postal_code": "97770"
+  },
+  {
+    "id": 8207062003,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820706,
+    "value": "Lou Madoro",
+    "postal_code": "97770"
+  },
+  {
+    "id": 8207062001,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820706,
+    "value": "Posi-Posi (Posi Posi Rao)",
+    "postal_code": "97770"
+  },
+  {
+    "id": 8207062005,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820706,
+    "value": "Sami Nyamau (Saminyamau)",
+    "postal_code": "97770"
+  }
+]

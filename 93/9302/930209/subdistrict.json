@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9302092006,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Arimbet",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092007,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Aroa",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Bukit",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Ginggimop (Ginggimob)",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Maju",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Patriot",
+    "postal_code": "99671"
+  },
+  {
+    "id": 9302092003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930209,
+    "value": "Ujung",
+    "postal_code": "99671"
+  }
+]

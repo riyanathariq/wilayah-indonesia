@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6303022017,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Belayung Baru",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022021,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Benua Hanyar (Banua Hanyar)",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303021001,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Kertak Hanyar I",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022010,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Kertak Hanyar II (Kertakhanyar II)",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022009,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Manarap Baru",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303021008,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Manarap Lama",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022016,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Manarap Tengah",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303021015,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Mandarsari (Mandar Sari)",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022022,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Mekar Raya",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022014,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Pasar Kamis (Pasar Kemis)",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022005,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Pemangkih Laut (Pemangkih Baru)",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022007,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Sei/Sungai Lakum",
+    "postal_code": "70654"
+  },
+  {
+    "id": 6303022006,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630302,
+    "value": "Simpang Empat",
+    "postal_code": "70654"
+  }
+]

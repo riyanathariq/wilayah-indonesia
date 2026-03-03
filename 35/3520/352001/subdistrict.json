@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3520011005,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Alastuwo",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012007,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Cileng",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012004,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Genilangit",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012002,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Gonggang",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012003,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Janggan",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012006,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Plangkrongan",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012001,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Poncol",
+    "postal_code": "63362"
+  },
+  {
+    "id": 3520012008,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352001,
+    "value": "Sombo",
+    "postal_code": "63362"
+  }
+]

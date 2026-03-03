@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1107032020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Alue Lada",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Aron",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Awee",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Bintang Hu",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Calong Cut",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Crueng",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Dayah",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Dayah Baroh",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Dayah Tuha",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Geulumpang Lhee",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Geunteng Barat",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Geunteng Timur",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Kareung",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Kulam",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Kulee",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Mee (Meunasah Mee)",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Mesjid",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Meucat",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Neuheun",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Pasi Beurandeh",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Pulo Bungong",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Pulo Pande",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Pulo Tukok",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Rungkom",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Seulatan",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Teupin Jeue",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Teupin Raya",
+    "postal_code": "24152"
+  },
+  {
+    "id": 1107032011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110703,
+    "value": "Tuha",
+    "postal_code": "24152"
+  }
+]

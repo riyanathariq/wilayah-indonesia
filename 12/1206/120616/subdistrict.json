@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1206162010,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Gung Pinto",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162006,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Kebayaken",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162003,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Kuta Tonggal",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162002,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Kutagugung (Kuta Gugung)",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162011,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Kutambelin (Kuta Mbelin)",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Kutarayat (Kuta Rayat)",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Naman",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162012,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Ndeskati",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162014,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Sigarang Garang",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162005,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Sukanalu (Suka Nalu)",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162009,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Sukandebi (Suka Ndebi)",
+    "postal_code": "22151"
+  },
+  {
+    "id": 1206162013,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120616,
+    "value": "Sukatepu",
+    "postal_code": "22151"
+  }
+]

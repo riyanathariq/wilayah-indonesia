@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3374031006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Bugangan",
+    "postal_code": "50126"
+  },
+  {
+    "id": 3374031010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Karangtempel",
+    "postal_code": "50232"
+  },
+  {
+    "id": 3374031009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Karangturi",
+    "postal_code": "50124"
+  },
+  {
+    "id": 3374031004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Kebonagung",
+    "postal_code": "50123"
+  },
+  {
+    "id": 3374031001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Kemijen",
+    "postal_code": "50228"
+  },
+  {
+    "id": 3374031003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Mlatibaru",
+    "postal_code": "50122"
+  },
+  {
+    "id": 3374031005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Mlatiharjo",
+    "postal_code": "50126"
+  },
+  {
+    "id": 3374031002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Rejomulyo",
+    "postal_code": "50227"
+  },
+  {
+    "id": 3374031008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Rejosari",
+    "postal_code": "50125"
+  },
+  {
+    "id": 3374031007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337403,
+    "value": "Sarirejo",
+    "postal_code": "50124"
+  }
+]

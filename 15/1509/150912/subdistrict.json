@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1509122007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Bangko Pintas",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Bangun Seranten (Bangun Saranten)",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Embacang Gedang",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Olak Kemang",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Pintas Tuo",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Sungai Jernih",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Tambun Arang",
+    "postal_code": "37570"
+  },
+  {
+    "id": 1509122001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150912,
+    "value": "Tanah Garo",
+    "postal_code": "37570"
+  }
+]

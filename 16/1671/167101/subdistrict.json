@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1671011006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "27 Ilir",
+    "postal_code": "30141"
+  },
+  {
+    "id": 1671011005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "28 Ilir",
+    "postal_code": "30142"
+  },
+  {
+    "id": 1671011004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "29 Ilir",
+    "postal_code": "30143"
+  },
+  {
+    "id": 1671011003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "30 Ilir",
+    "postal_code": "30144"
+  },
+  {
+    "id": 1671011002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "32 Ilir",
+    "postal_code": "30145"
+  },
+  {
+    "id": 1671011001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "35 Ilir",
+    "postal_code": "30146"
+  },
+  {
+    "id": 1671011007,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167101,
+    "value": "Kemang Manis",
+    "postal_code": "30144"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7311022005,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Corawali",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022009,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Garessi",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311022004,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Lalabata",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311021001,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Lalolang",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022010,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Lasitae",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022008,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Lipukasi",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022003,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Pancana",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022006,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Pao-Pao",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311021002,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Tanete",
+    "postal_code": "90761"
+  },
+  {
+    "id": 7311022007,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731102,
+    "value": "Tellumpanua",
+    "postal_code": "90761"
+  }
+]

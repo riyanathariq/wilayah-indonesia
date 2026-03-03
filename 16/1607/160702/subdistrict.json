@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1607022018,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Marga Sungsang",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022019,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Muara Sungsang",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022015,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Perajen Jaya",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022016,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Rimau Sungsang",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Sungsang I",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Sungsang II",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Sungsang III",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Sungsang IV",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022013,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Tanah Pilih",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607022010,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160702,
+    "value": "Telukpayo (Teluk Payo)",
+    "postal_code": "30971"
+  }
+]

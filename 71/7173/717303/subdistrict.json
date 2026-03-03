@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7173031010,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kakaskasen",
+    "postal_code": "95418"
+  },
+  {
+    "id": 7173031005,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kakaskasen Dua",
+    "postal_code": "95416"
+  },
+  {
+    "id": 7173031004,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kakaskasen Satu",
+    "postal_code": "95415"
+  },
+  {
+    "id": 7173031006,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kakaskasen Tiga",
+    "postal_code": "95417"
+  },
+  {
+    "id": 7173031008,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kayawu",
+    "postal_code": "95419"
+  },
+  {
+    "id": 7173031003,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kinilow",
+    "postal_code": "95414"
+  },
+  {
+    "id": 7173031009,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Kinilow Satu",
+    "postal_code": "95413"
+  },
+  {
+    "id": 7173031002,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Tinoor Dua",
+    "postal_code": "95411"
+  },
+  {
+    "id": 7173031001,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Tinoor Satu",
+    "postal_code": "95412"
+  },
+  {
+    "id": 7173031007,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717303,
+    "value": "Wailan",
+    "postal_code": "95418"
+  }
+]

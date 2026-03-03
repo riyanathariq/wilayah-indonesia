@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3304162006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Bakal",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Batur",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Dieng Kulon",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Karangtengah",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Kepakisan",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Pasurenan",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Pekasiran",
+    "postal_code": "53456"
+  },
+  {
+    "id": 3304162002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330416,
+    "value": "Sumberejo",
+    "postal_code": "53456"
+  }
+]

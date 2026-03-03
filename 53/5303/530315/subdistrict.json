@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5303152001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Buk",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Kuenak",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Nimasi",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Oelbonak",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Oenenu",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152008,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Oenenu Selatan",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Oenenu Utara",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Oenino",
+    "postal_code": "85652"
+  },
+  {
+    "id": 5303152009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530315,
+    "value": "Sono",
+    "postal_code": "85652"
+  }
+]

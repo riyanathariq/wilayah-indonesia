@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6372021005,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637202,
+    "value": "Guntung Manggis",
+    "postal_code": "70724"
+  },
+  {
+    "id": 6372021004,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637202,
+    "value": "Guntung Payung",
+    "postal_code": "70721"
+  },
+  {
+    "id": 6372021003,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637202,
+    "value": "Landasan Ulin Timur",
+    "postal_code": "70724"
+  },
+  {
+    "id": 6372021006,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637202,
+    "value": "Syamsudin Noor",
+    "postal_code": "70724"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8105132003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Angar",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132002,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Artafela",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132005,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Kelaba",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132001,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Kian Darat",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132009,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Kileser",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132006,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Kilga Kilwouw",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132007,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Kilga Watubau",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132008,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Rumfakar",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132010,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Rumoga",
+    "postal_code": "97590"
+  },
+  {
+    "id": 8105132004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810513,
+    "value": "Watu Watu",
+    "postal_code": "97590"
+  }
+]

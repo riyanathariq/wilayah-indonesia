@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3319022023,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Barongan",
+    "postal_code": "59312"
+  },
+  {
+    "id": 3319022024,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Burikan",
+    "postal_code": "59311"
+  },
+  {
+    "id": 3319022016,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Damaran",
+    "postal_code": "59316"
+  },
+  {
+    "id": 3319022013,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Demaan",
+    "postal_code": "59313"
+  },
+  {
+    "id": 3319022003,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Demangan",
+    "postal_code": "59317"
+  },
+  {
+    "id": 3319022021,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Glantengan",
+    "postal_code": "59313"
+  },
+  {
+    "id": 3319022002,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Janggalan",
+    "postal_code": "59316"
+  },
+  {
+    "id": 3319021018,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Kajeksan",
+    "postal_code": "59314"
+  },
+  {
+    "id": 3319022022,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Kaliputu",
+    "postal_code": "59312"
+  },
+  {
+    "id": 3319022015,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Kauman",
+    "postal_code": "59315"
+  },
+  {
+    "id": 3319021017,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Kerjasan",
+    "postal_code": "59315"
+  },
+  {
+    "id": 3319022012,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Kramat",
+    "postal_code": "59312"
+  },
+  {
+    "id": 3319022019,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Krandon",
+    "postal_code": "59314"
+  },
+  {
+    "id": 3319022014,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Langgardalem",
+    "postal_code": "59315"
+  },
+  {
+    "id": 3319021008,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Mlati Kidul",
+    "postal_code": "59319"
+  },
+  {
+    "id": 3319022010,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Mlati Lor",
+    "postal_code": "59319"
+  },
+  {
+    "id": 3319021009,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Mlati Norowito",
+    "postal_code": "59319"
+  },
+  {
+    "id": 3319022011,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Nganguk",
+    "postal_code": "59311"
+  },
+  {
+    "id": 3319021005,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Panjunan",
+    "postal_code": "59317"
+  },
+  {
+    "id": 3319021001,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Purwosari",
+    "postal_code": "59316"
+  },
+  {
+    "id": 3319022025,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Rendeng",
+    "postal_code": "59311"
+  },
+  {
+    "id": 3319022020,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Singocandi",
+    "postal_code": "59314"
+  },
+  {
+    "id": 3319021004,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Sunggingan",
+    "postal_code": "59317"
+  },
+  {
+    "id": 3319021007,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Wergu Kulon",
+    "postal_code": "59318"
+  },
+  {
+    "id": 3319021006,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331902,
+    "value": "Wergu Wetan",
+    "postal_code": "59318"
+  }
+]

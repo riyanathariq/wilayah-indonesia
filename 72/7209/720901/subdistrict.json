@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7209012006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Bambu",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012015,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Binanguna",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012014,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Cendana",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012017,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Kavetan",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012010,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Lembanya",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012019,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Luangon",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012018,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Tanimpo",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012005,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Taningkola",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012009,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Tanjung Pude",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012008,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Una-Una",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209012007,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720901,
+    "value": "Wakai",
+    "postal_code": "94690"
+  }
+]

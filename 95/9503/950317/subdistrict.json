@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9503172011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Esema Husage",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172013,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Hagawen",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Hanoasuok",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172014,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Hepia",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172012,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Libuk",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Lokon",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Luarima",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Nesuwen",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Suesi",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Weasi (Hesmat)",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Weriaput",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Werima",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Wesagalep",
+    "postal_code": "99718"
+  },
+  {
+    "id": 9503172006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950317,
+    "value": "Wesama",
+    "postal_code": "99718"
+  }
+]

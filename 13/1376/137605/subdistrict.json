@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1376051005,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Balai Panjang",
+    "postal_code": "26226"
+  },
+  {
+    "id": 1376051006,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Kapalo Koto Ampangan",
+    "postal_code": "26228"
+  },
+  {
+    "id": 1376051002,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Kototuo Limokampuang",
+    "postal_code": "26226"
+  },
+  {
+    "id": 1376051003,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Limbukan",
+    "postal_code": "26227"
+  },
+  {
+    "id": 1376051001,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Padang Karambia",
+    "postal_code": "26227"
+  },
+  {
+    "id": 1376051010,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137605,
+    "value": "Sawahpadang Aua Kuniang",
+    "postal_code": "26228"
+  }
+]

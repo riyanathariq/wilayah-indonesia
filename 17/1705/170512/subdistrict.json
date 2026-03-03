@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1705122006,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Bakal Dalam",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122011,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Batu Balai",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122007,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Lubuk Lagan",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122004,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Napalan",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122001,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Pering Baru",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122009,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Suka Bulan",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122003,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Suka Merindu",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122008,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Sungai Petai",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122005,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Taba",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122002,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Talang Padang",
+    "postal_code": "38888"
+  },
+  {
+    "id": 1705122010,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170512,
+    "value": "Tebat Sibun",
+    "postal_code": "38888"
+  }
+]

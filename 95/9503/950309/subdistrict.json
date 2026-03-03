@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9503092003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Gofa",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Jinusugu",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092012,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Rentis",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Senipan",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092013,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Solok",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Worapi",
+    "postal_code": "99715"
+  },
+  {
+    "id": 9503092011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950309,
+    "value": "Yosua",
+    "postal_code": "99715"
+  }
+]

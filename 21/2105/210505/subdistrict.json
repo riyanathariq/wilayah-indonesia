@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2105052003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210505,
+    "value": "Bukit Padi",
+    "postal_code": "29793"
+  },
+  {
+    "id": 2105052004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210505,
+    "value": "Genting Pulur",
+    "postal_code": "29793"
+  },
+  {
+    "id": 2105052001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210505,
+    "value": "Kuala Maras",
+    "postal_code": "29793"
+  },
+  {
+    "id": 2105052002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210505,
+    "value": "Ulu Maras",
+    "postal_code": "29793"
+  }
+]

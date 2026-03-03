@@ -1,0 +1,314 @@
+[
+  {
+    "id": 6105032026,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Bangun",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032022,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Bedayan",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032014,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Bernayau",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032017,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Buluh Kuning",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032008,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Ensabang",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032020,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Gernis Jaya",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032028,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Kemantan",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032004,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Kenyauk",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032025,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Landau Panjang",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032005,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Lengkenat",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032037,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Limau Bakti",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032009,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Mait Hilir",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032006,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Manis Raya",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032036,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Nanga Layung",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032013,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Nanga Libau",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032016,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Nanga Pari",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032001,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Nanga Sepauk",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032021,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Paoh Benua",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032029,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Peninsung",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032035,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Riam Kempadik",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032003,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sekubang",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032010,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sekujam Timbai",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032011,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Semuntai",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032030,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sepulut",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032034,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sinar Harapan",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032015,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sinar Pekayau",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032012,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sirang Setambang",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032027,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sukau Bersatu",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032040,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sungai Jaung",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032024,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sungai Raya",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032032,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Sungai Segak",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032033,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Tanjung Balai",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032023,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Tanjung Hulu",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032038,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Tanjung Mawang",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032002,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Tanjung Ria",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032019,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Tawang Sari",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032031,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Temawang Bulai",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032018,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Temawang Muntai",
+    "postal_code": "78662"
+  },
+  {
+    "id": 6105032007,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610503,
+    "value": "Temiang Kapuas",
+    "postal_code": "78662"
+  }
+]

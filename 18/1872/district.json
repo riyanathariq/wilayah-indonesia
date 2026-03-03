@@ -1,0 +1,32 @@
+[
+  {
+    "id": 187203,
+    "province_id": 18,
+    "regency_id": 1872,
+    "value": "Metro Barat"
+  },
+  {
+    "id": 187201,
+    "province_id": 18,
+    "regency_id": 1872,
+    "value": "Metro Pusat"
+  },
+  {
+    "id": 187205,
+    "province_id": 18,
+    "regency_id": 1872,
+    "value": "Metro Selatan"
+  },
+  {
+    "id": 187204,
+    "province_id": 18,
+    "regency_id": 1872,
+    "value": "Metro Timur"
+  },
+  {
+    "id": 187202,
+    "province_id": 18,
+    "regency_id": 1872,
+    "value": "Metro Utara"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6106022002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Bika",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Bika Hulu",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Jelemuk",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022012,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Jongkong Manday",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Melapi Manday",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Nanga Manday",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022011,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Penyeluang",
+    "postal_code": "78753"
+  },
+  {
+    "id": 6106022001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610602,
+    "value": "Teluk Sindur",
+    "postal_code": "78753"
+  }
+]

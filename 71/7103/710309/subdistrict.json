@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7103092003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710309,
+    "value": "Bukide",
+    "postal_code": "95842"
+  },
+  {
+    "id": 7103092004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710309,
+    "value": "Bukide Timur",
+    "postal_code": "95842"
+  },
+  {
+    "id": 7103092001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710309,
+    "value": "Nanedakele",
+    "postal_code": "95842"
+  },
+  {
+    "id": 7103092005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710309,
+    "value": "Nanusa",
+    "postal_code": "95842"
+  },
+  {
+    "id": 7103092002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710309,
+    "value": "Nusa",
+    "postal_code": "95842"
+  }
+]

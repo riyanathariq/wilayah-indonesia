@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3602212002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Bejod",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Cikeusik",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Cilangkap",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212011,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Cipedang",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Cipeucang",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Cisarap",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212013,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Karangpamindangan",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Katapang (Ketapang)",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Muara",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Parungpanjang",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212012,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Parungsari",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212010,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Sukatani",
+    "postal_code": "42396"
+  },
+  {
+    "id": 3602212001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360221,
+    "value": "Wanasalam",
+    "postal_code": "42396"
+  }
+]

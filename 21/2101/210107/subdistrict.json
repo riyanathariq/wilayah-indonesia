@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2101072005,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210107,
+    "value": "Lancang Kuning",
+    "postal_code": "29152"
+  },
+  {
+    "id": 2101071001,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210107,
+    "value": "Tanjung Uban Kota",
+    "postal_code": "29152"
+  },
+  {
+    "id": 2101071003,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210107,
+    "value": "Tanjung Uban Selatan",
+    "postal_code": "29152"
+  },
+  {
+    "id": 2101071011,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210107,
+    "value": "Tanjung Uban Timur",
+    "postal_code": "29152"
+  },
+  {
+    "id": 2101071002,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210107,
+    "value": "Tanjung Uban Utara",
+    "postal_code": "29152"
+  }
+]

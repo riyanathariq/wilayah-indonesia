@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1703102009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Air Padang",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Datar Lebar",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Durian Daun",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102012,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Dusun Rajo/Raja",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Jagobayo (Jago Bayo)",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102021,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Kalbang",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102018,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Lubuk Gedang",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102013,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Lubuk Lesung",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Pal 30 (Pal Tiga Puluh)",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703101010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Pasar Lais",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102019,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Suka Langu",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102020,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Taba Baru",
+    "postal_code": "38654"
+  },
+  {
+    "id": 1703102017,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170310,
+    "value": "Talang Rasau",
+    "postal_code": "38654"
+  }
+]

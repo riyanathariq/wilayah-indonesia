@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2104132001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Batu Belubang",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104132002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Cempa",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104132003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Pasir Panjang",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104132006,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Rejai",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104132004,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Tanjung Kelit",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104132005,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210413,
+    "value": "Tanjung Lipat",
+    "postal_code": "29873"
+  }
+]

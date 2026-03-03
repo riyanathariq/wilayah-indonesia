@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1604292004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Gunung Liwat",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Guru Agung",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Kapitan",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Karang Caya",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Pagar Kaya",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Rambai Kaca",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Sukamerindu",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Sukaraja",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Tanjung Agung",
+    "postal_code": "31350"
+  },
+  {
+    "id": 1604292008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160429,
+    "value": "Tanjung Raya",
+    "postal_code": "31350"
+  }
+]

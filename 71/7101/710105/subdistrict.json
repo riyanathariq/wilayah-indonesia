@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7101052001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Ayong",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Babo",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052017,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Batumera (Batu Merah)",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Bolangat",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052020,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Bolangat Timur",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052015,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Cempaka",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Domisil Moonow",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052012,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Lolanan",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Maelang",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Pangi",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052019,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Pangi Timur (Pangi Timu)",
+    "postal_code": "95742"
+  },
+  {
+    "id": 7101052018,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710105,
+    "value": "Pasir Putih",
+    "postal_code": "95742"
+  }
+]

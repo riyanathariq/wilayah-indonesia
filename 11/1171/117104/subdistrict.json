@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1171042004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Alue Naga",
+    "postal_code": "23116"
+  },
+  {
+    "id": 1171042003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Deah Raya",
+    "postal_code": "23116"
+  },
+  {
+    "id": 1171042005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Ie Masen Kayee Adang (Iemasen Kaye Adang)",
+    "postal_code": "23116"
+  },
+  {
+    "id": 1171042001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Jeulingke",
+    "postal_code": "23114"
+  },
+  {
+    "id": 1171042008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Kopelma Darussalam",
+    "postal_code": "23111"
+  },
+  {
+    "id": 1171042007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Lamgugob",
+    "postal_code": "23115"
+  },
+  {
+    "id": 1171042010,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Peurada (Gampong Peurada)",
+    "postal_code": "23116"
+  },
+  {
+    "id": 1171042006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Pineung",
+    "postal_code": "23116"
+  },
+  {
+    "id": 1171042009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Rukoh",
+    "postal_code": "23112"
+  },
+  {
+    "id": 1171042002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117104,
+    "value": "Tibang",
+    "postal_code": "23114"
+  }
+]

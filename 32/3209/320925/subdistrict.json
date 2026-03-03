@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209252006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Gujeg",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Kalianyar",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Karanganyar",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Kroya",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Lemahtamba",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Pangurangan (Panguragan)",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Pangurangan Kulon (Panguragan Kulon)",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Pangurangan Lor (Panguragan Lor)",
+    "postal_code": "45163"
+  },
+  {
+    "id": 3209252003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320925,
+    "value": "Pangurangan Wetan (Panguragan Wetan)",
+    "postal_code": "45163"
+  }
+]

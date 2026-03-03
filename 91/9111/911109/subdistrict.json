@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9111092004,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Pyawi",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092005,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Sawyatami",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092007,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Uskwar",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092006,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Wambes",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092002,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Wembi",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092003,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Wonorejo",
+    "postal_code": "99468"
+  },
+  {
+    "id": 9111092001,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911109,
+    "value": "Yamara",
+    "postal_code": "99468"
+  }
+]

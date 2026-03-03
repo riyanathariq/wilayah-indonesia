@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7301092002,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Garaupa",
+    "postal_code": "92863"
+  },
+  {
+    "id": 7301092006,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Garaupa Raya",
+    "postal_code": "92863"
+  },
+  {
+    "id": 7301092001,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Kalaotoa",
+    "postal_code": "92863"
+  },
+  {
+    "id": 7301092005,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Karumpa",
+    "postal_code": "92863"
+  },
+  {
+    "id": 7301092003,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Lembang Matene",
+    "postal_code": "92863"
+  },
+  {
+    "id": 7301092004,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730109,
+    "value": "Pulo Madu",
+    "postal_code": "92863"
+  }
+]

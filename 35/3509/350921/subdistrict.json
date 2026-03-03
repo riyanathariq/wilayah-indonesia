@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3509211007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Antirogo",
+    "postal_code": "68125"
+  },
+  {
+    "id": 3509211004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Karangrejo",
+    "postal_code": "68124"
+  },
+  {
+    "id": 3509211001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Kebonsari",
+    "postal_code": "68122"
+  },
+  {
+    "id": 3509211003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Kranjingan (Keranjingan)",
+    "postal_code": "68126"
+  },
+  {
+    "id": 3509211002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Sumbersari",
+    "postal_code": "68121"
+  },
+  {
+    "id": 3509211005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Tegalgede (Tegal Gede)",
+    "postal_code": "68124"
+  },
+  {
+    "id": 3509211006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350921,
+    "value": "Wirolegi",
+    "postal_code": "68124"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1202142011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Aek Tangga",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Garoga Sibargot",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Gonting Garoga",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Gonting Salak",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Lontung Jae I",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Lontung Jae II",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Padang Siandomang",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Parinsoran (Parinsoran Pangorian)",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142013,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Parmanuhan",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Parsosoran",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Sibaganding",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Sibalanga",
+    "postal_code": "22473"
+  },
+  {
+    "id": 1202142006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120214,
+    "value": "Simpang Bolon",
+    "postal_code": "22473"
+  }
+]

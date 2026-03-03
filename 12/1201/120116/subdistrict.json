@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1201162005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Aek Nadua",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Makmur",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Pasaribu Tobing",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "PO Simargarap",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Sidaling",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Simargarap",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Sipakpahi",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Suga Suga Hutagodang",
+    "postal_code": "22563"
+  },
+  {
+    "id": 1201162002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120116,
+    "value": "Suka Maju",
+    "postal_code": "22563"
+  }
+]

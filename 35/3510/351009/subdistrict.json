@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3510092003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351009,
+    "value": "Gentengkulon (Genteng Kulon)",
+    "postal_code": "68465"
+  },
+  {
+    "id": 3510092002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351009,
+    "value": "Gentengwetan (Genteng Wetan)",
+    "postal_code": "68465"
+  },
+  {
+    "id": 3510092005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351009,
+    "value": "Kaligondo",
+    "postal_code": "68465"
+  },
+  {
+    "id": 3510092001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351009,
+    "value": "Kembiritan",
+    "postal_code": "68465"
+  },
+  {
+    "id": 3510092004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351009,
+    "value": "Setail",
+    "postal_code": "68465"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1613052001,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Aringin",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052002,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Biaro Baru",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052003,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Biaro Lama",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052009,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Bina Karya",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613051004,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Karang Dapo I",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052007,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Karang Dapo II (Karang Dapo)",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052006,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Kerta Sari (Kertasari)",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052005,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Rantau Kadam",
+    "postal_code": "31658"
+  },
+  {
+    "id": 1613052008,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161305,
+    "value": "Setia Marga",
+    "postal_code": "31658"
+  }
+]

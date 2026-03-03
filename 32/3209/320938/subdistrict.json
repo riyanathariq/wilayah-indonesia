@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3209382007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Durajaya",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Greged (Greget)",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Gumulung Lebak (Gumulunglebak)",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Gumulung Tonggoh (Gumulungtonggoh)",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Jatipancur",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Kamarang",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Kamarang Lebak (Kamaranglebak)",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Lebak Mekar (Lebakmekar)",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Nanggela",
+    "postal_code": "45170"
+  },
+  {
+    "id": 3209382009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320938,
+    "value": "Sindang Kempeng (Sindangkempeng)",
+    "postal_code": "45170"
+  }
+]

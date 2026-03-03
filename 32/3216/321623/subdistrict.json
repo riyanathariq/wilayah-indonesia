@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3216232003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Bojongmangu (Bojongmanggu)",
+    "postal_code": "17352"
+  },
+  {
+    "id": 3216232002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Karangindah",
+    "postal_code": "17350"
+  },
+  {
+    "id": 3216232001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Karangmulya",
+    "postal_code": "17356"
+  },
+  {
+    "id": 3216232006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Medalkrisna",
+    "postal_code": "17350"
+  },
+  {
+    "id": 3216232004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Sukabungah",
+    "postal_code": "17350"
+  },
+  {
+    "id": 3216232005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321623,
+    "value": "Sukamukti",
+    "postal_code": "17350"
+  }
+]

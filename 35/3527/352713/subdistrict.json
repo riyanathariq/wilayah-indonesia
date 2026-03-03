@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3527132002,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Apa an (Apaan)",
+    "postal_code": "69271"
+  },
+  {
+    "id": 3527132003,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Gulbung",
+    "postal_code": "69271"
+  },
+  {
+    "id": 3527132005,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Pacanggaan",
+    "postal_code": "69271"
+  },
+  {
+    "id": 3527132001,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Pangarengan",
+    "postal_code": "69271"
+  },
+  {
+    "id": 3527132004,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Panyerangan (Panyirangan)",
+    "postal_code": "69271"
+  },
+  {
+    "id": 3527132006,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352713,
+    "value": "Ragung",
+    "postal_code": "69271"
+  }
+]

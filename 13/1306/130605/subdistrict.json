@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1306052003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Balingka",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Guguak Tabek Sarojo (Guguk Tabek Sarajo)",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052008,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Koto Gadang",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052006,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Koto Panjang",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Koto Tuo",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052007,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Sianok Anam Suku",
+    "postal_code": "26160"
+  },
+  {
+    "id": 1306052002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130605,
+    "value": "Sungai Landia",
+    "postal_code": "26160"
+  }
+]

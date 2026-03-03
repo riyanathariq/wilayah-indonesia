@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1603021016,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Air Lintang",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022015,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Harapan Jaya",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Karang Raja",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Kepur",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Lubuk Emplas (Lubuk Empelas)",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603021010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Muara Enim",
+    "postal_code": "31312"
+  },
+  {
+    "id": 1603022013,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Muara Harapan",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Muara Lawai",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603021009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Pasar I Muara Enim (Pasar I)",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603021007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Pasar II Muara Enim (Pasar II)",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1603021008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Pasar III Muara Enim (Pasar III)",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1603022014,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Saka Jaya",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Tanjung Jati",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Tanjung Raja",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603022012,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Tanjung Serian",
+    "postal_code": "31311"
+  },
+  {
+    "id": 1603021006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160302,
+    "value": "Tungkal",
+    "postal_code": "31313"
+  }
+]

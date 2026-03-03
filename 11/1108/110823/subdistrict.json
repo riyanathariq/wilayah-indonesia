@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1108232006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Geulanggang Baro",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Keude Lapang",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Keureutou (Keureutoau)",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Kuala Cangkoi/Cangkoy",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Kuala Kereuto (Kuala Kereutou)",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Lueng Baro",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Matang Baroh",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Matang Tunong",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Merbo Jurong",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Merbo Lama",
+    "postal_code": "24391"
+  },
+  {
+    "id": 1108232005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110823,
+    "value": "Tanjung/Tanjong Dama",
+    "postal_code": "24391"
+  }
+]

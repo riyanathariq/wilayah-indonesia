@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1812072009,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Gilang Tunggal Makarta",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Gunung Sari",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Kibang Budi Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072010,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Kibang Mulya Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Kibang Tri Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Kibang Yekti Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Lesung Bhakti Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Mekar Sari Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Pagar Jaya",
+    "postal_code": "34787"
+  },
+  {
+    "id": 1812072006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181207,
+    "value": "Sumber Rejo",
+    "postal_code": "34787"
+  }
+]

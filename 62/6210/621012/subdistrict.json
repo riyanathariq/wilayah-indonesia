@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6210122001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Hujung Pata",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122004,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Jalemu Masulan",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122003,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Jalemu Raya",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122005,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Mangkawuk",
+    "postal_code": "74562"
+  },
+  {
+    "id": 6210121006,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Rabambang",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122007,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tajah Antang Raya",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122011,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tumbang Bahanei",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122002,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tumbang Jalemu Kajuei",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122008,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tumbang Kuayan",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122009,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tumbang Langgah",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210122010,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621012,
+    "value": "Tusang Raya",
+    "postal_code": "74561"
+  }
+]

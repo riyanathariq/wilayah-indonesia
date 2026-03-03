@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3576021008,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Balongsari",
+    "postal_code": "61314"
+  },
+  {
+    "id": 3576021004,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Gedongan",
+    "postal_code": "61319"
+  },
+  {
+    "id": 3576021001,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Gununggedangan (Gunung Gedangan)",
+    "postal_code": "61315"
+  },
+  {
+    "id": 3576021009,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Kedundung",
+    "postal_code": "61316"
+  },
+  {
+    "id": 3576021003,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Magersari",
+    "postal_code": "61318"
+  },
+  {
+    "id": 3576021010,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357602,
+    "value": "Wates",
+    "postal_code": "61317"
+  }
+]

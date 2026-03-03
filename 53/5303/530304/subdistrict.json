@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5303042010,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Banfanu",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Bijeli",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303041014,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Fatumuti",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303041015,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Kiuola",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Nibaaf",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303041012,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Nifuboke",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Noebaun",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303041013,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Noemuti",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303041011,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Oenak",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042016,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Oeperigi",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Popnam",
+    "postal_code": "85664"
+  },
+  {
+    "id": 5303042003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530304,
+    "value": "Seo",
+    "postal_code": "85664"
+  }
+]

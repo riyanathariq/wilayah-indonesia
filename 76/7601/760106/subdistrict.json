@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7601062002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760106,
+    "value": "Saptanajaya",
+    "postal_code": "91573"
+  },
+  {
+    "id": 7601062004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760106,
+    "value": "Sipakainga",
+    "postal_code": "91573"
+  },
+  {
+    "id": 7601062001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760106,
+    "value": "Tammarunang (Tammarunnang)",
+    "postal_code": "91573"
+  },
+  {
+    "id": 7601062003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760106,
+    "value": "Taranggi",
+    "postal_code": "91573"
+  }
+]

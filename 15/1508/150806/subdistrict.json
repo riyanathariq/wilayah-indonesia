@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1508062004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Balai Jaya",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Baru Pelepat",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Batu Kerbau",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062014,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Bukit Telago",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062013,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Cilodang",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Dwi Karya Bakti",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062010,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Gapura Suci",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062011,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Mulya Bakti",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062012,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Mulya Jaya",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Rantau Keloyang",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Rantel",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062015,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Sekampil",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Senamat",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Sungai Beringin",
+    "postal_code": "37262"
+  },
+  {
+    "id": 1508062008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150806,
+    "value": "Sungai Gurun",
+    "postal_code": "37262"
+  }
+]

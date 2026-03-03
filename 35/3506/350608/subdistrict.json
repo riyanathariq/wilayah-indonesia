@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3506082002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Asmorobangun",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Gadungan",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Manggis",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Puncu",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Satak",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Sidomulyo",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Watugede",
+    "postal_code": "64292"
+  },
+  {
+    "id": 3506082007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350608,
+    "value": "Wonorejo",
+    "postal_code": "64292"
+  }
+]

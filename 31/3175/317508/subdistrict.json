@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3175081005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317508,
+    "value": "Cipinang Melayu",
+    "postal_code": "13620"
+  },
+  {
+    "id": 3175081004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317508,
+    "value": "Halim Perdana Kusuma (Halim Perdana Kusumah)",
+    "postal_code": "13610"
+  },
+  {
+    "id": 3175081003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317508,
+    "value": "Kebon Pala",
+    "postal_code": "13650"
+  },
+  {
+    "id": 3175081001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317508,
+    "value": "Makasar",
+    "postal_code": "13570"
+  },
+  {
+    "id": 3175081002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317508,
+    "value": "Pinangranti (Pinang Ranti)",
+    "postal_code": "13560"
+  }
+]

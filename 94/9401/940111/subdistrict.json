@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9401112003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940111,
+    "value": "Kamarisanoi",
+    "postal_code": "98861"
+  },
+  {
+    "id": 9401112005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940111,
+    "value": "Keuw",
+    "postal_code": "98861"
+  },
+  {
+    "id": 9401112002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940111,
+    "value": "Samanui",
+    "postal_code": "98861"
+  },
+  {
+    "id": 9401112004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940111,
+    "value": "Taumi",
+    "postal_code": "98861"
+  },
+  {
+    "id": 9401112001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940111,
+    "value": "Totoberi",
+    "postal_code": "98861"
+  }
+]

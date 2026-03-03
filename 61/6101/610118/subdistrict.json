@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6101182001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610118,
+    "value": "Parit Baru",
+    "postal_code": "79456"
+  },
+  {
+    "id": 6101182005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610118,
+    "value": "Salatiga",
+    "postal_code": "79456"
+  },
+  {
+    "id": 6101182004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610118,
+    "value": "Serumpun",
+    "postal_code": "79456"
+  },
+  {
+    "id": 6101182003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610118,
+    "value": "Serunai",
+    "postal_code": "79456"
+  },
+  {
+    "id": 6101182002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610118,
+    "value": "Sungai Toman",
+    "postal_code": "79456"
+  }
+]

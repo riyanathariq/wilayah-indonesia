@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3501072001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Gondang",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Jetis Lor (Jetislor)",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Mujing",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Nawangan",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072009,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Ngromo",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Pakis Baru (Pakisbaru)",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Penggung",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Sempu",
+    "postal_code": "63584"
+  },
+  {
+    "id": 3501072005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350107,
+    "value": "Tokawi (Tokawai)",
+    "postal_code": "63584"
+  }
+]

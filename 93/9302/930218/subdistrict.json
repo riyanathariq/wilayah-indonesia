@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9302182005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930218,
+    "value": "Amboran",
+    "postal_code": "99664"
+  },
+  {
+    "id": 9302182002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930218,
+    "value": "Anggamburan",
+    "postal_code": "99664"
+  },
+  {
+    "id": 9302182003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930218,
+    "value": "Kanggup",
+    "postal_code": "99664"
+  },
+  {
+    "id": 9302182001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930218,
+    "value": "Sesnuk",
+    "postal_code": "99664"
+  },
+  {
+    "id": 9302182004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930218,
+    "value": "Yomkondo",
+    "postal_code": "99664"
+  }
+]

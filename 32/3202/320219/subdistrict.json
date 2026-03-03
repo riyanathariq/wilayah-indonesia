@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202192006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Cianaga",
+    "postal_code": "43368"
+  },
+  {
+    "id": 3202192003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Cihamerang",
+    "postal_code": "43368"
+  },
+  {
+    "id": 3202192002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Cipeuteuy",
+    "postal_code": "43368"
+  },
+  {
+    "id": 3202192001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Kabandungan",
+    "postal_code": "43368"
+  },
+  {
+    "id": 3202192005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Mekarjaya",
+    "postal_code": "43368"
+  },
+  {
+    "id": 3202192004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320219,
+    "value": "Tugubandung",
+    "postal_code": "43368"
+  }
+]

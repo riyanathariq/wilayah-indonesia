@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3213262003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Bojongloa",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Cimanglid",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Kasomalang Kulon",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Kasomalang Wetan",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Pasanggrahan",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Sindangsari",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Sukamelang",
+    "postal_code": "41287"
+  },
+  {
+    "id": 3213262005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321326,
+    "value": "Tenjolaya",
+    "postal_code": "41287"
+  }
+]

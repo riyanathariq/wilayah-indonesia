@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3175101006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Bambu Apus",
+    "postal_code": "13890"
+  },
+  {
+    "id": 3175101008,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Ceger",
+    "postal_code": "13820"
+  },
+  {
+    "id": 3175101002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Cilangkap",
+    "postal_code": "13870"
+  },
+  {
+    "id": 3175101001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Cipayung",
+    "postal_code": "13840"
+  },
+  {
+    "id": 3175101007,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Lubang Buaya",
+    "postal_code": "13810"
+  },
+  {
+    "id": 3175101004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Munjul",
+    "postal_code": "13850"
+  },
+  {
+    "id": 3175101003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Pondok Ranggon (Pondok Rangon)",
+    "postal_code": "13860"
+  },
+  {
+    "id": 3175101005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317510,
+    "value": "Setu",
+    "postal_code": "13880"
+  }
+]

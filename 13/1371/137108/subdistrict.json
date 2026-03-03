@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1371081007,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Binuang Kampuang Dalam (Binuang Kampung Dalam)",
+    "postal_code": "25161"
+  },
+  {
+    "id": 1371081005,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Cupak Tangah",
+    "postal_code": "25162"
+  },
+  {
+    "id": 1371081008,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Kepala/Kapalo Koto",
+    "postal_code": "25163"
+  },
+  {
+    "id": 1371081002,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Koto Lua (Koto Luar)",
+    "postal_code": "25164"
+  },
+  {
+    "id": 1371081009,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Lambung Bukit/Bukik",
+    "postal_code": "25168"
+  },
+  {
+    "id": 1371081001,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Limau Manis",
+    "postal_code": "25166"
+  },
+  {
+    "id": 1371081003,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Limau Manis Selatan",
+    "postal_code": "25163"
+  },
+  {
+    "id": 1371081004,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Piai Tangah",
+    "postal_code": "25162"
+  },
+  {
+    "id": 1371081006,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137108,
+    "value": "Pisang",
+    "postal_code": "25161"
+  }
+]

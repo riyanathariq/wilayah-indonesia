@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6107012001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610701,
+    "value": "Sei/Sungai Duri",
+    "postal_code": "79272"
+  },
+  {
+    "id": 6107012004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610701,
+    "value": "Sei/Sungai Jaga A",
+    "postal_code": "79272"
+  },
+  {
+    "id": 6107012005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610701,
+    "value": "Sei/Sungai Jaga B",
+    "postal_code": "79272"
+  },
+  {
+    "id": 6107012006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610701,
+    "value": "Sei/Sungai Pangkalan I",
+    "postal_code": "79272"
+  },
+  {
+    "id": 6107012007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610701,
+    "value": "Sei/Sungai Pangkalan II",
+    "postal_code": "79272"
+  }
+]

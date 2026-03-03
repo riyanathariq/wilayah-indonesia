@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6104162007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Kali Nilam",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104161001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Kantor",
+    "postal_code": "78811"
+  },
+  {
+    "id": 6104161003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Mulia Baru",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104162008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Payah Kumang (Payak Kumang / Paya Kumang)",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104161004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Sampit",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104162006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Suka Bangun",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104162009,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Suka Bangun Dalam",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104161005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Suka Harja (Sukaharja)",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104161002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610416,
+    "value": "Tengah",
+    "postal_code": "78812"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7316052018,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Bolang",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316051003,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Buntu Sugi",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316051002,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Kalosi",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316051001,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Kambiolangi",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316052004,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Mata Allo",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316052011,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Pana",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316052010,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Sumillan",
+    "postal_code": "91754"
+  },
+  {
+    "id": 7316052017,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731605,
+    "value": "Taulo",
+    "postal_code": "91754"
+  }
+]

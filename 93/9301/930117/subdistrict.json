@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9301172005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930117,
+    "value": "Bu Epe",
+    "postal_code": "99636"
+  },
+  {
+    "id": 9301172004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930117,
+    "value": "Ihalik",
+    "postal_code": "99636"
+  },
+  {
+    "id": 9301172003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930117,
+    "value": "Kaniskobat",
+    "postal_code": "99636"
+  },
+  {
+    "id": 9301172002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930117,
+    "value": "Kaptel",
+    "postal_code": "99636"
+  },
+  {
+    "id": 9301172001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930117,
+    "value": "Kwemsid",
+    "postal_code": "99636"
+  }
+]

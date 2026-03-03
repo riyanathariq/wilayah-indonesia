@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6206032004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Bangkuang",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Hapalam",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032010,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Karya Unggang",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206031006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Pendahara",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tarusan Danum",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tewang Baringin (Tewang Beringin)",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032009,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tewang Manyangen",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tewang Rangas",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032008,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tewang Rangkang",
+    "postal_code": "74452"
+  },
+  {
+    "id": 6206032007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620603,
+    "value": "Tumbang Tarusan (Tumbang Terusan)",
+    "postal_code": "74452"
+  }
+]

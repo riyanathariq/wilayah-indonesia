@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2103071017,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Bandarsyah",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103072014,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Batu Gajah",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103071019,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Batu Hitam",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103071016,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Ranai Darat",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103071011,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Ranai Kota",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103072004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Sepempang",
+    "postal_code": "29777"
+  },
+  {
+    "id": 2103072002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210307,
+    "value": "Sungai Ulu",
+    "postal_code": "29777"
+  }
+]

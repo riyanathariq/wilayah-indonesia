@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1404101001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Kuala Enok",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Selatnama (Selat Nama)",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Sungailaut (Sungai Laut)",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Sungainyiur (Sungai Nyiur)",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tanah Merah",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tanjungbaru (Tanjung Baru)",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tanjungpasir (Tanjung Pasir)",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tekulai Bugis",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tekulai Hilir",
+    "postal_code": "29271"
+  },
+  {
+    "id": 1404102006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140410,
+    "value": "Tekulai Hulu",
+    "postal_code": "29271"
+  }
+]

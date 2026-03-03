@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6108092007,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Angkanyar",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092009,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Bengawan Ampar",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092008,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Kedama",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092002,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Kuala Behe",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092003,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Nyayum",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092004,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Paku Raya",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092005,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Permiit",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092010,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Sehe Lusur",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092011,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Sejowet",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092001,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Semedang (Sumedang)",
+    "postal_code": "79367"
+  },
+  {
+    "id": 6108092006,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610809,
+    "value": "Tanjung Balai",
+    "postal_code": "79367"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7107082001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Barat",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Dua",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Kota",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Satu",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Selatan",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Tengah",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Tiga",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Timur",
+    "postal_code": "95998"
+  },
+  {
+    "id": 7107082002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710708,
+    "value": "Silian Utara",
+    "postal_code": "95998"
+  }
+]

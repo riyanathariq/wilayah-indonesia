@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9508192002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Binime",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Kokujondumu",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192010,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Kurigi",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Likubuk",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Nirigimbirik",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Nirkuri",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Oldobo",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Pasebem",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Sigmie",
+    "postal_code": "99915"
+  },
+  {
+    "id": 9508192003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950819,
+    "value": "Uenoma",
+    "postal_code": "99915"
+  }
+]

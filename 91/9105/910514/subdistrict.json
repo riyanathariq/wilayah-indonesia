@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9105142004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910514,
+    "value": "Ausem",
+    "postal_code": "98646"
+  },
+  {
+    "id": 9105142002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910514,
+    "value": "Jeniari",
+    "postal_code": "98646"
+  },
+  {
+    "id": 9105142001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910514,
+    "value": "Miosnum",
+    "postal_code": "98646"
+  },
+  {
+    "id": 9105142003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910514,
+    "value": "Umpeki",
+    "postal_code": "98646"
+  },
+  {
+    "id": 9105142005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910514,
+    "value": "Yeituarau",
+    "postal_code": "98646"
+  }
+]

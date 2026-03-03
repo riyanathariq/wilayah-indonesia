@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3404042003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340404,
+    "value": "Sendangagung",
+    "postal_code": "55562"
+  },
+  {
+    "id": 3404042001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340404,
+    "value": "Sendangarum (Sendang Arum)",
+    "postal_code": "55562"
+  },
+  {
+    "id": 3404042002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340404,
+    "value": "Sendangmulyo (Sendang Mulyo)",
+    "postal_code": "55562"
+  },
+  {
+    "id": 3404042005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340404,
+    "value": "Sendangrejo (Sendang Rejo)",
+    "postal_code": "55562"
+  },
+  {
+    "id": 3404042004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340404,
+    "value": "Sendangsari",
+    "postal_code": "55562"
+  }
+]

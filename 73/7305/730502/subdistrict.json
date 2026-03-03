@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7305022007,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Banggae",
+    "postal_code": "92261"
+  },
+  {
+    "id": 7305022008,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Bontomanai",
+    "postal_code": "92261"
+  },
+  {
+    "id": 7305022004,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Lakatong",
+    "postal_code": "92261"
+  },
+  {
+    "id": 7305022001,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Lengkese",
+    "postal_code": "92261"
+  },
+  {
+    "id": 7305021002,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Mangadu",
+    "postal_code": "92261"
+  },
+  {
+    "id": 7305022003,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730502,
+    "value": "Topejawa",
+    "postal_code": "92261"
+  }
+]

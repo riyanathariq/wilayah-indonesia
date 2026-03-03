@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6212082001,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Batu Mirau",
+    "postal_code": "73970"
+  },
+  {
+    "id": 6212082002,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Tambelum",
+    "postal_code": "73970"
+  },
+  {
+    "id": 6212082006,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Tumbang Apat",
+    "postal_code": "73970"
+  },
+  {
+    "id": 6212082003,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Tumbang Bantian",
+    "postal_code": "73970"
+  },
+  {
+    "id": 6212082005,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Tumbang Kolon",
+    "postal_code": "73970"
+  },
+  {
+    "id": 6212082004,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621208,
+    "value": "Tumbang Saan",
+    "postal_code": "73970"
+  }
+]

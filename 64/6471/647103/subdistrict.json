@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6471031001,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Batu Ampar",
+    "postal_code": "76136"
+  },
+  {
+    "id": 6471031006,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Graha Indah",
+    "postal_code": "76129"
+  },
+  {
+    "id": 6471031002,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Gunungsamarinda (Gunung Samarinda)",
+    "postal_code": "76125"
+  },
+  {
+    "id": 6471031005,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Gunungsamarinda Baru (Gunung Samarinda Baru)",
+    "postal_code": "76128"
+  },
+  {
+    "id": 6471031003,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Karang Joang",
+    "postal_code": "76127"
+  },
+  {
+    "id": 6471031004,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647103,
+    "value": "Muararapak (Muara Rapak)",
+    "postal_code": "76125"
+  }
+]

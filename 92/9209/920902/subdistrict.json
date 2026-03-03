@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9209022006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920902,
+    "value": "Aibogia",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209022014,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920902,
+    "value": "Aifair",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209022008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920902,
+    "value": "Ayae",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209022013,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920902,
+    "value": "Ayawit",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209022001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920902,
+    "value": "Siakwa",
+    "postal_code": "98371"
+  }
+]

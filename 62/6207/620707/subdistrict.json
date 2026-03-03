@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6207072005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620707,
+    "value": "Bangkal",
+    "postal_code": "74260"
+  },
+  {
+    "id": 6207072003,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620707,
+    "value": "Lanpasa",
+    "postal_code": "74260"
+  },
+  {
+    "id": 6207072002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620707,
+    "value": "Salunuk (Selunuk)",
+    "postal_code": "74260"
+  },
+  {
+    "id": 6207072006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620707,
+    "value": "Tabiku",
+    "postal_code": "74260"
+  },
+  {
+    "id": 6207072001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620707,
+    "value": "Terawan",
+    "postal_code": "74260"
+  }
+]

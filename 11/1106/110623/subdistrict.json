@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1106232018,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Bueng Pageu",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Bueng Sidom",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232022,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Bagie",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Geundreut",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232015,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Hoho (Cot Ho-Ho)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232016,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Jambo",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Karieng",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232021,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Leuot (Cot Leu-Ot)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Madhi/Madi",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Malem",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232024,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Mancang",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Meulangeun (Cot Meulangen)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Monraya (Cot Mon Raya)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232017,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Nambak",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Puklat",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232014,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Rumpun",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232019,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Cot Sayun",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232026,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Data Makmur",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232025,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Empee Bata",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Gampong Blang (Kampung Blang)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232023,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Kayee Kunyet",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Lam Siem",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Lamme",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Meulayo (Melayo)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Paya Ue (Paya U)",
+    "postal_code": "23360"
+  },
+  {
+    "id": 1106232020,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110623,
+    "value": "Teupin Batee",
+    "postal_code": "23360"
+  }
+]

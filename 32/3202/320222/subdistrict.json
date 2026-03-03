@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3202222002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Cibenda",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Ciemas",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Ciwaru",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Girimukti",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Mandrajaya",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Mekarjaya",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Mekarsakti",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Sidamulya",
+    "postal_code": "43177"
+  },
+  {
+    "id": 3202222006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320222,
+    "value": "Tamanjaya",
+    "postal_code": "43177"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603272001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Benda",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Bunar",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Buniayu (Buni Ayu)",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Kaliasin (Kali Asin)",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Kubang",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Merak",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Parahu",
+    "postal_code": "15612"
+  },
+  {
+    "id": 3603272002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360327,
+    "value": "Sukamulya (Suka Mulya)",
+    "postal_code": "15612"
+  }
+]

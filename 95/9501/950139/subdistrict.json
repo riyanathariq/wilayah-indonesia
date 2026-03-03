@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9501392004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950139,
+    "value": "Dogoname",
+    "postal_code": "99536"
+  },
+  {
+    "id": 9501392002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950139,
+    "value": "Dumapaga",
+    "postal_code": "99536"
+  },
+  {
+    "id": 9501392001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950139,
+    "value": "Wame",
+    "postal_code": "99536"
+  },
+  {
+    "id": 9501392003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950139,
+    "value": "Yanenggame",
+    "postal_code": "99536"
+  }
+]

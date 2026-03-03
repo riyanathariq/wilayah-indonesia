@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213252009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Bojonegara",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Bojongkeding",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Gardumukti",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Kertajaya",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Mariuk",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Rancaudik",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Tambakdahan",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Tanjungrasa",
+    "postal_code": "41267"
+  },
+  {
+    "id": 3213252002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321325,
+    "value": "Wanajaya",
+    "postal_code": "41267"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6111042004,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611104,
+    "value": "Dusun Besar",
+    "postal_code": "78858"
+  },
+  {
+    "id": 6111042003,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611104,
+    "value": "Dusun Kecil",
+    "postal_code": "78858"
+  },
+  {
+    "id": 6111042002,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611104,
+    "value": "Kemboja (Kamboja)",
+    "postal_code": "78858"
+  },
+  {
+    "id": 6111042006,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611104,
+    "value": "Satai Lestari",
+    "postal_code": "78858"
+  },
+  {
+    "id": 6111042001,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611104,
+    "value": "Tanjungsatai (Tanjung Satai)",
+    "postal_code": "78858"
+  }
+]

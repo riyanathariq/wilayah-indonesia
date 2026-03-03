@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7109052006,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Batusenggo",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Kapeta",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Laghaeng",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052007,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Mahuneni",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052005,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Makoa (Mekar Sari)",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Talawid",
+    "postal_code": "95868"
+  },
+  {
+    "id": 7109052001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710905,
+    "value": "Tanaki",
+    "postal_code": "95868"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3213212002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Bobos",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Karangmulya",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Legonkulon",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Legonwetan",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Mayangan",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Pangarengan",
+    "postal_code": "41254"
+  },
+  {
+    "id": 3213212001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321321,
+    "value": "Tegalurung",
+    "postal_code": "41254"
+  }
+]

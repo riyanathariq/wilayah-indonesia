@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7501192005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Ilomangga",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Limehe Barat",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Limehe Timur",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Limehu",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Moahudu",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Motinelo",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Tabongo Barat",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Tabongo Timur",
+    "postal_code": "96242"
+  },
+  {
+    "id": 7501192008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750119,
+    "value": "Teratai",
+    "postal_code": "96242"
+  }
+]

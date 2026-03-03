@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206122003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920612,
+    "value": "Kucir",
+    "postal_code": "98145"
+  },
+  {
+    "id": 9206122005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920612,
+    "value": "Sibena Permai (II)",
+    "postal_code": "98145"
+  },
+  {
+    "id": 9206122004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920612,
+    "value": "Sibena Raya (I)",
+    "postal_code": "98145"
+  },
+  {
+    "id": 9206122002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920612,
+    "value": "Tisaida",
+    "postal_code": "98145"
+  },
+  {
+    "id": 9206122001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920612,
+    "value": "Tuhiba",
+    "postal_code": "98145"
+  }
+]

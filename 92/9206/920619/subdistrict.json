@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206192004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920619,
+    "value": "Ekam",
+    "postal_code": "98156"
+  },
+  {
+    "id": 9206192001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920619,
+    "value": "Sebyar Rejosasi/Rejosari",
+    "postal_code": "98156"
+  },
+  {
+    "id": 9206192003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920619,
+    "value": "Taroy (Toray/Taroi)",
+    "postal_code": "98156"
+  },
+  {
+    "id": 9206192002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920619,
+    "value": "Tomu",
+    "postal_code": "98156"
+  }
+]

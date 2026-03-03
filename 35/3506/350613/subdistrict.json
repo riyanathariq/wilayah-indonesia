@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3506132009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Bakalan",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Cerme",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Datengan",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Gambyok",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Grogol",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Kalipang",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Sonorejo",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Sumberejo",
+    "postal_code": "64151"
+  },
+  {
+    "id": 3506132004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350613,
+    "value": "Wonoasri",
+    "postal_code": "64151"
+  }
+]

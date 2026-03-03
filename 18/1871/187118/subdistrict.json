@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871181002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Bumi Kedamaian",
+    "postal_code": "35122"
+  },
+  {
+    "id": 1871181005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Kalibalau Kencana (Kali Balok / Balau Kencana)",
+    "postal_code": "35132"
+  },
+  {
+    "id": 1871181001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Kedamaian",
+    "postal_code": "35122"
+  },
+  {
+    "id": 1871181003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Tanjungagung Raya (Tanjung Agung Raya)",
+    "postal_code": "35129"
+  },
+  {
+    "id": 1871181004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Tanjungbaru (Tanjung Baru)",
+    "postal_code": "35133"
+  },
+  {
+    "id": 1871181007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Tanjunggading (Tanjung Gading)",
+    "postal_code": "35128"
+  },
+  {
+    "id": 1871181006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187118,
+    "value": "Tanjungraya (Tanjung Raya)",
+    "postal_code": "35128"
+  }
+]

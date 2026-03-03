@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1111132001,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bandar Bireuen (Kota Bireun / Bireuen)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132003,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bireuen Meunasah Blang (Bireun Meunasah Blang)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132004,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bireuen Meunasah Capa (Bireun Meunasah Capa)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132005,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bireuen Meunasah Dayah (Bireun Meunasah Dayah)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132002,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bireuen Meunasah Reulet (Bireun Meunasah Reuleut)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132006,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Bireuen Mns. Tgk Digadon",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132018,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Blang Reulieng (Reuling)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132016,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Blang Tingkeum",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132017,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Buket Teukueh",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132013,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Cot Gapu",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132019,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Cot Jrat",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132020,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Cot Peutek",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132023,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Gampong Baro",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132009,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geudong Aleu (Geudong Alue)",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132007,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geudong Geudong",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132022,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geulanggang Baro",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132015,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geulanggang Gampong",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132014,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geulanggang Kulam",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132012,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Geulanggang Teungoh",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132011,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Lhok Awe Teungoh",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132008,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Pulo Ara Geudong Teungoh",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132010,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Pulo Kiton",
+    "postal_code": "24252"
+  },
+  {
+    "id": 1111132021,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111113,
+    "value": "Uteun Reutoh",
+    "postal_code": "24252"
+  }
+]

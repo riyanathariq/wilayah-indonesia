@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216032002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukabudi",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukadaya",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukakerta",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukamekar",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukaringin",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukatenang",
+    "postal_code": "17620"
+  },
+  {
+    "id": 3216032004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321603,
+    "value": "Sukawangi",
+    "postal_code": "17620"
+  }
+]

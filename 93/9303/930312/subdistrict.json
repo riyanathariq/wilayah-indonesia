@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9303122001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Amk",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Benggo",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Borohaba",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122007,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Hebeske",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Kokoya",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Ogorito",
+    "postal_code": "99855"
+  },
+  {
+    "id": 9303122002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930312,
+    "value": "Yame",
+    "postal_code": "99855"
+  }
+]

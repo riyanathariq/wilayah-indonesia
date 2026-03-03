@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3502052013,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Bondrang",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052010,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Grogol",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052011,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Ketro",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052012,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Kori",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052014,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Ngindeng",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Pangkal",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Prayungan",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Sawoo",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Sriti (Serinti)",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Temon",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Tempuran",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052009,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Tugurejo",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Tumpak Pelem (Tumpakpelem)",
+    "postal_code": "63475"
+  },
+  {
+    "id": 3502052001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350205,
+    "value": "Tumpuk",
+    "postal_code": "63475"
+  }
+]

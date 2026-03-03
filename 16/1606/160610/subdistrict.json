@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1606102014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Air Putih Ilir",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102011,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Air Putih Ulu",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Bangun Harjo/Harja",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Bukit Indah",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102013,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Cinta Karya",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102012,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Sialang Agung",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102001,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Sido Mukti",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Sido Rahayu (Sidorahayu)",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Suka Damai",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Suka Jaya (Sukajaya)",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102005,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Suka Makmur",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102015,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Sumber Rejeki",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Tanjung Kaputran",
+    "postal_code": "30758"
+  },
+  {
+    "id": 1606102009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160610,
+    "value": "Warga Mulya",
+    "postal_code": "30758"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5311152003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Karipi",
+    "postal_code": "87174"
+  },
+  {
+    "id": 5311152006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Katiku Luku",
+    "postal_code": "87174"
+  },
+  {
+    "id": 5311152005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Katiku Wai",
+    "postal_code": "87174"
+  },
+  {
+    "id": 5311152002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Katikutana (Katiku Tana)",
+    "postal_code": "87174"
+  },
+  {
+    "id": 5311152001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Prai Bokul/Bakul",
+    "postal_code": "87174"
+  },
+  {
+    "id": 5311152004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531115,
+    "value": "Wangga Meti",
+    "postal_code": "87174"
+  }
+]

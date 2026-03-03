@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1208242010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Gunung",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Masilam",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Masilam II",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Rejo",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Silou",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Bandar Tinggi",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Gunung Serawan",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Lias Baru",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Panombean Baru",
+    "postal_code": "21185"
+  },
+  {
+    "id": 1208242007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120824,
+    "value": "Patimbalan (Partimbalan)",
+    "postal_code": "21185"
+  }
+]

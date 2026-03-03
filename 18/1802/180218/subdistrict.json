@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1802182004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Jatidatar Mataram (Jati Datar Mataram)",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Mataram Jaya",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Mataram Udik",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Sendang Agung Mataram",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Sriwijaya Mataram",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Sumber Rejeki Mataram",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Terbanggi Ilir (Terbanggi Besar)",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Terbanggi Mulya",
+    "postal_code": "34169"
+  },
+  {
+    "id": 1802182002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180218,
+    "value": "Uman Agung Mataram",
+    "postal_code": "34169"
+  }
+]

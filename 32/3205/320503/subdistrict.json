@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3205032003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Cinunuk",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032015,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Sindangmekar",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032024,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Sindangprabu",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Sindangratu",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Sukamenak",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Wanajaya",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Wanamekar",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Wanaraja",
+    "postal_code": "44180"
+  },
+  {
+    "id": 3205032019,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320503,
+    "value": "Wanasari",
+    "postal_code": "44180"
+  }
+]

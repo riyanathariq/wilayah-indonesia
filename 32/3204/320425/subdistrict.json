@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3204252003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Babakan Peuteuy",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Cicalengka Kulon",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Cicalengka Wetan",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Cikuya",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Dampit",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Margaasih",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252012,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Nagrog",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Narawita",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Panenjoan",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Tanjungwangi",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Tenjolaya",
+    "postal_code": "40395"
+  },
+  {
+    "id": 3204252011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320425,
+    "value": "Waluya",
+    "postal_code": "40395"
+  }
+]

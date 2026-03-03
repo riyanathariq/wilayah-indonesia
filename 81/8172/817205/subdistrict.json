@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8172052005,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Hirit",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052001,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Kanara",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052007,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Niela (Mangur Niela)",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052004,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Rumoin (Romoin)",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052006,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Tiflen (Tiflean)",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052002,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Warkar",
+    "postal_code": "97614"
+  },
+  {
+    "id": 8172052003,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817205,
+    "value": "Yapas",
+    "postal_code": "97614"
+  }
+]

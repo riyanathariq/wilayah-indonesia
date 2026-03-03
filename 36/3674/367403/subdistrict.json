@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3674031010,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Jurangmangu Barat (Jurang Mangu Barat)",
+    "postal_code": "15223"
+  },
+  {
+    "id": 3674031011,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Jurangmangu Timur (Jurang Mangu Timur)",
+    "postal_code": "15222"
+  },
+  {
+    "id": 3674031008,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Parigi (Perigi Lama)",
+    "postal_code": "15227"
+  },
+  {
+    "id": 3674031009,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Parigi Baru (Perigi Baru)",
+    "postal_code": "15228"
+  },
+  {
+    "id": 3674031005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Aren",
+    "postal_code": "15224"
+  },
+  {
+    "id": 3674031001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Betung",
+    "postal_code": "15221"
+  },
+  {
+    "id": 3674031004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Jaya",
+    "postal_code": "15220"
+  },
+  {
+    "id": 3674031006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Kacang Barat",
+    "postal_code": "15226"
+  },
+  {
+    "id": 3674031007,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Kacang Timur",
+    "postal_code": "15226"
+  },
+  {
+    "id": 3674031003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Karya",
+    "postal_code": "15225"
+  },
+  {
+    "id": 3674031002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367403,
+    "value": "Pondok Pucung",
+    "postal_code": "15229"
+  }
+]

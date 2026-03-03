@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7314072010,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Allakuang",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314072009,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Kanie",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Lautang Benteng",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Lekessi (Lakessi)",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Majjelling",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Majjelling Watang (Majelling Watang)",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Pangkajene",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Rijang Pitu (Rijang Pittu)",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314072008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Sereang",
+    "postal_code": "91615"
+  },
+  {
+    "id": 7314072011,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Tanete",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314072012,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Tekkalasi (Takkalasi)",
+    "postal_code": "91611"
+  },
+  {
+    "id": 7314071004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731407,
+    "value": "Wala",
+    "postal_code": "91611"
+  }
+]

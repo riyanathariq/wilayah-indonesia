@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9201082010,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Gisim Darat",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082008,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Klalomon (Klamono)",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Klamono (Klamano)",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082021,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Klasafet",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Klawana",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082020,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Malasmiliy (Mlasmily)",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082013,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Mlais",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082022,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Posa",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Wariayau",
+    "postal_code": "98441"
+  },
+  {
+    "id": 9201082009,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920108,
+    "value": "Wonosari",
+    "postal_code": "98441"
+  }
+]

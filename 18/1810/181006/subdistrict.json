@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1810062005,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Banjarejo",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062010,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Banyu Urip",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062001,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Banyumas",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062002,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Banyuwangi",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062011,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Mulyo Rejo",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062008,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Nusa Wungu",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062009,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Sinar Mulyo/Mulya",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062007,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Sri Rahayu",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062004,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Sriwungu",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062003,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Sukamulya",
+    "postal_code": "35373"
+  },
+  {
+    "id": 1810062006,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181006,
+    "value": "Waya Krui",
+    "postal_code": "35373"
+  }
+]

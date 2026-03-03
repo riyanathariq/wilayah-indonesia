@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7606032001,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Babana",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032010,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Barakkang",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032009,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Bojo",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032005,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Kire",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032011,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Lembah Hada",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032002,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Lumu",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032008,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Pasapa",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032003,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Pontanakayang",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032004,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Salogatta (Salugatta)",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032007,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Salumanurung",
+    "postal_code": "91461"
+  },
+  {
+    "id": 7606032006,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760603,
+    "value": "Tinali",
+    "postal_code": "91461"
+  }
+]

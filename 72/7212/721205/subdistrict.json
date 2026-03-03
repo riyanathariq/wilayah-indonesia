@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7212052004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Ensa",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Gontara",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052011,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Kasingoli",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Kolaka",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Lanumor",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Lee",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Londi",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052014,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Pambarea",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Peonea",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Saemba",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052013,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Saemba Walati",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Taende",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Tomata",
+    "postal_code": "94965"
+  },
+  {
+    "id": 7212052012,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721205,
+    "value": "Tomui Karya",
+    "postal_code": "94965"
+  }
+]

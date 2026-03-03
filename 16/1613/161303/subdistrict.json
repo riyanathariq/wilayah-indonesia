@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1613032008,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Bumi Makmur",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032002,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Jadi Mulya",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032011,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Jadi Mulya I",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613031003,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Karya Makmur",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032007,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Kelumpang Jaya",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032010,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Krani Jaya (Kerani Jaya)",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032004,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Mulya Jaya",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032006,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Sri Jaya Makmur (Srijaya Makmur)",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032005,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Sumber Makmur",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032009,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Sumber Sari",
+    "postal_code": "31667"
+  },
+  {
+    "id": 1613032001,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161303,
+    "value": "Tebing Tinggi",
+    "postal_code": "31667"
+  }
+]

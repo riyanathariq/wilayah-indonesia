@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3519012014,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Bacem",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012012,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Balerejo",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012011,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Kebonsari",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012013,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Kendondong",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012005,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Krandegan",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012009,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Mojorejo",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012008,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Palur",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012004,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Pucanganom",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012010,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Rejosari",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012007,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Sidorejo",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012006,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Singgahan",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012003,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Sukorejo",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012001,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Tambakmas",
+    "postal_code": "63173"
+  },
+  {
+    "id": 3519012002,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351901,
+    "value": "Tanjungrejo",
+    "postal_code": "63173"
+  }
+]

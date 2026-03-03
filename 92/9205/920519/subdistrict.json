@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9205192003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Arway",
+    "postal_code": "98474"
+  },
+  {
+    "id": 9205192004,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Beo",
+    "postal_code": "98474"
+  },
+  {
+    "id": 9205192001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Go",
+    "postal_code": "98474"
+  },
+  {
+    "id": 9205192002,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Kabilol",
+    "postal_code": "98474"
+  },
+  {
+    "id": 9205192005,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Waifoi",
+    "postal_code": "98474"
+  },
+  {
+    "id": 9205192006,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920519,
+    "value": "Warimak",
+    "postal_code": "98474"
+  }
+]

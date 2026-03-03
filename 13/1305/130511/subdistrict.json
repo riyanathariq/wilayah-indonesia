@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1305112001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130511,
+    "value": "Sintuak",
+    "postal_code": "25582"
+  },
+  {
+    "id": 1305112002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130511,
+    "value": "Toboh Gadang",
+    "postal_code": "25582"
+  },
+  {
+    "id": 1305112004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130511,
+    "value": "Toboh Gadang Barat",
+    "postal_code": "25582"
+  },
+  {
+    "id": 1305112003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130511,
+    "value": "Toboh Gadang Selatan",
+    "postal_code": "25582"
+  },
+  {
+    "id": 1305112005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130511,
+    "value": "Toboh Gadang Timur",
+    "postal_code": "25582"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3206132006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Banyuasih",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Cikubang",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Deudeul",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Kertaraharja",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Pageralam",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Purwarahayu",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Raksasari",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Singasari",
+    "postal_code": "46474"
+  },
+  {
+    "id": 3206132001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320613,
+    "value": "Taraju",
+    "postal_code": "46474"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 620613,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Bukit Raya"
+  },
+  {
+    "id": 620601,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Kamipang"
+  },
+  {
+    "id": 620602,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Katingan Hilir"
+  },
+  {
+    "id": 620608,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Katingan Hulu"
+  },
+  {
+    "id": 620610,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Katingan Kuala"
+  },
+  {
+    "id": 620605,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Katingan Tengah"
+  },
+  {
+    "id": 620607,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Marikit"
+  },
+  {
+    "id": 620609,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Mendawai"
+  },
+  {
+    "id": 620612,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Petak Malai"
+  },
+  {
+    "id": 620604,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Pulau Malan"
+  },
+  {
+    "id": 620606,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Sanaman Mantikei (Senamang Mantikei)"
+  },
+  {
+    "id": 620611,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Tasik Payawan"
+  },
+  {
+    "id": 620603,
+    "province_id": 62,
+    "regency_id": 6206,
+    "value": "Tewang Sangalang Garing"
+  }
+]

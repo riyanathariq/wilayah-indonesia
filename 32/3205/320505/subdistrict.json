@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3205052005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Cibunar",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Haurpanggung",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Jayaraga",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205051006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Jayawaras",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Kersamenak",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Mekargalih",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205051001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Pataruman",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Sukabakti",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205051002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Sukagalih",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205051012,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Sukajaya",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205051009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Sukakarya",
+    "postal_code": "44150"
+  },
+  {
+    "id": 3205052008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320505,
+    "value": "Tarogong",
+    "postal_code": "44150"
+  }
+]

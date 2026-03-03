@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1806252008,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Atar Lebar",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Bandar Sukabumi",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Banding",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Gunung Doh",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Negeri Agung",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Rajabasa (Raja Basa)",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Sanggi",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Sanggi Unggak",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252007,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Simpang Bayur",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Sinar Bangun",
+    "postal_code": "35686"
+  },
+  {
+    "id": 1806252011,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180625,
+    "value": "Tulung Sari",
+    "postal_code": "35686"
+  }
+]

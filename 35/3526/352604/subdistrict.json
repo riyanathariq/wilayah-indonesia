@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3526042002,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Banyuajuh (Binajuh / Banyu Ajuh)",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042005,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Gili Anyar",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042003,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Gili Barat",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042004,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Gili Timur",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042001,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Kamal",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042009,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Kebun",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042007,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Pendabah (Pendebeh)",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042008,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Tajungan",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042010,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Tangjungjati (Tanjung Jati)",
+    "postal_code": "69162"
+  },
+  {
+    "id": 3526042006,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352604,
+    "value": "Tellang (Telang)",
+    "postal_code": "69162"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5204252007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Banda",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Bantulante",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Labuhan Aji",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Labuhan Bontong",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Labuhan Jambu",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252008,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Labuhan Pidang",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Mata",
+    "postal_code": "84385"
+  },
+  {
+    "id": 5204252006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520425,
+    "value": "Tolo Oi",
+    "postal_code": "84385"
+  }
+]

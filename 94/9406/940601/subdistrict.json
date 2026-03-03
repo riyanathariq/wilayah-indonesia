@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9406012004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Bukapa (Bugapa)",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Dikiyouwo (Dikiyouwa / Dikiyouma / Tokapo)",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Ekemanida (Ekemenida)",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Idakotu",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Ikebo (Moanemani)",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Kimipugi (Kimupugi)",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Mauwa",
+    "postal_code": "98882"
+  },
+  {
+    "id": 9406012008,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940601,
+    "value": "Putapa (Uputapa)",
+    "postal_code": "98882"
+  }
+]

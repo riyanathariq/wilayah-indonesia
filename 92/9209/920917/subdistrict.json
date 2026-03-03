@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9209172003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Aifamas",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Atafrumek",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Ifiam",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Meinad",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Meis",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Miri",
+    "postal_code": "98367"
+  },
+  {
+    "id": 9209172007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920917,
+    "value": "Wufmana",
+    "postal_code": "98395"
+  }
+]

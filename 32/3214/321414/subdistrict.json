@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3214142001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cibatu",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cibukamanah",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cikadu",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cilandak",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cipancur",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Ciparungsari",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cipinang",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Cirangkong",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Karyamekar",
+    "postal_code": "41182"
+  },
+  {
+    "id": 3214142009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321414,
+    "value": "Wanawali",
+    "postal_code": "41182"
+  }
+]

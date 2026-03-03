@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7504102001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Bulili",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Buntulia Barat",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102006,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Buntulia Jaya",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Buntulia Selatan",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Duhiadaa",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Mekar Jaya",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102008,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Mootilango",
+    "postal_code": "96364"
+  },
+  {
+    "id": 7504102007,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750410,
+    "value": "Padengo (Padeng)",
+    "postal_code": "96364"
+  }
+]

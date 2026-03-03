@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7371121004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Antang",
+    "postal_code": "90234"
+  },
+  {
+    "id": 7371121002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Bangkala",
+    "postal_code": "90235"
+  },
+  {
+    "id": 7371121005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Batua",
+    "postal_code": "90233"
+  },
+  {
+    "id": 7371121007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Biring Romang",
+    "postal_code": "90235"
+  },
+  {
+    "id": 7371121008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Bitowo",
+    "postal_code": "90234"
+  },
+  {
+    "id": 7371121006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Borong",
+    "postal_code": "90233"
+  },
+  {
+    "id": 7371121001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Manggala",
+    "postal_code": "90234"
+  },
+  {
+    "id": 7371121003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737112,
+    "value": "Tamangapa",
+    "postal_code": "90235"
+  }
+]

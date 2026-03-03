@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5203112005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Jenggik Utara",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Kilang",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Lendang Belo",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Montong Betok",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Perian",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Pesanggrahan",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Pringga Jurang",
+    "postal_code": "83663"
+  },
+  {
+    "id": 5203112006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520311,
+    "value": "Pringgajurang Utara",
+    "postal_code": "83663"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6211052004,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Anjir Pulang Pisau",
+    "postal_code": "74813"
+  },
+  {
+    "id": 6211051016,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Bereng",
+    "postal_code": "74831"
+  },
+  {
+    "id": 6211052001,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Buntoi",
+    "postal_code": "74861"
+  },
+  {
+    "id": 6211052006,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Gohong",
+    "postal_code": "74812"
+  },
+  {
+    "id": 6211052017,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Hanjak Maju",
+    "postal_code": "74821"
+  },
+  {
+    "id": 6211051005,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Kahayan Hilir",
+    "postal_code": "74841"
+  },
+  {
+    "id": 6211051015,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Kalawa",
+    "postal_code": "74812"
+  },
+  {
+    "id": 6211052003,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Mantaren I",
+    "postal_code": "74861"
+  },
+  {
+    "id": 6211052014,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Mantaren II",
+    "postal_code": "74861"
+  },
+  {
+    "id": 6211052002,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621105,
+    "value": "Mintin",
+    "postal_code": "74816"
+  }
+]

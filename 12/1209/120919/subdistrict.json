@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1209191001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Bunut",
+    "postal_code": "21211"
+  },
+  {
+    "id": 1209191002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Bunut Barat",
+    "postal_code": "21211"
+  },
+  {
+    "id": 1209191003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Dadimulyo (Dadi Mulyo)",
+    "postal_code": "21212"
+  },
+  {
+    "id": 1209191004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Kisaran Barat",
+    "postal_code": "21214"
+  },
+  {
+    "id": 1209191005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Kisaran Baru",
+    "postal_code": "21216"
+  },
+  {
+    "id": 1209191006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Kisaran Kota",
+    "postal_code": "21215"
+  },
+  {
+    "id": 1209191007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Mekar Baru",
+    "postal_code": "21216"
+  },
+  {
+    "id": 1209191008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Sei Renggas",
+    "postal_code": "21213"
+  },
+  {
+    "id": 1209191009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Sendang Sari",
+    "postal_code": "21218"
+  },
+  {
+    "id": 1209191010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Sidodadi",
+    "postal_code": "21212"
+  },
+  {
+    "id": 1209191011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Sidomukti",
+    "postal_code": "21217"
+  },
+  {
+    "id": 1209191012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Tebing Kisaran",
+    "postal_code": "21215"
+  },
+  {
+    "id": 1209191013,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120919,
+    "value": "Tegal Sari",
+    "postal_code": "21218"
+  }
+]

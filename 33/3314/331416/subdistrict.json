@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3314162008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Gemantar",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Jambangan",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Jekani",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Kedawung",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Pare",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Sono",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Sumberejo",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Tempelrejo",
+    "postal_code": "57271"
+  },
+  {
+    "id": 3314162003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331416,
+    "value": "Trombol",
+    "postal_code": "57271"
+  }
+]

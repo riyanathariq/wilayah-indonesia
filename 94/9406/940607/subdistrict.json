@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9406072007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Bogiyoteugi",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Botumuma (Botumoma)",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Digikebo",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072008,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Matadi",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Obaibega",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Pouwouda (Pouwoda / Pouwuoda)",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Puweta/Pueta I",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Puweta/Pueta II",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072009,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Tuwaida",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072011,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Ugikagouda",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072012,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Ugikebo",
+    "postal_code": "98883"
+  },
+  {
+    "id": 9406072010,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940607,
+    "value": "Yepo (Makidimi)",
+    "postal_code": "98883"
+  }
+]

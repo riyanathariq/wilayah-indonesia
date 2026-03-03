@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7110072003,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Bongkudai Baru",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072002,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Bongkudai Selatan",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072005,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Bongkudai Timur",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072004,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Bongkudai Utara",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072006,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Guaan",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072009,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Kokapoi",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072010,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Kokapoi Timur",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072008,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Mokitompia",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072001,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Mooat",
+    "postal_code": "95784"
+  },
+  {
+    "id": 7110072007,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711007,
+    "value": "Mototompian",
+    "postal_code": "95784"
+  }
+]

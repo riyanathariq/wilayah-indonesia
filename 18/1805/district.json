@@ -1,0 +1,92 @@
+[
+  {
+    "id": 180508,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Banjar Agung"
+  },
+  {
+    "id": 180529,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Banjar Baru"
+  },
+  {
+    "id": 180520,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Banjar Margo"
+  },
+  {
+    "id": 180525,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Dente Teladas"
+  },
+  {
+    "id": 180506,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Gedung Aji"
+  },
+  {
+    "id": 180527,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Gedung Aji Baru"
+  },
+  {
+    "id": 180511,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Gedung Meneng"
+  },
+  {
+    "id": 180502,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Menggala"
+  },
+  {
+    "id": 180530,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Menggala Timur"
+  },
+  {
+    "id": 180526,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Meraksa Aji"
+  },
+  {
+    "id": 180523,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Penawar Aji"
+  },
+  {
+    "id": 180513,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Penawar Tama"
+  },
+  {
+    "id": 180512,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Rawa Jitu Selatan (Rawajitu Selatan)"
+  },
+  {
+    "id": 180518,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Rawa Jitu Timur (Rawajitu Timur)"
+  },
+  {
+    "id": 180522,
+    "province_id": 18,
+    "regency_id": 1805,
+    "value": "Rawa Pitu"
+  }
+]

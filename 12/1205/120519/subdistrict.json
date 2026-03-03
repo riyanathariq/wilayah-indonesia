@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1205191001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Batang Serangan",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Karya Jadi",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Kwala Musam",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Namu/Namo Sialang",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Paluh Pakeh Babussalam (Paluh Pakih Babussalam)",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Sei Bamban",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Sei Musam",
+    "postal_code": "20852"
+  },
+  {
+    "id": 1205192004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120519,
+    "value": "Sei Serdang",
+    "postal_code": "20852"
+  }
+]

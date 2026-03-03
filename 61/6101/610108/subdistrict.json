@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6101082006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Kalimantan",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Malek",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Matang Danau",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082008,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Mentibar",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Nibung",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Sebubus",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Tanah Hitam",
+    "postal_code": "79466"
+  },
+  {
+    "id": 6101082007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610108,
+    "value": "Temajuk",
+    "postal_code": "79466"
+  }
+]

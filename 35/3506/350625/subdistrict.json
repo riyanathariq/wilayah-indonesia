@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3506252005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Doko",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Gogorante",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Karangrejo",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Kwadungan",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Nambaan",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Ngasem",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Paron",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Sukorejo",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Sumberejo (Sumberjo)",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Toyoresmi",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Tugurejo",
+    "postal_code": "64181"
+  },
+  {
+    "id": 3506252012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350625,
+    "value": "Wonocatur",
+    "postal_code": "64181"
+  }
+]

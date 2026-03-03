@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578241002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357824,
+    "value": "Kendangsari",
+    "postal_code": "60292"
+  },
+  {
+    "id": 3578241001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357824,
+    "value": "Kutisari",
+    "postal_code": "60291"
+  },
+  {
+    "id": 3578241004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357824,
+    "value": "Panjang Jiwo",
+    "postal_code": "60299"
+  },
+  {
+    "id": 3578241003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357824,
+    "value": "Tenggilis Mejoyo (Tengilis Mejoyo)",
+    "postal_code": "60292"
+  }
+]

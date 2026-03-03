@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3508072001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Darungan",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072012,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Kalipepe",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Karanganyar (Karangayar)",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Karangrejo",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Kebonsari",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Krai",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Kraton",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Munder",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Tunjungrejo",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Wotgalih",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Yosowilangun Kidul",
+    "postal_code": "67382"
+  },
+  {
+    "id": 3508072006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350807,
+    "value": "Yosowilangun Lor",
+    "postal_code": "67382"
+  }
+]

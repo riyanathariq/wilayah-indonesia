@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5201152006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Giri Sasak",
+    "postal_code": "83360"
+  },
+  {
+    "id": 5201152002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Jagaraga",
+    "postal_code": "83360"
+  },
+  {
+    "id": 5201152001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Kuripan",
+    "postal_code": "83360"
+  },
+  {
+    "id": 5201152004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Kuripan Selatan",
+    "postal_code": "83360"
+  },
+  {
+    "id": 5201152005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Kuripan Timur",
+    "postal_code": "83360"
+  },
+  {
+    "id": 5201152003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520115,
+    "value": "Kuripan Utara",
+    "postal_code": "83360"
+  }
+]

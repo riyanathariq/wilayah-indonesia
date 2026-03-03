@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3272051001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327205,
+    "value": "Baros",
+    "postal_code": "43161"
+  },
+  {
+    "id": 3272051003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327205,
+    "value": "Jayamekar",
+    "postal_code": "43166"
+  },
+  {
+    "id": 3272051002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327205,
+    "value": "Jayaraksa",
+    "postal_code": "43166"
+  },
+  {
+    "id": 3272051004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327205,
+    "value": "Sudajaya Hilir (Sudajayahilir)",
+    "postal_code": "43161"
+  }
+]

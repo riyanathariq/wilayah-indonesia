@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1501152006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Bengkolan Duo (Bengkolan Dua)",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Bumbun Duri",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Jernih Jaya",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Lubuk Pauh",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Pauh Tinggi",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Pelompek",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Pelompek Pasar Baru",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Pesisir Bukit",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Sungaijernih (Sungai Jernih)",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Sungairumpun (Sungai Rumpun)",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Sungaisikai (Sungai Sikai)",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Tangkil",
+    "postal_code": "37163"
+  },
+  {
+    "id": 1501152008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150115,
+    "value": "Telun Berasap",
+    "postal_code": "37163"
+  }
+]

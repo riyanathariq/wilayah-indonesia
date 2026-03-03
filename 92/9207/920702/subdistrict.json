@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9207022010,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920702,
+    "value": "Sandey",
+    "postal_code": "98336"
+  },
+  {
+    "id": 9207022004,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920702,
+    "value": "Sombokoro",
+    "postal_code": "98336"
+  },
+  {
+    "id": 9207022001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920702,
+    "value": "Wamesa Tengah",
+    "postal_code": "98336"
+  },
+  {
+    "id": 9207022007,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920702,
+    "value": "Windesi",
+    "postal_code": "98336"
+  },
+  {
+    "id": 9207022002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920702,
+    "value": "Yopmeos (Yopmios)",
+    "postal_code": "98336"
+  }
+]

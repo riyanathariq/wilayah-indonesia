@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3510252009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Badean",
+    "postal_code": "68461"
+  },
+  {
+    "id": 3510252001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Blimbingsari",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Bomo",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Gintangan",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Kaligung",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Kaotan",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Karangrejo",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Patoman",
+    "postal_code": "68460"
+  },
+  {
+    "id": 3510252010,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Sukojati",
+    "postal_code": "68461"
+  },
+  {
+    "id": 3510252003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351025,
+    "value": "Watukebo",
+    "postal_code": "68460"
+  }
+]

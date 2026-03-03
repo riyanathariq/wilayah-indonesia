@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9507362006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Ambime",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Elubaga",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Kotorambur",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Langgime",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Pindalo",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Wanggagome",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Wulawa",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Wumbanakme",
+    "postal_code": "99580"
+  },
+  {
+    "id": 9507362008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950736,
+    "value": "Yimiribaga",
+    "postal_code": "99580"
+  }
+]

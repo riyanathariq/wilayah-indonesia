@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5171042003,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Dangin Puri Kaja",
+    "postal_code": "80231"
+  },
+  {
+    "id": 5171042001,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Dangin Puri Kangin",
+    "postal_code": "80233"
+  },
+  {
+    "id": 5171042002,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Dangin Puri Kauh",
+    "postal_code": "80231"
+  },
+  {
+    "id": 5171042006,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Dauh Puri Kaja",
+    "postal_code": "80111"
+  },
+  {
+    "id": 5171041009,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Peguyangan",
+    "postal_code": "80115"
+  },
+  {
+    "id": 5171042010,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Peguyangan Kaja",
+    "postal_code": "80115"
+  },
+  {
+    "id": 5171042011,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Peguyangan Kangin",
+    "postal_code": "80115"
+  },
+  {
+    "id": 5171042005,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Pemecutan Kaja",
+    "postal_code": "80118"
+  },
+  {
+    "id": 5171041004,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Tonja",
+    "postal_code": "80239"
+  },
+  {
+    "id": 5171041007,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Ubung",
+    "postal_code": "80116"
+  },
+  {
+    "id": 5171042008,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517104,
+    "value": "Ubung Kaja",
+    "postal_code": "80116"
+  }
+]

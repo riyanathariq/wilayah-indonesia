@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6302162003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Mekarpura (Mekar Pura)",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Pantai Baru (Pantaibaru)",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Salino",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Selaru",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Semisir",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Sungai Pasir",
+    "postal_code": "72156"
+  },
+  {
+    "id": 6302162005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630216,
+    "value": "Sungup Kanan",
+    "postal_code": "72156"
+  }
+]

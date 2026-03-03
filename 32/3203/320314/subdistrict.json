@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3203142004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Ciguha",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Gunungsari",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Jayagiri",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sindangsari",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukajembar",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukakarya",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukalaksana",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukamekar",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukanagara",
+    "postal_code": "43264"
+  },
+  {
+    "id": 3203142008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320314,
+    "value": "Sukarame",
+    "postal_code": "43264"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1409152002,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Ibul",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152010,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Kampung Baru Ibul",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152003,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Muarapetai",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152008,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Muaratobek",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152007,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Muaro Tiu Makmur",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152004,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Pangkalan",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152001,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Perhentian Sungkai",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152006,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Setiang",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152005,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Sungaibesar",
+    "postal_code": "29557"
+  },
+  {
+    "id": 1409152009,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140915,
+    "value": "Sungaibesar Hilir",
+    "postal_code": "29557"
+  }
+]

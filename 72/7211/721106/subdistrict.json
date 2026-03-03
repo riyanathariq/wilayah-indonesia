@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7211062003,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Bentean",
+    "postal_code": "94890"
+  },
+  {
+    "id": 7211062005,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Kelapa Lima",
+    "postal_code": "94890"
+  },
+  {
+    "id": 7211062006,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Labuan Kapelak",
+    "postal_code": "94890"
+  },
+  {
+    "id": 7211062004,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Malino Padas",
+    "postal_code": "94890"
+  },
+  {
+    "id": 7211062001,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Matanga",
+    "postal_code": "94890"
+  },
+  {
+    "id": 7211062002,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721106,
+    "value": "Tolokibit",
+    "postal_code": "94890"
+  }
+]

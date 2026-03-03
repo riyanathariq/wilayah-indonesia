@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3209052007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Babakan",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Babakan Gebang (Babakangebang)",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Bojonggebang",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Cangkuang",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Gembongan",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Gembongan Mekar (Gembonganmekar)",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052014,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Karangwangun",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Kudukeras",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Kudumulya",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Pakusamben",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Serang Kulon",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Serang Wetan",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Sumber Kidul",
+    "postal_code": "45191"
+  },
+  {
+    "id": 3209052010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320905,
+    "value": "Sumber Lor",
+    "postal_code": "45191"
+  }
+]

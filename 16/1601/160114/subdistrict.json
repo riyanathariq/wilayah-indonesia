@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1601142015,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Air Paoh/Pauh",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601141001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Baturaja Lama",
+    "postal_code": "32114"
+  },
+  {
+    "id": 1601141013,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Baturaja Permai",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601141004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Kemalaraja (Kemala Raja)",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601141011,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Kemelak Bindung Langit",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601141003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Pasar Baru",
+    "postal_code": "32116"
+  },
+  {
+    "id": 1601141014,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Sekar Jaya (Pasar Lama)",
+    "postal_code": "32115"
+  },
+  {
+    "id": 1601141012,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Sepancar Lawang Kulon",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601141006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Sukajadi",
+    "postal_code": "32117"
+  },
+  {
+    "id": 1601141005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Sukaraya",
+    "postal_code": "32112"
+  },
+  {
+    "id": 1601142008,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Tanjung Baru",
+    "postal_code": "32113"
+  },
+  {
+    "id": 1601142007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Tanjung Kemala",
+    "postal_code": "32111"
+  },
+  {
+    "id": 1601142016,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160114,
+    "value": "Terusan",
+    "postal_code": "32111"
+  }
+]

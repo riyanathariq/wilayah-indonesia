@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8101112014,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Hatu",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112013,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Hatumete",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112019,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Haya",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112012,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Mosso",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112015,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Piliama (Piliana)",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112020,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Salamahu",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112017,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Saunulu",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112018,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Tehoru",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112011,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Telutih Baru (Teluti Baru)",
+    "postal_code": "97519"
+  },
+  {
+    "id": 8101112016,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810111,
+    "value": "Yaputih",
+    "postal_code": "97519"
+  }
+]

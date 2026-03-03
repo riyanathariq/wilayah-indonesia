@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216162001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Jayabakti (Jaya Bakti)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Jayalaksana (Jaya Laksana)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Lenggahjaya (Lenggah Jaya)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Lenggahsari (Lenggah Sari)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Setiajaya (Setia Jaya)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Setialaksana",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Sindangjaya (Sindang Jaya)",
+    "postal_code": "17720"
+  },
+  {
+    "id": 3216162003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321616,
+    "value": "Sindangsari",
+    "postal_code": "17720"
+  }
+]

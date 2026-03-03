@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1671101001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167110,
+    "value": "Bukit Sangkal",
+    "postal_code": "30114"
+  },
+  {
+    "id": 1671101002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167110,
+    "value": "Kalidoni",
+    "postal_code": "30119"
+  },
+  {
+    "id": 1671101005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167110,
+    "value": "Sei Lais",
+    "postal_code": "30119"
+  },
+  {
+    "id": 1671101003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167110,
+    "value": "Sei Selayur",
+    "postal_code": "30119"
+  },
+  {
+    "id": 1671101004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167110,
+    "value": "Sei Selincah",
+    "postal_code": "30119"
+  }
+]

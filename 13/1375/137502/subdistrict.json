@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1375021001,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Campago Guguk Bulek",
+    "postal_code": "26128"
+  },
+  {
+    "id": 1375021002,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Campago Ipuh",
+    "postal_code": "26121"
+  },
+  {
+    "id": 1375021008,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Garegeh",
+    "postal_code": "26127"
+  },
+  {
+    "id": 1375021007,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Koto Selayan",
+    "postal_code": "26126"
+  },
+  {
+    "id": 1375021004,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Kubu Gulai Bancah",
+    "postal_code": "26122"
+  },
+  {
+    "id": 1375021009,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Manggis Ganting",
+    "postal_code": "26129"
+  },
+  {
+    "id": 1375021005,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Puhun Pintu Kabun",
+    "postal_code": "26123"
+  },
+  {
+    "id": 1375021003,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Puhun Tembok",
+    "postal_code": "26124"
+  },
+  {
+    "id": 1375021006,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137502,
+    "value": "Pulai Anak Air",
+    "postal_code": "26125"
+  }
+]

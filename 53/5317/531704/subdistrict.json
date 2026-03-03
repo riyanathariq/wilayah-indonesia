@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5317042007,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Lenang",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042017,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Lenang Selatan",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042001,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Mbilur Pangadu",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042010,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Ngadu Bolu",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042016,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Ngadu Olu",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042009,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Padira Tana",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042003,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Praikoruku Jangga (Prai Koruku Jangga)",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042002,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Soru",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042008,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Tana Mbanas",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042015,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Tana Mbanas Barat",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317042014,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531704,
+    "value": "Tana Mbanas Selatan",
+    "postal_code": "87283"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5304052002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Dualaus (Dua Laus)",
+    "postal_code": "85752"
+  },
+  {
+    "id": 5304052001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Fatuketi",
+    "postal_code": "85752"
+  },
+  {
+    "id": 5304052003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Jenilu",
+    "postal_code": "85752"
+  },
+  {
+    "id": 5304052006,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Kabuna",
+    "postal_code": "85752"
+  },
+  {
+    "id": 5304052004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Kenebibi",
+    "postal_code": "85752"
+  },
+  {
+    "id": 5304052005,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530405,
+    "value": "Leosama",
+    "postal_code": "85752"
+  }
+]

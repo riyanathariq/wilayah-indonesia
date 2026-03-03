@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5203052006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Danger",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Kesik",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Kumbang",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Lendang Nangka",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Lendang Nangka Utara",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Masbagik Selatan",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Masbagik Timur",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Masbagik Utara",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Masbagik Utara Baru",
+    "postal_code": "83661"
+  },
+  {
+    "id": 5203052002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520305,
+    "value": "Paokmotong (Paok Motong)",
+    "postal_code": "83661"
+  }
+]

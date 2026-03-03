@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1275011006,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Cengkeh Turi",
+    "postal_code": "20747"
+  },
+  {
+    "id": 1275011004,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Damai",
+    "postal_code": "20745"
+  },
+  {
+    "id": 1275011009,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Jati Karya",
+    "postal_code": "20746"
+  },
+  {
+    "id": 1275011008,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Jati Makmur",
+    "postal_code": "20748"
+  },
+  {
+    "id": 1275011002,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Jati Negara",
+    "postal_code": "20741"
+  },
+  {
+    "id": 1275011007,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Jati Utomo",
+    "postal_code": "20749"
+  },
+  {
+    "id": 1275011005,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Kebun Lada",
+    "postal_code": "20744"
+  },
+  {
+    "id": 1275011003,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Nangka",
+    "postal_code": "20742"
+  },
+  {
+    "id": 1275011001,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127501,
+    "value": "Pahlawan",
+    "postal_code": "20743"
+  }
+]

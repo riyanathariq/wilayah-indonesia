@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7403282010,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Bumbu",
+    "postal_code": "93685"
+  },
+  {
+    "id": 7403282007,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Kamosope",
+    "postal_code": "93685"
+  },
+  {
+    "id": 7403282001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Kogholifano (Koholifano)",
+    "postal_code": "93685"
+  },
+  {
+    "id": 7403282009,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Labulawa",
+    "postal_code": "93685"
+  },
+  {
+    "id": 7403282008,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Liwumetingki",
+    "postal_code": "93685"
+  },
+  {
+    "id": 7403282002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740328,
+    "value": "Pola",
+    "postal_code": "93685"
+  }
+]

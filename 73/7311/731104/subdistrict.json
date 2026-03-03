@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7311042005,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Ajakkang",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311042007,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Batupute",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311041001,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Kiru-Kiru",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311042003,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Lawallu",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311041002,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Mangkoso",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311042004,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Paccekke",
+    "postal_code": "90752"
+  },
+  {
+    "id": 7311042006,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731104,
+    "value": "Siddo",
+    "postal_code": "90752"
+  }
+]

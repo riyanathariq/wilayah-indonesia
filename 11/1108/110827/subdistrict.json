@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1108272001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Alue Dua (Gampong Alue Dua)",
+    "postal_code": "24379"
+  },
+  {
+    "id": 1108272004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Alue Papeun (Gampong Alue Papeun)",
+    "postal_code": "24379"
+  },
+  {
+    "id": 1108272005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Blang Jrat (Gampong Blang Jrat)",
+    "postal_code": "24379"
+  },
+  {
+    "id": 1108272006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Blang Pohroh (Gampong Blang Pohroh)",
+    "postal_code": "24379"
+  },
+  {
+    "id": 1108272003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Darussalam (Gampong Darussalam)",
+    "postal_code": "24379"
+  },
+  {
+    "id": 1108272002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110827,
+    "value": "Seumirah (Gampong Seumirah)",
+    "postal_code": "24379"
+  }
+]

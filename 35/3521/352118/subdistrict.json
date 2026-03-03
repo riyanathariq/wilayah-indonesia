@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3521182003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352118,
+    "value": "Gerih",
+    "postal_code": "63270"
+  },
+  {
+    "id": 3521182005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352118,
+    "value": "Guyung",
+    "postal_code": "63270"
+  },
+  {
+    "id": 3521182004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352118,
+    "value": "Keraskulon (Keras Kulon)",
+    "postal_code": "63270"
+  },
+  {
+    "id": 3521182001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352118,
+    "value": "Randusongo",
+    "postal_code": "63270"
+  },
+  {
+    "id": 3521182002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352118,
+    "value": "Widodaren",
+    "postal_code": "63270"
+  }
+]

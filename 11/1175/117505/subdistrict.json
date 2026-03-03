@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1175052009,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Bangun Sari",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052007,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Bukit Panjang",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052008,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Darul Aman (Ginasing)",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052010,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Darussalam",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052004,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Lae Saga",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052001,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Longkib",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052003,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Panji",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052006,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Rantau Panjang",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052002,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Sepang",
+    "postal_code": "24782"
+  },
+  {
+    "id": 1175052005,
+    "province_id": 11,
+    "regency_id": 1175,
+    "district_id": 117505,
+    "value": "Sikerabang",
+    "postal_code": "24782"
+  }
+]

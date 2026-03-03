@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8272062005,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Akedotilou",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062006,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Akeguraci",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272061001,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Akelamo",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062007,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Akesai",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062004,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Aketobatu",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062003,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Aketobololo",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062010,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Baringin Jaya",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062012,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Fanaha",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062002,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Lola",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062014,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Siokona",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062009,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Tadupi",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062011,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Tauno",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062008,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Togeme",
+    "postal_code": "97826"
+  },
+  {
+    "id": 8272062013,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827206,
+    "value": "Yehu",
+    "postal_code": "97826"
+  }
+]

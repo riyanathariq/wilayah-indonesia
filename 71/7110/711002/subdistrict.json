@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7110022005,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Bukaka",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022003,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Bulawan",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022012,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Bulawan Dua",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022011,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Bulawan Satu",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022002,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022010,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat Barat",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022006,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat I",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022007,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat II",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022008,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat Selatan",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022009,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Buyat Tengah",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022001,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Kotabunan",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022014,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Kotabunan Barat",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022013,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Kotabunan Selatan",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022004,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Paret",
+    "postal_code": "95782"
+  },
+  {
+    "id": 7110022015,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711002,
+    "value": "Paret Timur",
+    "postal_code": "95782"
+  }
+]

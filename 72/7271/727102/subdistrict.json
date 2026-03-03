@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7271021005,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Balaroa",
+    "postal_code": "94226"
+  },
+  {
+    "id": 7271021008,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Baru",
+    "postal_code": "94221"
+  },
+  {
+    "id": 7271021007,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Kamonji",
+    "postal_code": "94223"
+  },
+  {
+    "id": 7271021009,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Lere",
+    "postal_code": "94221"
+  },
+  {
+    "id": 7271021015,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Siranindi",
+    "postal_code": "94221"
+  },
+  {
+    "id": 7271021002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727102,
+    "value": "Ujuna",
+    "postal_code": "94222"
+  }
+]

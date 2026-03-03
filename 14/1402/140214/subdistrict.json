@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1402142010,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Koto Tuo",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Peladangan",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142003,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Pematang",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142006,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Pematang Benteng",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142001,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Pesajian",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142002,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Punti/Panti Kayu",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142004,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Selunak",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Sencano Jaya",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142005,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "29354"
+  },
+  {
+    "id": 1402142008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140214,
+    "value": "Sungai Aur",
+    "postal_code": "29354"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5320052003,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Daieko",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052009,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Gurimonearu",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052006,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Ledeae",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052008,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Lederaga",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052001,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Lobohede",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052002,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Molie (Mole)",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052004,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Pedarro (Pedaro)",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052010,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Raemadia (Ramedue)",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052005,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Tanajawa",
+    "postal_code": "85391"
+  },
+  {
+    "id": 5320052007,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532005,
+    "value": "Wadumaddi (Wadumedi / Wadumeddi)",
+    "postal_code": "85391"
+  }
+]

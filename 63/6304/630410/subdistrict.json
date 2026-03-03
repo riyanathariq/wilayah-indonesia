@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6304102008,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Bahalayung",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Balukung",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Banitan",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Banua Anyar (Benua Anyar)",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Batik",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304101001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Lepasan",
+    "postal_code": "70512"
+  },
+  {
+    "id": 6304102003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Murung Raya",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Palingkau",
+    "postal_code": "70513"
+  },
+  {
+    "id": 6304102009,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630410,
+    "value": "Sungai Selirik (Sei / Sungai Lirik)",
+    "postal_code": "70513"
+  }
+]

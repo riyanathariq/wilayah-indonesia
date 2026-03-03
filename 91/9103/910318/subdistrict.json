@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9103182004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910318,
+    "value": "Bangai",
+    "postal_code": "99357"
+  },
+  {
+    "id": 9103182002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910318,
+    "value": "Iwon",
+    "postal_code": "99357"
+  },
+  {
+    "id": 9103182003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910318,
+    "value": "Klaisu",
+    "postal_code": "99357"
+  },
+  {
+    "id": 9103182001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910318,
+    "value": "Omon",
+    "postal_code": "99357"
+  }
+]

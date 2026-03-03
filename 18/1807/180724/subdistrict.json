@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1807242002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Batu Badak",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Bukit Raya",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Bungkuk",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Giri Mulyo",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Gunung Mas",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Gunung Raya",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Peniangan",
+    "postal_code": "34383"
+  },
+  {
+    "id": 1807242007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180724,
+    "value": "Purwosari",
+    "postal_code": "34383"
+  }
+]

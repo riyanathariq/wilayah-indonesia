@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3203322008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Girijaya",
+    "postal_code": "43267"
+  },
+  {
+    "id": 3203322005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Girimukti",
+    "postal_code": "43267"
+  },
+  {
+    "id": 3203322002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Kalibaru",
+    "postal_code": "43266"
+  },
+  {
+    "id": 3203322006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Karangjaya",
+    "postal_code": "43266"
+  },
+  {
+    "id": 3203322004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Kubang",
+    "postal_code": "43267"
+  },
+  {
+    "id": 3203322007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Mekarmulya",
+    "postal_code": "43267"
+  },
+  {
+    "id": 3203322009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Padamulya",
+    "postal_code": "43267"
+  },
+  {
+    "id": 3203322003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Pusakajaya",
+    "postal_code": "43266"
+  },
+  {
+    "id": 3203322001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320332,
+    "value": "Simpang",
+    "postal_code": "43266"
+  }
+]

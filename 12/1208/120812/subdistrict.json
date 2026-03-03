@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1208122002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Bosar Nauli",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Buttu Bayu (Buntu Bayu)",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Buttu Turunan (Buntu Turunan)",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Jawa Tonga (Jawa Tongah)",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Jawa Tongah II",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Parhundalian Jw.Dipar (Parhundalian Jawadipar)",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Saribu Asih",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Tangga Batu",
+    "postal_code": "21178"
+  },
+  {
+    "id": 1208122007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120812,
+    "value": "Tonduhan",
+    "postal_code": "21178"
+  }
+]

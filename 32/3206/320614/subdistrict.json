@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3206142001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Jahiang",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142011,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Karangmukti",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Kawungsari",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Kutawaringin",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142012,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Margalaksana",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Neglasari",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Salawu",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Serang",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Sukarasa",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Sundawenang",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Tanjungsari",
+    "postal_code": "46472"
+  },
+  {
+    "id": 3206142006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320614,
+    "value": "Tenjowaringin",
+    "postal_code": "46472"
+  }
+]

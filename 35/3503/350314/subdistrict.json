@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3503142005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Gamping",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Mlinjon",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Nglebo",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Ngrandu",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Puru",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Suruh",
+    "postal_code": "66360"
+  },
+  {
+    "id": 3503142002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350314,
+    "value": "Wonokerto",
+    "postal_code": "66360"
+  }
+]

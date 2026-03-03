@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5302072013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Haumeni Baki (Haumenibaki)",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Mnelalete",
+    "postal_code": "85514"
+  },
+  {
+    "id": 5302072015,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Nifukani",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Nule (Nulle)",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Nusa",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Pusu",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Tublopo (Meometan)",
+    "postal_code": "85551"
+  },
+  {
+    "id": 5302072012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530207,
+    "value": "Tubuhue",
+    "postal_code": "85551"
+  }
+]

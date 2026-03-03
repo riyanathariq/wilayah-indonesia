@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3509182003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Andongrejo",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Curahnongko",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Curahtakir",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Pondokrejo",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Sanenrejo",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Sidodadi",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Tempurejo",
+    "postal_code": "68173"
+  },
+  {
+    "id": 3509182005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350918,
+    "value": "Wonoasri",
+    "postal_code": "68173"
+  }
+]

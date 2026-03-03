@@ -1,0 +1,186 @@
+[
+  {
+    "id": 3515102021,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Becirongengor",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102023,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Candinegoro",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102004,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Jimbarankulon (Jimbaran Kulon)",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102005,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Jimbaranwetan (Jimbaran Wetan)",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102022,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Karangpuri",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102006,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Ketimang",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102019,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Lambangan",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102009,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Mojorangagung",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102012,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Mulyodadi",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102017,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Pagerngumbuk",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102007,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Pilang",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102018,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Plaosan",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102011,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Ploso",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102003,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Popoh",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102020,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Sawocangkring",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102014,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Semambung",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102015,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Simoangin-angin (Simo Angin Angin)",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102002,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Simoketawang",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102008,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Sumberrejo (Sumberejo)",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102001,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Tanggul",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102013,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Wonoayu",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102016,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Wonokalang",
+    "postal_code": "61261"
+  },
+  {
+    "id": 3515102010,
+    "province_id": 35,
+    "regency_id": 3515,
+    "district_id": 351510,
+    "value": "Wonokasian",
+    "postal_code": "61261"
+  }
+]

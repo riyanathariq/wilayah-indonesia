@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1304022001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Andaleh",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Batipuah Baruh",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Batipuh Ateh (Batipuah Ateh)",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022008,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Bungo Tanjung/Tanjuang",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Gunung Rajo (Gunuang Rajo)",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022006,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Pitalah",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Sabu",
+    "postal_code": "27265"
+  },
+  {
+    "id": 1304022007,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130402,
+    "value": "Tanjung Barulak",
+    "postal_code": "27265"
+  }
+]

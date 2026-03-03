@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1207272008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Bakaran Batu",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Baru (kampung Baru)",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Batangkuis Pekan (Batang Kuis Pekan)",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Bintang Meriah",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Mesjid",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Paya Gambar",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Sena",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Sidodadi",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Sugiharjo",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Tanjung Sari",
+    "postal_code": "20372"
+  },
+  {
+    "id": 1207272002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120727,
+    "value": "Tumpatan Nibung",
+    "postal_code": "20372"
+  }
+]

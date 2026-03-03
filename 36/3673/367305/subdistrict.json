@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3673051004,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Banjar Agung (Banjaragung)",
+    "postal_code": "42122"
+  },
+  {
+    "id": 3673051005,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Banjarsari",
+    "postal_code": "42123"
+  },
+  {
+    "id": 3673051001,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Cipocok Jaya",
+    "postal_code": "42121"
+  },
+  {
+    "id": 3673051007,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Dalung",
+    "postal_code": "42127"
+  },
+  {
+    "id": 3673051008,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Gelam",
+    "postal_code": "42128"
+  },
+  {
+    "id": 3673051002,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Karundang",
+    "postal_code": "42125"
+  },
+  {
+    "id": 3673051003,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Panancangan",
+    "postal_code": "42124"
+  },
+  {
+    "id": 3673051006,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367305,
+    "value": "Tembong",
+    "postal_code": "42126"
+  }
+]

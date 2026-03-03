@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7571031003,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Dembe II",
+    "postal_code": "96121"
+  },
+  {
+    "id": 7571031015,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Dembe Jaya",
+    "postal_code": "96121"
+  },
+  {
+    "id": 7571031010,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Dulomo Selatan",
+    "postal_code": "96123"
+  },
+  {
+    "id": 7571031014,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Dulomo Utara",
+    "postal_code": "96123"
+  },
+  {
+    "id": 7571031005,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Wongkaditi Barat",
+    "postal_code": "96122"
+  },
+  {
+    "id": 7571031004,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757103,
+    "value": "Wongkaditi Timur",
+    "postal_code": "96122"
+  }
+]

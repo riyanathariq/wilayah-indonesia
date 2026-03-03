@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9501382001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950138,
+    "value": "Pupugoba (Popugoba)",
+    "postal_code": "99506"
+  },
+  {
+    "id": 9501382002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950138,
+    "value": "Waima",
+    "postal_code": "99506"
+  },
+  {
+    "id": 9501382004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950138,
+    "value": "Yelelo",
+    "postal_code": "99506"
+  },
+  {
+    "id": 9501382003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950138,
+    "value": "Yomote",
+    "postal_code": "99506"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1403112006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Hutan Ayu",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Kador",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112008,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Puteri Sembilan",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Suka Damai",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Tanjungmedang (Tanjung Medang)",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Tanjungpunak (Tanjung Punak)",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Telukrhu (Teluk Rhu)",
+    "postal_code": "28782"
+  },
+  {
+    "id": 1403112005,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140311,
+    "value": "Titi Akar",
+    "postal_code": "28782"
+  }
+]

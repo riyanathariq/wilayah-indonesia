@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3509142004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Glagahwero",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Kemiri",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Kemuning Sari Lor (Kemuningsari Lor)",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Pakis",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Panti",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Serut",
+    "postal_code": "68153"
+  },
+  {
+    "id": 3509142005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350914,
+    "value": "Suci",
+    "postal_code": "68153"
+  }
+]

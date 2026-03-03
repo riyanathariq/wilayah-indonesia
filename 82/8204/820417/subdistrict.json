@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8204172004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Dgandasuli (Gandasuli)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172009,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Kubung",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Kupal",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Makian (Kampung Makian)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Mandawong (Mandaong)",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172010,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Panamboang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Papaloang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Sawadai",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Tembal",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204172006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820417,
+    "value": "Tuwokona (Tuakona)",
+    "postal_code": "97791"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5303192005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Banuan/Baunuan",
+    "postal_code": "85672"
+  },
+  {
+    "id": 5303192006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Fafinesu",
+    "postal_code": "85672"
+  },
+  {
+    "id": 5303192001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Fafinesu A",
+    "postal_code": "85672"
+  },
+  {
+    "id": 5303192002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Fafinesu B",
+    "postal_code": "85672"
+  },
+  {
+    "id": 5303192003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Fafinesu C",
+    "postal_code": "85672"
+  },
+  {
+    "id": 5303192004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530319,
+    "value": "Oenain",
+    "postal_code": "85672"
+  }
+]

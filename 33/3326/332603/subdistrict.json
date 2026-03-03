@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3326032010,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Bantarkulon (Bantar Kulon)",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Depok",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Kapundutan",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Kutorembet",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Lebakbarang",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032011,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Mendolo",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Pamutuh",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Sidomulyo",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Tembelangunung (Tembelang Gunung)",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032005,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Timbangsari",
+    "postal_code": "51183"
+  },
+  {
+    "id": 3326032004,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332603,
+    "value": "Wonosido",
+    "postal_code": "51183"
+  }
+]

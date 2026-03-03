@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1205232002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Damar Condong",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205232005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Limau Mungkur",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205232001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Pematang Tengah",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205232003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Perkebunan Damar Condong",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205232004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Perkebunan Perapen",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205232008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Sala Haji (Salahaji)",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205232007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Serang Jaya",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205232006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120523,
+    "value": "Serang Jaya Hilir",
+    "postal_code": "20859"
+  }
+]

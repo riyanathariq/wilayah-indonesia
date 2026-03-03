@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3210112004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Andir",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Burujul Kulon",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Burujul Wetan",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Cibentar",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Cibolerang (Ciborelang)",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Cicadas",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Jatisura",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Jatiwangi",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Leuweunggede (Leuwenggede)",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Loji",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Mekarsari",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Pinangraja",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Sukaraja Kulon",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Sukaraja Wetan",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112016,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Surawangi",
+    "postal_code": "45454"
+  },
+  {
+    "id": 3210112010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321011,
+    "value": "Sutawangi",
+    "postal_code": "45454"
+  }
+]

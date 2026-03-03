@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7310051001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731005,
+    "value": "Balleanging (Balleangin)",
+    "postal_code": "90661"
+  },
+  {
+    "id": 7310051002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731005,
+    "value": "Balocci Baru",
+    "postal_code": "90661"
+  },
+  {
+    "id": 7310051004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731005,
+    "value": "Majannang",
+    "postal_code": "90661"
+  },
+  {
+    "id": 7310052005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731005,
+    "value": "Tompobulu (Tompo Bulu)",
+    "postal_code": "90661"
+  },
+  {
+    "id": 7310051003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731005,
+    "value": "Tonasa",
+    "postal_code": "90661"
+  }
+]

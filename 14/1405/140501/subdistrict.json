@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1405012002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Air Emas",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Air Hitam",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012012,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Bagan Limau",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Bukit Gajah",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Bukit Jaya",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Kampung Baru",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Lubuk Kembang Bunga",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Lubuk Kembang Sari",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Silikuan Hulu",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Tri Mulya Jaya",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405011010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Ukui I (Satu)",
+    "postal_code": "28388"
+  },
+  {
+    "id": 1405012011,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140501,
+    "value": "Ukui II (Dua)",
+    "postal_code": "28388"
+  }
+]

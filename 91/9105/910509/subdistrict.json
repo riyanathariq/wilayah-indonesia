@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9105092003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Ampimoi",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Arareni",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Ayari",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Bareraif",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Koroapi",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Randawaya",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092011,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Siromi",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Tarei",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Wabuayar (Wabuayer)",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Waita",
+    "postal_code": "98642"
+  },
+  {
+    "id": 9105092002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910509,
+    "value": "Warironi",
+    "postal_code": "98642"
+  }
+]

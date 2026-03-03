@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1903022004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190302,
+    "value": "Kumbung",
+    "postal_code": "33792"
+  },
+  {
+    "id": 1903022005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190302,
+    "value": "Penutuk",
+    "postal_code": "33792"
+  },
+  {
+    "id": 1903022001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190302,
+    "value": "Tanjunglabu (Tanjung Labu)",
+    "postal_code": "33792"
+  },
+  {
+    "id": 1903022002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190302,
+    "value": "Tanjungsangkar (Tanjung Sangkar)",
+    "postal_code": "33792"
+  }
+]

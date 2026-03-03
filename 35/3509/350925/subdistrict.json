@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3509252004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Jelbuk",
+    "postal_code": "68192"
+  },
+  {
+    "id": 3509252002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Panduman",
+    "postal_code": "68192"
+  },
+  {
+    "id": 3509252001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Sucopangepok (Suco Pangepok)",
+    "postal_code": "68192"
+  },
+  {
+    "id": 3509252006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Sugerkidul (Suger Kidul)",
+    "postal_code": "68192"
+  },
+  {
+    "id": 3509252003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Sukojember (Suko Jember)",
+    "postal_code": "68192"
+  },
+  {
+    "id": 3509252005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350925,
+    "value": "Sukowiryo",
+    "postal_code": "68192"
+  }
+]

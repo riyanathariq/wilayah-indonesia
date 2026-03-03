@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3505132010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Balerejo (Bale Rejo)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Bumiayu",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Kaligambir (Kali Gambir)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Kalitengah",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Margomulyo (Margo Mulyo)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Panggungasri (Panggung Asri)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Panggungrejo (Panggung Rejo)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Serang",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "66174"
+  },
+  {
+    "id": 3505132005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350513,
+    "value": "Sumbersih",
+    "postal_code": "66174"
+  }
+]

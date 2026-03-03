@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5204052002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Baru",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Dalam",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Juran Alas (Juranalas)",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Kalimango",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052012,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Labuhan Alas",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Luar",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Marente (Marenteh)",
+    "postal_code": "84353"
+  },
+  {
+    "id": 5204052007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520405,
+    "value": "Pulau Bungin",
+    "postal_code": "84353"
+  }
+]

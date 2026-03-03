@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1205182007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Kelantan",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205182003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Lubuk Kasih",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205182005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Lubuk Kertang",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205181004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Pangkalan Batu",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205182006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Perlis",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205182002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Sei/Sungai Tualang",
+    "postal_code": "20881"
+  },
+  {
+    "id": 1205181001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120518,
+    "value": "Tangkahan Durian",
+    "postal_code": "20881"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5318112002,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Kahale",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112007,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Loko Tali",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112004,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Panenggo Ede",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112005,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Waiha",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112003,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Waikarara",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112001,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Wailangira",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112006,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Wainyapu",
+    "postal_code": "87262"
+  },
+  {
+    "id": 5318112008,
+    "province_id": 53,
+    "regency_id": 5318,
+    "district_id": 531811,
+    "value": "Waipakolo",
+    "postal_code": "87262"
+  }
+]

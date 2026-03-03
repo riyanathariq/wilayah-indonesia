@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1214232007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Anaoma",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Berua Siwalawa",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Bukit Burasi (Bukitburasi)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Hilidulo",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Hiligodu",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Maluo",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Manawadano",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Sisobahili Siwalawa",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Talio",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Umbuasi (Umbu'asi)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214232009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121423,
+    "value": "Umbuasi Barat",
+    "postal_code": "22864"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3504152001,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Besole",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152003,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Besuki",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152004,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Keboireng",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152006,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Sedayugunung",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152009,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Sitoyobagus (Siyotobagus)",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152007,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Tanggulkundung",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152005,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Tanggulturus",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152002,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Tanggulwelahan",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152010,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Tulungrejo",
+    "postal_code": "66275"
+  },
+  {
+    "id": 3504152008,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350415,
+    "value": "Wateskroyo",
+    "postal_code": "66275"
+  }
+]

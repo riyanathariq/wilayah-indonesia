@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5303032002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Oenaem",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303032001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Pantae",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303032010,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Sainiup",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303031011,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Supun",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303032007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Tautpah",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303032009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Tokbesi",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303032012,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Tunbaen",
+    "postal_code": "85680"
+  },
+  {
+    "id": 5303031003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530303,
+    "value": "Up Faon (Upfaon)",
+    "postal_code": "85680"
+  }
+]

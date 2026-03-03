@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6104202005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Batu Daya",
+    "postal_code": "78854"
+  },
+  {
+    "id": 6104202002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Gema",
+    "postal_code": "78854"
+  },
+  {
+    "id": 6104202006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Kamora",
+    "postal_code": "78854"
+  },
+  {
+    "id": 6104202004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Kampar Sebomban",
+    "postal_code": "78854"
+  },
+  {
+    "id": 6104202003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Mekar Raya",
+    "postal_code": "78854"
+  },
+  {
+    "id": 6104202001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610420,
+    "value": "Semandang Kanan",
+    "postal_code": "78854"
+  }
+]

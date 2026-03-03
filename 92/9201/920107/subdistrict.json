@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9201071001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Aimas",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201072033,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Aimo",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071030,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Klabinain",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071035,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Klafma",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071032,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Klaigit",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201072028,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Maibo",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071034,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Malagusa",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201072038,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Malasaum",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071031,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Malasom",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Malawele",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Malawili",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071026,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Mariat Gunung",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Mariat Pantai",
+    "postal_code": "98444"
+  },
+  {
+    "id": 9201071029,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920107,
+    "value": "Warmon",
+    "postal_code": "98444"
+  }
+]

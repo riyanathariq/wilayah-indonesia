@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3209332006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Hulubanteng",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Hulubanteng Lor",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Jatirenggang",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Pabuaran Kidul",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Pabuaran Lor",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Pabuaran Wetan",
+    "postal_code": "45194"
+  },
+  {
+    "id": 3209332001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320933,
+    "value": "Sukadana",
+    "postal_code": "45194"
+  }
+]

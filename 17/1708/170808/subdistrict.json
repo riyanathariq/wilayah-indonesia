@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1708082003,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Batu Bandung",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082002,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Batu Kalung",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082001,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Limbur Baru",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082007,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Renah Kurung",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082004,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Sosokan Baru",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082005,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Sosokan Taba (Sosokan Tabah)",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082006,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Talang Tige",
+    "postal_code": "39375"
+  },
+  {
+    "id": 1708082008,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170808,
+    "value": "Warung Pojok",
+    "postal_code": "39375"
+  }
+]

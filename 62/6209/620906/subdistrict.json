@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6209062007,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Batu Hambawang",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062001,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Bina Bhakti",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062004,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Jangkar Prima",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062003,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Mekar Mulya",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062005,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Purwareja (Purworejo)",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062008,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Rimba Jaya",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062006,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Tri Tunggal",
+    "postal_code": "74165"
+  },
+  {
+    "id": 6209062002,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620906,
+    "value": "Wonorejo",
+    "postal_code": "74165"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3509152002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350915,
+    "value": "Dukuhmencek (Dukuh Mencek)",
+    "postal_code": "68151"
+  },
+  {
+    "id": 3509152001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350915,
+    "value": "Jubung",
+    "postal_code": "68151"
+  },
+  {
+    "id": 3509152004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350915,
+    "value": "Karangpring",
+    "postal_code": "68151"
+  },
+  {
+    "id": 3509152005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350915,
+    "value": "Klungkung (Kelungkung)",
+    "postal_code": "68151"
+  },
+  {
+    "id": 3509152003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350915,
+    "value": "Sukorambi",
+    "postal_code": "68151"
+  }
+]

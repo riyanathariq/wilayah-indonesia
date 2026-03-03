@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9406082003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Boduda",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Bokaibutu (Bukaibuto)",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Bonauwo (Bunauwo)",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Deiyapa (Deiyepa)",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Nuwa (Nua)",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Ugapuga",
+    "postal_code": "98884"
+  },
+  {
+    "id": 9406082004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940608,
+    "value": "Yotapuga",
+    "postal_code": "98884"
+  }
+]

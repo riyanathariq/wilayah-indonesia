@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209392007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Karangreja",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Keraton",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Muara",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Purwawinangun",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Surakarta",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Suranenggala",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Suranenggala Kidul",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Suranenggala Kulon",
+    "postal_code": "45150"
+  },
+  {
+    "id": 3209392010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320939,
+    "value": "Suranenggala Lor",
+    "postal_code": "45150"
+  }
+]

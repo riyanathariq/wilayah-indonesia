@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3518182006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Bajang",
+    "postal_code": "64452"
+  },
+  {
+    "id": 3518182005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Gampeng",
+    "postal_code": "64452"
+  },
+  {
+    "id": 3518182004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Lengkong Lor",
+    "postal_code": "64452"
+  },
+  {
+    "id": 3518182002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Ngluyu",
+    "postal_code": "64452"
+  },
+  {
+    "id": 3518182001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Sugihwaras",
+    "postal_code": "64452"
+  },
+  {
+    "id": 3518182003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351818,
+    "value": "Tempuran",
+    "postal_code": "64452"
+  }
+]

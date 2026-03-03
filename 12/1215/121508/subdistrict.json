@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1215082005,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Kuta Jungak",
+    "postal_code": "22274"
+  },
+  {
+    "id": 1215082003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Mungkur",
+    "postal_code": "22274"
+  },
+  {
+    "id": 1215082002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Siempat Rube I",
+    "postal_code": "22274"
+  },
+  {
+    "id": 1215082001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Siempat Rube II",
+    "postal_code": "22274"
+  },
+  {
+    "id": 1215082004,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Siempat Rube IV",
+    "postal_code": "22274"
+  },
+  {
+    "id": 1215082006,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121508,
+    "value": "Traju",
+    "postal_code": "22274"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3215072004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Kutagandok",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Kutajaya",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Kutakarya",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Kutamukti",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Kutaraja",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Mulyajaya",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Sampalan",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Sindangkarya",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Sindangmukti",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Sindangmulya",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Sindangsari",
+    "postal_code": "41358"
+  },
+  {
+    "id": 3215072001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321507,
+    "value": "Waluya",
+    "postal_code": "41358"
+  }
+]

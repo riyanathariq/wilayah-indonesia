@@ -1,0 +1,38 @@
+[
+  {
+    "id": 620402,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Dusun Hilir"
+  },
+  {
+    "id": 620406,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Dusun Selatan"
+  },
+  {
+    "id": 620404,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Dusun Utara"
+  },
+  {
+    "id": 620405,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Gn. Bintang Awai (Gunung Bintang Awai)"
+  },
+  {
+    "id": 620401,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Jenamas"
+  },
+  {
+    "id": 620403,
+    "province_id": 62,
+    "regency_id": 6204,
+    "value": "Karau Kuala"
+  }
+]

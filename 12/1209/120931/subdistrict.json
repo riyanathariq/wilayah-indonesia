@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1209312001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Air Teluk Kiri",
+    "postal_code": "21270"
+  },
+  {
+    "id": 1209312006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Mekar Tanjung",
+    "postal_code": "21270"
+  },
+  {
+    "id": 1209312003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Perkebunan Teluk Dalam",
+    "postal_code": "21270"
+  },
+  {
+    "id": 1209312004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Pulau Maria",
+    "postal_code": "21270"
+  },
+  {
+    "id": 1209312005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Pulau Tanjung",
+    "postal_code": "21270"
+  },
+  {
+    "id": 1209312002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120931,
+    "value": "Teluk Dalam",
+    "postal_code": "21270"
+  }
+]

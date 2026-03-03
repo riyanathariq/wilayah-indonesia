@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6208052003,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Ajang",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052001,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Kenawan",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052002,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Laman Baru",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052006,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Natai Kondang",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052005,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Nibung Terjun",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052004,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Semantun",
+    "postal_code": "74174"
+  },
+  {
+    "id": 6208052007,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620805,
+    "value": "Sembikuan (Sembi Kuan)",
+    "postal_code": "74174"
+  }
+]

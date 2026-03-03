@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213182004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Jati",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Kosambi",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Manyingsal",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Padamulya",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Parigimulya",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Sidajaya",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Sidamulya",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Simpar",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Tanjung",
+    "postal_code": "41257"
+  },
+  {
+    "id": 3213182001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321318,
+    "value": "Wanasari",
+    "postal_code": "41257"
+  }
+]

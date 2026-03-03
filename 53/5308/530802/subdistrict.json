@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5308022001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Aejeti",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022008,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Kazo Kapo",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Ndoriwoi",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Paderape",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Puutara",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Redorory (Redodori)",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Rendoraterua (Rendo Raterua)",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022009,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Renga Menge",
+    "postal_code": "86362"
+  },
+  {
+    "id": 5308022005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530802,
+    "value": "Rorurangga (Rendo Ranga)",
+    "postal_code": "86362"
+  }
+]

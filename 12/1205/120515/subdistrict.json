@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1205152001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Alur Cempedak",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205151009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Beras Basah",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205151010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Bukit Jengkol",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Pangkalan Siata",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Paya Tampak",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Pintu Air",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Pulau Kampai",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Pulau Sembilan",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Sei/Sungai Meran",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Sei/Sungai Siur",
+    "postal_code": "20858"
+  },
+  {
+    "id": 1205152003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120515,
+    "value": "Tanjung Pasar (Tanjung Pasir)",
+    "postal_code": "20858"
+  }
+]

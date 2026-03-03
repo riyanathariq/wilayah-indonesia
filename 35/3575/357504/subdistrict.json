@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3575041004,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Bangilan",
+    "postal_code": "67111"
+  },
+  {
+    "id": 3575041010,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Bugul Lor",
+    "postal_code": "67129"
+  },
+  {
+    "id": 3575041011,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Kandangsapi (Kandang Sapi)",
+    "postal_code": "67125"
+  },
+  {
+    "id": 3575041001,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Karanganyar",
+    "postal_code": "67131"
+  },
+  {
+    "id": 3575041005,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Kebonsari",
+    "postal_code": "67114"
+  },
+  {
+    "id": 3575041013,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Mandaranrejo",
+    "postal_code": "67123"
+  },
+  {
+    "id": 3575041006,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Mayangan",
+    "postal_code": "67112"
+  },
+  {
+    "id": 3575041007,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Ngemplakrejo",
+    "postal_code": "67113"
+  },
+  {
+    "id": 3575041012,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Panggungrejo",
+    "postal_code": "67124"
+  },
+  {
+    "id": 3575041009,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Pekuncen",
+    "postal_code": "67126"
+  },
+  {
+    "id": 3575041008,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Petamanan",
+    "postal_code": "67126"
+  },
+  {
+    "id": 3575041002,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Tamba'an (Tambaan)",
+    "postal_code": "67133"
+  },
+  {
+    "id": 3575041003,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357504,
+    "value": "Trajeng",
+    "postal_code": "67132"
+  }
+]

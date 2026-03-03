@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1212212007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Batu Manumpak",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212009,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Cinta Damai",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Liat Tondung",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Lumban Rau Tengah",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212008,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Lumban Rau Tenggara",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Lumban Rau Timur",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Lumban Rau Utara",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Napajoring (Napajoriho)",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212010,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Siantarasa",
+    "postal_code": "22383"
+  },
+  {
+    "id": 1212212004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121221,
+    "value": "Sipagabu",
+    "postal_code": "22383"
+  }
+]

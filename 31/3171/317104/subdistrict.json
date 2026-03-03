@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3171041006,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Bungur",
+    "postal_code": "10460"
+  },
+  {
+    "id": 3171041002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Kenari",
+    "postal_code": "10430"
+  },
+  {
+    "id": 3171041004,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Kramat",
+    "postal_code": "10450"
+  },
+  {
+    "id": 3171041005,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Kwitang",
+    "postal_code": "10420"
+  },
+  {
+    "id": 3171041003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Paseban",
+    "postal_code": "10440"
+  },
+  {
+    "id": 3171041001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317104,
+    "value": "Senen",
+    "postal_code": "10410"
+  }
+]

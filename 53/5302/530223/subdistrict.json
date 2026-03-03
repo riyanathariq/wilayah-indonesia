@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5302232006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Benahe (Benehe)",
+    "postal_code": "85577"
+  },
+  {
+    "id": 5302232003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Koloto",
+    "postal_code": "85577"
+  },
+  {
+    "id": 5302232001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Lotas",
+    "postal_code": "85577"
+  },
+  {
+    "id": 5302232004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Niti",
+    "postal_code": "85577"
+  },
+  {
+    "id": 5302232005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Obaki",
+    "postal_code": "85577"
+  },
+  {
+    "id": 5302232002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530223,
+    "value": "Sabnala (Sapnala)",
+    "postal_code": "85577"
+  }
+]

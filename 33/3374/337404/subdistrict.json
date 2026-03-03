@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3374041007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Gayamsari",
+    "postal_code": "50248"
+  },
+  {
+    "id": 3374041002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Kaligawe",
+    "postal_code": "50164"
+  },
+  {
+    "id": 3374041006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Pandean Lamper",
+    "postal_code": "50249"
+  },
+  {
+    "id": 3374041004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Sambirejo",
+    "postal_code": "50166"
+  },
+  {
+    "id": 3374041003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Sawah Besar (Sawahbesar)",
+    "postal_code": "50163"
+  },
+  {
+    "id": 3374041005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Siwalan",
+    "postal_code": "50162"
+  },
+  {
+    "id": 3374041001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337404,
+    "value": "Tambakrejo",
+    "postal_code": "50174"
+  }
+]

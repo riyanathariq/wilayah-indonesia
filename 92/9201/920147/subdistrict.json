@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9201472001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Buk",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Klahen",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Klais",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Mimpe",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Mlakhan",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472007,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Moos",
+    "postal_code": "98434"
+  },
+  {
+    "id": 9201472005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920147,
+    "value": "Tiklen",
+    "postal_code": "98434"
+  }
+]

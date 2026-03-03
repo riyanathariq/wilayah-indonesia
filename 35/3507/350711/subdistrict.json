@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3507112006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Arjosari",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Arjowilangun",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Kaliasri",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Kalipare",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Kalirejo",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Putukrejo",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Sukowilangun",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Sumberpetung",
+    "postal_code": "65166"
+  },
+  {
+    "id": 3507112005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350711,
+    "value": "Tumpakrejo",
+    "postal_code": "65166"
+  }
+]

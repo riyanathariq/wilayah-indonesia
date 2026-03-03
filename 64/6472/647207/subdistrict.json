@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472071003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647207,
+    "value": "Makroman",
+    "postal_code": "75115"
+  },
+  {
+    "id": 6472071005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647207,
+    "value": "Pulau Atas",
+    "postal_code": "75114"
+  },
+  {
+    "id": 6472071002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647207,
+    "value": "Sambutan",
+    "postal_code": "75115"
+  },
+  {
+    "id": 6472071001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647207,
+    "value": "Sei/Sungai Kapih",
+    "postal_code": "75114"
+  },
+  {
+    "id": 6472071004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647207,
+    "value": "Sindang Sari",
+    "postal_code": "75114"
+  }
+]

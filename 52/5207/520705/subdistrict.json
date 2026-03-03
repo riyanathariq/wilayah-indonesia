@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5207052003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Bangkat Monteh (Bangkat Monte)",
+    "postal_code": "84458"
+  },
+  {
+    "id": 5207052001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Desa Beru",
+    "postal_code": "84458"
+  },
+  {
+    "id": 5207052006,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Lamuntet",
+    "postal_code": "84455"
+  },
+  {
+    "id": 5207052008,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Moteng",
+    "postal_code": "84455"
+  },
+  {
+    "id": 5207052007,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Rarak Ronges",
+    "postal_code": "84455"
+  },
+  {
+    "id": 5207052004,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Sapugara Bree",
+    "postal_code": "84458"
+  },
+  {
+    "id": 5207052009,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Seminar Salit",
+    "postal_code": "84455"
+  },
+  {
+    "id": 5207052002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Tepas",
+    "postal_code": "84458"
+  },
+  {
+    "id": 5207052005,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520705,
+    "value": "Tepas Sepakat",
+    "postal_code": "84455"
+  }
+]

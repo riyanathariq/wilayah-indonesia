@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3402172001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340217,
+    "value": "Argodadi",
+    "postal_code": "55752"
+  },
+  {
+    "id": 3402172004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340217,
+    "value": "Argomulyo",
+    "postal_code": "55752"
+  },
+  {
+    "id": 3402172002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340217,
+    "value": "Argorejo",
+    "postal_code": "55752"
+  },
+  {
+    "id": 3402172003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340217,
+    "value": "Argosari",
+    "postal_code": "55752"
+  }
+]

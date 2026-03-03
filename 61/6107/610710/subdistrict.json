@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6107102004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Cempaka Putih",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Kelayu (Kelayuk)",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Kiung",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Muhi Bersatu",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Nangka",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Suka Maju",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Suti Semarang",
+    "postal_code": "79288"
+  },
+  {
+    "id": 6107102008,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610710,
+    "value": "Tapen",
+    "postal_code": "79288"
+  }
+]

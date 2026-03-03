@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1471141001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147114,
+    "value": "Kulim",
+    "postal_code": "28286"
+  },
+  {
+    "id": 1471141002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147114,
+    "value": "Mentangor",
+    "postal_code": "28286"
+  },
+  {
+    "id": 1471141004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147114,
+    "value": "Pebatuan",
+    "postal_code": "28286"
+  },
+  {
+    "id": 1471141005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147114,
+    "value": "Pematangkapau",
+    "postal_code": "28289"
+  },
+  {
+    "id": 1471141003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147114,
+    "value": "Sialangrampai",
+    "postal_code": "28286"
+  }
+]

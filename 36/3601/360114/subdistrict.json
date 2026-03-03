@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3601142006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Ciandur",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142012,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Girijaya",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Kadudampit",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Langensari",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Majau",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Medalsari",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Mekarwangi",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Parigi",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142011,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Saketi",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142013,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Sindanghayu",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Sodong",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142014,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Sukalangu",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Talagasari",
+    "postal_code": "42278"
+  },
+  {
+    "id": 3601142008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360114,
+    "value": "Wanagiri",
+    "postal_code": "42278"
+  }
+]

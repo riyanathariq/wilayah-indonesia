@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318282006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Butang",
+    "postal_code": "91873"
+  },
+  {
+    "id": 7318282002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Dewata",
+    "postal_code": "91873"
+  },
+  {
+    "id": 7318281004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Kondodewata (Kondo Dewata)",
+    "postal_code": "91873"
+  },
+  {
+    "id": 7318282003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Miallo",
+    "postal_code": "91873"
+  },
+  {
+    "id": 7318282005,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Sengpeparikan",
+    "postal_code": "91873"
+  },
+  {
+    "id": 7318282001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731828,
+    "value": "Tanete",
+    "postal_code": "91873"
+  }
+]

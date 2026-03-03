@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3216132013,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Bantarjaya",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132012,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Bantarsari",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karangharja (Karang Harja)",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karanghaur",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karangjaya",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karangpatri",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karangreja",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Karangsegar",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132010,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Kertajaya",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216131011,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Kertasari",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Sumbereja (Sumberreja)",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Sumbersari",
+    "postal_code": "17710"
+  },
+  {
+    "id": 3216132003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321613,
+    "value": "Sumberurip",
+    "postal_code": "17710"
+  }
+]

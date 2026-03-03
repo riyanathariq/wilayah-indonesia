@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1208092003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Ambarisan",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Bah Biak",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Bah Butong I",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Bah Butong II",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Bahal Gajah",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Birong Ulu Manriah",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092015,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Bukit Rejo",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Kebun Sayur Bah Butong",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Manik Hataran",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Manik Maraja",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092014,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Manik Rambung",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Mekar Sidamanik",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208091013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Sarimatondang",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Sidamanik",
+    "postal_code": "21171"
+  },
+  {
+    "id": 1208092004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120809,
+    "value": "Tiga Bolon",
+    "postal_code": "21171"
+  }
+]

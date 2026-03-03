@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1208192008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Bah Jambi (Bah Jambi I)",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Bah Joga",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Bahalat Bayu",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Jawa Maraja",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Mariah Jambi",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Mekar Bahalat",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Moho",
+    "postal_code": "21153"
+  },
+  {
+    "id": 1208192005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120819,
+    "value": "Tanjung Maraja",
+    "postal_code": "21153"
+  }
+]

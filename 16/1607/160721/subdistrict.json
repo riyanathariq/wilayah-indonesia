@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1607212011,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Bumi Rejo",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212008,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Karang Manunggal",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212012,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Kelapa Dua",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212006,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Mekar Sari",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Penuguan",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212009,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Purwodadi",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212010,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Ringin Harjo",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212007,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Songo Makmur",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Sumber Agung",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Sumber Mukti",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Sumber Rejo",
+    "postal_code": "30959"
+  },
+  {
+    "id": 1607212005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160721,
+    "value": "Wonodadi",
+    "postal_code": "30959"
+  }
+]

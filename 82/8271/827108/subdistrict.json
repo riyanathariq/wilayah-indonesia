@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8271081006,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Bula",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081007,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Kulaba",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081002,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Loto",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081004,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Sulamadaha",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081003,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Takome",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081005,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Tobololo",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271081001,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827108,
+    "value": "Togafo",
+    "postal_code": "97747"
+  }
+]

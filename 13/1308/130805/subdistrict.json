@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1308052005,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Aia Manggih",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052011,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Aia Manggih Barat",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052010,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Aia Manggih Selatan",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052009,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Aia Manggih Utara",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Durian Tinggi",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Jambak",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052004,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Pauah",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052006,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Sundata",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052013,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Sundata Selatan",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052012,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Sundata Utara",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Tanjuang Baringin",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052008,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Tanjuang Baringin Selatan",
+    "postal_code": "26318"
+  },
+  {
+    "id": 1308052007,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130805,
+    "value": "Tanjuang Baringin Utara",
+    "postal_code": "26318"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1502112002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Aur Berduri",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Danau",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Mentawak",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Nalo Baru (Baru Nalo)",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Nalo Gedang",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Sungai Ulak",
+    "postal_code": "37317"
+  },
+  {
+    "id": 1502112003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150211,
+    "value": "Telun",
+    "postal_code": "37317"
+  }
+]

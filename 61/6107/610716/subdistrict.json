@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6107162007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Godang Damar",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Janyat",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162008,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Kinande",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Lembah Bawang",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Papan Tembawang",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Papan Uduk",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Saka Taru",
+    "postal_code": "79281"
+  },
+  {
+    "id": 6107162004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610716,
+    "value": "Tempapan",
+    "postal_code": "79281"
+  }
+]

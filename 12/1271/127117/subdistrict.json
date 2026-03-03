@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271171002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Babura",
+    "postal_code": "20154"
+  },
+  {
+    "id": 1271171004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Darat",
+    "postal_code": "20153"
+  },
+  {
+    "id": 1271171003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Merdeka",
+    "postal_code": "20154"
+  },
+  {
+    "id": 1271171005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Padang Bulan",
+    "postal_code": "20155"
+  },
+  {
+    "id": 1271171001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Petisah Hulu",
+    "postal_code": "20153"
+  },
+  {
+    "id": 1271171006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127117,
+    "value": "Titi Rantai/Rante",
+    "postal_code": "20156"
+  }
+]

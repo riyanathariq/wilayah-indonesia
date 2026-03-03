@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7271061006,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Boyaoge",
+    "postal_code": "94221"
+  },
+  {
+    "id": 7271061005,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Duyu",
+    "postal_code": "94225"
+  },
+  {
+    "id": 7271061001,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Nunu",
+    "postal_code": "94222"
+  },
+  {
+    "id": 7271061002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Palupi",
+    "postal_code": "94238"
+  },
+  {
+    "id": 7271061004,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Pengawu",
+    "postal_code": "94239"
+  },
+  {
+    "id": 7271061003,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727106,
+    "value": "Tawanjuka",
+    "postal_code": "94237"
+  }
+]

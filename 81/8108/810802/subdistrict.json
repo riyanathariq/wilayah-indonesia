@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8108022002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Batu Merah (Batumerah)",
+    "postal_code": "97128"
+  },
+  {
+    "id": 8108022005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Bebar Timur",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108022006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Ilih",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108022007,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Kehli",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108022003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Kuaimelu (Kuay Melu)",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108022004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Kumur",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108022001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810802,
+    "value": "Wulur",
+    "postal_code": "97652"
+  }
+]

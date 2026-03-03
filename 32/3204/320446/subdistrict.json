@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3204462009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Buninagara",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Cibodas",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Cilame",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Gajah Mekar (Gajahmekar)",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Jatisari",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Jelegong",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Kopo",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Kutawaringin",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Padasuka",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Pameuntasan",
+    "postal_code": "40911"
+  },
+  {
+    "id": 3204462007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320446,
+    "value": "Sukamulya",
+    "postal_code": "40911"
+  }
+]

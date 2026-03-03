@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1671111001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "19 Ilir",
+    "postal_code": "30132"
+  },
+  {
+    "id": 1671111002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "22 Ilir",
+    "postal_code": "30131"
+  },
+  {
+    "id": 1671111003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "23 Ilir",
+    "postal_code": "30133"
+  },
+  {
+    "id": 1671111004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "24 Ilir",
+    "postal_code": "30134"
+  },
+  {
+    "id": 1671111005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "26 Ilir",
+    "postal_code": "30136"
+  },
+  {
+    "id": 1671111006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167111,
+    "value": "Talang Semut",
+    "postal_code": "30135"
+  }
+]

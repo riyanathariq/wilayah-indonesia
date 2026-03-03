@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9503292006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Bari",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Kikila",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Lelambo",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Lelambo Dua (II)",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Lulum",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Paleromon (Paleroman)",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Palukae",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Tibul (Timbul)",
+    "postal_code": "99762"
+  },
+  {
+    "id": 9503292005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950329,
+    "value": "Wubri",
+    "postal_code": "99762"
+  }
+]

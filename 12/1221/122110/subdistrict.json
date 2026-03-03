@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1221102006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Banua Tonga",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Batang Bulu Baru",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Batang Bulu Lama",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Gunung Barani",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Gunung Intan",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Pagur Satio",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Panarian",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Sayur Mahincat",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Sidomulio",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Tanjung Baringin (Tanjung Baringin Simarulak)",
+    "postal_code": "22764"
+  },
+  {
+    "id": 1221102005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122110,
+    "value": "Tanjung Purba Baru (Purbatua)",
+    "postal_code": "22764"
+  }
+]

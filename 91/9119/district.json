@@ -1,0 +1,32 @@
+[
+  {
+    "id": 911904,
+    "province_id": 91,
+    "regency_id": 9119,
+    "value": "Kepulauan Aruri"
+  },
+  {
+    "id": 911905,
+    "province_id": 91,
+    "regency_id": 9119,
+    "value": "Supiori Barat"
+  },
+  {
+    "id": 911901,
+    "province_id": 91,
+    "regency_id": 9119,
+    "value": "Supiori Selatan"
+  },
+  {
+    "id": 911903,
+    "province_id": 91,
+    "regency_id": 9119,
+    "value": "Supiori Timur"
+  },
+  {
+    "id": 911902,
+    "province_id": 91,
+    "regency_id": 9119,
+    "value": "Supiori Utara"
+  }
+]

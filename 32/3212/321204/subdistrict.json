@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3212042004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Amis",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Cikedung Lor",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Cikidung Kidul (Cikedung)",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Jambak",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Jatisura",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Loyang",
+    "postal_code": "45262"
+  },
+  {
+    "id": 3212042013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321204,
+    "value": "Mundakjaya",
+    "postal_code": "45262"
+  }
+]

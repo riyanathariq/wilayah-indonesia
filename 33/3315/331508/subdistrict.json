@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3315082014,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Banjarejo",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082011,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Bendoharjo",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Gabus",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082012,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Kalipang",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082013,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Karangrejo",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Keyongan",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Nglinduk",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Pandanharum",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Pelem",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Sulursari",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Suwatu",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082010,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Tahunan",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Tlogotirto",
+    "postal_code": "58183"
+  },
+  {
+    "id": 3315082009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331508,
+    "value": "Tunggulrejo",
+    "postal_code": "58183"
+  }
+]

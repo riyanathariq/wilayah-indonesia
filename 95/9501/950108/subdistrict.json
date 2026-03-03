@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501082017,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Alugi",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Kukurima",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082011,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Pirambor (Pirambot)",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082015,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Tegabaga",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082028,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Wodloma",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082016,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Wollo Timur",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Wolo (Wollo)",
+    "postal_code": "99548"
+  },
+  {
+    "id": 9501082027,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950108,
+    "value": "Wunan",
+    "postal_code": "99548"
+  }
+]

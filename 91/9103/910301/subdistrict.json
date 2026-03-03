@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9103011002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Dobonsolo",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103011003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Hinekombe",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012011,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Hobong",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Ifale (Ilfele)",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012010,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Ifar Besar",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Keheran (Kehiran)",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103011001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Sentani Kota",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Sereh",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012017,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Yahim",
+    "postal_code": "99352"
+  },
+  {
+    "id": 9103012005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910301,
+    "value": "Yobeh",
+    "postal_code": "99352"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1407132004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140713,
+    "value": "Bagan Cempedak",
+    "postal_code": "28984"
+  },
+  {
+    "id": 1407131002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140713,
+    "value": "Rantau Kopar",
+    "postal_code": "28984"
+  },
+  {
+    "id": 1407132001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140713,
+    "value": "Sekapas",
+    "postal_code": "28984"
+  },
+  {
+    "id": 1407131003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140713,
+    "value": "Sungai Rangau (Sei Rangau)",
+    "postal_code": "28984"
+  }
+]

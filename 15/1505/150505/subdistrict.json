@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1505052010,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Baru",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Ibru",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052019,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Muaro Sebapo",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Nagasari (Naga Sari)",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052012,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Nyogan",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052002,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Pelempang",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052016,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Pondok Meja",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Sebapo",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052015,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Suka Damai",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052017,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Suka Maju",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052003,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Sungai Landai",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052001,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Tanjung Pauh Km. 32 (Tanjung Pauh)",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052011,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Tanjung Pauh Km. 39",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505052018,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Tanjung Pauh Talang Pelita (Tanjungpauh)",
+    "postal_code": "36364"
+  },
+  {
+    "id": 1505051009,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150505,
+    "value": "Tempino",
+    "postal_code": "36364"
+  }
+]

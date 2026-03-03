@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1507062008,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Catur Rahayu",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507062009,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Jati Mulyo",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507062004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Kota Kandis Dendang (Kuta / Koto Kandis Dendang)",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507062005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Koto Kandis",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507062003,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Kuala Dendang",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507061006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Rantau Indah",
+    "postal_code": "36763"
+  },
+  {
+    "id": 1507062007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150706,
+    "value": "Sido Mukti",
+    "postal_code": "36763"
+  }
+]

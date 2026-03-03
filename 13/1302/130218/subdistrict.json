@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1302182002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130218,
+    "value": "Batu Bajanjang (Batu Banjajang)",
+    "postal_code": "27374"
+  },
+  {
+    "id": 1302182003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130218,
+    "value": "Garabak Data",
+    "postal_code": "27374"
+  },
+  {
+    "id": 1302182001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130218,
+    "value": "Rangkiang Luluih",
+    "postal_code": "27374"
+  },
+  {
+    "id": 1302182005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130218,
+    "value": "Simanau",
+    "postal_code": "27374"
+  },
+  {
+    "id": 1302182004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130218,
+    "value": "Tanjung Balik Sumiso",
+    "postal_code": "27374"
+  }
+]

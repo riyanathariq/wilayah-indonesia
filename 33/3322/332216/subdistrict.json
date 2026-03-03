@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3322162001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Bancak",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Bantal",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Boto",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Jlumpang",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Lembu",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Plumutan",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Pucung",
+    "postal_code": "50182"
+  },
+  {
+    "id": 3322162005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Rejosari",
+    "postal_code": "50125"
+  },
+  {
+    "id": 3322162002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332216,
+    "value": "Wonokerto",
+    "postal_code": "50182"
+  }
+]

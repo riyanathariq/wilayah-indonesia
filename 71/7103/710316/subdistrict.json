@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7103162008,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Kawaluso",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Kendahe I (Kendahe Satu)",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Kendahe II (Kendahe Dua)",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Lipang (Lipaeng)",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Mohong Sawang (Mohongsawang)",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Pempalaraeng",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Talawid",
+    "postal_code": "95852"
+  },
+  {
+    "id": 7103162004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710316,
+    "value": "Tariang Lama (Tarianglama)",
+    "postal_code": "95852"
+  }
+]

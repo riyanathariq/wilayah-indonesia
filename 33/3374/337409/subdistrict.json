@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3374091002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Bendan Dhuwur (Bendan Duwur)",
+    "postal_code": "50235"
+  },
+  {
+    "id": 3374091003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Bendan Ngisor",
+    "postal_code": "50233"
+  },
+  {
+    "id": 3374091008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Bendungan",
+    "postal_code": "50231"
+  },
+  {
+    "id": 3374091005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Gajahmungkur (Gajah Mungkur)",
+    "postal_code": "50232"
+  },
+  {
+    "id": 3374091001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Karangrejo (Karang Rejo)",
+    "postal_code": "50235"
+  },
+  {
+    "id": 3374091006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Lempongsari",
+    "postal_code": "50231"
+  },
+  {
+    "id": 3374091007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Petompon",
+    "postal_code": "50237"
+  },
+  {
+    "id": 3374091004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337409,
+    "value": "Sampangan",
+    "postal_code": "50232"
+  }
+]

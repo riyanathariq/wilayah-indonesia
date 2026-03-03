@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5101032003,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Asahduren",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032006,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Gumbrih",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032007,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Manggissari",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032001,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Medewi",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032005,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Pangyangan",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032004,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Pekutatan",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032008,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Pengeragoan (Pengragoan)",
+    "postal_code": "82262"
+  },
+  {
+    "id": 5101032002,
+    "province_id": 51,
+    "regency_id": 5101,
+    "district_id": 510103,
+    "value": "Pulukan",
+    "postal_code": "82262"
+  }
+]

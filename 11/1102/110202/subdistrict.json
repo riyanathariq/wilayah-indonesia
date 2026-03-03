@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1102022001,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Bukit Merdeka",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022023,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Bukit Sepakat",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022002,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Darul Aman",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022021,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Enmiya Batu Dua Ratus (Enmya Batu Dua Ratus)",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022012,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Gabungan Parsaroan (Gabungan Parsaoran)",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022026,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Gaya Jaya",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022027,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Gelah Musara",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022030,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Karya Indah",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022031,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Kayu Mbelin",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022011,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Kedataran Gabungan",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022034,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Kertimbang",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022009,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Kute/Kuta Tengah",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022003,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Kesumpat",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022014,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Loning Aman",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022013,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Loning Gabungan",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022029,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Loning Hakhapen",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022025,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Loning I",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022024,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Loning Sepakat",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022033,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Pekhidinen",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022019,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Rakat",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022018,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Serke",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022007,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Sigala Barat",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022032,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Sigala Barat Jaya",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022005,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Sigala II",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022006,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Sigala Timur",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022004,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Tua Gabungan",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022016,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Tua Makmur",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022017,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Lawe Tua Persatuan",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022028,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Mulie Dame (Mulie Damai)",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022035,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Ndauh Nitenggo",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022022,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Sebungke",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022008,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Suka Damai",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022020,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Suka Jaya",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022015,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Suka Maju",
+    "postal_code": "24676"
+  },
+  {
+    "id": 1102022010,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110202,
+    "value": "Tanah Baru",
+    "postal_code": "24676"
+  }
+]

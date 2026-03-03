@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3674061007,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Bambuapus (Bambu Apus)",
+    "postal_code": "15415"
+  },
+  {
+    "id": 3674061002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Benda Baru",
+    "postal_code": "15418"
+  },
+  {
+    "id": 3674061006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Kedaung",
+    "postal_code": "15415"
+  },
+  {
+    "id": 3674061001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Pamulang Barat",
+    "postal_code": "15417"
+  },
+  {
+    "id": 3674061008,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Pamulang Timur",
+    "postal_code": "15417"
+  },
+  {
+    "id": 3674061003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Pondok Benda",
+    "postal_code": "15416"
+  },
+  {
+    "id": 3674061005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Pondok Cabe Ilir",
+    "postal_code": "15418"
+  },
+  {
+    "id": 3674061004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367406,
+    "value": "Pondok Cabe Udik",
+    "postal_code": "15418"
+  }
+]

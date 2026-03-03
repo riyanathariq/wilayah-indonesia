@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7305031003,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Bontokadatto",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305031005,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Bulukunyi",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305032007,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Cakura",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305031004,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Canrego",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305032011,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Kale Lantang",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305032008,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Lantang",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305032006,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Moncongkomba",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305031001,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Pa'bundukang (Pa Bundukang)",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305031002,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Pattene (Patte Ne)",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305031010,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Rajaya",
+    "postal_code": "92252"
+  },
+  {
+    "id": 7305032009,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730503,
+    "value": "Su'rulangi (Surulangi)",
+    "postal_code": "92252"
+  }
+]

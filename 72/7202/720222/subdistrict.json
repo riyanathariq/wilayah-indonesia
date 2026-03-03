@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7202221001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Bonesompe",
+    "postal_code": "94616"
+  },
+  {
+    "id": 7202221002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Kasintuwu",
+    "postal_code": "94611"
+  },
+  {
+    "id": 7202221004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Lawanga",
+    "postal_code": "94615"
+  },
+  {
+    "id": 7202221007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Lawanga Tawongan",
+    "postal_code": "94615"
+  },
+  {
+    "id": 7202221003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Lombogia (Lombugia)",
+    "postal_code": "94612"
+  },
+  {
+    "id": 7202221006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Madale",
+    "postal_code": "94614"
+  },
+  {
+    "id": 7202221005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720222,
+    "value": "Tegalrejo (Tegal Rejo)",
+    "postal_code": "94615"
+  }
+]

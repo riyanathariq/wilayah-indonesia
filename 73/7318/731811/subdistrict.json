@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318112007,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Madandan",
+    "postal_code": "91863"
+  },
+  {
+    "id": 7318111013,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Padangiring",
+    "postal_code": "91863"
+  },
+  {
+    "id": 7318111012,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Rantetayo",
+    "postal_code": "91863"
+  },
+  {
+    "id": 7318111003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Tapparan",
+    "postal_code": "91863"
+  },
+  {
+    "id": 7318112011,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Tapparan Utara (Taparan Utara)",
+    "postal_code": "91863"
+  },
+  {
+    "id": 7318112014,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731811,
+    "value": "Tonglo",
+    "postal_code": "91863"
+  }
+]

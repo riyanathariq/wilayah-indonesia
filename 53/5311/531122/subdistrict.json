@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5311222006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Haray (Harai)",
+    "postal_code": "87170"
+  },
+  {
+    "id": 5311222001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Lahiru (La Hiru)",
+    "postal_code": "87170"
+  },
+  {
+    "id": 5311222005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Lulundilu (Lujundilu)",
+    "postal_code": "87170"
+  },
+  {
+    "id": 5311222002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Patamawai",
+    "postal_code": "87170"
+  },
+  {
+    "id": 5311222004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Praikalala",
+    "postal_code": "87170"
+  },
+  {
+    "id": 5311222003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531122,
+    "value": "Wairara",
+    "postal_code": "87170"
+  }
+]

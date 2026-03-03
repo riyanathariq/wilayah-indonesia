@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6101172008,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Arung Medang",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Arung Parak",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Merabuan",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Merpati",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Pancur",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Semata",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Simpang Empat",
+    "postal_code": "79465"
+  },
+  {
+    "id": 6101172001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610117,
+    "value": "Tangaran",
+    "postal_code": "79465"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5271031005,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cakranegara Barat",
+    "postal_code": "83239"
+  },
+  {
+    "id": 5271031004,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cakranegara Selatan",
+    "postal_code": "83239"
+  },
+  {
+    "id": 5271031010,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cakranegara Selatan Baru",
+    "postal_code": "83239"
+  },
+  {
+    "id": 5271031006,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cakranegara Timur",
+    "postal_code": "83239"
+  },
+  {
+    "id": 5271031007,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cakranegara Utara",
+    "postal_code": "83239"
+  },
+  {
+    "id": 5271031012,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Cilinaya",
+    "postal_code": "83238"
+  },
+  {
+    "id": 5271031014,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Karang Taliwang",
+    "postal_code": "83238"
+  },
+  {
+    "id": 5271031013,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Mayura",
+    "postal_code": "83238"
+  },
+  {
+    "id": 5271031011,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Sapta Marga",
+    "postal_code": "83238"
+  },
+  {
+    "id": 5271031009,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527103,
+    "value": "Sayang Sayang",
+    "postal_code": "83239"
+  }
+]

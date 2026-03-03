@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7303062010,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Daeng",
+    "postal_code": "92452"
+  },
+  {
+    "id": 7303062011,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Lojong",
+    "postal_code": "92452"
+  },
+  {
+    "id": 7303062001,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Marannu",
+    "postal_code": "92452"
+  },
+  {
+    "id": 7303062007,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Rannu",
+    "postal_code": "92452"
+  },
+  {
+    "id": 7303062006,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Tallasa",
+    "postal_code": "92452"
+  },
+  {
+    "id": 7303062002,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730306,
+    "value": "Bonto Tangnga",
+    "postal_code": "92452"
+  }
+]

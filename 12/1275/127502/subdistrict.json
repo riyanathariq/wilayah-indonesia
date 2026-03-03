@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1275021001,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Berngam",
+    "postal_code": "20715"
+  },
+  {
+    "id": 1275021006,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Binjai",
+    "postal_code": "20712"
+  },
+  {
+    "id": 1275021004,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Kartini",
+    "postal_code": "20713"
+  },
+  {
+    "id": 1275021007,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Pekan Binjai",
+    "postal_code": "20711"
+  },
+  {
+    "id": 1275021002,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Satria",
+    "postal_code": "20714"
+  },
+  {
+    "id": 1275021003,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Setia",
+    "postal_code": "20713"
+  },
+  {
+    "id": 1275021005,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127502,
+    "value": "Tangsi",
+    "postal_code": "20714"
+  }
+]

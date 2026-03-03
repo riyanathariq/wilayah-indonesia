@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7173021011,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Kamasi",
+    "postal_code": "95442"
+  },
+  {
+    "id": 7173021018,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Kamasi Satu",
+    "postal_code": "95441"
+  },
+  {
+    "id": 7173021012,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Kolongan",
+    "postal_code": "95442"
+  },
+  {
+    "id": 7173021019,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Kolongan Satu",
+    "postal_code": "95441"
+  },
+  {
+    "id": 7173021016,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Matani Dua",
+    "postal_code": "95444"
+  },
+  {
+    "id": 7173021015,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Matani Satu",
+    "postal_code": "95445"
+  },
+  {
+    "id": 7173021017,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Matani Tiga",
+    "postal_code": "95443"
+  },
+  {
+    "id": 7173021010,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Talete Dua",
+    "postal_code": "95441"
+  },
+  {
+    "id": 7173021009,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717302,
+    "value": "Talete Satu",
+    "postal_code": "95441"
+  }
+]

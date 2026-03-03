@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5307112004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Bola",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112018,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Bura Bekor",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Hokor",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Ipir",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Umauta",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112019,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Watukrus",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Wolokoli",
+    "postal_code": "86171"
+  },
+  {
+    "id": 5307112002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530711,
+    "value": "Wolonwalu",
+    "postal_code": "86171"
+  }
+]

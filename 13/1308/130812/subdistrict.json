@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1308122002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Cubadak",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122007,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Cubadak Barat",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122006,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Cubadak Tengah",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122005,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Cubadak Timur",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Simpang Tonang",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Simpang Tonang Selatan",
+    "postal_code": "26311"
+  },
+  {
+    "id": 1308122004,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130812,
+    "value": "Simpang Tonang Utara",
+    "postal_code": "26311"
+  }
+]

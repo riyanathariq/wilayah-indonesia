@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9501342004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Ayoma",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Dlinggama",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Dlonggoki",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Irilinga / Irilingga (Irilingan)",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Onggaba (Onggabaga/Onggobaga)",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Tirunggu",
+    "postal_code": "99542"
+  },
+  {
+    "id": 9501342003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950134,
+    "value": "Walakma",
+    "postal_code": "99542"
+  }
+]

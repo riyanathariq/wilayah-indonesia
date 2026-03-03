@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3201172013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Ciasihan",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172015,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Ciasmara",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Cibening",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Cibitung Kulon",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Cibitungwetan (Cibitung Wetan)",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Cibunian",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Cimayang",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Gunung Picung",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Gunungbunder I (Gunung Bunder 1)",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Gunungbunder II (Gunung Bunder 2)",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Gunungmenyan (Gunung Menyan)",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172014,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Pamijahan",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Pasarean",
+    "postal_code": "16812"
+  },
+  {
+    "id": 3201172001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320117,
+    "value": "Purwabakti",
+    "postal_code": "16812"
+  }
+]

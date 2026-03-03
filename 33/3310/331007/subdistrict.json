@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3310072002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Basin",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Gondang",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Karangduren",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Malangjiwan",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Menden",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Ngrundul",
+    "postal_code": "57486"
+  },
+  {
+    "id": 3310072003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331007,
+    "value": "Pluneng",
+    "postal_code": "57486"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9171021002,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Ardipura",
+    "postal_code": "99223"
+  },
+  {
+    "id": 9171021001,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Argapura",
+    "postal_code": "99222"
+  },
+  {
+    "id": 9171021005,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Entrop",
+    "postal_code": "99224"
+  },
+  {
+    "id": 9171021006,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Hamadi",
+    "postal_code": "99220"
+  },
+  {
+    "id": 9171021003,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Numbai (Numbay)",
+    "postal_code": "99227"
+  },
+  {
+    "id": 9171022007,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Tahima Sorama",
+    "postal_code": "99221"
+  },
+  {
+    "id": 9171022008,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917102,
+    "value": "Tobati",
+    "postal_code": "99228"
+  }
+]

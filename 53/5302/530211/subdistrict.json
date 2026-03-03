@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5302112005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Basmuti",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kakan",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kelle",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kelle Tunan",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kuanfatu",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kusi",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Kusi Utara",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Lasi",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Noebeba",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Oebo",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112014,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Oehan",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Olais",
+    "postal_code": "85564"
+  },
+  {
+    "id": 5302112009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530211,
+    "value": "Taupi",
+    "postal_code": "85564"
+  }
+]

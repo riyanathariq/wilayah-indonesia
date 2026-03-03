@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7402021004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Ambekairi",
+    "postal_code": "93413"
+  },
+  {
+    "id": 7402021005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Arombu",
+    "postal_code": "93412"
+  },
+  {
+    "id": 7402021016,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Asambu",
+    "postal_code": "93416"
+  },
+  {
+    "id": 7402021006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Asinua",
+    "postal_code": "93416"
+  },
+  {
+    "id": 7402021015,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Inolobunggadue",
+    "postal_code": "93416"
+  },
+  {
+    "id": 7402021003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Latoma",
+    "postal_code": "93414"
+  },
+  {
+    "id": 7402021001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Puunaaha",
+    "postal_code": "93411"
+  },
+  {
+    "id": 7402021017,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Tobeu",
+    "postal_code": "93416"
+  },
+  {
+    "id": 7402021002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Tumpas",
+    "postal_code": "93411"
+  },
+  {
+    "id": 7402021012,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Tuoy",
+    "postal_code": "93415"
+  },
+  {
+    "id": 7402021013,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Unaaha",
+    "postal_code": "93418"
+  },
+  {
+    "id": 7402021011,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740202,
+    "value": "Wawonggole",
+    "postal_code": "93416"
+  }
+]

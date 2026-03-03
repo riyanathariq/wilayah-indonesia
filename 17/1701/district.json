@@ -1,0 +1,68 @@
+[
+  {
+    "id": 170108,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Air Nipis"
+  },
+  {
+    "id": 170110,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Bunga Mas"
+  },
+  {
+    "id": 170101,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Kedurang"
+  },
+  {
+    "id": 170107,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Kedurang Ilir"
+  },
+  {
+    "id": 170105,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Kota Manna"
+  },
+  {
+    "id": 170104,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Manna"
+  },
+  {
+    "id": 170111,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Pasar Manna"
+  },
+  {
+    "id": 170103,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Pino"
+  },
+  {
+    "id": 170106,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Pino Raya (Pinoraya)"
+  },
+  {
+    "id": 170102,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Seginim"
+  },
+  {
+    "id": 170109,
+    "province_id": 17,
+    "regency_id": 1701,
+    "value": "Ulu Manna"
+  }
+]

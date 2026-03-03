@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1807172005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Itik Renday (Rendai)",
+    "postal_code": "34377"
+  },
+  {
+    "id": 1807172004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Sido Makmur (Sidomakmur)",
+    "postal_code": "34377"
+  },
+  {
+    "id": 1807172006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Sumber Hadi (Sumberhadi)",
+    "postal_code": "34377"
+  },
+  {
+    "id": 1807172002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Tanjung Aji",
+    "postal_code": "34377"
+  },
+  {
+    "id": 1807172003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Tebing",
+    "postal_code": "34377"
+  },
+  {
+    "id": 1807172001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180717,
+    "value": "Wana",
+    "postal_code": "34377"
+  }
+]

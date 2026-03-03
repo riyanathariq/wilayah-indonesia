@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3603171006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Binong",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603172010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Cukanggalih (Cukang Galih)",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603171001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Curug Kulon",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603172002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Curug Wetan",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603172003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Kadu",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603172004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Kadu Jaya",
+    "postal_code": "15810"
+  },
+  {
+    "id": 3603171005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360317,
+    "value": "Sukabakti (Suka Bakti)",
+    "postal_code": "15810"
+  }
+]

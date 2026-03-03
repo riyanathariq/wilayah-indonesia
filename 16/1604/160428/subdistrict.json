@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1604282007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Bandu Agung",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Lawang Agung Baru",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Lawang Agung Lama",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Muara Gelumpai",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Muara Jauh",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Muara Payang",
+    "postal_code": "31590"
+  },
+  {
+    "id": 1604282003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160428,
+    "value": "Talang Tinggi",
+    "postal_code": "31590"
+  }
+]

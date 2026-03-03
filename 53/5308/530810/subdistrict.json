@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5308102003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Aewora",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102018,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Detuwulu (Detuwala)",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102009,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Keliwumbu",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Maurole",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Mausambi",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102021,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Ngalukoja",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102022,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Niranusa",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102019,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Otogedu",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Ranakolo",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102008,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Ranakolo Selatan (Ranokolo Selatan)",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102023,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Uludala",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Watukamba",
+    "postal_code": "86381"
+  },
+  {
+    "id": 5308102020,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530810,
+    "value": "Woloau",
+    "postal_code": "86381"
+  }
+]

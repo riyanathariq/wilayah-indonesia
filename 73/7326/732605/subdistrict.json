@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7326052004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Issong Kalua'",
+    "postal_code": "91841"
+  },
+  {
+    "id": 7326052003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Misa'ba'bana (Misa Ba'Bana)",
+    "postal_code": "91841"
+  },
+  {
+    "id": 7326052002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Rindingkila'",
+    "postal_code": "91841"
+  },
+  {
+    "id": 7326052001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Sapan Kua Kua",
+    "postal_code": "91841"
+  },
+  {
+    "id": 7326051006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Tongkonan Bassae (Tongkonan Basse)",
+    "postal_code": "91841"
+  },
+  {
+    "id": 7326051005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732605,
+    "value": "Tullang' Sura (Tallang Sura')",
+    "postal_code": "91841"
+  }
+]

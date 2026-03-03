@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1303032005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Langki",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Pulasan",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032006,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Sibakur",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032009,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Sinyamu",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Tanjung Gadang",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032007,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Tanjung Lolo",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Taratak Baru",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032008,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Taratak Baru Utara",
+    "postal_code": "27571"
+  },
+  {
+    "id": 1303032001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130303,
+    "value": "Timbulun",
+    "postal_code": "27571"
+  }
+]

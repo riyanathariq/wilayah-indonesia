@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3324042007,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Curugsewu",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042008,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Gedong",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042010,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Kalibareng",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042012,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Kalices",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042011,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Kalilumpang",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Mlatiharjo",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042005,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Pagersari",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042001,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Pakisan",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042002,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Plososari",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042006,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Selo",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042014,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Sidodadi",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042013,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Sidokumpul",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042009,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Sukomangli",
+    "postal_code": "51364"
+  },
+  {
+    "id": 3324042004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332404,
+    "value": "Wirosari",
+    "postal_code": "51364"
+  }
+]

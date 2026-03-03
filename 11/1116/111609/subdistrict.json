@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1116092003,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Alur Nunang",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092006,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Besar",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092005,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Matang Seping (Matang Seuping)",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092007,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Paya Rahat",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092010,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Suka Damai",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092008,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Suka Jadi (Sukajadi)",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092009,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Suka Mulia Upah (Suka Mulia / Mulya / Upah Hulu)",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092004,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Tanjung Keramat",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092002,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Telaga Meuku Dua",
+    "postal_code": "24472"
+  },
+  {
+    "id": 1116092001,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111609,
+    "value": "Telaga Meuku Sa (Telaga Meuku Satu / Muku I)",
+    "postal_code": "24472"
+  }
+]

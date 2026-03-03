@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9301032007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Alaku",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Alatep",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Duf Miraf (Dufmiraf)",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Es Wambi",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Iwol",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Makaling",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Okaba",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Sanggase",
+    "postal_code": "99638"
+  },
+  {
+    "id": 9301032002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930103,
+    "value": "Wambi",
+    "postal_code": "99638"
+  }
+]

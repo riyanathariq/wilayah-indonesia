@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3308032001,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Bligo",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032008,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Blongkeng",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032006,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Jamuskauman",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032005,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Karangtalun",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032004,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Ngluwar",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032002,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Pakunden",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032007,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Plosogede",
+    "postal_code": "56485"
+  },
+  {
+    "id": 3308032003,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330803,
+    "value": "Somokaton",
+    "postal_code": "56485"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3507082003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Bambang",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Blayu",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Bringin",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Codo",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Dadapan",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Kidangbang",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082013,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Ngembal",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Patokpicis",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082011,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Sukoanyar",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Sukolilo",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Sumberputih",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082012,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Wajak",
+    "postal_code": "65173"
+  },
+  {
+    "id": 3507082002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350708,
+    "value": "Wonoayu",
+    "postal_code": "65173"
+  }
+]

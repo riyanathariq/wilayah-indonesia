@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7402212009,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Diolo",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Lalonggalaku (Lalonggaluku)",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212031,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Langgaluku Timur (Lalonggaluku Timur)",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402211003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Laosu",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212029,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Laosu Jaya",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Pebunooha",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212018,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Pebunooha Dalam",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212028,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Rambu Kongga",
+    "postal_code": "93457"
+  },
+  {
+    "id": 7402212023,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740221,
+    "value": "Rumbia",
+    "postal_code": "93457"
+  }
+]

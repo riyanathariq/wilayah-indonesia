@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9301092011,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Baidub",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Belbeland",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Kafyamke",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092010,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Kandrakay (Kandrakai)",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Kindiki",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Kir Ely (Kireli)",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Kumaaf",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Mandekman",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Nggayu",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Rawahayu",
+    "postal_code": "99635"
+  },
+  {
+    "id": 9301092001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930109,
+    "value": "Selil",
+    "postal_code": "99635"
+  }
+]

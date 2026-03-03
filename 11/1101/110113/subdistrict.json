@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1101132002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Alur Keujrun",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Jambo Papan",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Kampung Padang",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Kampung Sawah",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Koto (Koto Menggamat)",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Koto Indarung",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Lawe Melang",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Malaka",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132011,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Mersak",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Pulo Air",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132012,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Simpang Dua",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132013,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Simpang Tiga",
+    "postal_code": "23770"
+  },
+  {
+    "id": 1101132006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110113,
+    "value": "Siurai-Urai",
+    "postal_code": "23770"
+  }
+]

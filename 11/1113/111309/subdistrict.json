@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1113092003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Akul",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092010,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Blang Jerango",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Gegarang",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Ketukah",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Penosan",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Penosan Sepakat",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092009,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Peparik Dekat",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Peparik Gaib",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Sekuelen",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113092007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111309,
+    "value": "Tingkem",
+    "postal_code": "24655"
+  }
+]

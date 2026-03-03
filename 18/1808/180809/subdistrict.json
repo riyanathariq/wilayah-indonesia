@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1808092004,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Air Ringkih",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092008,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Beringin Jaya",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092005,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Gunung Sari",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092009,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Karya Maju",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092001,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Lebak Peniangan",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092003,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Madang Jaya",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092010,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Mulya Jaya",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092006,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Simpang Tiga",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092007,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Tanjung Raya",
+    "postal_code": "34771"
+  },
+  {
+    "id": 1808092002,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180809,
+    "value": "Tanjung Tiga",
+    "postal_code": "34771"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7104092004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Akas",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Akas Balane",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Birang",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Damau",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Damau Bowone (Damau Bawone)",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Ighik",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Peret",
+    "postal_code": "95872"
+  },
+  {
+    "id": 7104092007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710409,
+    "value": "Taduwale",
+    "postal_code": "95872"
+  }
+]

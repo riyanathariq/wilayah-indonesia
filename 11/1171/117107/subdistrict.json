@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1171072003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Geuceu Iniem",
+    "postal_code": "23239"
+  },
+  {
+    "id": 1171072004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Geuceu Kayee Jato",
+    "postal_code": "23239"
+  },
+  {
+    "id": 1171072001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Geuceu Komplek",
+    "postal_code": "23239"
+  },
+  {
+    "id": 1171072005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Lam Ara",
+    "postal_code": "23238"
+  },
+  {
+    "id": 1171072002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Lamlagang (Lam Lagang)",
+    "postal_code": "23239"
+  },
+  {
+    "id": 1171072010,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Lampeout (Lampuot)",
+    "postal_code": "23238"
+  },
+  {
+    "id": 1171072009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Lhong Cut",
+    "postal_code": "23238"
+  },
+  {
+    "id": 1171072006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Lhong Raya",
+    "postal_code": "23238"
+  },
+  {
+    "id": 1171072007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Mibo",
+    "postal_code": "23238"
+  },
+  {
+    "id": 1171072008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117107,
+    "value": "Peunyerat (Peunyeurat)",
+    "postal_code": "23238"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7172031008,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Apela Dua (II)",
+    "postal_code": "95537"
+  },
+  {
+    "id": 7172031009,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Apela Satu (I)",
+    "postal_code": "95537"
+  },
+  {
+    "id": 7172031011,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Batuputih Atas (Batu Putih Atas)",
+    "postal_code": "95535"
+  },
+  {
+    "id": 7172031012,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Batuputih Bawah (Batu Putih Bawah)",
+    "postal_code": "95535"
+  },
+  {
+    "id": 7172031006,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Danowudu",
+    "postal_code": "95533"
+  },
+  {
+    "id": 7172031007,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Dua Sudara (Duasadara)",
+    "postal_code": "95531"
+  },
+  {
+    "id": 7172031001,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Karondoran",
+    "postal_code": "95536"
+  },
+  {
+    "id": 7172031002,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Kumersot (Kumeresot)",
+    "postal_code": "95538"
+  },
+  {
+    "id": 7172031010,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Pinasungkulan",
+    "postal_code": "95535"
+  },
+  {
+    "id": 7172031004,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Pinokalan",
+    "postal_code": "95531"
+  },
+  {
+    "id": 7172031005,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717203,
+    "value": "Tewaan",
+    "postal_code": "95532"
+  }
+]

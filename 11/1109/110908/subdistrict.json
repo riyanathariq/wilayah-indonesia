@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1109082008,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lafakha",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082002,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lamerem",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082005,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Langi",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082001,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lewak",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082007,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lhok Dalam",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082003,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lhok Pauh (Lhok Paoh)",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082006,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Lubuk Baik",
+    "postal_code": "23893"
+  },
+  {
+    "id": 1109082004,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110908,
+    "value": "Serafon",
+    "postal_code": "23893"
+  }
+]

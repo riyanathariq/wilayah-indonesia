@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5307162001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Koting A",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Koting B",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Koting C",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Koting D",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Paubekor",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Ribang",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307162007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530716,
+    "value": "Watu Repa",
+    "postal_code": "86116"
+  }
+]

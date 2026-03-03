@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9401032002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940103,
+    "value": "Akudiomi (Akuidiomi)",
+    "postal_code": "98852"
+  },
+  {
+    "id": 9401032004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940103,
+    "value": "Sima",
+    "postal_code": "98852"
+  },
+  {
+    "id": 9401032008,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940103,
+    "value": "Wami (Wamijaya)",
+    "postal_code": "98852"
+  },
+  {
+    "id": 9401032001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940103,
+    "value": "Yaur",
+    "postal_code": "98852"
+  }
+]

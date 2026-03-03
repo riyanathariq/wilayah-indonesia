@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1802232006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Kota Gajah",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Kota Gajah Timur",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Nambah Rejo",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Purworejo",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Sapto Mulyo",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Sritejo Kencono (Sri Tejo Kencono)",
+    "postal_code": "34153"
+  },
+  {
+    "id": 1802232004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180223,
+    "value": "Sumber Rejo",
+    "postal_code": "34153"
+  }
+]

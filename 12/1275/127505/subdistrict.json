@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1275051003,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Bhakti Karya",
+    "postal_code": "20728"
+  },
+  {
+    "id": 1275051002,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Binjai Estate",
+    "postal_code": "20724"
+  },
+  {
+    "id": 1275051005,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Pujidadi",
+    "postal_code": "20727"
+  },
+  {
+    "id": 1275051007,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Rambung Barat",
+    "postal_code": "20723"
+  },
+  {
+    "id": 1275051004,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Rambung Dalam",
+    "postal_code": "20722"
+  },
+  {
+    "id": 1275051008,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Rambung Timur",
+    "postal_code": "20721"
+  },
+  {
+    "id": 1275051001,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Tanah Merah",
+    "postal_code": "20725"
+  },
+  {
+    "id": 1275051006,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127505,
+    "value": "Tanah Seribu",
+    "postal_code": "20726"
+  }
+]

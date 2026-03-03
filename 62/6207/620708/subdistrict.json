@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6207082001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Asam Baru",
+    "postal_code": "74271"
+  },
+  {
+    "id": 6207082005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Panimba Raya",
+    "postal_code": "74271"
+  },
+  {
+    "id": 6207082006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Rungau Raya (Rangau Raya)",
+    "postal_code": "74271"
+  },
+  {
+    "id": 6207082002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Tanjung Hara",
+    "postal_code": "74271"
+  },
+  {
+    "id": 6207082003,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Tanjung Paring",
+    "postal_code": "74271"
+  },
+  {
+    "id": 6207082004,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620708,
+    "value": "Tanjung Rangas II",
+    "postal_code": "74271"
+  }
+]

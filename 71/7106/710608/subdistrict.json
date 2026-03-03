@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7106082010,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kalawat",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082006,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kaleosan",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082003,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kawangkoan",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082009,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kawangkoan Baru",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082004,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kolongan",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082008,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kolongan Tetempangan",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082002,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Kuwil",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082005,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Maumbi",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082001,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Suwaan",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082007,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Watutumou (Watutumou I)",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082011,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Watutumou Dua (Watutumou II)",
+    "postal_code": "95378"
+  },
+  {
+    "id": 7106082012,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710608,
+    "value": "Watutumou Tiga (Watutumou III)",
+    "postal_code": "95378"
+  }
+]

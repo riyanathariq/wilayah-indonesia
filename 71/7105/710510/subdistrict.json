@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7105101010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Bitung",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105101004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Buyungon",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105102018,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Kilometer 3 (Kilometer Tiga)",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105101008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Lewet",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105102009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Ranoketang Tua",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105101005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Ranoyapo",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105101006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Uwuran I (Uwuran Satu)",
+    "postal_code": "95957"
+  },
+  {
+    "id": 7105101007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710510,
+    "value": "Uwuran II (Uwuran Dua)",
+    "postal_code": "95957"
+  }
+]

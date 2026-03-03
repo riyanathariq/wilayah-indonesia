@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3602072004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Bojongmanik",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Cimayang",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Harjawana",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Kadurahayu",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072012,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Keboncau",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072016,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Mekar Rahayu",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072014,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Mekarmanik",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072010,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Parakanbeusi",
+    "postal_code": "42363"
+  },
+  {
+    "id": 3602072017,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360207,
+    "value": "Pasirbitung",
+    "postal_code": "42363"
+  }
+]

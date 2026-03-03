@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6206012009,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Asem Kumbang",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012008,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Baun Bango",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Galinggang",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Jahanjang",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Karuing",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Parupuk",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Tampelas",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Telaga",
+    "postal_code": "74462"
+  },
+  {
+    "id": 6206012007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620601,
+    "value": "Tumbang Runen",
+    "postal_code": "74462"
+  }
+]

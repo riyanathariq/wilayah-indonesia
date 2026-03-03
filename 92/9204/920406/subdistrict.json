@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9204062009,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Elles",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062008,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Sasnek",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062001,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Sawiat",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062012,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Sfakyo",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062011,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Sodrofoyo",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062014,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Ween",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062015,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Wendi",
+    "postal_code": "98232"
+  },
+  {
+    "id": 9204062013,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920406,
+    "value": "Wensough",
+    "postal_code": "98232"
+  }
+]

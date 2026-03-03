@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3217062006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Bojongkoneng",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Cilame",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Cimanggu",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Cimareme",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Gadobangkong",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Margajaya",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Mekarsari",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Ngamprah",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062011,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Pakuhaji",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Sukatani",
+    "postal_code": "40552"
+  },
+  {
+    "id": 3217062004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321706,
+    "value": "Tanimulya",
+    "postal_code": "40552"
+  }
+]

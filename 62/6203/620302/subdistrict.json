@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6203022006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Bakungin",
+    "postal_code": "73525"
+  },
+  {
+    "id": 6203021004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Barimba",
+    "postal_code": "73524"
+  },
+  {
+    "id": 6203021003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Dahirang",
+    "postal_code": "73523"
+  },
+  {
+    "id": 6203021002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Hampatung",
+    "postal_code": "73522"
+  },
+  {
+    "id": 6203021001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Mambulau",
+    "postal_code": "73521"
+  },
+  {
+    "id": 6203022008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Saka Batur",
+    "postal_code": "73525"
+  },
+  {
+    "id": 6203022007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Sei/Sungai Asam",
+    "postal_code": "73525"
+  },
+  {
+    "id": 6203021005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620302,
+    "value": "Sei/Sungai Pasah",
+    "postal_code": "73525"
+  }
+]

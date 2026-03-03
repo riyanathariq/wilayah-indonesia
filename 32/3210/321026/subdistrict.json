@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3210262007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Banyusari",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Buninagara",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Cimuncang",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Ciranca",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Girimukti",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Jagamulya",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Kramat Jaya (Keramat Jaya)",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Lebakwangi",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Malausma",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Sukadana",
+    "postal_code": "45460"
+  },
+  {
+    "id": 3210262002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321026,
+    "value": "Werasari",
+    "postal_code": "45460"
+  }
+]

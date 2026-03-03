@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6302102004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Mangga",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Pudi",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Pudi Seberang",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Sulangkit",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Sungai Hanyar",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Sungai Seluang",
+    "postal_code": "72165"
+  },
+  {
+    "id": 6302102005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630210,
+    "value": "Wilas",
+    "postal_code": "72165"
+  }
+]

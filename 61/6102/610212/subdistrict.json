@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6102122003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Bukit Batu",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122010,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Mendalok",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Bundung Laut",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122009,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Dungun",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Duri I (Satu)",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Duri II (Dua)",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Kunyit Dalam",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122007,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Kunyit Hulu",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Kunyit Laut",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122008,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Sei/Sungai Limau",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122011,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Semparong Parit Raden",
+    "postal_code": "78371"
+  },
+  {
+    "id": 6102122012,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610212,
+    "value": "Semudun",
+    "postal_code": "78371"
+  }
+]

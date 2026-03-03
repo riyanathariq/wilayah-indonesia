@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1222012006,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Hadundung",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222011001,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Kotapinang (Kota Pinang)",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012003,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Mampang",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012004,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Pasir Tuntung",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012009,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Perkebunan Nagodang",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012008,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Perkebunan Nomark (Perkebunan Normark)",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012002,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Simatahari",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012005,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Sisumut",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012007,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Sosopan",
+    "postal_code": "21464"
+  },
+  {
+    "id": 1222012010,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122201,
+    "value": "Sungai Rumbia (Perkebunan Sei Rumbia)",
+    "postal_code": "21464"
+  }
+]

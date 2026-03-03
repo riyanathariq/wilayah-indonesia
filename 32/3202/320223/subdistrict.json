@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202232006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Balekambang",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Bojong",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Cimahpar",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Kalibunder",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Mekarwangi",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Sekarsari",
+    "postal_code": "43185"
+  },
+  {
+    "id": 3202232005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320223,
+    "value": "Sukaluyu",
+    "postal_code": "43185"
+  }
+]

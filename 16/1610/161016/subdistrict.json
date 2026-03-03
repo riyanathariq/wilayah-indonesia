@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1610162002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Lubuk Bandung",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Paya Besar",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610161012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Payaraman Barat",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610161013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Payaraman Timur",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Rengas I",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Rengas II",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Seri Kembang I",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Seri Kembang II",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Seri Kembang III",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Talang Seleman",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Tanjung Lalang",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Tebedak I",
+    "postal_code": "30664"
+  },
+  {
+    "id": 1610162004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161016,
+    "value": "Tebedak II",
+    "postal_code": "30664"
+  }
+]

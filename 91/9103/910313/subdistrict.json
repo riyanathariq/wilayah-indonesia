@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9103132007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Bambar",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Dondai (Donday)",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Doyo Baru",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Doyo Lama",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Kwadeware (Kanda)",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Sosiri",
+    "postal_code": "99368"
+  },
+  {
+    "id": 9103132004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910313,
+    "value": "Yakonde",
+    "postal_code": "99368"
+  }
+]

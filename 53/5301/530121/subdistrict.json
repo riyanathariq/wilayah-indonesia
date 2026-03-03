@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5301212004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530121,
+    "value": "Bioba Baru (Barutaen)",
+    "postal_code": "85364"
+  },
+  {
+    "id": 5301212002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530121,
+    "value": "Letkole",
+    "postal_code": "85364"
+  },
+  {
+    "id": 5301212001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530121,
+    "value": "Manubelon",
+    "postal_code": "85364"
+  },
+  {
+    "id": 5301212003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530121,
+    "value": "Nefoneut",
+    "postal_code": "85364"
+  }
+]

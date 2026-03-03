@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1671051003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "13 Ilir",
+    "postal_code": "30123"
+  },
+  {
+    "id": 1671051004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "14 Ilir",
+    "postal_code": "30124"
+  },
+  {
+    "id": 1671051005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "15 Ilir",
+    "postal_code": "30124"
+  },
+  {
+    "id": 1671051002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "16 Ilir",
+    "postal_code": "30122"
+  },
+  {
+    "id": 1671051006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "17 Ilir",
+    "postal_code": "30125"
+  },
+  {
+    "id": 1671051001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "18 Ilir",
+    "postal_code": "30121"
+  },
+  {
+    "id": 1671051008,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "20 Ilir D IV (20 Ilir IV)",
+    "postal_code": "30128"
+  },
+  {
+    "id": 1671051009,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "20 Ilir D. I (20 Ilir I)",
+    "postal_code": "30126"
+  },
+  {
+    "id": 1671051007,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "20 Ilir D. III (20 Ilir III)",
+    "postal_code": "30129"
+  },
+  {
+    "id": 1671051011,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "Kepandean Baru",
+    "postal_code": "30125"
+  },
+  {
+    "id": 1671051010,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167105,
+    "value": "Sungai Pangeran (Sei Pangeran)",
+    "postal_code": "30121"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1201142008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Aek Bottar (Aek Bontar)",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201141009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Aek Tolang Induk",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201141002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Bona Lumban",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201141003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Huta Nabolon",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201142006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Sait Kalangan II (Sait Nihuta Kalangan II)",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201142004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Sigiring Giring",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201141007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Sipange",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201142005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Tapian Nauli/ Saurmanggita",
+    "postal_code": "22617"
+  },
+  {
+    "id": 1201141001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120114,
+    "value": "Tukka",
+    "postal_code": "22617"
+  }
+]

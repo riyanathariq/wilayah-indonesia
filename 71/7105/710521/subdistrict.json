@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7105212008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Keroit",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Raanan Baru",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Ranaan Baru Dua (Raanan Baru Dua)",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Ranaan Baru Satu (Raanan Baru Satu)",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Tondei Dua (Tondey Dua)",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Tondei Satu (Tondey Satu)",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Tondey (Tondei)",
+    "postal_code": "95942"
+  },
+  {
+    "id": 7105212007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710521,
+    "value": "Toyopon",
+    "postal_code": "95942"
+  }
+]

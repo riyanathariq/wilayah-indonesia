@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6305112006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Kambang Habang Baru",
+    "postal_code": "71185"
+  },
+  {
+    "id": 6305112003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Kambang Habang Lama",
+    "postal_code": "71185"
+  },
+  {
+    "id": 6305112004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Pantai Cabe",
+    "postal_code": "71185"
+  },
+  {
+    "id": 6305112001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Salam Babaris",
+    "postal_code": "71185"
+  },
+  {
+    "id": 6305112005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Suato Baru",
+    "postal_code": "71185"
+  },
+  {
+    "id": 6305112002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630511,
+    "value": "Suato Lama",
+    "postal_code": "71185"
+  }
+]

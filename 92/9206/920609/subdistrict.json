@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206092003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920609,
+    "value": "Araisum",
+    "postal_code": "98144"
+  },
+  {
+    "id": 9206092004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920609,
+    "value": "Bangun Mulya (Bangun Mulyo / Mulia)",
+    "postal_code": "98144"
+  },
+  {
+    "id": 9206092002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920609,
+    "value": "Mogoi Baru",
+    "postal_code": "98144"
+  },
+  {
+    "id": 9206092001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920609,
+    "value": "Tembuni",
+    "postal_code": "98144"
+  }
+]

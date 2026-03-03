@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7301102002,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Bontobaru",
+    "postal_code": "92861"
+  },
+  {
+    "id": 7301102001,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Bontobulaeng",
+    "postal_code": "92861"
+  },
+  {
+    "id": 7301102005,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Bontojati",
+    "postal_code": "92861"
+  },
+  {
+    "id": 7301102003,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Bontomaling (Bontomalling)",
+    "postal_code": "92861"
+  },
+  {
+    "id": 7301102004,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Lembangbaji (Lembang Baji)",
+    "postal_code": "92861"
+  },
+  {
+    "id": 7301102006,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730110,
+    "value": "Ujung",
+    "postal_code": "92861"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3273261004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327326,
+    "value": "Cigending",
+    "postal_code": "40611"
+  },
+  {
+    "id": 3273261007,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327326,
+    "value": "Pasanggrahan",
+    "postal_code": "40617"
+  },
+  {
+    "id": 3273261003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327326,
+    "value": "Pasir Endah",
+    "postal_code": "40619"
+  },
+  {
+    "id": 3273261006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327326,
+    "value": "Pasirjati",
+    "postal_code": "40616"
+  },
+  {
+    "id": 3273261005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327326,
+    "value": "Pasirwangi",
+    "postal_code": "40618"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1613062014,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Bukit Langkap",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062001,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Bukit Ulu",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062011,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Embacang Baru",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062015,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Embacang Baru Ilir",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062012,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Embacang Lama",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613061009,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Karang Jaya",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062003,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Lubuk Kumbung",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062004,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Muara Batang Empu",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062010,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Muara Tiku",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062013,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Rantau Jaya",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062006,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Rantau Telang",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062007,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Suka Menang",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062002,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Sukaraja",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062005,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Tanjung Agung",
+    "postal_code": "31654"
+  },
+  {
+    "id": 1613062008,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161306,
+    "value": "Terusan",
+    "postal_code": "31654"
+  }
+]

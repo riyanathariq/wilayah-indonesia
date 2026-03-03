@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3302042003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Banjarparakan",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Losari",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Menganti",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Pesawahan",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Rawalo",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Sanggreman",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Sidamulih",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Tambaknegara",
+    "postal_code": "53173"
+  },
+  {
+    "id": 3302042008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330204,
+    "value": "Tipar",
+    "postal_code": "53173"
+  }
+]

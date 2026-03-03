@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501162003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Dokopku",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Hituma (Hetuma)",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Hom-hom",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Hubukiak / Hubikiak",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Husoak",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Likino",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Musiamia",
+    "postal_code": "99551"
+  },
+  {
+    "id": 9501162008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950116,
+    "value": "Musiamia Dua",
+    "postal_code": "99551"
+  }
+]

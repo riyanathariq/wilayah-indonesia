@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3201272010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Basir Buncir (Pasir Buncir)",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Caringin",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Ciderum",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Ciherang Pondok",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Cimande",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Cimande Hilir",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Cinagara",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Lemah Duhur",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Muara Jaya (Muarajaya)",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Pancawati",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Pasir Muncang",
+    "postal_code": "16730"
+  },
+  {
+    "id": 3201272012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320127,
+    "value": "Tangkil",
+    "postal_code": "16730"
+  }
+]

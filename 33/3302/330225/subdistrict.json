@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3302251005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Bantarsoka",
+    "postal_code": "53133"
+  },
+  {
+    "id": 3302251001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Karanglewas Lor",
+    "postal_code": "53136"
+  },
+  {
+    "id": 3302251007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Kedungwuluh",
+    "postal_code": "53131"
+  },
+  {
+    "id": 3302251006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Kober",
+    "postal_code": "53132"
+  },
+  {
+    "id": 3302251002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Pasir Kidul",
+    "postal_code": "53135"
+  },
+  {
+    "id": 3302251004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Pasirmuncang",
+    "postal_code": "53137"
+  },
+  {
+    "id": 3302251003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330225,
+    "value": "Rejasari",
+    "postal_code": "53134"
+  }
+]

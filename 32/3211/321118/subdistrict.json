@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3211182006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Girimukti",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Jatihurip",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Jatimulya",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Kebonjati",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211181001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Kotakaler",
+    "postal_code": "45322"
+  },
+  {
+    "id": 3211182008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Margamukti",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Mekarjaya",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Mulyasari",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Padasuka",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182013,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Rancamulya",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211182009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Sirnamulya",
+    "postal_code": "45321"
+  },
+  {
+    "id": 3211181002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Situ",
+    "postal_code": "45323"
+  },
+  {
+    "id": 3211181003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321118,
+    "value": "Talun",
+    "postal_code": "45321"
+  }
+]

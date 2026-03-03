@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9301152004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Dodalim",
+    "postal_code": "99639"
+  },
+  {
+    "id": 9301152002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Dokib",
+    "postal_code": "99639"
+  },
+  {
+    "id": 9301152003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Wamal",
+    "postal_code": "99639"
+  },
+  {
+    "id": 9301152006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Welbuti",
+    "postal_code": "99639"
+  },
+  {
+    "id": 9301152005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Woboyo",
+    "postal_code": "99639"
+  },
+  {
+    "id": 9301152001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930115,
+    "value": "Yowied",
+    "postal_code": "99639"
+  }
+]

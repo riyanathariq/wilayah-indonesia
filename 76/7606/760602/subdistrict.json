@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7606022008,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Kombiling",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022005,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Kuo",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022007,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Lamba Lamba",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022009,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Lemo-Lemo",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022002,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Pangale",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022006,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Polo Camba",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022004,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Polo Lereng",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022001,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Polo Pangale",
+    "postal_code": "91462"
+  },
+  {
+    "id": 7606022003,
+    "province_id": 76,
+    "regency_id": 7606,
+    "district_id": 760602,
+    "value": "Sartanamaju (Sartana Maju)",
+    "postal_code": "91462"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209082008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Bonem",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Kwade",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Malaworsai",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Mega",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082012,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Namuas",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Selewok",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082009,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Warafor",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082011,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Warmanen",
+    "postal_code": "98361"
+  },
+  {
+    "id": 9209082010,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920908,
+    "value": "Warmasi",
+    "postal_code": "98361"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578081003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Airlangga",
+    "postal_code": "60286"
+  },
+  {
+    "id": 3578081005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Baratajaya",
+    "postal_code": "60284"
+  },
+  {
+    "id": 3578081001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Gubeng",
+    "postal_code": "60281"
+  },
+  {
+    "id": 3578081004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Kertajaya",
+    "postal_code": "60282"
+  },
+  {
+    "id": 3578081002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Mojo",
+    "postal_code": "60285"
+  },
+  {
+    "id": 3578081006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357808,
+    "value": "Pucang Sewu",
+    "postal_code": "60283"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9402262007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Ambo",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Amuringgik",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Atoli",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Kelandu",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Kiyage",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Tenggabanggwi",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Tumbiwolu",
+    "postal_code": "98943"
+  },
+  {
+    "id": 9402262002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940226,
+    "value": "Wanggiba",
+    "postal_code": "98943"
+  }
+]

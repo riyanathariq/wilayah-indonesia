@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7303082006,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Bulaeng",
+    "postal_code": "92450"
+  },
+  {
+    "id": 7303082002,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Karaeng",
+    "postal_code": "92450"
+  },
+  {
+    "id": 7303082003,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Maccini",
+    "postal_code": "92450"
+  },
+  {
+    "id": 7303082005,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Majannang",
+    "postal_code": "92450"
+  },
+  {
+    "id": 7303082004,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Mate'ne",
+    "postal_code": "92450"
+  },
+  {
+    "id": 7303082001,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730308,
+    "value": "Bonto Tiro",
+    "postal_code": "92450"
+  }
+]

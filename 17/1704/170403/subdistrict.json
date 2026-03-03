@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1704032021,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Bandu Agung",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032028,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Coko Enau",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Gunung Agung",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Guru Agung",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032031,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Guru Agung II",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Padang Manis",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032029,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Pancur Negara",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032030,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Perugaian (Perugian)",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704031010,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Simpang Tiga",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Tanjung Betung (Tanjung Betung I)",
+    "postal_code": "38956"
+  },
+  {
+    "id": 1704032027,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170403,
+    "value": "Tanjung Betung II",
+    "postal_code": "38956"
+  }
+]

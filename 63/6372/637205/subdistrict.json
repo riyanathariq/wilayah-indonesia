@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6372051004,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637205,
+    "value": "Guntung Paikat",
+    "postal_code": "70713"
+  },
+  {
+    "id": 6372051003,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637205,
+    "value": "Kemuning",
+    "postal_code": "70714"
+  },
+  {
+    "id": 6372051002,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637205,
+    "value": "Laktabat Selatan (Loktabat Selatan)",
+    "postal_code": "70714"
+  },
+  {
+    "id": 6372051001,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637205,
+    "value": "Sei/Sungai Besar",
+    "postal_code": "70714"
+  }
+]

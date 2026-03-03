@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1222042002,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Batang Nadenggan",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042004,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Hajoran",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042006,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Huta Godang",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222041001,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Langga Payung",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042009,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Marsonja",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042007,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Parimburan",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042003,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Sabungan",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042008,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Sampean",
+    "postal_code": "21465"
+  },
+  {
+    "id": 1222042005,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122204,
+    "value": "Ujung Gading",
+    "postal_code": "21465"
+  }
+]

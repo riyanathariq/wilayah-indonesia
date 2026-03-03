@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204102002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Bobawae",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Malapat",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Mateketen",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Ombawa",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Sebelei",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Talapaon",
+    "postal_code": "97784"
+  },
+  {
+    "id": 8204102004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820410,
+    "value": "Tegono",
+    "postal_code": "97784"
+  }
+]

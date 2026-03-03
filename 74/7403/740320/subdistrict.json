@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7403202003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Bungi",
+    "postal_code": "93625"
+  },
+  {
+    "id": 7403202004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Kontunaga",
+    "postal_code": "93625"
+  },
+  {
+    "id": 7403202002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Lapodidi",
+    "postal_code": "93625"
+  },
+  {
+    "id": 7403202001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Liabalano (Labalano)",
+    "postal_code": "93625"
+  },
+  {
+    "id": 7403202005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Maabhodo (Mabodo)",
+    "postal_code": "93625"
+  },
+  {
+    "id": 7403202006,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740320,
+    "value": "Masalili",
+    "postal_code": "93625"
+  }
+]

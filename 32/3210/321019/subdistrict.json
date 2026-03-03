@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3210192007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Buniwangi",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Cisambeng",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Enggalwangi",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Karamat",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Majasuka",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Palasah",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Pasir",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Sindanghaji",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Sindangwasa",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Tarikolot",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Trajaya",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Waringin",
+    "postal_code": "45475"
+  },
+  {
+    "id": 3210192004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321019,
+    "value": "Weragati",
+    "postal_code": "45475"
+  }
+]

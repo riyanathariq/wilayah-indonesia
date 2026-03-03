@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3518012004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Bareng",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Bendolo",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Duren",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Kebonagung (Kebon Agung)",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Margopatut",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Ngliman",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Sawahan",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Sidorejo",
+    "postal_code": "64475"
+  },
+  {
+    "id": 3518012007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351801,
+    "value": "Siwalan",
+    "postal_code": "64475"
+  }
+]

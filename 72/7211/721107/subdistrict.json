@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7211072001,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Adean",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072002,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Badumpayan",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072005,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Gonggong",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072004,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Mominit",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072006,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Monsongan",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072008,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Pososlalongo (Posos Lalongo)",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072003,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Timbong",
+    "postal_code": "94895"
+  },
+  {
+    "id": 7211072007,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721107,
+    "value": "Tintingo",
+    "postal_code": "94895"
+  }
+]

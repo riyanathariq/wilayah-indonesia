@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7403372005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740337,
+    "value": "Bhontu-Bhontu",
+    "postal_code": "93623"
+  },
+  {
+    "id": 7403372002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740337,
+    "value": "Lakarama",
+    "postal_code": "93623"
+  },
+  {
+    "id": 7403372003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740337,
+    "value": "Moasi",
+    "postal_code": "93623"
+  },
+  {
+    "id": 7403372004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740337,
+    "value": "Renda",
+    "postal_code": "93623"
+  },
+  {
+    "id": 7403372001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740337,
+    "value": "Wangkolabu",
+    "postal_code": "93623"
+  }
+]

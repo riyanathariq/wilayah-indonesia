@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7406192002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740619,
+    "value": "Lebo Ea",
+    "postal_code": "93779"
+  },
+  {
+    "id": 7406192001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740619,
+    "value": "Mulaeno",
+    "postal_code": "93779"
+  },
+  {
+    "id": 7406192003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740619,
+    "value": "Paria",
+    "postal_code": "93779"
+  },
+  {
+    "id": 7406192004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740619,
+    "value": "Poleondro",
+    "postal_code": "93779"
+  }
+]

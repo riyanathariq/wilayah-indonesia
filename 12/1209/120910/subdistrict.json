@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1209102001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Asahan Mati",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Bagan Asahan",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Bagan Asahan Baru",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Bagan Asahan Pekan",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Kapias Batu VIII",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Pematang Sungai/Sei Baru",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Sei/Sungai Apung",
+    "postal_code": "21352"
+  },
+  {
+    "id": 1209102008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120910,
+    "value": "Sei/Sungai Apung Jaya",
+    "postal_code": "21352"
+  }
+]

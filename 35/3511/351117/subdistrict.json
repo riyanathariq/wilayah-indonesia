@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3511172001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Andungsari",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Ardisaeng",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Gadingsari",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Kupang",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Pakem",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Patemon",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Petung",
+    "postal_code": "68253"
+  },
+  {
+    "id": 3511172006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351117,
+    "value": "Sumberdumpyong (Sumber Dumpyong)",
+    "postal_code": "68253"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1113112005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Atu Kapur",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Cane Baru",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Kenyaran",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112009,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Kuning Kurnia",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Remukut",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Seneren",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Suri Musara",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "Tetingi (Tetinggi)",
+    "postal_code": "24654"
+  },
+  {
+    "id": 1113112007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111311,
+    "value": "UPT. Aih Selah (Aih Selah)",
+    "postal_code": "24654"
+  }
+]

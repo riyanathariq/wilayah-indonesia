@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6409032001,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Babulu Darat",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032003,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Babulu Laut",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032004,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Gunung Intan",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032005,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Gunung Makmur",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032011,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Gunung Mulia",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032002,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Labangka",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032012,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Labangka Barat",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032007,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Rawa Mulia",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032010,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Rintik",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032006,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Sebakung Jaya",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032008,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Sri Raharja",
+    "postal_code": "76285"
+  },
+  {
+    "id": 6409032009,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640903,
+    "value": "Sumber Sari",
+    "postal_code": "76285"
+  }
+]

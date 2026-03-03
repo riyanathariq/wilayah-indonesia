@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3375011006,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Bendan Kergon",
+    "postal_code": "51113"
+  },
+  {
+    "id": 3375011002,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Medono",
+    "postal_code": "51111"
+  },
+  {
+    "id": 3375011008,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Pasirkratonkramat",
+    "postal_code": "51117"
+  },
+  {
+    "id": 3375011003,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Podosugih",
+    "postal_code": "51111"
+  },
+  {
+    "id": 3375011012,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Pringrejo",
+    "postal_code": "51116"
+  },
+  {
+    "id": 3375011004,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Sapuro Kebulen",
+    "postal_code": "51112"
+  },
+  {
+    "id": 3375011009,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337501,
+    "value": "Tirto",
+    "postal_code": "51151"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6502052004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650205,
+    "value": "Long Betaoh",
+    "postal_code": "77572"
+  },
+  {
+    "id": 6502052001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650205,
+    "value": "Long Nawang",
+    "postal_code": "77572"
+  },
+  {
+    "id": 6502052005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650205,
+    "value": "Long Payau",
+    "postal_code": "77572"
+  },
+  {
+    "id": 6502052003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650205,
+    "value": "Long Temunyat/Temuyat",
+    "postal_code": "77572"
+  },
+  {
+    "id": 6502052002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650205,
+    "value": "Nawang Baru",
+    "postal_code": "77572"
+  }
+]

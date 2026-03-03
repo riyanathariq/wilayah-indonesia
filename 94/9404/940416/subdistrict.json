@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9404161005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Inauga",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404162001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Kadun Jaya",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404161002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Kamoro Jaya",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404162007,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Mandiri Jaya",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404162006,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Mawokau Jaya",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404162004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Nawaripi",
+    "postal_code": "99963"
+  },
+  {
+    "id": 9404161003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940416,
+    "value": "Wonosari Jaya",
+    "postal_code": "99963"
+  }
+]

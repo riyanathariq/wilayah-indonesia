@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5272021009,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Dodu",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021018,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Kodo",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021004,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Kumbe",
+    "postal_code": "84114"
+  },
+  {
+    "id": 5272021008,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Lampe",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021020,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Lelamase",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021011,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Nungga",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021019,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Oi Fo'o",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272021021,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527202,
+    "value": "Oimbo",
+    "postal_code": "84114"
+  }
+]

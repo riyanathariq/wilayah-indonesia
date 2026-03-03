@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3401032006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Bojong",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Bugel",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032010,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Cerme",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Depok",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Garongan",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032008,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Gotakan",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Kanoman",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032011,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Krembangan",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032009,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Panjatan",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Pleret",
+    "postal_code": "55655"
+  },
+  {
+    "id": 3401032007,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340103,
+    "value": "Tayuban",
+    "postal_code": "55655"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3374161001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Jerakah",
+    "postal_code": "50151"
+  },
+  {
+    "id": 3374161003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Karanganyar",
+    "postal_code": "50152"
+  },
+  {
+    "id": 3374161006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Mangkang Kulon",
+    "postal_code": "50155"
+  },
+  {
+    "id": 3374161005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Mangkang Wetan",
+    "postal_code": "50156"
+  },
+  {
+    "id": 3374161007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Mangunharjo",
+    "postal_code": "50154"
+  },
+  {
+    "id": 3374161004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Randugarut (Randu Garut)",
+    "postal_code": "50181"
+  },
+  {
+    "id": 3374161002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337416,
+    "value": "Tugurejo",
+    "postal_code": "50185"
+  }
+]

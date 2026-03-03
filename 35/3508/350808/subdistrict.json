@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3508082006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Dawuhan Wetan",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Kedungrejo",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Nogosari",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Rowokangkung",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Sidorejo",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Sumberanyar",
+    "postal_code": "67359"
+  },
+  {
+    "id": 3508082005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350808,
+    "value": "Sumbersari",
+    "postal_code": "67359"
+  }
+]

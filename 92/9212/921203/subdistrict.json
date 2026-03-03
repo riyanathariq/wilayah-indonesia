@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9212032002,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Imbeisba",
+    "postal_code": "98354"
+  },
+  {
+    "id": 9212032001,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Inyebuow",
+    "postal_code": "98354"
+  },
+  {
+    "id": 9212032005,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Koney",
+    "postal_code": "98354"
+  },
+  {
+    "id": 9212032006,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Membey",
+    "postal_code": "98354"
+  },
+  {
+    "id": 9212032004,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Memti",
+    "postal_code": "98354"
+  },
+  {
+    "id": 9212032003,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921203,
+    "value": "Usti",
+    "postal_code": "98354"
+  }
+]

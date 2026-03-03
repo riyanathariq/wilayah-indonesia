@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7108052003,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Bigo",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052012,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Bigo Selatan",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052002,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Boroko",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052008,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Boroko Timur",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052011,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Boroko Utara",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052010,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Gihang",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052006,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Inomunga",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052014,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Inomunga Utara",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052007,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Komus Dua (II)",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052015,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Komus Dua Timur",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052004,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Kuala",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052009,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Kuala Utara",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052005,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Pontak",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052013,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Soligir",
+    "postal_code": "95765"
+  },
+  {
+    "id": 7108052001,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710805,
+    "value": "Solo",
+    "postal_code": "95765"
+  }
+]

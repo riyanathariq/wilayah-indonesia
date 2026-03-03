@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3302222007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Karang Tengah (Karangtengah)",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Karangmangu",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Karangsalam Lor",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Kebumen",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Kemutug Kidul",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Kemutug Lor",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Ketenger",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Kutasari",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Pamijen",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Pandak",
+    "postal_code": "53151"
+  },
+  {
+    "id": 3302222001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Purwosari",
+    "postal_code": "53126"
+  },
+  {
+    "id": 3302222005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330222,
+    "value": "Rempoah",
+    "postal_code": "53151"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1312062004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Bahoras",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062001,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Muaro Kiawai (Muaro Kiawi)",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Muaro Kiawai Barat",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Muaro Kiawai Hilir",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062002,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Rabi Jonggor",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062005,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Ranah Sungai Magelang",
+    "postal_code": "26571"
+  },
+  {
+    "id": 1312062003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131206,
+    "value": "Seberang Kenaikan",
+    "postal_code": "26571"
+  }
+]

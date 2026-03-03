@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1471041003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147104,
+    "value": "Pesisir",
+    "postal_code": "28144"
+  },
+  {
+    "id": 1471041001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147104,
+    "value": "Rintis",
+    "postal_code": "28141"
+  },
+  {
+    "id": 1471041004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147104,
+    "value": "Sekip",
+    "postal_code": "28142"
+  },
+  {
+    "id": 1471041002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147104,
+    "value": "Tanjung RHU (Tanjung Rhu)",
+    "postal_code": "28143"
+  }
+]

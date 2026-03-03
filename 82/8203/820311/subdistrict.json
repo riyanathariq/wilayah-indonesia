@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8203112006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Kali Upa",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Kalipitu",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112007,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Lina Ino",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112008,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Mahia (Wosi/Wosia Tengah)",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Pitu",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112009,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Tanjung Niara (Wosi/Wosia Selatan)",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Upa",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "WKO",
+    "postal_code": "97768"
+  },
+  {
+    "id": 8203112003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820311,
+    "value": "Wosi (Wosia)",
+    "postal_code": "97768"
+  }
+]

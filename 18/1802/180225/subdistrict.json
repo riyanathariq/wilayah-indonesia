@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1802252006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Sangga Buana",
+    "postal_code": "34179"
+  },
+  {
+    "id": 1802252002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Sri Bawono",
+    "postal_code": "34179"
+  },
+  {
+    "id": 1802252001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Sri Binangun",
+    "postal_code": "34179"
+  },
+  {
+    "id": 1802252003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Sri Budaya",
+    "postal_code": "34179"
+  },
+  {
+    "id": 1802252005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Sri Busono",
+    "postal_code": "34179"
+  },
+  {
+    "id": 1802252004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180225,
+    "value": "Suko Binangun",
+    "postal_code": "34179"
+  }
+]

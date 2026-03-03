@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1501072011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Baru Pulau Sangkar",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Batang Merangin",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Lubuk Paku",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Muara Hemat",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Pasar Tamiai",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Pematang Lingkung",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Seberang Merangin",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Tamiai",
+    "postal_code": "37175"
+  },
+  {
+    "id": 1501072004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150107,
+    "value": "Tarutung",
+    "postal_code": "37175"
+  }
+]

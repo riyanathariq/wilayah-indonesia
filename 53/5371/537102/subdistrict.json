@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5371021005,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Bello",
+    "postal_code": "85148"
+  },
+  {
+    "id": 5371021006,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Fatukoa",
+    "postal_code": "85144"
+  },
+  {
+    "id": 5371021007,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Kolhua",
+    "postal_code": "85146"
+  },
+  {
+    "id": 5371021002,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Maulafa",
+    "postal_code": "85141"
+  },
+  {
+    "id": 5371021009,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Naikolan",
+    "postal_code": "85142"
+  },
+  {
+    "id": 5371021004,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Naimata",
+    "postal_code": "85147"
+  },
+  {
+    "id": 5371021001,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Oepura",
+    "postal_code": "85142"
+  },
+  {
+    "id": 5371021003,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Penfui",
+    "postal_code": "85148"
+  },
+  {
+    "id": 5371021008,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537102,
+    "value": "Sikumana",
+    "postal_code": "85143"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6101152001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Rantau Panjang",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Sebangun",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Sebawi",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Sempalai Sebedang (Sempelai Sebedang)",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Sepuk Tanjung",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Tebing Batu",
+    "postal_code": "79464"
+  },
+  {
+    "id": 6101152007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610115,
+    "value": "Tempatan",
+    "postal_code": "79464"
+  }
+]

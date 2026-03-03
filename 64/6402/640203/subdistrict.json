@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6402032001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Bakungan",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Batuah",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Loa Duri Ilir",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Loa Duri Ulu",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Loa Janan Ulu",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Purwajaya",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Tani Bhakti (Tani Bakti)",
+    "postal_code": "75391"
+  },
+  {
+    "id": 6402032008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640203,
+    "value": "Tani Harapan",
+    "postal_code": "75391"
+  }
+]

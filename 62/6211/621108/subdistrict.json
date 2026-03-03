@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6211082005,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Mekar Jaya",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082002,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Paduran Mulya (Panduran Mulya)",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082001,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Paduran Sebangau (Paduran Sabangau)",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082006,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Sebangau Jaya",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082003,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Sebangau Mulya",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082004,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Sebangau Permai",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082008,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Sei/Sungai Bakau",
+    "postal_code": "74874"
+  },
+  {
+    "id": 6211082007,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621108,
+    "value": "Sei/Sungai Hambawang",
+    "postal_code": "74874"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1306102001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130610,
+    "value": "Koto Rantang",
+    "postal_code": "26151"
+  },
+  {
+    "id": 1306102005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130610,
+    "value": "Nan Limo",
+    "postal_code": "26151"
+  },
+  {
+    "id": 1306102004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130610,
+    "value": "Nan Tujuah",
+    "postal_code": "26151"
+  },
+  {
+    "id": 1306102003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130610,
+    "value": "Pagadih",
+    "postal_code": "26151"
+  },
+  {
+    "id": 1306102002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130610,
+    "value": "Pasia Laweh",
+    "postal_code": "26151"
+  }
+]

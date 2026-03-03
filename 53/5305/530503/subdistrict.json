@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5305032010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Halerman",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032013,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Kafelulang",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032014,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Moramam",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Morba",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305031001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Moru",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032015,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Pailelang",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Pintumas (Pintu Mas)",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Probur",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032019,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Probur Utara",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Wolwal",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032016,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Wolwal Barat",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032018,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Wolwal Selatan",
+    "postal_code": "85861"
+  },
+  {
+    "id": 5305032017,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530503,
+    "value": "Wolwal Tengah",
+    "postal_code": "85861"
+  }
+]

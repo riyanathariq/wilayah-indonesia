@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3314062009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Bumiaji",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Glonggong",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Gondang",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Kaliwedi",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Plosorejo",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Srimulyo",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Tegalrejo",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Tunggul",
+    "postal_code": "57254"
+  },
+  {
+    "id": 3314062006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331406,
+    "value": "Wonotolo",
+    "postal_code": "57254"
+  }
+]

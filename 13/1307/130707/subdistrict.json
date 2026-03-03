@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1307072005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Durian Tinggi",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072007,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Galugua/Gelugur",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Koto Bangun",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Koto Lamo",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Lubuk/Lubuak Alai",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Muaro Paiti",
+    "postal_code": "26273"
+  },
+  {
+    "id": 1307072006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130707,
+    "value": "Sialang",
+    "postal_code": "26273"
+  }
+]

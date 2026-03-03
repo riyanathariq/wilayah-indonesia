@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3276021012,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Cisalak Pasar",
+    "postal_code": "16452"
+  },
+  {
+    "id": 3276021008,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Curug",
+    "postal_code": "16453"
+  },
+  {
+    "id": 3276021007,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Harjamukti",
+    "postal_code": "16454"
+  },
+  {
+    "id": 3276021010,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Mekarsari",
+    "postal_code": "16452"
+  },
+  {
+    "id": 3276021011,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Pasir Gunung Selatan",
+    "postal_code": "16451"
+  },
+  {
+    "id": 3276021009,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327602,
+    "value": "Tugu",
+    "postal_code": "16451"
+  }
+]

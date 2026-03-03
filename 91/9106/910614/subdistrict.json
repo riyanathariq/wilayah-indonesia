@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9106142009,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Armnu",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142012,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Dasdo",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Faknikdi",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Mamorbo",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Rodifu",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Rumbin",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142010,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Sup Mbrur",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Warbinsi",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142011,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Wodu",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Wonabraidi",
+    "postal_code": "98543"
+  },
+  {
+    "id": 9106142005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910614,
+    "value": "Wouna",
+    "postal_code": "98543"
+  }
+]

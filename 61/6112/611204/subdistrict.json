@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6112042006,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Betuah",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042005,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Permata",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042011,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Radak Baru",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042009,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Sungai Dungun",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042008,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Sungai Radak Dua (Sei / Sungai Radak II)",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042007,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Sungai Radak Satu (Sei / Sungai Radak I)",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042010,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Teluk Bayur",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042002,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Teluk Empening",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042003,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Terentang Hilir",
+    "postal_code": "78392"
+  },
+  {
+    "id": 6112042004,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611204,
+    "value": "Terentang Hulu",
+    "postal_code": "78392"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1471071012,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147107,
+    "value": "Airdingin",
+    "postal_code": "28284"
+  },
+  {
+    "id": 1471071005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147107,
+    "value": "Simpang Tiga",
+    "postal_code": "28284"
+  },
+  {
+    "id": 1471071011,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147107,
+    "value": "Tangkerang Labuai",
+    "postal_code": "28281"
+  },
+  {
+    "id": 1471071006,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147107,
+    "value": "Tangkerang Selatan",
+    "postal_code": "28288"
+  },
+  {
+    "id": 1471071008,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147107,
+    "value": "Tangkerang Utara",
+    "postal_code": "28289"
+  }
+]

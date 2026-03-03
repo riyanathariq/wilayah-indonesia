@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3604182001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Binuang",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Cakung",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Gembor",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Lamaran",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Renged",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Sukamampir",
+    "postal_code": "42196"
+  },
+  {
+    "id": 3604182005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360418,
+    "value": "Warakas",
+    "postal_code": "42196"
+  }
+]

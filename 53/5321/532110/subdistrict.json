@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5321102003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532110,
+    "value": "Alas",
+    "postal_code": "85767"
+  },
+  {
+    "id": 5321102004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532110,
+    "value": "Alas Selatan",
+    "postal_code": "85767"
+  },
+  {
+    "id": 5321102001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532110,
+    "value": "Alas Utara",
+    "postal_code": "85767"
+  },
+  {
+    "id": 5321102002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532110,
+    "value": "Kotabiru",
+    "postal_code": "85767"
+  }
+]

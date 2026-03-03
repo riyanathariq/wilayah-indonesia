@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2103212001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210321,
+    "value": "Pulau Tiga",
+    "postal_code": "29786"
+  },
+  {
+    "id": 2103212004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210321,
+    "value": "Selading",
+    "postal_code": "29786"
+  },
+  {
+    "id": 2103212003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210321,
+    "value": "Setumuk",
+    "postal_code": "29786"
+  },
+  {
+    "id": 2103212002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210321,
+    "value": "Tanjung Kumbik Utara",
+    "postal_code": "29786"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3218092001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Babakan",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092008,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Pagergunung",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Pananjung",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Pangandaran",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Purbahayu",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Sidomulyo",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Sukahurip",
+    "postal_code": "46396"
+  },
+  {
+    "id": 3218092005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321809,
+    "value": "Wonoharjo",
+    "postal_code": "46396"
+  }
+]

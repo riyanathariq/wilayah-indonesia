@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7372031007,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Bukit Harapan",
+    "postal_code": "91131"
+  },
+  {
+    "id": 7372031006,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Bukit Indah",
+    "postal_code": "91131"
+  },
+  {
+    "id": 7372031004,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Kampung Pisang",
+    "postal_code": "91131"
+  },
+  {
+    "id": 7372031001,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Lakessi",
+    "postal_code": "91133"
+  },
+  {
+    "id": 7372031002,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Ujung Baru",
+    "postal_code": "91131"
+  },
+  {
+    "id": 7372031005,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Ujung Lare",
+    "postal_code": "91131"
+  },
+  {
+    "id": 7372031003,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737203,
+    "value": "Watang Soreang (Wattang Soreang)",
+    "postal_code": "91132"
+  }
+]

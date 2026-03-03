@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1108172010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Alue Drien (Alue Drien LS)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Alue Leuhob",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Alue Seumambu",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Batu XII",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172023,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Beurandang Asan",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Beurandang Dayah",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Beurandang Krueng",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Cempeudak (Ceumpeudak)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Cot Girek",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172024,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Drien II (Drien Dua)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Gampong Ara (Ara Lkoksukon Selatan)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Jeulikat",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Kp. Bantan",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Kp. Tempel",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Lhok Meurbo (Meurebo)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172016,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Lhok Reuhat",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Lueng Baro",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Matang Teungoh (Matang Teungoh L)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Pucok Alue",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Seuneubok Baro",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Seupeng",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Trieng (Trieng Lhoksukon Selatan)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "U Baro (Meunasah U Baro)",
+    "postal_code": "24352"
+  },
+  {
+    "id": 1108172005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110817,
+    "value": "Ulee Gampong",
+    "postal_code": "24352"
+  }
+]

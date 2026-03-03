@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7302021002,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Bentengnge",
+    "postal_code": "92511"
+  },
+  {
+    "id": 7302021005,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Bintarore",
+    "postal_code": "92514"
+  },
+  {
+    "id": 7302021007,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Caile",
+    "postal_code": "92517"
+  },
+  {
+    "id": 7302021009,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Ela-Ela",
+    "postal_code": "92511"
+  },
+  {
+    "id": 7302021004,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Kalumeme",
+    "postal_code": "92518"
+  },
+  {
+    "id": 7302021006,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Kasimpureng",
+    "postal_code": "92511"
+  },
+  {
+    "id": 7302021008,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "L O K A (Loka)",
+    "postal_code": "92511"
+  },
+  {
+    "id": 7302021001,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Tanah Kongkong",
+    "postal_code": "92513"
+  },
+  {
+    "id": 7302021003,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730202,
+    "value": "Terang-Terang",
+    "postal_code": "92511"
+  }
+]

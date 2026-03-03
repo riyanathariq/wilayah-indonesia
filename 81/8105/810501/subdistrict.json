@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8105012003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Bula",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012011,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Bula Air Fatolo",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012010,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Englas",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012026,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Fattolo",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012024,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Kampung Gorom",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012023,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Kampung Wailola",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012025,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Limumir",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Salas",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012012,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Sesar",
+    "postal_code": "97521"
+  },
+  {
+    "id": 8105012022,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810501,
+    "value": "Tansi Ambon",
+    "postal_code": "97521"
+  }
+]

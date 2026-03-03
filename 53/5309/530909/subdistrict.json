@@ -1,0 +1,234 @@
+[
+  {
+    "id": 5309091010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Benteng Tengah",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092024,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Ite Jaya",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092023,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Kota Raja",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092013,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Latung",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092031,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Latung Barat",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092018,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi Barat",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092035,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi Barat Daya",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092026,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi Tengah",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092017,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi Timur",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092020,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Lengkosambi Utara",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309091011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Nangamese",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092014,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Rawangkalo",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092032,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Rawangkalo I",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092033,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Rawangkalo II",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092012,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Sambinasi",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092019,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Sambinasi Barat",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092030,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Sambinasi Tengah",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Tadho",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092028,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Tadho Barat",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092029,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Tadho Tengah",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092027,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Tadho Timur",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092022,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Taen Terong Dua",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092021,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Taen Terong Satu",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Taenterong (Taen Terong)",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092034,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Wakamanga",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092006,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Wangka",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092025,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Wangka Barat",
+    "postal_code": "86419"
+  },
+  {
+    "id": 5309092016,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530909,
+    "value": "Wangka Selatan",
+    "postal_code": "86419"
+  }
+]

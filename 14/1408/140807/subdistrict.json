@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1408072003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Buana Bakti/Bhakti",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072009,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Buatan Baru",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072006,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Bukit Agung",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072004,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Bukit Harapan",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072013,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Delima Jaya",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072010,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Gabung Makmur",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072011,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Jati Mulia/Mulya",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Kerinci Kanan",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Kerinci Kiri",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072005,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Kumbara Utama",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072012,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Seminai",
+    "postal_code": "28654"
+  },
+  {
+    "id": 1408072008,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140807,
+    "value": "Simpang Perak Jaya",
+    "postal_code": "28654"
+  }
+]

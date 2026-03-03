@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1871201004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187120,
+    "value": "Bumi Raya",
+    "postal_code": "35228"
+  },
+  {
+    "id": 1871201002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187120,
+    "value": "Bumi Waras",
+    "postal_code": "35225"
+  },
+  {
+    "id": 1871201003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187120,
+    "value": "Garuntang",
+    "postal_code": "35227"
+  },
+  {
+    "id": 1871201005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187120,
+    "value": "Kangkung",
+    "postal_code": "35224"
+  },
+  {
+    "id": 1871201001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187120,
+    "value": "Sukaraja",
+    "postal_code": "35226"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3209142008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Cempaka",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Ciperna",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Cirebon Girang (Cirebongirang)",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Kecomberan",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Kepongpongan",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Kerandon",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Kubang",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Sampiran",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Sarwadadi",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Wanasaba Kidul",
+    "postal_code": "45171"
+  },
+  {
+    "id": 3209142007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320914,
+    "value": "Wanasaba Lor",
+    "postal_code": "45171"
+  }
+]

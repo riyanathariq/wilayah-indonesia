@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3601022004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Batuhideung",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Cibadak",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Ciburial",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Cijaralang",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Cimanggu",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022012,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Kramatjaya",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Mangkualam",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Padasuka",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Rancapinang",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Tangkil Sari (Tangkilsari)",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Tugu",
+    "postal_code": "42284"
+  },
+  {
+    "id": 3601022011,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360102,
+    "value": "Waringin Kurung (Waringinkurung)",
+    "postal_code": "42284"
+  }
+]

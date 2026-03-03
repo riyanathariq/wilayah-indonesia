@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9210102003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Faitmajin",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102009,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Faitsiur",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Huberita",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Insas",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Ismayo (Ismayu)",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Kambuaya",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102010,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Keyum",
+    "postal_code": "98246"
+  },
+  {
+    "id": 9210102007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921010,
+    "value": "Sefayit",
+    "postal_code": "98246"
+  }
+]

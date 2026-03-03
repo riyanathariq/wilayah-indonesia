@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5320032004,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Bodae",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320031001,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Bolou",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032009,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Eiada",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032008,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Huwaga",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032005,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Keduru",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032010,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Keliha",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032006,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Kuji Ratu (Kujiratu)",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320031002,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Limagu (Limaggu)",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032003,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Lobodei",
+    "postal_code": "85394"
+  },
+  {
+    "id": 5320032007,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532003,
+    "value": "Loborai",
+    "postal_code": "85394"
+  }
+]

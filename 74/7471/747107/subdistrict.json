@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7471071004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747107,
+    "value": "Anawai",
+    "postal_code": "93118"
+  },
+  {
+    "id": 7471071002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747107,
+    "value": "Bonggoeya",
+    "postal_code": "93118"
+  },
+  {
+    "id": 7471071003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747107,
+    "value": "Mataiwoi",
+    "postal_code": "93118"
+  },
+  {
+    "id": 7471071001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747107,
+    "value": "Wua Wua",
+    "postal_code": "93117"
+  }
+]

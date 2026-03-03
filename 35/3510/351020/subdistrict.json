@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3510202005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Gendoh",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Jambewangi",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Karangsari",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Sempu",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Tegalarum",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Temuasri",
+    "postal_code": "68468"
+  },
+  {
+    "id": 3510202004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351020,
+    "value": "Temuguruh",
+    "postal_code": "68468"
+  }
+]

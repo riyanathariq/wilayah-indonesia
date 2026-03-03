@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1971031007,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197103,
+    "value": "Ampui",
+    "postal_code": "33113"
+  },
+  {
+    "id": 1971031006,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197103,
+    "value": "Ketapang",
+    "postal_code": "33111"
+  },
+  {
+    "id": 1971031005,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197103,
+    "value": "Lontong Pancur",
+    "postal_code": "33115"
+  },
+  {
+    "id": 1971031004,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197103,
+    "value": "Pasir Garam",
+    "postal_code": "33115"
+  },
+  {
+    "id": 1971031008,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197103,
+    "value": "Rejo Sari (Rejosari)",
+    "postal_code": "33111"
+  }
+]

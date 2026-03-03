@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3521052012,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Baderan",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052015,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Dempel",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Geneng",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052013,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Kasreman",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Keniten",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Keraswetan (Keras Wetan)",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052014,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Kersikan",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052017,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Kersoharjo",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052018,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Klampisan",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052016,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Klitik",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052011,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Sidorejo",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Tambakromo",
+    "postal_code": "63271"
+  },
+  {
+    "id": 3521052009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352105,
+    "value": "Tepas",
+    "postal_code": "63271"
+  }
+]

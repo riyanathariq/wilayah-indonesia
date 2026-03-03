@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5311192001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531119,
+    "value": "Kompa Pari (Kombapari)",
+    "postal_code": "87152"
+  },
+  {
+    "id": 5311192004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531119,
+    "value": "Lailara (Lai Lara)",
+    "postal_code": "87152"
+  },
+  {
+    "id": 5311192003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531119,
+    "value": "Mandahu",
+    "postal_code": "87152"
+  },
+  {
+    "id": 5311192002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531119,
+    "value": "Matawai Amahu",
+    "postal_code": "87152"
+  },
+  {
+    "id": 5311192005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531119,
+    "value": "Praibakul (Prai Bakul)",
+    "postal_code": "87152"
+  }
+]

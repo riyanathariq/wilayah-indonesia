@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7604012007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Batulaya",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Galung Lombok",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Karama",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Lekopadis",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Sepabatu (Sepa Batu)",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Tandung",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604012003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Tangnga-Tangnga",
+    "postal_code": "91356"
+  },
+  {
+    "id": 7604011001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760401,
+    "value": "Tinambung",
+    "postal_code": "91356"
+  }
+]

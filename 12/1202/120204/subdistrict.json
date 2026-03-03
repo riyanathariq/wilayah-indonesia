@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1202042008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Huta Raja",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Hutaraja Hasundutan (Huta Raja Hasundutan)",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042014,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Hutaraja Simanungkalit",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Hutauruk",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042015,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Hutauruk Hasundutan",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Lobu Singkam (Lobusingkam)",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042013,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Pagarbatu (Pagar Batu)",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Rura Julu Dolok",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Rura Julu Toruan",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Simanungkalit",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Sipahutar",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202041001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Situmeang Habinsaran",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Situmeang Hasundutan",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202042007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120204,
+    "value": "Tapian Nauli",
+    "postal_code": "22452"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6310052003,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Anjir Baru",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052015,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Bakarangan",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052004,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Binawara",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052020,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Harapan Jaya",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052019,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Karang Mulya",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052022,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Karang Sari (Karang Sari Indah)",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Lasung",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052002,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Manuntung",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052005,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Pacakan",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052012,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Sungai Rukam",
+    "postal_code": "72270"
+  },
+  {
+    "id": 6310052021,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631005,
+    "value": "Wonorejo",
+    "postal_code": "72270"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1707032016,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Danau Liang",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707031005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Embong Panjang",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032009,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Karang Anyar",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Pagar Agung",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032015,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Semelako Atas",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Semelako I",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032013,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Semelako II",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032014,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Semelako III",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032020,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Suka Damai",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Tanjung Bungai I",
+    "postal_code": "39263"
+  },
+  {
+    "id": 1707032023,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170703,
+    "value": "Tanjung Bungai II",
+    "postal_code": "39263"
+  }
+]

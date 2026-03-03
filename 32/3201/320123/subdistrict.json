@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201232004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Babakan",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Batok",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Bojong",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Cilaku",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Ciomas",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Singabangsa",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Singabraja",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Tapos",
+    "postal_code": "16370"
+  },
+  {
+    "id": 3201232005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320123,
+    "value": "Tenjo",
+    "postal_code": "16370"
+  }
+]

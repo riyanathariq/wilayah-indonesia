@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3527142001,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Bluuran (Blu Uran)",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142003,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Bulmatet",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142007,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Gunung Kesan",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142005,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Karangpenang Oloh (Karang Penang Oloh)",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142006,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Karangpenang Onjur (Karang Penang Onjur)",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142004,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Poreh",
+    "postal_code": "69254"
+  },
+  {
+    "id": 3527142002,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352714,
+    "value": "Tlambah",
+    "postal_code": "69254"
+  }
+]

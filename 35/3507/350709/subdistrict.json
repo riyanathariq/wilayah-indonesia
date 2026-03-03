@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3507092005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Gedok Kulon (Gedog Kulon)",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Gedok Wetan (Gedog Wetan)",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Jeru",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092015,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Kedok",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Kemulan",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092012,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Pagedangan",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092013,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Sanankerto",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092014,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Sananrejo",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Sawahan",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507091008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Sedayu",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092016,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Talangsuko",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Talok",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Tanggung",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Tawangrejeni",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092017,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Tumpukrenteng",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507091011,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Turen",
+    "postal_code": "65175"
+  },
+  {
+    "id": 3507092004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350709,
+    "value": "Undaan",
+    "postal_code": "65175"
+  }
+]

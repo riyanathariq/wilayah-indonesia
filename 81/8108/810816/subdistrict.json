@@ -1,0 +1,26 @@
+[
+  {
+    "id": 8108162001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810816,
+    "value": "Hila",
+    "postal_code": "97440"
+  },
+  {
+    "id": 8108162002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810816,
+    "value": "Jerusu",
+    "postal_code": "97440"
+  },
+  {
+    "id": 8108162003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810816,
+    "value": "Solath",
+    "postal_code": "97440"
+  }
+]

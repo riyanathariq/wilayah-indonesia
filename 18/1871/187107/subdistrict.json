@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871071009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Gedong Pakuon (Gedong Pakuan / Pakuon)",
+    "postal_code": "35222"
+  },
+  {
+    "id": 1871071013,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Gunungmas (Gunung Mas)",
+    "postal_code": "35211"
+  },
+  {
+    "id": 1871071001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Pesawahan",
+    "postal_code": "35223"
+  },
+  {
+    "id": 1871071012,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Sumur Putri",
+    "postal_code": "35215"
+  },
+  {
+    "id": 1871071008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Talang",
+    "postal_code": "35229"
+  },
+  {
+    "id": 1871071002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187107,
+    "value": "Telukbetung (Teluk Betung)",
+    "postal_code": "35221"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3175011003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Kayu Manis",
+    "postal_code": "13130"
+  },
+  {
+    "id": 3175011005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Kebon Manggis",
+    "postal_code": "13150"
+  },
+  {
+    "id": 3175011004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Palmeriam (Pal Meriam)",
+    "postal_code": "13140"
+  },
+  {
+    "id": 3175011001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Pisangan Baru",
+    "postal_code": "13110"
+  },
+  {
+    "id": 3175011006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Utan Kayu Selatan",
+    "postal_code": "13120"
+  },
+  {
+    "id": 3175011002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317501,
+    "value": "Utan Kayu Utara",
+    "postal_code": "13120"
+  }
+]

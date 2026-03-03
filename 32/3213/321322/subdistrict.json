@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213222003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Cikaum Barat",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Cikaum Timur",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Gandasari",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Kawunganten (Kaunganten)",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Mekarsari",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Pasirmuncang",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Sindangsari",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Tanjungsari Barat",
+    "postal_code": "41266"
+  },
+  {
+    "id": 3213222007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321322,
+    "value": "Tanjungsari Timur",
+    "postal_code": "41266"
+  }
+]

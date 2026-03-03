@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3303132002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Bantarbarang",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Bodaskarangjati (Bodas Karangjati)",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Gunungwuled",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Karangbawang",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Losari",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132009,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Makam",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132012,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Panusupan",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132010,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Sumampir",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132011,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Tanalum",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132008,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Wanogara Kulon",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Wanogara Wetan",
+    "postal_code": "53356"
+  },
+  {
+    "id": 3303132001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330313,
+    "value": "Wlahar",
+    "postal_code": "53356"
+  }
+]

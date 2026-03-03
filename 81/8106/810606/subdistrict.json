@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8106062004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810606,
+    "value": "Honitetu (Hunitetu)",
+    "postal_code": "97565"
+  },
+  {
+    "id": 8106062005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810606,
+    "value": "Hukuanakota (Huku Anakota)",
+    "postal_code": "97565"
+  },
+  {
+    "id": 8106062001,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810606,
+    "value": "Manusa",
+    "postal_code": "97565"
+  },
+  {
+    "id": 8106062002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810606,
+    "value": "Rambatu",
+    "postal_code": "97565"
+  },
+  {
+    "id": 8106062003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810606,
+    "value": "Rumberu",
+    "postal_code": "97565"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213162003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Ciberes",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Gempolsari",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Jatiragas Hilir",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Rancaasih",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Rancabango",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Rancajaya",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Rancamulya",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Tambakjati",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Tanjungrasa (Tanjungrasa Kaler)",
+    "postal_code": "41263"
+  },
+  {
+    "id": 3213162008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321316,
+    "value": "Tanjungrasa Kidul",
+    "postal_code": "41263"
+  }
+]

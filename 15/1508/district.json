@@ -1,0 +1,104 @@
+[
+  {
+    "id": 150815,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Bathin II Pelayang"
+  },
+  {
+    "id": 150811,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Bathin III"
+  },
+  {
+    "id": 150814,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Bathin III Ulu"
+  },
+  {
+    "id": 150810,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Batin II Babeko (Bathin)"
+  },
+  {
+    "id": 150812,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Bungo Dani"
+  },
+  {
+    "id": 150804,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Jujuhan"
+  },
+  {
+    "id": 150816,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Jujuhan Ilir"
+  },
+  {
+    "id": 150807,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Limbur Lubuk Mengkuang"
+  },
+  {
+    "id": 150808,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Muko-muko Bathin VII"
+  },
+  {
+    "id": 150803,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Pasar Muaro Bungo (Pasar Muara Bungo)"
+  },
+  {
+    "id": 150806,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Pelepat"
+  },
+  {
+    "id": 150809,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Pelepat Ilir"
+  },
+  {
+    "id": 150802,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Rantau Pandan"
+  },
+  {
+    "id": 150813,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Rimbo Tengah"
+  },
+  {
+    "id": 150805,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Tanah Sepenggal"
+  },
+  {
+    "id": 150817,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Tanah Sepenggal Lintas"
+  },
+  {
+    "id": 150801,
+    "province_id": 15,
+    "regency_id": 1508,
+    "value": "Tanah Tumbuh"
+  }
+]

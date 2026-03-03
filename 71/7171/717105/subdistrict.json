@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7171051011,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717105,
+    "value": "Banjer",
+    "postal_code": "95125"
+  },
+  {
+    "id": 7171051010,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717105,
+    "value": "Paal IV",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171051009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717105,
+    "value": "Taas",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171051012,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717105,
+    "value": "Tikala Ares",
+    "postal_code": "95124"
+  },
+  {
+    "id": 7171051008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717105,
+    "value": "Tikala Baru",
+    "postal_code": "95126"
+  }
+]

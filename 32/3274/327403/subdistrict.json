@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3274031005,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327403,
+    "value": "Argasunya",
+    "postal_code": "45145"
+  },
+  {
+    "id": 3274031002,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327403,
+    "value": "Harjamukti",
+    "postal_code": "45143"
+  },
+  {
+    "id": 3274031001,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327403,
+    "value": "Kalijaga",
+    "postal_code": "45144"
+  },
+  {
+    "id": 3274031003,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327403,
+    "value": "Kecapi",
+    "postal_code": "45142"
+  },
+  {
+    "id": 3274031004,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327403,
+    "value": "Larangan",
+    "postal_code": "45141"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201192007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Batu Mandi",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Batu Simpang",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Kampangar",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Kuntang",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Ondoliang",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Pangkalaseang",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Pangkalaseang Baru",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Pulau Dua",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Teku",
+    "postal_code": "94775"
+  },
+  {
+    "id": 7201192010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720119,
+    "value": "Toweer",
+    "postal_code": "94775"
+  }
+]

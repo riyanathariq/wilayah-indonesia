@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1201012009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Aek Dakka",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012017,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Bungo Tanjung",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012011,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Gabungan Hasang",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Kampung Mudik",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Kampung Solok",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012018,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Kedai Gedang",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Kinali",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201011002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Padang Masiang",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201011001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Pasar Batu Gerigis",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Pasar Terandam",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012010,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Patupangan",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Sigambo Gambo",
+    "postal_code": "22564"
+  },
+  {
+    "id": 1201012006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120101,
+    "value": "Ujung Batu",
+    "postal_code": "22564"
+  }
+]

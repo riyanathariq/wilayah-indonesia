@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3272041005,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327204,
+    "value": "Benteng",
+    "postal_code": "43132"
+  },
+  {
+    "id": 3272041003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327204,
+    "value": "Dayeuhluhur",
+    "postal_code": "43134"
+  },
+  {
+    "id": 3272041002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327204,
+    "value": "Nyomplong",
+    "postal_code": "43131"
+  },
+  {
+    "id": 3272041004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327204,
+    "value": "Sukakarya",
+    "postal_code": "43135"
+  },
+  {
+    "id": 3272041001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327204,
+    "value": "Warudoyong",
+    "postal_code": "43133"
+  }
+]

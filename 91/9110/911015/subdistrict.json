@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9110152001,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911015,
+    "value": "Gwinjaya (Gwin Jaya)",
+    "postal_code": "99382"
+  },
+  {
+    "id": 9110152005,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911015,
+    "value": "Kapitiau (Kaptiau)",
+    "postal_code": "99382"
+  },
+  {
+    "id": 9110152003,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911015,
+    "value": "Mawes Mukti",
+    "postal_code": "99382"
+  },
+  {
+    "id": 9110152004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911015,
+    "value": "Mawesday",
+    "postal_code": "99382"
+  },
+  {
+    "id": 9110152002,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911015,
+    "value": "Tamar Sari (Tamas Sari)",
+    "postal_code": "99382"
+  }
+]

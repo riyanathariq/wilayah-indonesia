@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578311003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357831,
+    "value": "Bringin",
+    "postal_code": "60218"
+  },
+  {
+    "id": 3578311004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357831,
+    "value": "Lontar",
+    "postal_code": "60216"
+  },
+  {
+    "id": 3578311002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357831,
+    "value": "Made",
+    "postal_code": "60219"
+  },
+  {
+    "id": 3578311001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357831,
+    "value": "Sambikerep",
+    "postal_code": "60217"
+  }
+]

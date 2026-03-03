@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3203102003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Cibodas",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203102001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Ciherang",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203102007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Cipendawa",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203102010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Ciputri",
+    "postal_code": "43281"
+  },
+  {
+    "id": 3203102012,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Gadog",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203102005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Sukanagalih",
+    "postal_code": "43253"
+  },
+  {
+    "id": 3203102013,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320310,
+    "value": "Sukatani",
+    "postal_code": "43253"
+  }
+]

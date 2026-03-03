@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3511212002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Gentong",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Kemuningan",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Kretek",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Paguan",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Sumberkokap",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Taman",
+    "postal_code": "68291"
+  },
+  {
+    "id": 3511212004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351121,
+    "value": "Trebungan",
+    "postal_code": "68291"
+  }
+]

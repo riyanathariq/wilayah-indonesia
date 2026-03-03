@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1805302008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Bedarou Indah (Badarow Indah)",
+    "postal_code": "34616"
+  },
+  {
+    "id": 1805302007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Cempaka Dalem (Cempaka Dalam)",
+    "postal_code": "34619"
+  },
+  {
+    "id": 1805302010,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Cempaka Jaya",
+    "postal_code": "34617"
+  },
+  {
+    "id": 1805302006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Kahuripan Dalam (Kuripan Dalem)",
+    "postal_code": "34619"
+  },
+  {
+    "id": 1805302004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Kibang Pacing",
+    "postal_code": "34617"
+  },
+  {
+    "id": 1805302001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Lebuh Dalam (Lebuh Dalem)",
+    "postal_code": "34615"
+  },
+  {
+    "id": 1805302003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Lingai",
+    "postal_code": "34619"
+  },
+  {
+    "id": 1805302002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Menggala",
+    "postal_code": "34616"
+  },
+  {
+    "id": 1805302005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Sungai Luar",
+    "postal_code": "34616"
+  },
+  {
+    "id": 1805302009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180530,
+    "value": "Tri Makmur Jaya",
+    "postal_code": "34618"
+  }
+]

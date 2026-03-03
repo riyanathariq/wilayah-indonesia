@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1106032024,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Aneuk Glee",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Cot Kareung",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Cureh",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Empee Ara",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032045,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Groet Baro (Grot Meunasah Baro)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032043,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Groet Blang (Grot Meunasah Blang)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032044,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Groet Manyang (Grot Meunasah Manyang)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Indrapuri",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032046,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Jruek Bak Kreh",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032047,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Jruek Balee",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032025,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Krueng Lamkareung",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032022,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lam Ilie Ganto",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032020,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lam Ilie Mesjid",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032021,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lam Ilie Tengoh (Lam Ilie Teungoh)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lam Leubok (Lamleubok)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032050,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lambeunot (Lambunot)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032029,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lambeutong (Lam Beutong)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lamlung (Lam Lueng)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032041,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampanah Baro",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032040,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampanah Dayah",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032038,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampanah Ranjo",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032039,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampanah Teungoh",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032042,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampanah Tunong",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032030,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampupok Baro",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032031,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lampupok Raya",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032052,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lamsiot (Lam Siot)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lheue (Lheue Jeumpa)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Limo Blang",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Limo Lamleuweung (Limo Lamluweung / Lamlueng)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Limo Mesjid",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032053,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Lingom",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032018,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Manggra",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032023,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Meunara",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032014,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Meureu Bueng-U (Mureu Bueng-Ue)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Meureu Ulee Titie (Mureu Ulee Titi)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Meusale (Meusalee Lhok)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032049,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Mon Alue",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032015,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Mureu Baro",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032016,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Mureu Lam Glumpang",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032017,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Pasar Indrapuri",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Reukih Dayah",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032019,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Reukih Kupula (Reukih Keupula)",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032033,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Riting",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032036,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Seot/Seuot Baroh",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032037,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Seot/Seuot Tunong",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032032,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Seulangai",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032027,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Seureumo",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032035,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Sihom Cot",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032034,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Sihom Lhok",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032026,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Sinyeu",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032028,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Ulee Kareung",
+    "postal_code": "23363"
+  },
+  {
+    "id": 1106032051,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110603,
+    "value": "Ulee Ue (Ulee Oe)",
+    "postal_code": "23363"
+  }
+]

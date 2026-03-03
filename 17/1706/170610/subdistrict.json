@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1706102005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Bukit Makmur",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Bumi Mulya",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Lubuk Mukti",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Maju Makmur",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102014,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Marga Mukti",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Marga Mulya Sakti",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102012,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Mekar Mulya",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Penarik",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Sendang Mulyo",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Sido Dadi",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102013,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Sido Mulyo (Sido Mulya)",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Suka Maju",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Sumber Mulya",
+    "postal_code": "38768"
+  },
+  {
+    "id": 1706102011,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170610,
+    "value": "Wonosobo",
+    "postal_code": "38768"
+  }
+]

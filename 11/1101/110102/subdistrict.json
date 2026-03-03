@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1101022013,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Alur Mas",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Fajar Harapan",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022021,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Gunung Pudung",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Gunung Pulo (Gunong Pulo)",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Jambo Manyang",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Kampung Paya",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022014,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Kampung Tinggi",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022019,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Kedai Padang",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022020,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Kotafajar",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Krueng Batee",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022011,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Krueng Batu",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022012,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Krueng Kluet",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Limau Purut (Kota Fajar)",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Pasi Kuala Asahan",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022018,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Pasi Kuala Ba'u (Pasi Kuala Bau)",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Pulo Ie I",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Pulo Kambing",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022015,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Ruak (Kampung Ruak)",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Simpang Empat",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022016,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Simpang Lhee",
+    "postal_code": "23771"
+  },
+  {
+    "id": 1101022017,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110102,
+    "value": "Suaq Geuringgeng (Geringgeng)",
+    "postal_code": "23771"
+  }
+]

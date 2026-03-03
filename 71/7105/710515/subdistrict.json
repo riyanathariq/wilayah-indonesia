@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7105152002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Kumelembuai",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Kumelembuai Atas",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152011,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Kumelembuai Dua",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Kumelembuai Satu",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152015,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Lolombulan Makasili",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Makasili",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Malola",
+    "postal_code": "95956"
+  },
+  {
+    "id": 7105152006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710515,
+    "value": "Malola I (Malola Satu)",
+    "postal_code": "95956"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6108102003,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610810,
+    "value": "Agak",
+    "postal_code": "79358"
+  },
+  {
+    "id": 6108102002,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610810,
+    "value": "Kumpang Tengah",
+    "postal_code": "79358"
+  },
+  {
+    "id": 6108102004,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610810,
+    "value": "Rantau Panjang",
+    "postal_code": "79358"
+  },
+  {
+    "id": 6108102001,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610810,
+    "value": "Sebangki",
+    "postal_code": "79358"
+  },
+  {
+    "id": 6108102005,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610810,
+    "value": "Sei/Sungai Segak",
+    "postal_code": "79358"
+  }
+]

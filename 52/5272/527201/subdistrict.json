@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5272011014,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Dara (Dora)",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272011002,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Nae",
+    "postal_code": "84116"
+  },
+  {
+    "id": 5272011013,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Pane",
+    "postal_code": "84119"
+  },
+  {
+    "id": 5272011001,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Paruga",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5272011003,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Sarae",
+    "postal_code": "84117"
+  },
+  {
+    "id": 5272011004,
+    "province_id": 52,
+    "regency_id": 5272,
+    "district_id": 527201,
+    "value": "Tanjung",
+    "postal_code": "84118"
+  }
+]

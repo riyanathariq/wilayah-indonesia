@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8204052003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Bobo",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Fluk",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Gambaru",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Loleo",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Mano",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052009,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Ocimaloleo",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Soligi",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204052001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820405,
+    "value": "Wayaloar",
+    "postal_code": "97792"
+  }
+]

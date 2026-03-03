@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9503282002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Hereki (Hereky)",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Letfet",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Membaham (Mimbaham)",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Salakma",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Samiyul",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Sehelu",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Talambela (Talempela)",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Ubalihion",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Walahan",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Wanan (Wanam)",
+    "postal_code": "99764"
+  },
+  {
+    "id": 9503282004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950328,
+    "value": "Wisomy (Wisomi)",
+    "postal_code": "99764"
+  }
+]

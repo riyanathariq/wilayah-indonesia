@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1276041005,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Bandar Sakti",
+    "postal_code": "20613"
+  },
+  {
+    "id": 1276041004,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Berohol",
+    "postal_code": "20611"
+  },
+  {
+    "id": 1276041003,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Bulian",
+    "postal_code": "20612"
+  },
+  {
+    "id": 1276041001,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Durian",
+    "postal_code": "20621"
+  },
+  {
+    "id": 1276041002,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Pelita",
+    "postal_code": "20621"
+  },
+  {
+    "id": 1276041006,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Pinang Mancung",
+    "postal_code": "20612"
+  },
+  {
+    "id": 1276041007,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127604,
+    "value": "Teluk Karang",
+    "postal_code": "20612"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1215032003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Boangmanalu (Boangmanalu Salak)",
+    "postal_code": "22272"
+  },
+  {
+    "id": 1215032013,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Kuta Tinggi",
+    "postal_code": "22272"
+  },
+  {
+    "id": 1215032014,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Penanggalan Binanga Boang",
+    "postal_code": "22272"
+  },
+  {
+    "id": 1215032001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Salak I",
+    "postal_code": "22272"
+  },
+  {
+    "id": 1215032002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Salak II",
+    "postal_code": "22272"
+  },
+  {
+    "id": 1215032009,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121503,
+    "value": "Sibongkaras",
+    "postal_code": "22272"
+  }
+]

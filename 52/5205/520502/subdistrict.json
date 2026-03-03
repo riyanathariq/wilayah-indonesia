@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5205022007,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Doro Kobo",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Kempo",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Konte",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Songgaja",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Soro",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022008,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Soro Barat",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Ta'a",
+    "postal_code": "84261"
+  },
+  {
+    "id": 5205022005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520502,
+    "value": "Tolo Kalo",
+    "postal_code": "84261"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3212052010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Cempeh",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Langgengsari",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Lelea",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Nunuk",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Pangauban",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tamansari",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tegalasari (Telagasari)",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tempel",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tempelkulon",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tugu",
+    "postal_code": "45261"
+  },
+  {
+    "id": 3212052001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321205,
+    "value": "Tunggul Payung (Tunggulpayung)",
+    "postal_code": "45261"
+  }
+]

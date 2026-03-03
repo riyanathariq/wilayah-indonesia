@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2105092001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210509,
+    "value": "Impol",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105092002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210509,
+    "value": "Keramut",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105092003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210509,
+    "value": "Sunggak",
+    "postal_code": "29792"
+  }
+]

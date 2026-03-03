@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1501012002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Air Mumu",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Dusun Baru Lempur",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Kebun Baru",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012019,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Kebun Lima",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Lempur Hilir",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Lempur Mudik",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501011004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Lempur Tengah",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012018,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Manjunto Lempur",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Masgo",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Perikan Tengah",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Selam Paung (Selampaung)",
+    "postal_code": "37174"
+  },
+  {
+    "id": 1501012016,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150101,
+    "value": "Sungaihangat (Sungai Hangat)",
+    "postal_code": "37174"
+  }
+]

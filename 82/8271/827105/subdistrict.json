@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8271051004,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Bido",
+    "postal_code": "97743"
+  },
+  {
+    "id": 8271051003,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Lelewi",
+    "postal_code": "97743"
+  },
+  {
+    "id": 8271051001,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Mayau",
+    "postal_code": "97743"
+  },
+  {
+    "id": 8271051005,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Pantai Sagu",
+    "postal_code": "97743"
+  },
+  {
+    "id": 8271051006,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Perum Bersatu",
+    "postal_code": "97743"
+  },
+  {
+    "id": 8271051002,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827105,
+    "value": "Tifure",
+    "postal_code": "97743"
+  }
+]

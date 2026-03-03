@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7415032004,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Burangasi",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032003,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Burangasi Rumbia",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032002,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Gaya Baru (Gayabaru)",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032006,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Lapandewa",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032007,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Lapandewa Jaya",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032005,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Lapandewa Kaindea (Lapandewa Kaidea)",
+    "postal_code": "93746"
+  },
+  {
+    "id": 7415032001,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741503,
+    "value": "Lapandewa Makmur",
+    "postal_code": "93746"
+  }
+]

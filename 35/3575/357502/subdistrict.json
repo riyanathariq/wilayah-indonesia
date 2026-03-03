@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3575021005,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Kebonagung",
+    "postal_code": "67116"
+  },
+  {
+    "id": 3575021001,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Pohjentrek",
+    "postal_code": "67171"
+  },
+  {
+    "id": 3575021004,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Purutrejo",
+    "postal_code": "67117"
+  },
+  {
+    "id": 3575021006,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Purworejo",
+    "postal_code": "67115"
+  },
+  {
+    "id": 3575021011,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Sekargadung",
+    "postal_code": "67127"
+  },
+  {
+    "id": 3575021003,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Tembokrejo",
+    "postal_code": "67118"
+  },
+  {
+    "id": 3575021002,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357502,
+    "value": "Wirogunan",
+    "postal_code": "67118"
+  }
+]

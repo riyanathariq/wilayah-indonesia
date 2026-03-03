@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3671041001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367104,
+    "value": "Belendung",
+    "postal_code": "15123"
+  },
+  {
+    "id": 3671041003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367104,
+    "value": "Benda",
+    "postal_code": "15125"
+  },
+  {
+    "id": 3671041002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367104,
+    "value": "Jurumudi",
+    "postal_code": "15124"
+  },
+  {
+    "id": 3671041005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367104,
+    "value": "Jurumudi Baru",
+    "postal_code": "15124"
+  },
+  {
+    "id": 3671041004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367104,
+    "value": "Pajang",
+    "postal_code": "15126"
+  }
+]

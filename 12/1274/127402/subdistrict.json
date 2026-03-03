@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1274021004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127402,
+    "value": "Kuala Silo Bestari (Kuala Silau Bestari)",
+    "postal_code": "21324"
+  },
+  {
+    "id": 1274021005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127402,
+    "value": "Matahalasan",
+    "postal_code": "21325"
+  },
+  {
+    "id": 1274021003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127402,
+    "value": "Sejahtera",
+    "postal_code": "21323"
+  },
+  {
+    "id": 1274021001,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127402,
+    "value": "Tanjung Balai Kota III (Tanjungbalai Kota III)",
+    "postal_code": "21321"
+  },
+  {
+    "id": 1274021002,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127402,
+    "value": "Tanjung Balai Kota IV (Tanjungbalai Kota IV)",
+    "postal_code": "21322"
+  }
+]

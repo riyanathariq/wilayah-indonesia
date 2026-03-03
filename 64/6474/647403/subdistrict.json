@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6474031001,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647403,
+    "value": "Belimbing",
+    "postal_code": "75313"
+  },
+  {
+    "id": 6474031003,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647403,
+    "value": "Kanaan",
+    "postal_code": "75383"
+  },
+  {
+    "id": 6474031002,
+    "province_id": 64,
+    "regency_id": 6474,
+    "district_id": 647403,
+    "value": "Telihan (Gunung Telihan)",
+    "postal_code": "75383"
+  }
+]

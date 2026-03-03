@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1208102004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Bandar Manik",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Gorak",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Jorlang Huluan",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Pematang Sidamanik",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Pematang Tambun Raya",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Sait Buttu Saribu",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Sarimattin",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Sihaporas",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208102008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Simantin",
+    "postal_code": "21188"
+  },
+  {
+    "id": 1208101009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120810,
+    "value": "Sipolha Horison (Sipolha Horisan)",
+    "postal_code": "21188"
+  }
+]

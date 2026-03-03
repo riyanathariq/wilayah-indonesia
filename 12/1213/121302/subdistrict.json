@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1213022002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Beringin Jaya",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Huta damai (Huta Dame)",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Jambur Padang Matinggi",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Kampung Baru",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213021012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Mompang Jae",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Mompang Julu",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Rumbio",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022018,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Simanondong",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022017,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Sopo Sorik",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022015,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Suka Ramai",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022020,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Tanjung Mompang",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213022019,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121302,
+    "value": "Torbanua Raja",
+    "postal_code": "22979"
+  }
+]

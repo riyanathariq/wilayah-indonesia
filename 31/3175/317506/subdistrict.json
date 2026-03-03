@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3175061007,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Cakung Barat",
+    "postal_code": "13910"
+  },
+  {
+    "id": 3175061004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Cakung Timur",
+    "postal_code": "13910"
+  },
+  {
+    "id": 3175061001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Jatinegara",
+    "postal_code": "13930"
+  },
+  {
+    "id": 3175061003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Penggilingan",
+    "postal_code": "13940"
+  },
+  {
+    "id": 3175061005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Pulo Gebang",
+    "postal_code": "13950"
+  },
+  {
+    "id": 3175061002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Rawa Terate",
+    "postal_code": "13920"
+  },
+  {
+    "id": 3175061006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317506,
+    "value": "Ujung Menteng",
+    "postal_code": "13960"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3313142002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Alastuwo",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Banjarharjo",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142010,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Kaliwuluh",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Kebak",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Kemiri",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Macanan",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Malanggaten",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Nangsri",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Pulosari",
+    "postal_code": "57762"
+  },
+  {
+    "id": 3313142007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331314,
+    "value": "Waru",
+    "postal_code": "57762"
+  }
+]

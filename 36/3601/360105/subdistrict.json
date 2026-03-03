@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601052007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Banyuasih",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Cigeulis",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Ciseureuheun",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Karangbolong",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Karyabuana",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Katumbiri",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Sinarjaya",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Tarumanagara",
+    "postal_code": "42282"
+  },
+  {
+    "id": 3601052003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360105,
+    "value": "Waringinjaya",
+    "postal_code": "42282"
+  }
+]

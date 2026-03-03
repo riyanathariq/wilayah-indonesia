@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201162006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Bahingin",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Balean",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Bolobungkang",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Dolom",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Kadodi",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Lambuli",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Lobu",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Niubulan",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Uha Uhangon",
+    "postal_code": "94750"
+  },
+  {
+    "id": 7201162007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720116,
+    "value": "Uwe Daka-Daka",
+    "postal_code": "94750"
+  }
+]

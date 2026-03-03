@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3505182006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Doko",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Genengan",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Jambepawon",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Kalimanis",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Plumbangan",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Resapombo",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Sidorejo",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Slorok",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Sumberurip (Sumber Urip)",
+    "postal_code": "66186"
+  },
+  {
+    "id": 3505182002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350518,
+    "value": "Suru",
+    "postal_code": "66186"
+  }
+]

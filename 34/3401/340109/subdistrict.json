@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3401092002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340109,
+    "value": "Giripurwo",
+    "postal_code": "55674"
+  },
+  {
+    "id": 3401092001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340109,
+    "value": "Jatimulyo",
+    "postal_code": "55674"
+  },
+  {
+    "id": 3401092003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340109,
+    "value": "Pendoworejo",
+    "postal_code": "55674"
+  },
+  {
+    "id": 3401092004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340109,
+    "value": "Purwosari",
+    "postal_code": "55674"
+  }
+]

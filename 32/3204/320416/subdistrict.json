@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3204162004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Ancolmekar",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Arjasari",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Baros",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Batukarut",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Lebakwangi",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Mangunjaya",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Mekarjaya",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Patrolsari",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Pinggirsari",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Rancakole",
+    "postal_code": "40379"
+  },
+  {
+    "id": 3204162011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320416,
+    "value": "Wargaluyu",
+    "postal_code": "40379"
+  }
+]

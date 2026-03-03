@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3218062005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321806,
+    "value": "Jangraga",
+    "postal_code": "46371"
+  },
+  {
+    "id": 3218062002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321806,
+    "value": "Kertajaya",
+    "postal_code": "46371"
+  },
+  {
+    "id": 3218062003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321806,
+    "value": "Mangunjaya",
+    "postal_code": "46371"
+  },
+  {
+    "id": 3218062004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321806,
+    "value": "Sindangjaya (Sindang Jaya)",
+    "postal_code": "46371"
+  },
+  {
+    "id": 3218062001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321806,
+    "value": "Sukamaju",
+    "postal_code": "46371"
+  }
+]

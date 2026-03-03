@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3403012007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Baleharjo",
+    "postal_code": "55811"
+  },
+  {
+    "id": 3403012011,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Duwet",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Gari",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012014,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Karangrejek (Karang Rejek)",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Karangtengah (Karang Tengah)",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Kepek",
+    "postal_code": "55813"
+  },
+  {
+    "id": 3403012012,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Mulo",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Piyaman",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012009,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Pulutan",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Selang",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Siraman",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012010,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Wareng",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Wonosari",
+    "postal_code": "55851"
+  },
+  {
+    "id": 3403012013,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340301,
+    "value": "Wunung",
+    "postal_code": "55851"
+  }
+]

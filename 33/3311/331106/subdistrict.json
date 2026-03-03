@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3311062009,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Bendosari",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062006,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Cabeyan",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062014,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Gentan",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062004,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Jagan",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311061001,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Jombor",
+    "postal_code": "57521"
+  },
+  {
+    "id": 3311062005,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Manisharjo",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062011,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Mertan",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062010,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Mojorejo",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062003,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Mulur",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062008,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Paluhombo",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062007,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Puhgogor",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062013,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Sidorejo",
+    "postal_code": "57527"
+  },
+  {
+    "id": 3311062012,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Sugihan",
+    "postal_code": "57528"
+  },
+  {
+    "id": 3311062002,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331106,
+    "value": "Toriyo",
+    "postal_code": "57528"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3529212001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Nonggunong",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Rosong",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Sokarami Paseser (Sokarame Paseser)",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Sokaramme Timur (Sokarame Timur)",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Somber",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Sonok",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Talaga",
+    "postal_code": "69484"
+  },
+  {
+    "id": 3529212003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352921,
+    "value": "Tanah Merah (Tanahmerah)",
+    "postal_code": "69484"
+  }
+]

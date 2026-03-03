@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3302132001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Gerduren",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Kaliputih",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Kalitapen",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Kaliurip",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Kaliwangi",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Karangmangu",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Karangtalun Kidul",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Karangtalun Lor",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Klapasawit",
+    "postal_code": "53175"
+  },
+  {
+    "id": 3302132005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330213,
+    "value": "Purwojati",
+    "postal_code": "53175"
+  }
+]

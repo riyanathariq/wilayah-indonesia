@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3214152003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321415,
+    "value": "Ciririp",
+    "postal_code": "41116"
+  },
+  {
+    "id": 3214152002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321415,
+    "value": "Kertamanah",
+    "postal_code": "41116"
+  },
+  {
+    "id": 3214152001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321415,
+    "value": "Kutamanah",
+    "postal_code": "41116"
+  },
+  {
+    "id": 3214152005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321415,
+    "value": "Parungbanteng",
+    "postal_code": "41116"
+  },
+  {
+    "id": 3214152004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321415,
+    "value": "Sukasari",
+    "postal_code": "41116"
+  }
+]

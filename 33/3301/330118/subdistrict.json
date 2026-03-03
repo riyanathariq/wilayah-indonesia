@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3301182001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Caruy",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Cipari",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Cisuru",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Karangreja",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Kutasari",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Mekarsari",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Mulyadadi",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Pegadingan",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Segaralangu",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Serang",
+    "postal_code": "53262"
+  },
+  {
+    "id": 3301182011,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330118,
+    "value": "Sidasari",
+    "postal_code": "53262"
+  }
+]

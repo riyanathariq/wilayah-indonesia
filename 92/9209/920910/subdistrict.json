@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209102012,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Binasi",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102014,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Binmaks",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102013,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Kabibwan",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102016,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Manggapnut",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Saukorem",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102017,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Waramui",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102021,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Warpaperi",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209102006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Wasarak",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209102004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920910,
+    "value": "Wefiani (Wefani)",
+    "postal_code": "98381"
+  }
+]

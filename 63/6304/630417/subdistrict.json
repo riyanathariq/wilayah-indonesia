@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6304172003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Bahandang",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Cahaya Baru",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Jejangkit Barat",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Jejangkit Muara",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Jejangkit Pasar",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Jejangkit Timur",
+    "postal_code": "70581"
+  },
+  {
+    "id": 6304172001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630417,
+    "value": "Sampurna",
+    "postal_code": "70581"
+  }
+]

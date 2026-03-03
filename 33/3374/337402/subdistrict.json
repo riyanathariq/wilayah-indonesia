@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3374021001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Bandarharjo",
+    "postal_code": "50175"
+  },
+  {
+    "id": 3374021002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Bulu Lor",
+    "postal_code": "50179"
+  },
+  {
+    "id": 3374021009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Dadapsari",
+    "postal_code": "50173"
+  },
+  {
+    "id": 3374021005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Kuningan",
+    "postal_code": "50176"
+  },
+  {
+    "id": 3374021007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Panggung Kidul",
+    "postal_code": "50178"
+  },
+  {
+    "id": 3374021006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Panggung Lor",
+    "postal_code": "50177"
+  },
+  {
+    "id": 3374021003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Plombokan",
+    "postal_code": "50171"
+  },
+  {
+    "id": 3374021004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Purwosari",
+    "postal_code": "50172"
+  },
+  {
+    "id": 3374021008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337402,
+    "value": "Tanjung Mas (Tanjungmas)",
+    "postal_code": "50174"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1308182001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130818,
+    "value": "Koto Nopan",
+    "postal_code": "26357"
+  },
+  {
+    "id": 1308182002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130818,
+    "value": "Koto Rajo",
+    "postal_code": "26357"
+  },
+  {
+    "id": 1308182003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130818,
+    "value": "Languang",
+    "postal_code": "26357"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5303212001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Lanaus",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303212002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Letmafo",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303212006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Letmafo Timur",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303211004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Maubesi",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303212007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Oehalo",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303212005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Sone",
+    "postal_code": "85673"
+  },
+  {
+    "id": 5303212003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530321,
+    "value": "Tainsala",
+    "postal_code": "85673"
+  }
+]

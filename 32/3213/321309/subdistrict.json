@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213092007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Ciasem Baru (Ciasembaru)",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Ciasem Girang",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Ciasem Hilir",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Ciasem Tengah",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Dukuh",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Jatibaru",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Pinangsari",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Sukahaji",
+    "postal_code": "41256"
+  },
+  {
+    "id": 3213092006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321309,
+    "value": "Sukamandijaya",
+    "postal_code": "41256"
+  }
+]

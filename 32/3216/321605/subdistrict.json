@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216052002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Jalenjaya (Jejalenjaya)",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Karangsatria",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Satriajaya",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Satriamekar",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Sriamur",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Srijaya",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Srimahi",
+    "postal_code": "17511"
+  },
+  {
+    "id": 3216052005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321605,
+    "value": "Srimukti",
+    "postal_code": "17511"
+  }
+]

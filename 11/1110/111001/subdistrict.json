@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1110012002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111001,
+    "value": "Pulau Baguk",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110012001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111001,
+    "value": "Pulau Balai",
+    "postal_code": "24791"
+  },
+  {
+    "id": 1110012004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111001,
+    "value": "Teluk Nibung",
+    "postal_code": "24791"
+  }
+]

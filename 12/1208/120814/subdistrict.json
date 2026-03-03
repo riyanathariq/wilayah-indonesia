@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1208142011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Bandar Sauhur",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Bunga Sampang",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Hinalang",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Huta Raja",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Nagori Tongah",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Pematang Purba",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Purba Dolok (Purba Dolog)",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Purba Sipinggan",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Purba Tongah",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Seribu Jandi (Seribu Jadi)",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Tano Tinggir",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208141008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Tiga Runggu",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142014,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Urung Pane",
+    "postal_code": "21166"
+  },
+  {
+    "id": 1208142003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120814,
+    "value": "Urung Purba",
+    "postal_code": "21166"
+  }
+]

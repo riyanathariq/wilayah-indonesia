@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3273151004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Caringin",
+    "postal_code": "40212"
+  },
+  {
+    "id": 3273151002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Cibuntu",
+    "postal_code": "40212"
+  },
+  {
+    "id": 3273151005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Cigondewah Kaler",
+    "postal_code": "40214"
+  },
+  {
+    "id": 3273151008,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Cigondewah Kidul",
+    "postal_code": "40214"
+  },
+  {
+    "id": 3273151007,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Cigondewah Rahayu",
+    "postal_code": "40215"
+  },
+  {
+    "id": 3273151001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Cijerah",
+    "postal_code": "40213"
+  },
+  {
+    "id": 3273151006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Gempolsari",
+    "postal_code": "40215"
+  },
+  {
+    "id": 3273151003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327315,
+    "value": "Warung Muncang",
+    "postal_code": "40211"
+  }
+]

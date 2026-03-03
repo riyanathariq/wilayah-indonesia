@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5321042005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Angkaes",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042013,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Bonetasea",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042008,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Forekmodok",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Haitimuk",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042012,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Haliklaran",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Kleseleon",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042010,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Lakulo",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Laleten",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042007,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Lamudur",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042011,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Leunklot",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042014,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Taaba",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042009,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Umalawain",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Wederok",
+    "postal_code": "85774"
+  },
+  {
+    "id": 5321042001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532104,
+    "value": "Wesey",
+    "postal_code": "85774"
+  }
+]

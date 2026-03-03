@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1376031001,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Balai Jaring",
+    "postal_code": "26235"
+  },
+  {
+    "id": 1376031011,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Koto Baru",
+    "postal_code": "26237"
+  },
+  {
+    "id": 1376031010,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Koto Panjang",
+    "postal_code": "26237"
+  },
+  {
+    "id": 1376031002,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Padang Alai Bodi",
+    "postal_code": "26236"
+  },
+  {
+    "id": 1376031003,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Padang Tangah Payobadar",
+    "postal_code": "26231"
+  },
+  {
+    "id": 1376031007,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Padang Tiakar",
+    "postal_code": "26232"
+  },
+  {
+    "id": 1376031009,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Payobasung",
+    "postal_code": "26237"
+  },
+  {
+    "id": 1376031005,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Sicincin",
+    "postal_code": "26233"
+  },
+  {
+    "id": 1376031015,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137603,
+    "value": "Tiakar",
+    "postal_code": "26231"
+  }
+]

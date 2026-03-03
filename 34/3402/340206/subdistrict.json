@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3402062001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340206,
+    "value": "Catuharjo (Caturharjo)",
+    "postal_code": "55761"
+  },
+  {
+    "id": 3402062003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340206,
+    "value": "Gilangharjo",
+    "postal_code": "55761"
+  },
+  {
+    "id": 3402062002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340206,
+    "value": "Triharjo",
+    "postal_code": "55761"
+  },
+  {
+    "id": 3402062004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340206,
+    "value": "Wijirejo",
+    "postal_code": "55761"
+  }
+]

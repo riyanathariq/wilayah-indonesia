@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1813032007,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Bambang",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032009,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Bandar Pugung",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Cahaya Negeri",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Lemong",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Malaya",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032008,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Pagar Dalam",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032013,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Parda Haga",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813032010,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Penengahan (Pengehan)",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032011,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Rata Agung",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032012,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Sukamulya (Suka Mulya)",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813032001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Tanjung Jati",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Tanjung Sakti",
+    "postal_code": "34877"
+  },
+  {
+    "id": 1813032003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181303,
+    "value": "Way Batang",
+    "postal_code": "34877"
+  }
+]

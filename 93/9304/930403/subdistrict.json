@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9304032007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Agani",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Bu",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Er",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Erma",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Mumugi II (Mumugu Dua)",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Mumugu",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Pupis",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Sauti",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Sawa",
+    "postal_code": "99783"
+  },
+  {
+    "id": 9304032006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930403,
+    "value": "Sona",
+    "postal_code": "99783"
+  }
+]

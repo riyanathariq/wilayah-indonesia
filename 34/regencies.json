@@ -1,0 +1,32 @@
+[
+  {
+    "id": 3402,
+    "province_id": 34,
+    "type": "Kabupaten",
+    "value": "Bantul"
+  },
+  {
+    "id": 3403,
+    "province_id": 34,
+    "type": "Kabupaten",
+    "value": "Gunungkidul"
+  },
+  {
+    "id": 3401,
+    "province_id": 34,
+    "type": "Kabupaten",
+    "value": "Kulon Progo"
+  },
+  {
+    "id": 3404,
+    "province_id": 34,
+    "type": "Kabupaten",
+    "value": "Sleman"
+  },
+  {
+    "id": 3471,
+    "province_id": 34,
+    "type": "Kota",
+    "value": "Kota Yogyakarta"
+  }
+]

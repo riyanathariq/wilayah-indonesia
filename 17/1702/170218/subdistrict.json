@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1702182011,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Air Lanang",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702181001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Air Putih Baru",
+    "postal_code": "39112"
+  },
+  {
+    "id": 1702182007,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Lubuk Ubar",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182008,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Pungguk Lalang",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Rimbo Recap",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Suka Marga",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182010,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Tanjung Dalam",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Teladan (Desa Teladan)",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702181002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Tempel Rejo",
+    "postal_code": "39124"
+  },
+  {
+    "id": 1702182009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Turan Baru",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702182004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170218,
+    "value": "Watas Marga",
+    "postal_code": "39125"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1212232004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Harungguan",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Lumban Lobu",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232014,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Lumban Sangkalan",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Naga Timbul",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232015,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Nagatimbul Timur",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232012,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Pardolok Lumban Lobu",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232011,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Partoruan Lumban Lobu",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Sibadihon",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Sihiong",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Silamosik II",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232013,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Silombu",
+    "postal_code": "22387"
+  },
+  {
+    "id": 1212232002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121223,
+    "value": "Sinar Sabungan",
+    "postal_code": "22387"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5305122005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Kamaifui",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Lakatuli",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Mataru Barat",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Mataru Selatan",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Mataru Timur",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Mataru Utara",
+    "postal_code": "85860"
+  },
+  {
+    "id": 5305122007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530512,
+    "value": "Taman Mataru",
+    "postal_code": "85860"
+  }
+]

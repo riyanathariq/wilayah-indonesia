@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6402092004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Kahala",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Kahala Ilir",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Lamin Pulut",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Lamin Telihan",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Semayang",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Teluk Bingkai",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Teluk Muda",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Tuana Tuha",
+    "postal_code": "75564"
+  },
+  {
+    "id": 6402092005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640209,
+    "value": "Tubuhan",
+    "postal_code": "75564"
+  }
+]

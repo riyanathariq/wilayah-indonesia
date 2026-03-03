@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3204442004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Bandasari",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Cangkuang",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Ciluncat",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Jatisari",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Nagrak",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Pananjung",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3204442007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320444,
+    "value": "Tanjungsari",
+    "postal_code": "40238"
+  }
+]

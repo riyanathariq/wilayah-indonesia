@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8202102003,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Damuli",
+    "postal_code": "97857"
+  },
+  {
+    "id": 8202102005,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Masure",
+    "postal_code": "97857"
+  },
+  {
+    "id": 8202102002,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Nursifa",
+    "postal_code": "97857"
+  },
+  {
+    "id": 8202102006,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Palo",
+    "postal_code": "97857"
+  },
+  {
+    "id": 8202102004,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Peniti",
+    "postal_code": "97857"
+  },
+  {
+    "id": 8202102001,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820210,
+    "value": "Sakam",
+    "postal_code": "97857"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9501212009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Abutpuk",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Alona",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Fikha",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Gua Wisata",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Isaiman",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Meagamia",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Siba",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Undulumo",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Usilimo",
+    "postal_code": "99524"
+  },
+  {
+    "id": 9501212003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950121,
+    "value": "Wosiala",
+    "postal_code": "99524"
+  }
+]

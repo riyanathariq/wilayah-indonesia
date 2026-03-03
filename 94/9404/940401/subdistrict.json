@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9404011032,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Dingo Narama",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404012013,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Hangaitji",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011029,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Kebun Sirih",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Koperapoka",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Kwamki",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404012012,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Minabua",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404012010,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Nayaro",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011030,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Otomona",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011027,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Pasar Sentral",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011031,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Perintis",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011026,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Sempan",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011033,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Timika Indah",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011007,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Timika Jaya",
+    "postal_code": "99952"
+  },
+  {
+    "id": 9404011028,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940401,
+    "value": "Wanagon",
+    "postal_code": "99952"
+  }
+]

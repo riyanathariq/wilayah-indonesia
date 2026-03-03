@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3215192002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Ciwaringin",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Karangtanjung",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Karyamukti",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Kedawung",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Lemahabang",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Lemahmukti",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Pasirtanjung",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Pulojaya",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Pulokalapa (Pulokelapa)",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Pulomulya",
+    "postal_code": "41383"
+  },
+  {
+    "id": 3215192003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321519,
+    "value": "Waringinkarya",
+    "postal_code": "41383"
+  }
+]

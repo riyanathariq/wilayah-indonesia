@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8205082002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Baleha",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205082003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Fatkauyon",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205082005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Sama",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205082001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Waigoiyofa",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205082004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Wailia",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205082006,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820508,
+    "value": "Waisepa",
+    "postal_code": "97795"
+  }
+]

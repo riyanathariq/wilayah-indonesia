@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3302032006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Adisara",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Bantar",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Gentawangi",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Gunung Wetan",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Karanganyar",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Karanglewas",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Kedungwringin",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Margasana",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Pekuncen",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Tinggarjaya",
+    "postal_code": "53174"
+  },
+  {
+    "id": 3302032010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330203,
+    "value": "Tunjung (Tanjung)",
+    "postal_code": "53174"
+  }
+]

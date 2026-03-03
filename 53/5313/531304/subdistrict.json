@@ -1,0 +1,138 @@
+[
+  {
+    "id": 5313042016,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Atakowa",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042017,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Banitobo",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042005,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Baopama (Baopana)",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042012,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Belorebong (Balurebong)",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042008,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Dikesare",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042001,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Hadakewa",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042013,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lamadale",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042015,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lamalela",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042002,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lamatuka",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042010,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lerahinga",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042007,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lewoeleng",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042004,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Lodotodokowa",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042009,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Merdeka",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042003,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Seranggorang",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042011,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Tapobarang (Tapobaran)",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042014,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Tapolangu",
+    "postal_code": "86681"
+  },
+  {
+    "id": 5313042006,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531304,
+    "value": "Waienga",
+    "postal_code": "86681"
+  }
+]

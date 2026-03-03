@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1217092004,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Buntu Mauli",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092006,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Cinta Maju",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092001,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Holbung",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092008,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Janji Maria",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092002,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Janji Raja",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092007,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Parsaoran",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092003,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Sabulan",
+    "postal_code": "22397"
+  },
+  {
+    "id": 1217092005,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121709,
+    "value": "Tamba Dolok",
+    "postal_code": "22397"
+  }
+]

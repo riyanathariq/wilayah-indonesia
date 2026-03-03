@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3507252004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Bedali",
+    "postal_code": "65215"
+  },
+  {
+    "id": 3507251005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Kalirejo",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252011,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Ketindan",
+    "postal_code": "65214"
+  },
+  {
+    "id": 3507251010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Lawang",
+    "postal_code": "65211"
+  },
+  {
+    "id": 3507252006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Mulyoarjo",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Sidodadi",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Sidoluhur",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Srigading",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Sumberngepoh (Sumber Ngepoh)",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Sumberporong (Sumber Porong)",
+    "postal_code": "65216"
+  },
+  {
+    "id": 3507252009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Turirejo",
+    "postal_code": "65213"
+  },
+  {
+    "id": 3507252012,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350725,
+    "value": "Wonorejo",
+    "postal_code": "65216"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9204202006,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Bedare",
+    "postal_code": "98225"
+  },
+  {
+    "id": 9204202001,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Mugim",
+    "postal_code": "98225"
+  },
+  {
+    "id": 9204202002,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Nusa",
+    "postal_code": "98225"
+  },
+  {
+    "id": 9204202004,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Puragi",
+    "postal_code": "98225"
+  },
+  {
+    "id": 9204202003,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Saga",
+    "postal_code": "98225"
+  },
+  {
+    "id": 9204202005,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920420,
+    "value": "Tawanggire",
+    "postal_code": "98225"
+  }
+]

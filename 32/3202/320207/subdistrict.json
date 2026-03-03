@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3202072002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320207,
+    "value": "Cilangkap",
+    "postal_code": "43174"
+  },
+  {
+    "id": 3202072005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320207,
+    "value": "Langkapjaya",
+    "postal_code": "43174"
+  },
+  {
+    "id": 3202072001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320207,
+    "value": "Lengkong",
+    "postal_code": "43174"
+  },
+  {
+    "id": 3202072004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320207,
+    "value": "Neglasari",
+    "postal_code": "43174"
+  },
+  {
+    "id": 3202072003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320207,
+    "value": "Tegallega",
+    "postal_code": "43174"
+  }
+]

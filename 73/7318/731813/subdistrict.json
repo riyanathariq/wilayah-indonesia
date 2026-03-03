@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7318132004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731813,
+    "value": "Bulian Massa'bu (Bulian Massabu)",
+    "postal_code": "91881"
+  },
+  {
+    "id": 7318131010,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731813,
+    "value": "Buntu Masakke",
+    "postal_code": "91881"
+  },
+  {
+    "id": 7318132006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731813,
+    "value": "Kaero",
+    "postal_code": "91881"
+  },
+  {
+    "id": 7318131009,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731813,
+    "value": "Tongko Sarapung",
+    "postal_code": "91881"
+  },
+  {
+    "id": 7318132008,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731813,
+    "value": "Turunan",
+    "postal_code": "91881"
+  }
+]

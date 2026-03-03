@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3505111006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Bence",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505111004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Garum",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505112009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Karangrejo",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505112001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Pojok",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505112008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Sidodadi",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505112007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Slorok",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505111002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Sumberdiren",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505111003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Tawangsari (Tawang Sari)",
+    "postal_code": "66182"
+  },
+  {
+    "id": 3505112005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350511,
+    "value": "Tingal",
+    "postal_code": "66182"
+  }
+]

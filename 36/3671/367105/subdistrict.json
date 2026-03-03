@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3671051001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Cipondoh",
+    "postal_code": "15148"
+  },
+  {
+    "id": 3671051003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Cipondoh Indah",
+    "postal_code": "15148"
+  },
+  {
+    "id": 3671051002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Cipondoh Makmur",
+    "postal_code": "15148"
+  },
+  {
+    "id": 3671051004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Gondrong",
+    "postal_code": "15146"
+  },
+  {
+    "id": 3671051005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Kenanga",
+    "postal_code": "15146"
+  },
+  {
+    "id": 3671051007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Ketapang",
+    "postal_code": "15147"
+  },
+  {
+    "id": 3671051006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Petir",
+    "postal_code": "15147"
+  },
+  {
+    "id": 3671051008,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Poris Plawad",
+    "postal_code": "15141"
+  },
+  {
+    "id": 3671051010,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Poris Plawad Indah",
+    "postal_code": "15141"
+  },
+  {
+    "id": 3671051009,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367105,
+    "value": "Poris Plawad Utara",
+    "postal_code": "15141"
+  }
+]

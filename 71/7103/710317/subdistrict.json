@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7103171008,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Apengsembeka (Apeng Sembeka)",
+    "postal_code": "95811"
+  },
+  {
+    "id": 7103171015,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Bungalawang",
+    "postal_code": "95811"
+  },
+  {
+    "id": 7103171009,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Mahena",
+    "postal_code": "95813"
+  },
+  {
+    "id": 7103171017,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Manente",
+    "postal_code": "95811"
+  },
+  {
+    "id": 7103171016,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Santiago",
+    "postal_code": "95811"
+  },
+  {
+    "id": 7103171006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Sawang Bendar",
+    "postal_code": "95812"
+  },
+  {
+    "id": 7103171007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Soataloara I",
+    "postal_code": "95813"
+  },
+  {
+    "id": 7103171018,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710317,
+    "value": "Soataloara II",
+    "postal_code": "95813"
+  }
+]

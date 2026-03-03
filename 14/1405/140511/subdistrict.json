@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1405112005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140511,
+    "value": "Kiab Jaya",
+    "postal_code": "28383"
+  },
+  {
+    "id": 1405112002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140511,
+    "value": "Lubuk Ogung",
+    "postal_code": "28383"
+  },
+  {
+    "id": 1405112004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140511,
+    "value": "Muda Setia",
+    "postal_code": "28383"
+  },
+  {
+    "id": 1405111001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140511,
+    "value": "Sei Kijang",
+    "postal_code": "28383"
+  },
+  {
+    "id": 1405112003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140511,
+    "value": "Simpang Beringin",
+    "postal_code": "28383"
+  }
+]

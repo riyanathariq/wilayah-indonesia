@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3323132002,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Badran",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132003,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Bengkal",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132011,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Gentan",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132010,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Kemloko",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132009,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Klepu",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132012,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Kramat",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323131001,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Kranggan",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132006,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Ngropoh",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132005,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Nguwet",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132004,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Pare",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132007,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Pendowo",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132013,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Purwosari",
+    "postal_code": "56271"
+  },
+  {
+    "id": 3323132008,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332313,
+    "value": "Sanggrahan",
+    "postal_code": "56271"
+  }
+]

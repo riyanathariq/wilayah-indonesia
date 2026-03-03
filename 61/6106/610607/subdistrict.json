@@ -1,0 +1,114 @@
+[
+  {
+    "id": 6106072008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Bontai",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Kanan",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Kiri Hilir",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Kiri Hulu",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Kiri Tengah",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Pasar (Jengkong Pasar)",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Jongkong Tanjung",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072011,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Kandung Suli",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072013,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Karya Baru",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072014,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Nanga Serian",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072012,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Penepian Raya",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Temenang",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Ujung Jambu",
+    "postal_code": "78763"
+  },
+  {
+    "id": 6106072005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610607,
+    "value": "Ujung Said",
+    "postal_code": "78763"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7305071007,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Bajeng",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071004,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Kalabbirang",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071005,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Maradekaya (Mardekaya)",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071002,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Pallantikang",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071006,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Pappa",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071001,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Pattallassang",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071008,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Sabintang",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071009,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Salaka",
+    "postal_code": "92211"
+  },
+  {
+    "id": 7305071003,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730507,
+    "value": "Somba Bella (Sombabella)",
+    "postal_code": "92211"
+  }
+]

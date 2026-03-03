@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601112006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Bungurcopong",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Ciherang",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Cililitan",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Ganggaeng",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Kadubera",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Kadupandak",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Kolelet",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Pasirpanjang",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601112001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360111,
+    "value": "Pasirsedang",
+    "postal_code": "42275"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9105151001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Anatorei (Anotaurei)",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Famboaman",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Kandowarira",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Ketu Api",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Mantembu",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Mariaderi",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Warari",
+    "postal_code": "98631"
+  },
+  {
+    "id": 9105152003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910515,
+    "value": "Yapan",
+    "postal_code": "98631"
+  }
+]

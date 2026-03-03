@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6206022006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Banut Kalanaman",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206022008,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Hampalit",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206021003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Kasongan Baru",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206021004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Kasongan Lama",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206022007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Talangkah (Telangkah)",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206022005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Talian Kereng",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206022001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Tewang Kadamba",
+    "postal_code": "74413"
+  },
+  {
+    "id": 6206022002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620602,
+    "value": "Tumbang Liting",
+    "postal_code": "74413"
+  }
+]

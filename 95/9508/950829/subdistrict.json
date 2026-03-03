@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9508292004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Luaren",
+    "postal_code": "99917"
+  },
+  {
+    "id": 9508292001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Muli",
+    "postal_code": "99917"
+  },
+  {
+    "id": 9508292002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Tinigele",
+    "postal_code": "99917"
+  },
+  {
+    "id": 9508292005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Wangun",
+    "postal_code": "99917"
+  },
+  {
+    "id": 9508292003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Wuone",
+    "postal_code": "99917"
+  },
+  {
+    "id": 9508292006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950829,
+    "value": "Wutpaga",
+    "postal_code": "99917"
+  }
+]

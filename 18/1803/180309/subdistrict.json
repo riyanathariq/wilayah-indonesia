@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1803092006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Banjar Wangi",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Kali Cinta",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Madokoro Baru (Madukoro Baru)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Madukoro",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Margo Rejo (Margorejo)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Sawo Jajar",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Talang Jali",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803092003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180309,
+    "value": "Wono Marto (Wonomarto)",
+    "postal_code": "34511"
+  }
+]

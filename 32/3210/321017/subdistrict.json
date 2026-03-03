@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3210172005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Banjaran",
+    "postal_code": "45468"
+  },
+  {
+    "id": 3210172002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Bongas Kulon",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Bongas Wetan",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Cidenok",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Garawangi",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Gelok Mulya",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Lojikobong (Loji Kobong)",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Pancaksuji",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Paningkiran",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Panjalin Kidul",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Panjalin Lor",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Parapatan",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Rancaputat",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Sepat",
+    "postal_code": "45455"
+  },
+  {
+    "id": 3210172013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321017,
+    "value": "Sumberjaya",
+    "postal_code": "45455"
+  }
+]

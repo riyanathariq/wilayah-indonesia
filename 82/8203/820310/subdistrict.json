@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8203102001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Gorua",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Gorua Selatan",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102007,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Gorua Utara",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102008,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Kokota Jaya (Kokotua Jaya)",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Luari",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Popilo",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Popilo Utara (Popila Utara)",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102009,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Ruko",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102010,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Tolonua Selatan",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203102005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820310,
+    "value": "Tolonuo",
+    "postal_code": "97767"
+  }
+]

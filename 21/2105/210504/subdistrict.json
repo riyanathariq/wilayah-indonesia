@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2105042007,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Air Bini",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Kiabu",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Lingai",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Mengkait",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Telaga",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Telaga Kecil",
+    "postal_code": "29790"
+  },
+  {
+    "id": 2105042004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210504,
+    "value": "Tiangau",
+    "postal_code": "29790"
+  }
+]

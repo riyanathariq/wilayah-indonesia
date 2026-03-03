@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1805182004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Abadi",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Agung",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Jaya",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Makmur",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Mulya",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Sejahtera",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Dipasena Utama",
+    "postal_code": "34590"
+  },
+  {
+    "id": 1805182006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180518,
+    "value": "Bumi Sentosa (Bumi Dipasena Sentosa)",
+    "postal_code": "34590"
+  }
+]

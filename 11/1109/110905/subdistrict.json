@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1109052001,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Babussalam",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052006,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Bulu Hadik",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052003,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Gunung Putih",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052005,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Kuala Bakti",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052010,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Kuala Baru",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052008,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Luan Balu",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052004,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Lugu Sek Bahak (Sebahak)",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052002,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Muara Aman",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052007,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Sambai (Sambay)",
+    "postal_code": "23890"
+  },
+  {
+    "id": 1109052009,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110905,
+    "value": "Tanjung Raya",
+    "postal_code": "23890"
+  }
+]

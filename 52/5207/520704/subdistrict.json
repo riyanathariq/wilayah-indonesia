@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5207042004,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Ai Kangkung",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042007,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Kemuning",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Sekongkang Atas",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Sekongkang Bawah",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042006,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Talonang Baru (Talonang)",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042005,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Tatar",
+    "postal_code": "84457"
+  },
+  {
+    "id": 5207042003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520704,
+    "value": "Tongo",
+    "postal_code": "84457"
+  }
+]

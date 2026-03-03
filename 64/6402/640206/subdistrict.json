@@ -1,0 +1,114 @@
+[
+  {
+    "id": 6402062014,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Bendang Raya",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Bukit Biru",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Jahab",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Kampung Baru",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Loa Ipuh",
+    "postal_code": "75513"
+  },
+  {
+    "id": 6402061013,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Loa Ipuh Darat",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Loa Tebu",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061011,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Maluhu",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Mangkurawang",
+    "postal_code": "75517"
+  },
+  {
+    "id": 6402061005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Melayu",
+    "postal_code": "75512"
+  },
+  {
+    "id": 6402061006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Panji",
+    "postal_code": "75514"
+  },
+  {
+    "id": 6402062012,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Rapak Lambur",
+    "postal_code": "75511"
+  },
+  {
+    "id": 6402061007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Sukarame",
+    "postal_code": "75515"
+  },
+  {
+    "id": 6402061004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640206,
+    "value": "Timbau",
+    "postal_code": "75511"
+  }
+]

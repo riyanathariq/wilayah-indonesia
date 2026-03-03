@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3310122002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Beji",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Bendo",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Jatimulyo",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Jetiswetan (Jetis Wetan)",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122011,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Kalangan",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122013,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Kaligawe",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Keden",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122009,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Kedungan",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122014,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Lemahireng",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Ngaren",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122010,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Sobayan",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122008,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Tambakboyo",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Temuwangi",
+    "postal_code": "57468"
+  },
+  {
+    "id": 3310122012,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331012,
+    "value": "Troketon",
+    "postal_code": "57468"
+  }
+]

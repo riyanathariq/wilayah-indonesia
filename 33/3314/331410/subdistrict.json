@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3314101006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Karang Tengah",
+    "postal_code": "57216"
+  },
+  {
+    "id": 3314102008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Kedungupit",
+    "postal_code": "57211"
+  },
+  {
+    "id": 3314101005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Nglorog",
+    "postal_code": "57215"
+  },
+  {
+    "id": 3314101001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Sine",
+    "postal_code": "57213"
+  },
+  {
+    "id": 3314101002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Sragen Kulon",
+    "postal_code": "57212"
+  },
+  {
+    "id": 3314101003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Sragen Tengah",
+    "postal_code": "57211"
+  },
+  {
+    "id": 3314101004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Sragen Wetan",
+    "postal_code": "57214"
+  },
+  {
+    "id": 3314102007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331410,
+    "value": "Tangkil",
+    "postal_code": "57211"
+  }
+]

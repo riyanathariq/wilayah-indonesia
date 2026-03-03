@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206232002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920623,
+    "value": "Barma",
+    "postal_code": "98153"
+  },
+  {
+    "id": 9206232003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920623,
+    "value": "Barma Baru (Stencool)",
+    "postal_code": "98153"
+  },
+  {
+    "id": 9206232001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920623,
+    "value": "Meyado (Mayado/Meyabo)",
+    "postal_code": "98153"
+  },
+  {
+    "id": 9206232004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920623,
+    "value": "Vasco Damneen (Vesco Damnem/Sten)",
+    "postal_code": "98153"
+  }
+]

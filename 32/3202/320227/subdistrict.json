@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202272003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Cibentang",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Cibolang",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Cikujang",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Gunungguruh",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Kebonmanggu",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Mangkalaya",
+    "postal_code": "43156"
+  },
+  {
+    "id": 3202272004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320227,
+    "value": "Sirnaresmi",
+    "postal_code": "43156"
+  }
+]

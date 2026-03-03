@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5104072009,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Bresela (Beresela)",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072005,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Buahan",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072008,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Buahan Kaja",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072003,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Bukian",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072002,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Kelusa",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072006,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Kerta",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072001,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Melinggih",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072007,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Melinggih Kelod",
+    "postal_code": "80572"
+  },
+  {
+    "id": 5104072004,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510407,
+    "value": "Puhu",
+    "postal_code": "80572"
+  }
+]

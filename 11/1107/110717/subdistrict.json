@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1107172022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "B. Kumot Tunong",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Balue Kulu",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Balue Tanoh",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Barieh",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Beutong Perlak",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Beutong Pocut",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Blang Cut",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Blang Kumot Baroh",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Bucue",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Cot Cantek",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Cot Sukon",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Cumbok Lie",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Cumbok Niwa",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Gampong Jumpa (Kampong Jeumpa)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172030,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Jurong Pante",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172049,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Kampong Baro",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Kampong Cot",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Kampong Pisang Bucue",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Kandang",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lam Ujong",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172039,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lameue Meunasah Baro",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172040,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lameue Mns. Lueng (Meunasah Lueng)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172038,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lameue Mns. Raya (Meunasah Raya)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Leupeuem Mesjid (Leupeum Mesjid)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172037,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lhok Mee (Lhok Me)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lhok Panah",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172045,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Lingkok",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172035,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mali Cot",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172050,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mali Guyui",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172032,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mali Lamkuta (Lamkuta)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172034,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mali Mesjid",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172033,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mali Uke (Meunasah Uke)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mancang",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Meunasah Empeh (Lhok Empeh)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172047,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mns Balee",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172043,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mns Blang Sakti",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mns Dayah Tuha",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172042,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Mns Raya Kp Pisang",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Murong Cot",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Murong Lhok",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Paloh Jeureula",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172029,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Pantee Krueng (Pante Krueng)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172046,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Pasar Kota Bakti",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172048,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Perlak Asan",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172044,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Perlak Baroh",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Pulo Jeumpa",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172041,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Pulo Kreumbok (Pulo Kerumbok)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Riweuek (Riweuk)",
+    "postal_code": "24164"
+  },
+  {
+    "id": 1107172036,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110717,
+    "value": "Tangkueng (Tang Kueng)",
+    "postal_code": "24164"
+  }
+]

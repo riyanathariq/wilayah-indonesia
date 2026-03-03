@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7309072002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Allaere",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309071001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Borong",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Damai",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Kurusumange (Kuru Sumange)",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Lekopancing (Leko Pancing)",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072008,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Purnakarya (Purna Karya)",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072007,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Sudirman",
+    "postal_code": "90553"
+  },
+  {
+    "id": 7309072003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730907,
+    "value": "Toddopulia (Toddo Pulia)",
+    "postal_code": "90553"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1275041002,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Dataran Tinggi",
+    "postal_code": "20736"
+  },
+  {
+    "id": 1275041004,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Mencirim",
+    "postal_code": "20733"
+  },
+  {
+    "id": 1275041007,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Sumber Karya",
+    "postal_code": "20737"
+  },
+  {
+    "id": 1275041006,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Sumber Mulyorejo (Sumber Mulyo Rejo)",
+    "postal_code": "20735"
+  },
+  {
+    "id": 1275041001,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Tanah Tinggi",
+    "postal_code": "20731"
+  },
+  {
+    "id": 1275041003,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Timbang Langkat",
+    "postal_code": "20732"
+  },
+  {
+    "id": 1275041005,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127504,
+    "value": "Tunggurono",
+    "postal_code": "20734"
+  }
+]

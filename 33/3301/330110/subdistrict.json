@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3301102011,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Bulusari",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Cinangsi",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Cisumur",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Gandrungmangu",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Gandrungmanis",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Gintungreja",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Karanganyar",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Karanggintung",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102014,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Kertajaya",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Layansari",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102012,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Muktisari",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Rungkang",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Sidaurip",
+    "postal_code": "53254"
+  },
+  {
+    "id": 3301102013,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330110,
+    "value": "Wringinharjo",
+    "postal_code": "53254"
+  }
+]

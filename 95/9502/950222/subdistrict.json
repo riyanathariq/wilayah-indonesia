@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9502222007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Komok",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Okamin",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Okbumul",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Okhim",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Oklip",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Oktem",
+    "postal_code": "99425"
+  },
+  {
+    "id": 9502222006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950222,
+    "value": "Oktumi",
+    "postal_code": "99425"
+  }
+]

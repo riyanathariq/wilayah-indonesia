@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3404022004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidoagung",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022006,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidoarum",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidokarto",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidoluhur",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022007,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidomoyo",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidomulyo",
+    "postal_code": "55264"
+  },
+  {
+    "id": 3404022001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340402,
+    "value": "Sidorejo",
+    "postal_code": "55264"
+  }
+]

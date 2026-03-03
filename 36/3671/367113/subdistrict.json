@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3671131003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Cipadu",
+    "postal_code": "15155"
+  },
+  {
+    "id": 3671131007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Cipadu Jaya",
+    "postal_code": "15155"
+  },
+  {
+    "id": 3671131006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Gaga",
+    "postal_code": "15154"
+  },
+  {
+    "id": 3671131004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Kreo",
+    "postal_code": "15156"
+  },
+  {
+    "id": 3671131008,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Kreo Selatan",
+    "postal_code": "15156"
+  },
+  {
+    "id": 3671131005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Larangan Indah",
+    "postal_code": "15154"
+  },
+  {
+    "id": 3671131002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Larangan Selatan",
+    "postal_code": "15154"
+  },
+  {
+    "id": 3671131001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367113,
+    "value": "Larangan Utara",
+    "postal_code": "15154"
+  }
+]

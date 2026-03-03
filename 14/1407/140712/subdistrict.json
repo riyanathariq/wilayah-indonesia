@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1407122001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140712,
+    "value": "Bantayan/Bantaian",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407122003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140712,
+    "value": "Bantayan/Bantaian Baru",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407121004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140712,
+    "value": "Bantayan/Bantaian Hilir",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407122002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140712,
+    "value": "Sungaisialang (Sei / Sungai Sialang)",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407122005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140712,
+    "value": "Sungaisialang Hulu (Sei / Sungai Sialang Hulu)",
+    "postal_code": "28912"
+  }
+]

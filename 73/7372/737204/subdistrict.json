@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7372041006,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Bumi Harapan",
+    "postal_code": "91121"
+  },
+  {
+    "id": 7372041002,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Cappa Galung (Cappagalung)",
+    "postal_code": "91122"
+  },
+  {
+    "id": 7372041001,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Kampung Baru",
+    "postal_code": "91121"
+  },
+  {
+    "id": 7372041003,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Lumpue",
+    "postal_code": "91123"
+  },
+  {
+    "id": 7372041005,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Sumpang Minangae",
+    "postal_code": "91121"
+  },
+  {
+    "id": 7372041004,
+    "province_id": 73,
+    "regency_id": 7372,
+    "district_id": 737204,
+    "value": "Tiro Sompe",
+    "postal_code": "91125"
+  }
+]

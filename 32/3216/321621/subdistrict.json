@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216212007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Cilangkara",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Jayamulya",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Jayasampurna (Jaya Sampurna)",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Nagacipta",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Nagasari",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Sirnajaya",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Sukaragam",
+    "postal_code": "17330"
+  },
+  {
+    "id": 3216212003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321621,
+    "value": "Sukasari",
+    "postal_code": "17330"
+  }
+]

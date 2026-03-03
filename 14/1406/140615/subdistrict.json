@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1406152003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140615,
+    "value": "Kepayang (Kepayan)",
+    "postal_code": "28564"
+  },
+  {
+    "id": 1406152001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140615,
+    "value": "Kepenuhan Hulu",
+    "postal_code": "28564"
+  },
+  {
+    "id": 1406152005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140615,
+    "value": "Kepenuhan Jaya",
+    "postal_code": "28564"
+  },
+  {
+    "id": 1406152004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140615,
+    "value": "Muara Jaya",
+    "postal_code": "28564"
+  },
+  {
+    "id": 1406152002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140615,
+    "value": "Pekan Tebih",
+    "postal_code": "28564"
+  }
+]

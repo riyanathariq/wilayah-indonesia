@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3174071010,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Cipete Utara",
+    "postal_code": "12150"
+  },
+  {
+    "id": 3174071009,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Gandaria Utara",
+    "postal_code": "12140"
+  },
+  {
+    "id": 3174071002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Gunung",
+    "postal_code": "12120"
+  },
+  {
+    "id": 3174071003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Kramat Pela",
+    "postal_code": "12130"
+  },
+  {
+    "id": 3174071001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Melawai",
+    "postal_code": "12160"
+  },
+  {
+    "id": 3174071008,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Petogogan",
+    "postal_code": "12170"
+  },
+  {
+    "id": 3174071007,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Pulo",
+    "postal_code": "12160"
+  },
+  {
+    "id": 3174071005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Rawa Barat",
+    "postal_code": "12180"
+  },
+  {
+    "id": 3174071004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Selong",
+    "postal_code": "12110"
+  },
+  {
+    "id": 3174071006,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317407,
+    "value": "Senayan",
+    "postal_code": "12190"
+  }
+]

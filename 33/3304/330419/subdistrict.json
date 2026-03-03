@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3304192008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Beji",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Lawen",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Pandanarum",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Pasegeran",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Pingit Lor",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Pringamba",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Sinduaji",
+    "postal_code": "53459"
+  },
+  {
+    "id": 3304192006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330419,
+    "value": "Sirongge",
+    "postal_code": "53459"
+  }
+]

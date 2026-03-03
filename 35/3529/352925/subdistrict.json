@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3529252004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Pagerungan Besar (Pagerrungan Besar)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Pagerungan Kecil (Pagerrungan Kecil)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Paliat (Paleyat)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Sabunten (Saunten)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252010,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Sadulang",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Sakala",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Sapeken (Sepeken)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Saseel (Sase'el)",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252011,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Saur Saebus",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Sepanjang",
+    "postal_code": "69493"
+  },
+  {
+    "id": 3529252002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352925,
+    "value": "Tanjung Kiaok",
+    "postal_code": "69493"
+  }
+]

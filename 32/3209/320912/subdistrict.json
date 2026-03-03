@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3209122007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Bandengan",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Banjarwangunan",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Citemu",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Luwung",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Mundu Mesigit (Mundumesigit)",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Mundu Pesisir (Mundupesisir)",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Pamengkang",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Penpen",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Setupatok",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Sinar Rancang (Sinarrancang)",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Suci",
+    "postal_code": "45173"
+  },
+  {
+    "id": 3209122005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320912,
+    "value": "Waruduwur",
+    "postal_code": "45173"
+  }
+]

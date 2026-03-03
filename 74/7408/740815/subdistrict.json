@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7408152004,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Bahari",
+    "postal_code": "93951"
+  },
+  {
+    "id": 7408152001,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Lawaki Jaya",
+    "postal_code": "93951"
+  },
+  {
+    "id": 7408152005,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Leleulu (Lelewulu)",
+    "postal_code": "93951"
+  },
+  {
+    "id": 7408152006,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Loka",
+    "postal_code": "93951"
+  },
+  {
+    "id": 7408152002,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Patikala",
+    "postal_code": "93951"
+  },
+  {
+    "id": 7408152003,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740815,
+    "value": "Tolala",
+    "postal_code": "93951"
+  }
+]

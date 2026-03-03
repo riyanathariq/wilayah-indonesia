@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9105172005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910517,
+    "value": "Dorau",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105172004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910517,
+    "value": "Nuniandei",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105172003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910517,
+    "value": "Perea",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105172001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910517,
+    "value": "Saweru",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105172002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910517,
+    "value": "Umani",
+    "postal_code": "98653"
+  }
+]

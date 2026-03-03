@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6302202004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Kerayaan Utara",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Oka-Oka",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Pulau Kerasian",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Pulau Kerayaan",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Pulau Kerumputan",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Tanjung Lalak Selatan",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Tanjung Lalak Utara",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Teluk Aru",
+    "postal_code": "72154"
+  },
+  {
+    "id": 6302202008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630220,
+    "value": "Teluk Kemuning",
+    "postal_code": "72154"
+  }
+]

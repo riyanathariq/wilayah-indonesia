@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9502072006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Dikdon",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Ehiptem (Ehipten/Ohiptem)",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Oketur",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072013,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Okhik (Oklip)",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Okyako",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Okyaop",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Okyop (Okyob/Okyaop)",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072012,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Tatam",
+    "postal_code": "99422"
+  },
+  {
+    "id": 9502072005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950207,
+    "value": "Wantem (Wanten)",
+    "postal_code": "99422"
+  }
+]

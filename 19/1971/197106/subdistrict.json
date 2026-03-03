@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1971061005,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Air Salemba",
+    "postal_code": "33111"
+  },
+  {
+    "id": 1971061004,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Gabek Dua",
+    "postal_code": "33116"
+  },
+  {
+    "id": 1971061003,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Gabek Satu",
+    "postal_code": "33118"
+  },
+  {
+    "id": 1971061006,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Jerambah Gantung",
+    "postal_code": "33119"
+  },
+  {
+    "id": 1971061001,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Selindung (Selindung Lama)",
+    "postal_code": "33117"
+  },
+  {
+    "id": 1971061002,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197106,
+    "value": "Selindung Baru",
+    "postal_code": "33117"
+  }
+]

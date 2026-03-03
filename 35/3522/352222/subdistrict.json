@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3522222006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Geneng",
+    "postal_code": "62168"
+  },
+  {
+    "id": 3522222001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Kalangan",
+    "postal_code": "62168"
+  },
+  {
+    "id": 3522222003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Margomulyo",
+    "postal_code": "62168"
+  },
+  {
+    "id": 3522222005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Meduri",
+    "postal_code": "62168"
+  },
+  {
+    "id": 3522222002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Ngelo",
+    "postal_code": "62168"
+  },
+  {
+    "id": 3522222004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352222,
+    "value": "Sumberejo",
+    "postal_code": "62168"
+  }
+]

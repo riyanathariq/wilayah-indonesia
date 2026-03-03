@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3211252009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Cibuluh",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Cipelang",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Keboncau (Kebon Cau)",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Kudangwangi",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Palabuan",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Palasari",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Sakurjaya",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Sukamulya",
+    "postal_code": "45383"
+  },
+  {
+    "id": 3211252001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321125,
+    "value": "Ujungjaya",
+    "postal_code": "45383"
+  }
+]

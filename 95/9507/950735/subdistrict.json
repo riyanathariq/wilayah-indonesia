@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507352006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Ilunggijime",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Juyiga",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Kelulome",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Lewinagi",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Muluneri",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Peragime",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Talogi",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Wegenpura",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Wiringgame",
+    "postal_code": "99577"
+  },
+  {
+    "id": 9507352002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950735,
+    "value": "Wiyagi",
+    "postal_code": "99577"
+  }
+]

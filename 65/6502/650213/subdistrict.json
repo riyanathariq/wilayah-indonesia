@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6502132004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Batu Kajang",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Gong Solok",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Long Adiu",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Punan Gong Solok",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Punan Long Adiu",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Punan Setarap",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Setarap",
+    "postal_code": "77552"
+  },
+  {
+    "id": 6502132001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650213,
+    "value": "Setulang",
+    "postal_code": "77552"
+  }
+]

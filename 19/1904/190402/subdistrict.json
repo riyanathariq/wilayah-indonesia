@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1904022004,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Air Mesu (Airmesu)",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022020,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Air Mesu Timur",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022018,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Batu Belubang",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022014,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Beluluk",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022010,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Benteng",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904021001,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Dul",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022013,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Jeruk",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022021,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Kebintik",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022006,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Mangkol",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022012,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Padang Baru",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022016,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Pedindang (Pelindang / Selindung)",
+    "postal_code": "33684"
+  },
+  {
+    "id": 1904022007,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190402,
+    "value": "Tanjung Gunung",
+    "postal_code": "33684"
+  }
+]

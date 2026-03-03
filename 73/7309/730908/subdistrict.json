@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7309082006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Abulosibatang",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Bonto Mate'ne",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Ma'rumpa",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Nisombalia",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082007,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Pa'bentengang",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Tellum Poccoe (Tellumpoccoe)",
+    "postal_code": "90551"
+  },
+  {
+    "id": 7309082001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730908,
+    "value": "Temmapaduae (Temappadduae)",
+    "postal_code": "90551"
+  }
+]

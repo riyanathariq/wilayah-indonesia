@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3518202005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Begendeng",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Dawuhan",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202011,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Dlururejo (Dluru)",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Gondang Wetan",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Jatikalen",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Lumpangkuwik (Lumpang Kuwik)",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Munung",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Ngasem",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Perning",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202010,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Pule",
+    "postal_code": "64392"
+  },
+  {
+    "id": 3518202009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351820,
+    "value": "Pulowetan",
+    "postal_code": "64392"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1807152006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Bandar Agung",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Mekar Jaya",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Sadar Sriwijaya",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Sribhawono (Sri Bawono / Bhawono)",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Srimenanti (Sri Menanti)",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Sripendowo (Sri Pendowo)",
+    "postal_code": "34389"
+  },
+  {
+    "id": 1807152005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180715,
+    "value": "Waringin Jaya",
+    "postal_code": "34389"
+  }
+]

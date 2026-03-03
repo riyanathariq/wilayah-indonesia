@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3529222005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Alas Malang (Alasmalang)",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Brakas",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Guwa Guwa",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Jungkat",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Karangnangka",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Ketupat",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Kropoh (Karopoh)",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Poteran",
+    "postal_code": "69485"
+  },
+  {
+    "id": 3529222008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352922,
+    "value": "Tonduk",
+    "postal_code": "69485"
+  }
+]

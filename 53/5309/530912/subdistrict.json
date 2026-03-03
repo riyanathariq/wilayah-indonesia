@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5309122015,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Batajawa",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122017,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Bowaru",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Dariwali",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Dariwali I (Manubhara)",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122004,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Naruwolo",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122007,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Naruwolo I",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Naruwolo II",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Nenowea",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Nio Lewa",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Tiworiwu",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Tiworiwu I",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122012,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Tiworiwu II",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Watumanu",
+    "postal_code": "86451"
+  },
+  {
+    "id": 5309122016,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530912,
+    "value": "Wongawea",
+    "postal_code": "86451"
+  }
+]

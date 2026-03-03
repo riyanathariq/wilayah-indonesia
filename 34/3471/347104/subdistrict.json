@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3471041003,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347104,
+    "value": "Bausasran",
+    "postal_code": "55211"
+  },
+  {
+    "id": 3471041001,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347104,
+    "value": "Suryatmajan",
+    "postal_code": "55213"
+  },
+  {
+    "id": 3471041002,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347104,
+    "value": "Tegalpanggung (Tegal Panggung)",
+    "postal_code": "55212"
+  }
+]

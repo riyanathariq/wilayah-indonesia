@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1608202002,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Anyar",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202006,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Muncak Kabau",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202003,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Pandan Sari III",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202004,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Rawasari",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202007,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Sri Bulan",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Sri Bunga",
+    "postal_code": "32364"
+  },
+  {
+    "id": 1608202005,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160820,
+    "value": "Surya Menang",
+    "postal_code": "32364"
+  }
+]

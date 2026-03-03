@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1708062006,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Air Sempiang",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062008,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Babakan Bogor",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062001,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Bandung Baru",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062015,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Bandung Jaya",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062009,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Barat Wetan",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062002,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Bukit Sari",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708061005,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Kabawetan/Tangsi Baru",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062012,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Mekar Sari",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062010,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Pematang Donok",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062013,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Sido Makmur",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062014,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Sido Rejo",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062004,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Suka Sari (Sukasari)",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062011,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Sumber Sari",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062007,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Tangsi Duren",
+    "postal_code": "39376"
+  },
+  {
+    "id": 1708062003,
+    "province_id": 17,
+    "regency_id": 1708,
+    "district_id": 170806,
+    "value": "Tugu Rejo (Tugurejo)",
+    "postal_code": "39376"
+  }
+]

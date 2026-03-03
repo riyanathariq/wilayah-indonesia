@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5203182001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Gelanggang",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Gereneng",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Gereneng Timur",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Lenting",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Lepak",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Lepak Timur",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Menceh",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Montong Tangi (Montongtangi)",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Surabaya",
+    "postal_code": "83674"
+  },
+  {
+    "id": 5203182008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520318,
+    "value": "Surabaya Utara",
+    "postal_code": "83674"
+  }
+]

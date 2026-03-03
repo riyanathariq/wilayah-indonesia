@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5307032008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Baopaat",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Du",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Hepang",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Iligai",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Kolidetung",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Korowuwu",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Lela",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Sikka",
+    "postal_code": "86161"
+  },
+  {
+    "id": 5307032002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530703,
+    "value": "Watutedang",
+    "postal_code": "86161"
+  }
+]

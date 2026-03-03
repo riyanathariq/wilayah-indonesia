@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9405012020,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Ilambet",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012018,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Jenggerpaga",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Kago",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012021,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Kalebut",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012019,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "kibogolome",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Kimak",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012016,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Nipuralome",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012017,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Tagaloa",
+    "postal_code": "98965"
+  },
+  {
+    "id": 9405012012,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940501,
+    "value": "Wuloni",
+    "postal_code": "98965"
+  }
+]

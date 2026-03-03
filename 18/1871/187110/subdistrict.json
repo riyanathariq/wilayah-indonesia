@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871101002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Gedong Meneng",
+    "postal_code": "35145"
+  },
+  {
+    "id": 1871101007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Gedong Meneng Baru",
+    "postal_code": "35145"
+  },
+  {
+    "id": 1871101001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Rajabasa",
+    "postal_code": "35144"
+  },
+  {
+    "id": 1871101009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Rajabasa Jaya",
+    "postal_code": "35144"
+  },
+  {
+    "id": 1871101005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Rajabasa Nunyai",
+    "postal_code": "35144"
+  },
+  {
+    "id": 1871101006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Rajabasa Pemuka",
+    "postal_code": "35144"
+  },
+  {
+    "id": 1871101008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187110,
+    "value": "Rajabasa Raya",
+    "postal_code": "35144"
+  }
+]

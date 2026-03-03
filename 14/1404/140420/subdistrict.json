@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1404201001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Benteng",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Benteng Barat",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Benteng Utara",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Kuala Patah Parang",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Kuala Sungai Batang",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Mugo Mulyo",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Pandan Sari",
+    "postal_code": "29270"
+  },
+  {
+    "id": 1404202003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140420,
+    "value": "Pasenggerahan (Pesanggerahan / Pasenggarahan)",
+    "postal_code": "29270"
+  }
+]

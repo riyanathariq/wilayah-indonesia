@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3304102011,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Gumingsir",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Kandangwangi",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Karangjambe",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Karangkemiri",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Kasilib (Kasalib)",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Lemahjaya",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102010,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Linggasari",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102009,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Medayu",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Tapen",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Wanadadi",
+    "postal_code": "53461"
+  },
+  {
+    "id": 3304102005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330410,
+    "value": "Wanakarsa",
+    "postal_code": "53461"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1209172001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Bandar Pasir Mandoge",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Gotting Sidodadi",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Huta Bagasan",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Huta Padang",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Sei Kopas",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Sei Nadoras",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Silau Jawa",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Suka Makmur",
+    "postal_code": "21262"
+  },
+  {
+    "id": 1209172008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120917,
+    "value": "Tomuan Holbung",
+    "postal_code": "21262"
+  }
+]

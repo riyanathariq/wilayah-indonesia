@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3202352003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320235,
+    "value": "Bencoy",
+    "postal_code": "43193"
+  },
+  {
+    "id": 3202352004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320235,
+    "value": "Cikurutug",
+    "postal_code": "43193"
+  },
+  {
+    "id": 3202352002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320235,
+    "value": "Cipurut",
+    "postal_code": "43193"
+  },
+  {
+    "id": 3202352001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320235,
+    "value": "Cireunghas",
+    "postal_code": "43193"
+  },
+  {
+    "id": 3202352005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320235,
+    "value": "Tegalpanjang",
+    "postal_code": "43193"
+  }
+]

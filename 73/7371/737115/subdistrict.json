@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7371151001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737115,
+    "value": "Barrang Caddi",
+    "postal_code": "90167"
+  },
+  {
+    "id": 7371151002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737115,
+    "value": "Barrang Lompo",
+    "postal_code": "90166"
+  },
+  {
+    "id": 7371151003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737115,
+    "value": "Kodingareng",
+    "postal_code": "90168"
+  }
+]

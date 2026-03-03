@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5201012007,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Babussalam",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Banyu Urip",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012009,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Beleke",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201011004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Dasan Geres",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012008,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Dasan Tapen",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Gapuk",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201011011,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Gerung Selatan",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201011001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Gerung Utara",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012014,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Giri Tembesi",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Kebon Ayu (Kebunayu)",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012012,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Mesanggok",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Suka Makmur (Sukamakmur)",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012013,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Taman Ayu",
+    "postal_code": "83363"
+  },
+  {
+    "id": 5201012010,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520101,
+    "value": "Tempos",
+    "postal_code": "83363"
+  }
+]

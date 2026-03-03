@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7101342001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Bonawang",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342010,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Dumara",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342009,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Ikuna",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Konarom",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Konarom Barat",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342007,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Konarom Utara",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342008,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Osion",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Tapadaka Satu / I",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Tapadaka Timur",
+    "postal_code": "95735"
+  },
+  {
+    "id": 7101342003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710134,
+    "value": "Tapadaka Utara",
+    "postal_code": "95735"
+  }
+]

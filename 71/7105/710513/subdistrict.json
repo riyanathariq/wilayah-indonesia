@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7105132002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Kaneyan",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Koreng",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Lansot",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132017,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Lansot Timur",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Pinamorongan",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Rumoong Atas (Romoong Atas)",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132014,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Rumoong Atas Dua (Romoong Atas Dua)",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Tumaluntung",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132019,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Tumaluntung Satu",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Wiau Lapi",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132020,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Wiau Lapi Barat",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Wuwuk",
+    "postal_code": "95953"
+  },
+  {
+    "id": 7105132018,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710513,
+    "value": "Wuwuk Barat",
+    "postal_code": "95953"
+  }
+]

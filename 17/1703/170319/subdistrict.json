@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1703192010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Air Ba'us I (Air Baus I)",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Air Ba'us II (Air Baus II)",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Air Banai",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Batu Layang",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Batu Raja Kol",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Batu Raja Rejang",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Batu Roto",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Kota Lekat (Kota Lekat Ilir)",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Kota Lekat Mudik",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Padang Bendar",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192012,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Pematang Balam (Pematang Dalam)",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Sumber Rejo (Sumberejo)",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Taba Padang Kol",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Taba Padang Rejang",
+    "postal_code": "38374"
+  },
+  {
+    "id": 1703192013,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170319,
+    "value": "Talang Rendah",
+    "postal_code": "38374"
+  }
+]

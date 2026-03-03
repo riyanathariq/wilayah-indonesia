@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9505052005,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Danama",
+    "postal_code": "99073"
+  },
+  {
+    "id": 9505052006,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Illusilimo",
+    "postal_code": "99073"
+  },
+  {
+    "id": 9505052003,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Ilugwa",
+    "postal_code": "99073"
+  },
+  {
+    "id": 9505052001,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Kalarin",
+    "postal_code": "99073"
+  },
+  {
+    "id": 9505052002,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Melenggama",
+    "postal_code": "99073"
+  },
+  {
+    "id": 9505052004,
+    "province_id": 95,
+    "regency_id": 9505,
+    "district_id": 950505,
+    "value": "Wirima",
+    "postal_code": "99073"
+  }
+]

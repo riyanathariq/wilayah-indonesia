@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1401052013,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Batulangka Kecil",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052010,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Bukit Melintang",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Empat Balai",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Kuok",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052012,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Lereng",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Merangin",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Pulau Jambu",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052011,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Pulau Terap (Pulautarap)",
+    "postal_code": "28467"
+  },
+  {
+    "id": 1401052008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140105,
+    "value": "Silam",
+    "postal_code": "28467"
+  }
+]

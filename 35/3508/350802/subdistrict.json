@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3508022005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Oro Oro Ombo",
+    "postal_code": "67374"
+  },
+  {
+    "id": 3508022002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Pronojiwo",
+    "postal_code": "67374"
+  },
+  {
+    "id": 3508022001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Sidomulyo",
+    "postal_code": "67374"
+  },
+  {
+    "id": 3508022004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Sumberurip",
+    "postal_code": "67374"
+  },
+  {
+    "id": 3508022006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Supiturang",
+    "postal_code": "67374"
+  },
+  {
+    "id": 3508022003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350802,
+    "value": "Tamanayu",
+    "postal_code": "67374"
+  }
+]

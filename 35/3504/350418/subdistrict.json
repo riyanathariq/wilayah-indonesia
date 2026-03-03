@@ -1,0 +1,154 @@
+[
+  {
+    "id": 3504182015,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Bangunjaya",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182012,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Bangunmulyo",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182002,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Bono",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182004,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Duwet",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182017,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Gebang",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182019,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Gempolan",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182018,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Gesikan",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182008,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Gombang",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182013,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Kasreman",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182006,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Ngebong",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182016,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Ngrance",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182009,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Pakel",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182011,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Pecuk",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182001,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Sambitan",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182014,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Sanan",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182007,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Sodo",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182003,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Sukoanyar",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182010,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Suwaluh",
+    "postal_code": "66273"
+  },
+  {
+    "id": 3504182005,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350418,
+    "value": "Tamban",
+    "postal_code": "66273"
+  }
+]

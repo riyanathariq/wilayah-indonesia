@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3506212002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Balongjeruk (Balung Jeruk)",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Dungus",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Juwet",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Kapas",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Kapi",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Klepek",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Kunjang",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Kuwik",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Pakis",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Parelor",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Tengger Lor (Tenggerlor)",
+    "postal_code": "64156"
+  },
+  {
+    "id": 3506212008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350621,
+    "value": "Wonorejo",
+    "postal_code": "64156"
+  }
+]

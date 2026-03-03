@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5207032002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Air Suning",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032015,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Desaloka",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032008,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Kelanir",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032013,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Lamusung",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Meraran",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Rempe",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032014,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Seran",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032004,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Seteluk Atas",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032005,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Seteluk Tengah",
+    "postal_code": "84453"
+  },
+  {
+    "id": 5207032011,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520703,
+    "value": "Tapir",
+    "postal_code": "84453"
+  }
+]

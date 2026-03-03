@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3672031002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367203,
+    "value": "Lebakgede (Lebak Gede)",
+    "postal_code": "42431"
+  },
+  {
+    "id": 3672031003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367203,
+    "value": "Mekarsari",
+    "postal_code": "42438"
+  },
+  {
+    "id": 3672031004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367203,
+    "value": "Suralaya",
+    "postal_code": "42439"
+  },
+  {
+    "id": 3672031001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367203,
+    "value": "Tamansari",
+    "postal_code": "42438"
+  }
+]

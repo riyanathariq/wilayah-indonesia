@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8206072003,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Akedaga (Ake Daga)",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072002,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Daka Ino",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072001,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Dodaga",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072007,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Rawamangun",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072008,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Sidomulyo",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072004,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Tobo Ino (Toboino)",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072005,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Tutuling Jaya",
+    "postal_code": "97868"
+  },
+  {
+    "id": 8206072006,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820607,
+    "value": "Woka Jaya",
+    "postal_code": "97868"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3209352002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Astapada",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Battembat",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Dawuan",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Gesik",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Kalibaru",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Kalitengah",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Kemlakagede",
+    "postal_code": "45168"
+  },
+  {
+    "id": 3209352001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320935,
+    "value": "Palir",
+    "postal_code": "45168"
+  }
+]

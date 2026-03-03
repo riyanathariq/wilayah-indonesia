@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1803052001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Banjar Agung",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Bumi Agung Marga",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Bumi Jaya",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Gedung Nyapah",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052011,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Papan Rejo",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Penagan Ratu",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Peraduan Waras",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Pungguk Lama",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Rejo Mulyo",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Sidomukti",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052012,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Sumber Agung",
+    "postal_code": "34583"
+  },
+  {
+    "id": 1803052007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180305,
+    "value": "Surakarta",
+    "postal_code": "34583"
+  }
+]

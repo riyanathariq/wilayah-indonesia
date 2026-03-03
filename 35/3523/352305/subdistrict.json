@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3523052004,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Banyuurip",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052002,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Jatisari",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052003,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Kaligede",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052012,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Katerban",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052005,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Leran",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052001,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Medalem",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052011,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Rayung",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052007,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Sendang",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052010,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Sidoharjo",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052008,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Wanglukulon (Wanglu Kulon)",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052009,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Wangluwetan (Wanglu Wetan)",
+    "postal_code": "62365"
+  },
+  {
+    "id": 3523052006,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352305,
+    "value": "Wonosari",
+    "postal_code": "62365"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7324021007,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732402,
+    "value": "Magani",
+    "postal_code": "92983"
+  },
+  {
+    "id": 7324022005,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732402,
+    "value": "Matano",
+    "postal_code": "92983"
+  },
+  {
+    "id": 7324022003,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732402,
+    "value": "Nekkel (Nikkel)",
+    "postal_code": "92983"
+  },
+  {
+    "id": 7324022001,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732402,
+    "value": "Nuha",
+    "postal_code": "92983"
+  },
+  {
+    "id": 7324022009,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732402,
+    "value": "Sorowako (Soroako / Soroaku)",
+    "postal_code": "92983"
+  }
+]

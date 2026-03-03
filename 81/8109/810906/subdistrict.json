@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8109062011,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Batu Karang",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062004,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Fakal",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062002,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Mangeswaen",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062001,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Nusarua",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062008,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Siwatlahin",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062009,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Trukat",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062005,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Uneth",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062003,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Waekatin",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062010,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Waeken",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062007,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Waelo",
+    "postal_code": "97542"
+  },
+  {
+    "id": 8109062006,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810906,
+    "value": "Waeraman (Waereman)",
+    "postal_code": "97542"
+  }
+]

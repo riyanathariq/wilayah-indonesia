@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7208162005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Air Panas",
+    "postal_code": "94460"
+  },
+  {
+    "id": 7208162002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Baliara",
+    "postal_code": "94460"
+  },
+  {
+    "id": 7208162004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Jono Kalora",
+    "postal_code": "94460"
+  },
+  {
+    "id": 7208162003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Kayuboko",
+    "postal_code": "94460"
+  },
+  {
+    "id": 7208162006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Lobu Mandiri",
+    "postal_code": "94460"
+  },
+  {
+    "id": 7208162001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720816,
+    "value": "Parigimpu'u",
+    "postal_code": "94460"
+  }
+]

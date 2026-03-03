@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3209012012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Ambit",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012018,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Cibogo",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012017,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Cikulak",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012016,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Cikulak Kidul",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012019,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Cisaat",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Ciuyah",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012014,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Gunungsari",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012015,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Karangsari",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Mekarsari",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Waled Asem",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Waled Desa",
+    "postal_code": "45180"
+  },
+  {
+    "id": 3209012009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320901,
+    "value": "Waled Kota",
+    "postal_code": "45180"
+  }
+]

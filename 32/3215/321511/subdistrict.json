@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3215112008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Cemarajaya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Cibuaya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Gebangjaya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Jayamulya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Kalidungjaya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Kedungjaya",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Kedungjeruk",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Kertarahayu",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Pejaten",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Sedari",
+    "postal_code": "41356"
+  },
+  {
+    "id": 3215112004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321511,
+    "value": "Sukasari",
+    "postal_code": "41356"
+  }
+]

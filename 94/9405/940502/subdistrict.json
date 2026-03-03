@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9405022010,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Ailpailin",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Jindak",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022009,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Marilaukin",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022014,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Mongkoihol",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022013,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Nagaljagama",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022015,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Nangi",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Pungki",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Ulipia",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Wangbe",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Wonalbe",
+    "postal_code": "98955"
+  },
+  {
+    "id": 9405022012,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940502,
+    "value": "Wungbet",
+    "postal_code": "98955"
+  }
+]

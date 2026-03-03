@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3525112023,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Banjarsari",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112014,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Betiting",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112019,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Cagakagung",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112020,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Cerme Kidul",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112021,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Cerme Lor",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112001,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Dadapkuning",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112005,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Dampaan",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112004,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Dooro",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112010,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Dungus",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112008,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Gedangkulud (Gedangkulut)",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112011,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Guranganyar",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112017,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Iker - iker Geger (Ikerikergeger)",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112025,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Jono",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112012,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Kambingan",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112003,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Kandangan",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112002,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Lengkong",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112013,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Morowudi",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112015,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Ngabetan",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112006,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Ngembung",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112016,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Padeg",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112022,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Pandu",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112018,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Semampir",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112007,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Sukoanyar",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112024,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Tambakberas",
+    "postal_code": "61171"
+  },
+  {
+    "id": 3525112009,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352511,
+    "value": "Wedani",
+    "postal_code": "61171"
+  }
+]

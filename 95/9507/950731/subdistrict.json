@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9507312008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Bawi",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Bonom",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Kumulume",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Kuwanom",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Kuwoge",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Lagame",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Laurapaga",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312011,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Ogin",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Tinggini",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Uwagambur",
+    "postal_code": "99578"
+  },
+  {
+    "id": 9507312009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950731,
+    "value": "Yugimbo",
+    "postal_code": "99578"
+  }
+]

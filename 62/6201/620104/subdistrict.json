@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6201042004,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Gandis",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042005,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Kerabu",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042001,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Nanga Mua",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042010,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Panahan",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042008,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Pandau",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201041002,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Pangkut",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042007,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Penyombaan (Penyobaan)",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042009,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Riam",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042006,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Sambi",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042003,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Sukarami (Sukaramai)",
+    "postal_code": "74152"
+  },
+  {
+    "id": 6201042011,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620104,
+    "value": "Sungai Dau",
+    "postal_code": "74152"
+  }
+]

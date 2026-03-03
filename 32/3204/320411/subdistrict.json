@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3204112009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Banyusari",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Cilampeni",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Gandasari",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Katapang",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Pangauban",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Sangkanhurip",
+    "postal_code": "40921"
+  },
+  {
+    "id": 3204112006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320411,
+    "value": "Sukamukti",
+    "postal_code": "40921"
+  }
+]

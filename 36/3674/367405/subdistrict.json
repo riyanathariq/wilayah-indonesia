@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3674051001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Cempaka Putih",
+    "postal_code": "15412"
+  },
+  {
+    "id": 3674051004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Cireundeu",
+    "postal_code": "15419"
+  },
+  {
+    "id": 3674051003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Pisangan",
+    "postal_code": "15419"
+  },
+  {
+    "id": 3674051002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Pondok Ranji",
+    "postal_code": "15412"
+  },
+  {
+    "id": 3674051005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Rempoa",
+    "postal_code": "15412"
+  },
+  {
+    "id": 3674051006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367405,
+    "value": "Rengas",
+    "postal_code": "15412"
+  }
+]

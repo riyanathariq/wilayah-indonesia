@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5102052003,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Bongan (Boongan)",
+    "postal_code": "82112"
+  },
+  {
+    "id": 5102052011,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Buahan",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052005,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Dauh Peken",
+    "postal_code": "82111"
+  },
+  {
+    "id": 5102052006,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Dejan Peken (Dajan Peken)",
+    "postal_code": "82114"
+  },
+  {
+    "id": 5102052004,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Delod Peken",
+    "postal_code": "82113"
+  },
+  {
+    "id": 5102052007,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Denbantas",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052002,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Gubug",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052012,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Sedandan (Sesandan)",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052008,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Subamia",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052001,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Sudimara",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052010,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Tunjuk",
+    "postal_code": "82115"
+  },
+  {
+    "id": 5102052009,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510205,
+    "value": "Wanasari",
+    "postal_code": "82111"
+  }
+]

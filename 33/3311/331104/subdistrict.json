@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3311041002,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Banmati",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041004,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Begajah",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041010,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Bulakan",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041013,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Bulakrejo",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041008,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Combongan",
+    "postal_code": "57519"
+  },
+  {
+    "id": 3311041011,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Dukuh",
+    "postal_code": "57524"
+  },
+  {
+    "id": 3311041005,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Gayam",
+    "postal_code": "57514"
+  },
+  {
+    "id": 3311041007,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Jetis",
+    "postal_code": "57511"
+  },
+  {
+    "id": 3311041006,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Joho",
+    "postal_code": "57513"
+  },
+  {
+    "id": 3311041001,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Kenep",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041009,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Kriwen",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041003,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Mandan",
+    "postal_code": "57516"
+  },
+  {
+    "id": 3311041014,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Sonorejo",
+    "postal_code": "57551"
+  },
+  {
+    "id": 3311041012,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331104,
+    "value": "Sukoharjo",
+    "postal_code": "57512"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1704132009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Aur Gading",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Datar Lebar",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Datar Lebar II",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Lawang Agung",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Senak (Senak Perda)",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Sinar Bulan",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Sukananti (Suka Nanti)",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Tanjung Bunian",
+    "postal_code": "38957"
+  },
+  {
+    "id": 1704132006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170413,
+    "value": "Tanjung Kurung",
+    "postal_code": "38957"
+  }
+]

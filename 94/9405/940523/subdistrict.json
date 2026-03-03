@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9405232004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Alama",
+    "postal_code": "98961"
+  },
+  {
+    "id": 9405232001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Amungkalpia",
+    "postal_code": "98961"
+  },
+  {
+    "id": 9405232002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Bela",
+    "postal_code": "98961"
+  },
+  {
+    "id": 9405232006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Bemoki",
+    "postal_code": "98961"
+  },
+  {
+    "id": 9405232003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Ompliga",
+    "postal_code": "98961"
+  },
+  {
+    "id": 9405232005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940523,
+    "value": "Tagalarama",
+    "postal_code": "98961"
+  }
+]

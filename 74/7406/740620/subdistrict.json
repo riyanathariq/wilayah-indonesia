@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406202005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740620,
+    "value": "Puu Wonua",
+    "postal_code": "93789"
+  },
+  {
+    "id": 7406202003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740620,
+    "value": "Tete Haka",
+    "postal_code": "93789"
+  },
+  {
+    "id": 7406202002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740620,
+    "value": "Tongkoseng",
+    "postal_code": "93789"
+  },
+  {
+    "id": 7406202001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740620,
+    "value": "Tontonunu",
+    "postal_code": "93789"
+  },
+  {
+    "id": 7406202004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740620,
+    "value": "Watu Melomba",
+    "postal_code": "93789"
+  }
+]

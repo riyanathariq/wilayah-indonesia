@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3210252008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Bayureja",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Garawastu",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Gunungkuning (Gunung Kuning)",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Indrakila",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Pasirayu",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Sangkanhurip",
+    "postal_code": "45471"
+  },
+  {
+    "id": 3210252002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321025,
+    "value": "Sindang",
+    "postal_code": "45471"
+  }
+]

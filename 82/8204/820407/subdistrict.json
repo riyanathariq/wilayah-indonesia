@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8204072001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Babang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072013,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Bori",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072016,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Goro Goro",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072023,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Kaireu",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072014,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Nyonyifi",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072015,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Sabatang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072017,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Sali Kecil",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072021,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Sayoang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072018,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Timlonga",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204072022,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820407,
+    "value": "Wayamiga",
+    "postal_code": "97791"
+  }
+]

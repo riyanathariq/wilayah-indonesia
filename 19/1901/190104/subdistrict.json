@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1901042011,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Air Buluh",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042009,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Air Duren",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Cengkong Abang",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042007,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Kace",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042014,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Kace Timur",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042008,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Kemuja",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042010,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Kota Kapur",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042013,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Labuh Air Pandan",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Mendo (Menduk)",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Paya Benua (Payabenua)",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Penagan",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Petaling",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042015,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Petaling Banjar",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042012,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Rukam",
+    "postal_code": "33173"
+  },
+  {
+    "id": 1901042003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190104,
+    "value": "Zed",
+    "postal_code": "33173"
+  }
+]

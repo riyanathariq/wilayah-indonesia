@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6306112004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Badaun",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Bajayau",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Bajayau Lama",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Bajayau Tengah",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Baru",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Siang Gantung",
+    "postal_code": "71252"
+  },
+  {
+    "id": 6306112003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630611,
+    "value": "Tanjung Selor",
+    "postal_code": "71252"
+  }
+]

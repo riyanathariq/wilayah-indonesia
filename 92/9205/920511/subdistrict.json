@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9205112005,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Arborek",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112007,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Kabuy (Kabui)",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112002,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Kapisawar",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112008,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Kurkapa",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112009,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Sawandarek",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Sawinggrai",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Yenbekwan (Yembekwan)",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112006,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Yenbuba",
+    "postal_code": "98472"
+  },
+  {
+    "id": 9205112004,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920511,
+    "value": "Yenwaupnoor (Yenwaupnor)",
+    "postal_code": "98472"
+  }
+]

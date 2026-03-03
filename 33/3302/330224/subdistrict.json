@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3302241003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Berkoh",
+    "postal_code": "53146"
+  },
+  {
+    "id": 3302241001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Karangklesem (Karang Klesem)",
+    "postal_code": "53144"
+  },
+  {
+    "id": 3302241006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Karangpucung (Karang Pucung)",
+    "postal_code": "53142"
+  },
+  {
+    "id": 3302241004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Purwokerto Kidul",
+    "postal_code": "53147"
+  },
+  {
+    "id": 3302241005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Purwokerto Kulon",
+    "postal_code": "53141"
+  },
+  {
+    "id": 3302241007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Tanjung",
+    "postal_code": "53144"
+  },
+  {
+    "id": 3302241002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330224,
+    "value": "Teluk",
+    "postal_code": "53145"
+  }
+]

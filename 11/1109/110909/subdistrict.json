@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1109092007,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Abail",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092011,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Batu-Batu",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092004,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Busung Indah",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092005,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Kahad (Kahat)",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092009,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Labuah",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092003,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Lanting",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092002,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Lasikin",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092001,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Matanurung (Matan Urung)",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092008,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Nancawa",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092006,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Simpang Abail",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092012,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Situbuk",
+    "postal_code": "23899"
+  },
+  {
+    "id": 1109092010,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110909,
+    "value": "Sua-Sua",
+    "postal_code": "23899"
+  }
+]

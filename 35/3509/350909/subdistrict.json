@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3509092011,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Badean",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Bangsalsari",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Banjarsari",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Curahkalong (Curah Kalong)",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Gambirono",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Karangsono",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Langkap",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Petung",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Sukorejo",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Tisnogambar",
+    "postal_code": "68154"
+  },
+  {
+    "id": 3509092004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350909,
+    "value": "Tugusari",
+    "postal_code": "68154"
+  }
+]

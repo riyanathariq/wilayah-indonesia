@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3401062008,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Banguncipto",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Demangrejo",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Kaliagung",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Salamrejo",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062007,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Sentolo",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Srikayangan",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Sukoreno",
+    "postal_code": "55664"
+  },
+  {
+    "id": 3401062003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340106,
+    "value": "Tuksono",
+    "postal_code": "55664"
+  }
+]

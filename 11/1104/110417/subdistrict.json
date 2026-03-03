@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1104172002,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Asir-Asir",
+    "postal_code": "24513"
+  },
+  {
+    "id": 1104172003,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Asir-Asir Asia",
+    "postal_code": "24512"
+  },
+  {
+    "id": 1104172004,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Bale Atu",
+    "postal_code": "24512"
+  },
+  {
+    "id": 1104172005,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Bujang",
+    "postal_code": "24512"
+  },
+  {
+    "id": 1104172006,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Gunung Suku",
+    "postal_code": "24512"
+  },
+  {
+    "id": 1104172007,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Hakim Bale Bujang",
+    "postal_code": "24513"
+  },
+  {
+    "id": 1104172008,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Kenawat",
+    "postal_code": "24515"
+  },
+  {
+    "id": 1104172009,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Kuteni Reje (Kute Nireje / Kuteni Raja)",
+    "postal_code": "24512"
+  },
+  {
+    "id": 1104172017,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Merah Mersa",
+    "postal_code": "24516"
+  },
+  {
+    "id": 1104172010,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Pedemun One-One",
+    "postal_code": "24515"
+  },
+  {
+    "id": 1104172011,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Rawe",
+    "postal_code": "24516"
+  },
+  {
+    "id": 1104172012,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Takengon Barat",
+    "postal_code": "24514"
+  },
+  {
+    "id": 1104172001,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Takengon Timur",
+    "postal_code": "24511"
+  },
+  {
+    "id": 1104172016,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Teluk One-One",
+    "postal_code": "24515"
+  },
+  {
+    "id": 1104172014,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Toweran Toa (Toweren Toa)",
+    "postal_code": "24516"
+  },
+  {
+    "id": 1104172013,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Toweren Antara",
+    "postal_code": "24516"
+  },
+  {
+    "id": 1104172015,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Toweren Uken",
+    "postal_code": "24516"
+  },
+  {
+    "id": 1104172018,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110417,
+    "value": "Waq Toweren",
+    "postal_code": "24516"
+  }
+]

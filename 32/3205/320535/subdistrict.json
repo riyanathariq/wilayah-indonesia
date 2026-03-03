@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3205352004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Cikarang",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Cisewu",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Girimukti",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Karangsewu",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Mekarsewu",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Nyalindung",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Pamalayan",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Panggalih",
+    "postal_code": "44169"
+  },
+  {
+    "id": 3205352005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320535,
+    "value": "Sukajaya",
+    "postal_code": "44169"
+  }
+]

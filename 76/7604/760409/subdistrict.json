@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7604092006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Ba'ba Tapua",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604092007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Katimbang",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604092002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Lilli",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604092005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Mambu Tapua",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604091001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Matangnga",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604092003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Rangoan",
+    "postal_code": "91350"
+  },
+  {
+    "id": 7604092004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760409,
+    "value": "Tapua",
+    "postal_code": "91350"
+  }
+]

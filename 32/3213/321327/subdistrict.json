@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213272009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Batusari",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Cisampih",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Dawuan Kaler",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Dawuan Kidul",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Jambelaer",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Manyeti",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Margasari",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Rawalele",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Situsari",
+    "postal_code": "41270"
+  },
+  {
+    "id": 3213272003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321327,
+    "value": "Sukasari",
+    "postal_code": "41270"
+  }
+]

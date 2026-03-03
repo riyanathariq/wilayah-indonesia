@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206052006,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920605,
+    "value": "Barma Barat",
+    "postal_code": "98155"
+  },
+  {
+    "id": 9206052011,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920605,
+    "value": "Inggof",
+    "postal_code": "98155"
+  },
+  {
+    "id": 9206052001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920605,
+    "value": "Jagiro",
+    "postal_code": "98155"
+  },
+  {
+    "id": 9206052004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920605,
+    "value": "Meyenda",
+    "postal_code": "98155"
+  },
+  {
+    "id": 9206052005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920605,
+    "value": "Rawara",
+    "postal_code": "98155"
+  }
+]

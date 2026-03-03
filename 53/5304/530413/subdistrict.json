@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5304132003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Dua Koran (Duakoran)",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132006,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Faturika",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132007,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Leuntolu",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Mandeu",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Mandeu Raimanus (Raimanus)",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132005,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Rafae",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Renrua",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132009,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Tasain",
+    "postal_code": "85760"
+  },
+  {
+    "id": 5304132008,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530413,
+    "value": "Teun",
+    "postal_code": "85760"
+  }
+]

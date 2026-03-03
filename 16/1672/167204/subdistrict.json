@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1672041021,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167204,
+    "value": "Atung Bungsu",
+    "postal_code": "31521"
+  },
+  {
+    "id": 1672041020,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167204,
+    "value": "Kance Diwe",
+    "postal_code": "31521"
+  },
+  {
+    "id": 1672041002,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167204,
+    "value": "Lubuk Buntak",
+    "postal_code": "31521"
+  },
+  {
+    "id": 1672041022,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167204,
+    "value": "Penjalang",
+    "postal_code": "31521"
+  },
+  {
+    "id": 1672041018,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167204,
+    "value": "Prabu Dipo (Prahu Dipo)",
+    "postal_code": "31521"
+  }
+]

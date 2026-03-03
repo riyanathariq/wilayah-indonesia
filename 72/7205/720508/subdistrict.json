@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7205082001,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Biau",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082010,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Binuang",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082014,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Bukal",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082002,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Bungkudu",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082008,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Diat",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082005,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Modo I (Modo)",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082012,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Mooyong",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082007,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Mopu",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082013,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Mulat",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082009,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Potangoan",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082003,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Rantemaranu",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082006,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Unone",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082004,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Winangun",
+    "postal_code": "94571"
+  },
+  {
+    "id": 7205082011,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720508,
+    "value": "Yugut",
+    "postal_code": "94571"
+  }
+]

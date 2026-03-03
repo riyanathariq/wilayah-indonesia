@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7406091008,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Aneka Marga",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Hukaea",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Lantowua",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092006,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Marga Jaya",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Tembe",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092007,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Tunas Baru",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Watu Mende (Watu Mentade)",
+    "postal_code": "93788"
+  },
+  {
+    "id": 7406092001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740609,
+    "value": "Wumbubangka (Wumbu Bangka)",
+    "postal_code": "93788"
+  }
+]

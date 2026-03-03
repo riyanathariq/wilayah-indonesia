@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1501042009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Ambai Atas",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042026,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Ambai Bawah",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042030,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Angkasa Pura",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Betung Kuning",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042028,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Hiang Karya",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042029,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Hiang Lestari",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042031,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Hiang Sakti",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Hiang Tinggi",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Koto Baru Hiang",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042033,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Koto Sekilan Ambai",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042034,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Penawar Tinggi",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Pendung Hilir",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Pendung Tengah",
+    "postal_code": "37171"
+  },
+  {
+    "id": 1501042010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150104,
+    "value": "Tanjungmudo (Tanjung Mudo)",
+    "postal_code": "37171"
+  }
+]

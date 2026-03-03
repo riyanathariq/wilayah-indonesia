@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3202032001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Cikakak",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Cileungsing",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Cimaja",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Cirendang",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Gandasoli",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Margalaksana",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Ridogalih",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Sirnarasa",
+    "postal_code": "43365"
+  },
+  {
+    "id": 3202032004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320203,
+    "value": "Sukamaju",
+    "postal_code": "43365"
+  }
+]

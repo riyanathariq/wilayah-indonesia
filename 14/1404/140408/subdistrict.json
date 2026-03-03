@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1404082006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Air Tawar",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404081009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Amal Bakti",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404081010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Bandar Sri Gemilang",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Kuala Selat",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Makmur Jaya",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Penjuru",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Sari Mulia/Mulya",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Sungaisimbar (Sungai Simbar)",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Sungaiteritip (Sungai Teritip)",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404081001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Tagaraja (Tegaraja)",
+    "postal_code": "29255"
+  },
+  {
+    "id": 1404082007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140408,
+    "value": "Tanjungraja (Tanjung Raja)",
+    "postal_code": "29255"
+  }
+]

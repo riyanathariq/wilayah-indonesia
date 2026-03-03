@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8206102005,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Maba Sangaji (Gotowasi)",
+    "postal_code": "97862"
+  },
+  {
+    "id": 8206102002,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Soa Laipoh",
+    "postal_code": "97862"
+  },
+  {
+    "id": 8206102003,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Soa Sangaji",
+    "postal_code": "97862"
+  },
+  {
+    "id": 8206102004,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Soagimalaha (Soa Gimalaha)",
+    "postal_code": "97862"
+  },
+  {
+    "id": 8206102006,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Tewil",
+    "postal_code": "97862"
+  },
+  {
+    "id": 8206102001,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820610,
+    "value": "Wai Lukum (Wailukum)",
+    "postal_code": "97862"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1771021027,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177102,
+    "value": "Cempaka Permai",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771021002,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177102,
+    "value": "Jalan Gedang",
+    "postal_code": "38225"
+  },
+  {
+    "id": 1771021024,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177102,
+    "value": "Lingkar Barat",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771021001,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177102,
+    "value": "Padang Harapan",
+    "postal_code": "38225"
+  },
+  {
+    "id": 1771021021,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177102,
+    "value": "Sidomulyo (Sido Mulyo)",
+    "postal_code": "38229"
+  }
+]

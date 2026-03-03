@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6304132009,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Indah Sari",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Jelapat II",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132008,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Karang Mekar",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Mekarsari (Mekar Sari)",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Tamban Raya",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Tamban Raya Baru",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Tinggiran Baru",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Tinggiran Darat",
+    "postal_code": "70568"
+  },
+  {
+    "id": 6304132003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630413,
+    "value": "Tinggiran Tengah",
+    "postal_code": "70568"
+  }
+]

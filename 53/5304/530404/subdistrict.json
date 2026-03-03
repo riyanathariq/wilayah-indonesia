@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5304042005,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Bakustulama",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Derokfaturene (Derok Faturene)",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042009,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Lawalutolus",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Lookeu",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Naekasa",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042007,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Naitimu",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042006,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Rinbesihat",
+    "postal_code": "85753"
+  },
+  {
+    "id": 5304042001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530404,
+    "value": "Tukuneno",
+    "postal_code": "85753"
+  }
+]

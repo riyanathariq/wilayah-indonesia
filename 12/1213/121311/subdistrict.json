@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1213112001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Alahan Kae",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Habincaran",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213111003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Huta Godang",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Huta Padang UP",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Hutaimbaru UP",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Muara Saladi",
+    "postal_code": "22994"
+  },
+  {
+    "id": 1213112007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Patahajang",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Simpang Banyak Jae",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Simpang Banyak Julu",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Simpang Duhu Dolok",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Simpang Duhu Lombang",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Simpang Pining",
+    "postal_code": "22999"
+  },
+  {
+    "id": 1213112013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121311,
+    "value": "Tolang",
+    "postal_code": "22999"
+  }
+]

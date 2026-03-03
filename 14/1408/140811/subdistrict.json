@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1408112006,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Empang Baru",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Lubuk Dalam",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Rawang Kao",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112007,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Rawang Kao Barat",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112004,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Sialang Baru",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112005,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Sialang Palas",
+    "postal_code": "28655"
+  },
+  {
+    "id": 1408112003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140811,
+    "value": "Sri Gading",
+    "postal_code": "28655"
+  }
+]

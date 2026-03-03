@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7602112003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Buana Sakti",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Campaloga",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112008,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Kakullasang (Kakulasang / Kakullasan)",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112010,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Kalepu",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112009,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Leling",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112012,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Leling Barat",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112013,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Leling Utara",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112007,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Malino",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112006,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Rantemario (Rante Mario)",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112014,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Saludengen",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112011,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Sandana",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Tamejarra (Tammejarra)",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112004,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Tamemongga",
+    "postal_code": "91564"
+  },
+  {
+    "id": 7602112001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760211,
+    "value": "Tommo",
+    "postal_code": "91564"
+  }
+]

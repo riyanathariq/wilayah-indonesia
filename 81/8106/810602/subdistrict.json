@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106022007,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Eti / Ety",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022008,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Kaibobo (Kaibobu)",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Kawa",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022006,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Lumoly (Lumoli)",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Morekau",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Neniari / Niniari",
+    "postal_code": "97562"
+  },
+  {
+    "id": 8106022003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810602,
+    "value": "Piru",
+    "postal_code": "97562"
+  }
+]

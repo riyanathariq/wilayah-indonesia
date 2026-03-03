@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3275031003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Harapanbaru (Harapan Baru)",
+    "postal_code": "17123"
+  },
+  {
+    "id": 3275031006,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Harapanjaya (Harapan Jaya)",
+    "postal_code": "17124"
+  },
+  {
+    "id": 3275031001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Kaliabang Tengah (Kali Abang Tengah)",
+    "postal_code": "17125"
+  },
+  {
+    "id": 3275031005,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Margamulya (Marga Mulya)",
+    "postal_code": "17142"
+  },
+  {
+    "id": 3275031002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Perwira",
+    "postal_code": "17122"
+  },
+  {
+    "id": 3275031004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327503,
+    "value": "Teluk Pucung",
+    "postal_code": "17121"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9501172003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Ayobaibur (Ayubaibur)",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Habema",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Holaliba",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Ibele",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Tipalok",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Yagarobak (Yagakobak)",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Yelebarek",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Yokalpalek",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Zapma",
+    "postal_code": "99553"
+  },
+  {
+    "id": 9501172007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950117,
+    "value": "Zinai",
+    "postal_code": "99553"
+  }
+]

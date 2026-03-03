@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7317182002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Bulolondong",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317182007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Pelalan",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317182001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Pompengan",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317182003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Pompengan Pantai",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317182008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Pompengan Tengah",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317182009,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Pompengan Utara (Pompengan Timur)",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317182005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Salupao (Salu Pao)",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317182004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "Seriti",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317182006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731718,
+    "value": "To'lemo (To Lemo)",
+    "postal_code": "91952"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9115012027,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Batu Zaman",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012011,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Nonomi",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012020,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Sarafambai",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012029,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Sawara Jaya",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012025,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Uri",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012004,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Waren Dua (II)",
+    "postal_code": "98662"
+  },
+  {
+    "id": 9115012003,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911501,
+    "value": "Waren Satu (I)",
+    "postal_code": "98662"
+  }
+]

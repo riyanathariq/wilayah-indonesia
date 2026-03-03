@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3315112009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Godan",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Jono",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112010,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Kemadahbatur (Kemaduhbatur)",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Mayahan",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Plosorejo",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Pojok",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Pulongrambe",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Selo",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Tarub",
+    "postal_code": "58191"
+  },
+  {
+    "id": 3315112005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331511,
+    "value": "Tawangharjo",
+    "postal_code": "58191"
+  }
+]

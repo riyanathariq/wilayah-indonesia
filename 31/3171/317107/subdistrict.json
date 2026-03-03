@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3171071002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Bendungan Hilir",
+    "postal_code": "10210"
+  },
+  {
+    "id": 3171071001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Gelora",
+    "postal_code": "10270"
+  },
+  {
+    "id": 3171071007,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Kampung Bali",
+    "postal_code": "10250"
+  },
+  {
+    "id": 3171071003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Karet Tengsin",
+    "postal_code": "10220"
+  },
+  {
+    "id": 3171071006,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Kebon Kacang",
+    "postal_code": "10240"
+  },
+  {
+    "id": 3171071005,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Kebon Melati",
+    "postal_code": "10230"
+  },
+  {
+    "id": 3171071004,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317107,
+    "value": "Petamburan",
+    "postal_code": "10260"
+  }
+]

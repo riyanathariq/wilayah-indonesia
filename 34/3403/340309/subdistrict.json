@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3403092001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Bejiharjo",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Bendungan",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Gedangrejo (Gedang Rejo)",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092009,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Jatiayu (Jati Ayu)",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Karangmojo",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Kelor",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Ngawis",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Ngipak",
+    "postal_code": "55891"
+  },
+  {
+    "id": 3403092002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340309,
+    "value": "Wiladeg",
+    "postal_code": "55891"
+  }
+]

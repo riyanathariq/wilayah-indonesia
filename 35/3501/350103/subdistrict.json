@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3501032001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Bomo",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032011,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Gondosari",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032012,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Kebonsari",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Kendal",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Mantren",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Mendolo Kidul",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032009,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Mendolo Lor",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Piton",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032010,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Ploso",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Punung",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Sooka",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032013,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Tinatar",
+    "postal_code": "63553"
+  },
+  {
+    "id": 3501032007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350103,
+    "value": "Wareng",
+    "postal_code": "63553"
+  }
+]

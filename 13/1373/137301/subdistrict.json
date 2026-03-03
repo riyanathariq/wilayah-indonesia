@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1373011006,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Air/Aia Dingin",
+    "postal_code": "27419"
+  },
+  {
+    "id": 1373011001,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Aur Mulio (Air Mulyo / Aurmulyo)",
+    "postal_code": "27418"
+  },
+  {
+    "id": 1373011003,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Kubang Sirakuk/Sirakuak Selatan",
+    "postal_code": "27415"
+  },
+  {
+    "id": 1373011002,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Kubang Sirakuk/Sirakuak Utara",
+    "postal_code": "27415"
+  },
+  {
+    "id": 1373012009,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Kubang Tangah",
+    "postal_code": "27413"
+  },
+  {
+    "id": 1373012010,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Kubang Utara Sikabu",
+    "postal_code": "27412"
+  },
+  {
+    "id": 1373012008,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Lunto Barat",
+    "postal_code": "27418"
+  },
+  {
+    "id": 1373012007,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Lunto Timur",
+    "postal_code": "27416"
+  },
+  {
+    "id": 1373012011,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Pasa Kubang (Pasar Kubang)",
+    "postal_code": "27415"
+  },
+  {
+    "id": 1373011004,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Pasar",
+    "postal_code": "27411"
+  },
+  {
+    "id": 1373011005,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137301,
+    "value": "Tanah Lapang",
+    "postal_code": "27411"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1807102007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Jaya Asri",
+    "postal_code": "34331"
+  },
+  {
+    "id": 1807102001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Kibang",
+    "postal_code": "34331"
+  },
+  {
+    "id": 1807102002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Marga Jaya (Margo Jaya / Margajaya)",
+    "postal_code": "34335"
+  },
+  {
+    "id": 1807102006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Margasari (Margo Sari)",
+    "postal_code": "34335"
+  },
+  {
+    "id": 1807102003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Margototo (Margo Toto)",
+    "postal_code": "34335"
+  },
+  {
+    "id": 1807102004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Purbosembodo (Purbo Sembodo)",
+    "postal_code": "34333"
+  },
+  {
+    "id": 1807102005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180710,
+    "value": "Sumber Agung",
+    "postal_code": "34332"
+  }
+]

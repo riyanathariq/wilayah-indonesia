@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5311092003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Haikatapu (Heikatapu)",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Hanggaroru",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Kabaru",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092008,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Kayuri",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Lailanjang (Lai Lanjang)",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Rindi",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Tamburi",
+    "postal_code": "87181"
+  },
+  {
+    "id": 5311092002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531109,
+    "value": "Tanaraing",
+    "postal_code": "87181"
+  }
+]

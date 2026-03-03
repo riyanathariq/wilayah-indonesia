@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3502212005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Banjarejo (Banjarjo)",
+    "postal_code": "63418"
+  },
+  {
+    "id": 3502212001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Bareng",
+    "postal_code": "63418"
+  },
+  {
+    "id": 3502212003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Krisik",
+    "postal_code": "63418"
+  },
+  {
+    "id": 3502212006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Pudak Kulon (Pudakkulon)",
+    "postal_code": "63418"
+  },
+  {
+    "id": 3502212004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Pudak Wetan (Pudakwetan)",
+    "postal_code": "63418"
+  },
+  {
+    "id": 3502212002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350221,
+    "value": "Tambang",
+    "postal_code": "63418"
+  }
+]

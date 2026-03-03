@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3173081005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Joglo",
+    "postal_code": "11640"
+  },
+  {
+    "id": 3173081006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Kembangan Selatan",
+    "postal_code": "11610"
+  },
+  {
+    "id": 3173081001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Kembangan Utara",
+    "postal_code": "11610"
+  },
+  {
+    "id": 3173081003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Meruya Selatan (Udik)",
+    "postal_code": "11650"
+  },
+  {
+    "id": 3173081002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Meruya Utara (Ilir)",
+    "postal_code": "11620"
+  },
+  {
+    "id": 3173081004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317308,
+    "value": "Srengseng",
+    "postal_code": "11630"
+  }
+]

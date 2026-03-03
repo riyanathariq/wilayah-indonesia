@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1813052012,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Asahan Way Sindi",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Kebuayan",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Laay",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Menyancang",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Penengahan",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052008,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Penggawa V Tengah",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052007,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Penggawa V Ulu",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052010,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Tembakak Way Sindi (Tebakak Way Sidi)",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Way Nukak",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Way Sindi",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052011,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Way Sindi Hanuan",
+    "postal_code": "34878"
+  },
+  {
+    "id": 1813052009,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181305,
+    "value": "Way Sindi Utara",
+    "postal_code": "34878"
+  }
+]

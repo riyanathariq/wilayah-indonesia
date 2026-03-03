@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102072005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Kamanga",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072012,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Kamanga Dua",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Liba",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Sendangan",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Talikuran",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Tember",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Tempok",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072016,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Tempok Selatan",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Tolok",
+    "postal_code": "95693"
+  },
+  {
+    "id": 7102072017,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710207,
+    "value": "Tolok Satu",
+    "postal_code": "95693"
+  }
+]

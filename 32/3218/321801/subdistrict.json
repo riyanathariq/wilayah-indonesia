@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3218012004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Bojong",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012008,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Cibenda",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Ciliang",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012009,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Cintakarya",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Cintaratu",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Karangbenda",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Karangjaladri",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012010,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Parakanmanggu",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Parigi",
+    "postal_code": "46393"
+  },
+  {
+    "id": 3218012006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321801,
+    "value": "Selasari",
+    "postal_code": "46393"
+  }
+]

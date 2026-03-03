@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3509102006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Balungkidul (Balung Kidul)",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Balungkulon (Balung Kulon)",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Balunglor (Balung Lor)",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Curahlele",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Gumelar",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Karang Semanding",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Karangduren (Karang Duren)",
+    "postal_code": "68161"
+  },
+  {
+    "id": 3509102003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350910,
+    "value": "Tutul",
+    "postal_code": "68161"
+  }
+]

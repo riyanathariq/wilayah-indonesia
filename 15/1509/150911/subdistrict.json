@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1509112002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Balai Rajo",
+    "postal_code": "37562"
+  },
+  {
+    "id": 1509112003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Cermin Alam",
+    "postal_code": "37562"
+  },
+  {
+    "id": 1509112005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Paseban",
+    "postal_code": "37562"
+  },
+  {
+    "id": 1509112006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Pasir Mayang",
+    "postal_code": "37562"
+  },
+  {
+    "id": 1509112004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Sungai Karang",
+    "postal_code": "37562"
+  },
+  {
+    "id": 1509112001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150911,
+    "value": "Teluk Kepayang Pulau Indah",
+    "postal_code": "37562"
+  }
+]

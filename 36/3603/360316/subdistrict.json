@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603162002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Karet",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Kayu Agung",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Kayu Bongkok",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162012,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Mekar Jaya",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Pisangan Jaya",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Pondok Jaya",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603162015,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Sarakan",
+    "postal_code": "15520"
+  },
+  {
+    "id": 3603161001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360316,
+    "value": "Sepatan",
+    "postal_code": "15520"
+  }
+]

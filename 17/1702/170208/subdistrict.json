@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1702082009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Air Dingin",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Belitar Muka",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082011,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Belitar Seberang",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702081006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Beringin Tiga",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082013,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Cahaya Negeri",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Kayu Manis",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082015,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Mojorejo",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Pelalo",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Sindang Jati",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Sindang Jaya",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082016,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Talang Lahat",
+    "postal_code": "39155"
+  },
+  {
+    "id": 1702082014,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170208,
+    "value": "Tanjung Aur",
+    "postal_code": "39155"
+  }
+]

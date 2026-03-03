@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6101032008,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Bakau",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032011,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Dungun Laut",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032021,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Lambau",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032022,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Mutus Darussalam",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Parit Setia",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Pelimpaan",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sarang Burung Danau",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sarang Burung Kolam",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sarang Burung Kuala",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sarang Burung Usrat",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032010,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sentebang",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sungai Nilam",
+    "postal_code": "79454"
+  },
+  {
+    "id": 6101032009,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610103,
+    "value": "Sungai Nyirih",
+    "postal_code": "79454"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7603172002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Botteng",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172009,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Kondo",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172010,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Leko Sukamaju",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Mehalaan",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Mehalaan Barat",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Mesakada",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Passembuk",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Saluahok",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Salubalo",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Salukonta",
+    "postal_code": "91375"
+  },
+  {
+    "id": 7603172011,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760317,
+    "value": "Ulumea",
+    "postal_code": "91375"
+  }
+]

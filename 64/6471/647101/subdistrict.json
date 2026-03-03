@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6471011002,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647101,
+    "value": "Lamaru",
+    "postal_code": "76117"
+  },
+  {
+    "id": 6471011001,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647101,
+    "value": "Manggar",
+    "postal_code": "76116"
+  },
+  {
+    "id": 6471011004,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647101,
+    "value": "Manggar Baru",
+    "postal_code": "76116"
+  },
+  {
+    "id": 6471011003,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647101,
+    "value": "Teritip",
+    "postal_code": "76118"
+  }
+]

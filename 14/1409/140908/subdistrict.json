@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1409082011,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Beringin Jaya",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082010,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Bukitraya (Bukit Raya)",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082001,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Koto Baru",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082009,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Muara Bahan",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082002,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Petai",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082005,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Simpang Raya",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082007,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Suka Damai",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082012,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082008,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Sumber Jaya",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082006,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Sungaibuluh (Sungai Buluh)",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082003,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Sungaipaku (Sungai Paku)",
+    "postal_code": "29560"
+  },
+  {
+    "id": 1409082004,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140908,
+    "value": "Tanjungpauh (Tanjung Pauh)",
+    "postal_code": "29560"
+  }
+]

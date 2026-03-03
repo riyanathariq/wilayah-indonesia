@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3304062002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Ampelsari",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304061001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Argasoka",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304062004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Cendana",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304061006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Karangtengah",
+    "postal_code": "53416"
+  },
+  {
+    "id": 3304061012,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Krandegan",
+    "postal_code": "53414"
+  },
+  {
+    "id": 3304061013,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Kutabanjarnegara (Kuta Banjarnegara)",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304061010,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Parakancanggah",
+    "postal_code": "53412"
+  },
+  {
+    "id": 3304061008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Semampir",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304061011,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Semarang",
+    "postal_code": "53411"
+  },
+  {
+    "id": 3304061009,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Sokanandi",
+    "postal_code": "53413"
+  },
+  {
+    "id": 3304062005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Sokayasa",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304062003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Tlagawera",
+    "postal_code": "53418"
+  },
+  {
+    "id": 3304061007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330406,
+    "value": "Wangon",
+    "postal_code": "53417"
+  }
+]

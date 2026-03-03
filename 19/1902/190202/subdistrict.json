@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1902022006,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Bantan",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022011,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Gunung Riting",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022005,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Kembiri",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022003,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Lassar",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022001,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Membalong",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022008,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Mentigi",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022012,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Padang Kandis",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022002,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Perpat",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022009,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Pulau Seliu",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022010,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Pulau Sumedang",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022004,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Simpang Rusa",
+    "postal_code": "33452"
+  },
+  {
+    "id": 1902022007,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190202,
+    "value": "Tanjungrusa (Tanjung Rusa)",
+    "postal_code": "33452"
+  }
+]

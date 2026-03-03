@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1304072002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130407,
+    "value": "Andaleh Baruh Bukik",
+    "postal_code": "27294"
+  },
+  {
+    "id": 1304072005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130407,
+    "value": "Minang Kabau (Minangkabau)",
+    "postal_code": "27294"
+  },
+  {
+    "id": 1304072001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130407,
+    "value": "Sungai Patai",
+    "postal_code": "27294"
+  },
+  {
+    "id": 1304072004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130407,
+    "value": "Sungayang",
+    "postal_code": "27294"
+  },
+  {
+    "id": 1304072003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130407,
+    "value": "Tanjung (Tanjuang)",
+    "postal_code": "27294"
+  }
+]

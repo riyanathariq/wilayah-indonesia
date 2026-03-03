@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1605082004,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Bumi Rejo",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082012,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Dono Rejo",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Giri Yoso (Giriyoso)",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Kertosono",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082007,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Marga Tani (Margatani)",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605081006,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Marga Tunggal (Margatunggal)",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Margoyoso",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082015,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Ngesti Boga I (Ngestiboga I)",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082016,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Ngesti Boga II (Ngestiboga II)",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082020,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Ngestikarya",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082010,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Purwodadi",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082005,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Sidodadi",
+    "postal_code": "31665"
+  },
+  {
+    "id": 1605082008,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160508,
+    "value": "Sukowono",
+    "postal_code": "31665"
+  }
+]

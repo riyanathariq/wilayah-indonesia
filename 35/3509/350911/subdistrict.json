@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3509112002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Ampel",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Dukuhdempok (Dukuh Dempok)",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Glundengan",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Kesilir",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Lojejer",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Tamansari",
+    "postal_code": "68162"
+  },
+  {
+    "id": 3509112006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350911,
+    "value": "Tanjungrejo (Tanjung Rejo)",
+    "postal_code": "68162"
+  }
+]

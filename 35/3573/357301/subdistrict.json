@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3573011002,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Arjosari",
+    "postal_code": "65126"
+  },
+  {
+    "id": 3573011001,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Balearjosari",
+    "postal_code": "65126"
+  },
+  {
+    "id": 3573011005,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Blimbing",
+    "postal_code": "65125"
+  },
+  {
+    "id": 3573011008,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Bunulrejo",
+    "postal_code": "65123"
+  },
+  {
+    "id": 3573011011,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Jodipan",
+    "postal_code": "65137"
+  },
+  {
+    "id": 3573011009,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Kesatrian",
+    "postal_code": "65121"
+  },
+  {
+    "id": 3573011006,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Pandanwangi",
+    "postal_code": "65124"
+  },
+  {
+    "id": 3573011010,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Polehan",
+    "postal_code": "65121"
+  },
+  {
+    "id": 3573011003,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Polowijen",
+    "postal_code": "65126"
+  },
+  {
+    "id": 3573011007,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Purwantoro",
+    "postal_code": "65122"
+  },
+  {
+    "id": 3573011004,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357301,
+    "value": "Purwodadi",
+    "postal_code": "65125"
+  }
+]

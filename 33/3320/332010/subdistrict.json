@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3320102001,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332010,
+    "value": "Karimunjawa",
+    "postal_code": "59455"
+  },
+  {
+    "id": 3320102002,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332010,
+    "value": "Kemojan (Kemujan)",
+    "postal_code": "59455"
+  },
+  {
+    "id": 3320102004,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332010,
+    "value": "Nyamuk",
+    "postal_code": "59455"
+  },
+  {
+    "id": 3320102003,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332010,
+    "value": "Parang",
+    "postal_code": "59455"
+  }
+]

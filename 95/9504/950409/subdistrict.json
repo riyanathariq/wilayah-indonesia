@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9504092014,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Eragani",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Ibunuh",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Kutiom",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092019,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Paido",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Panaga",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Pindanggun",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Saksi Maler",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092016,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Siak",
+    "postal_code": "99057"
+  },
+  {
+    "id": 9504092017,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950409,
+    "value": "Yandono",
+    "postal_code": "99057"
+  }
+]

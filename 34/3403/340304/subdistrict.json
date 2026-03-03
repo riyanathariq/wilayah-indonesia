@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3403042002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Beji",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Bunder",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Nglanggeran",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042010,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Nglegi",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Ngoro-oro (Ngoro Oro)",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Patuk",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Pengkok",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042009,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Putat",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Salam",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Semoyo",
+    "postal_code": "55862"
+  },
+  {
+    "id": 3403042011,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340304,
+    "value": "Terbah",
+    "postal_code": "55862"
+  }
+]

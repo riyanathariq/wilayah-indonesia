@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6402141005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Dondang",
+    "postal_code": "75265"
+  },
+  {
+    "id": 6402141008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Muara Jawa (Muara Jawa Pesisir)",
+    "postal_code": "75263"
+  },
+  {
+    "id": 6402141001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Muara Jawa Ilir",
+    "postal_code": "75263"
+  },
+  {
+    "id": 6402141002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Muara Jawa Tengah",
+    "postal_code": "75264"
+  },
+  {
+    "id": 6402141003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Muara Jawa Ulu",
+    "postal_code": "75261"
+  },
+  {
+    "id": 6402141007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Muara Kembang",
+    "postal_code": "75267"
+  },
+  {
+    "id": 6402141006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Tama Pole (Tamapole)",
+    "postal_code": "75266"
+  },
+  {
+    "id": 6402141004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640214,
+    "value": "Teluk Dalam",
+    "postal_code": "75262"
+  }
+]

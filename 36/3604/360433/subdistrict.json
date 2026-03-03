@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3604332002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Ciherang",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Curug Sulanjana",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Gunungsari",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Kadu Agung",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Luwuk",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Sukalaba",
+    "postal_code": "42160"
+  },
+  {
+    "id": 3604332003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360433,
+    "value": "Tamiang",
+    "postal_code": "42160"
+  }
+]

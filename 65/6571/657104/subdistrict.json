@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6571041003,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657104,
+    "value": "Juata Krikil/Kerikil",
+    "postal_code": "77116"
+  },
+  {
+    "id": 6571041001,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657104,
+    "value": "Juata Laut",
+    "postal_code": "77116"
+  },
+  {
+    "id": 6571041002,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657104,
+    "value": "Juata Permai",
+    "postal_code": "77116"
+  }
+]

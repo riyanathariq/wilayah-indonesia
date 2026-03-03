@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9508242005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950824,
+    "value": "Bisikimu",
+    "postal_code": "99920"
+  },
+  {
+    "id": 9508242004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950824,
+    "value": "Digilimu",
+    "postal_code": "99920"
+  },
+  {
+    "id": 9508242002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950824,
+    "value": "Embetpem",
+    "postal_code": "99920"
+  },
+  {
+    "id": 9508242001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950824,
+    "value": "Wendama",
+    "postal_code": "99920"
+  },
+  {
+    "id": 9508242003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950824,
+    "value": "Yenai",
+    "postal_code": "99920"
+  }
+]

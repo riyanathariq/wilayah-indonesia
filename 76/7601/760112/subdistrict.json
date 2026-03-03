@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7601122003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Bajawali",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122007,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Bambakoro",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122006,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Batu Matoru",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Kenangan",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122005,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Kulu",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Parabu",
+    "postal_code": "91577"
+  },
+  {
+    "id": 7601122004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760112,
+    "value": "Singgani",
+    "postal_code": "91577"
+  }
+]

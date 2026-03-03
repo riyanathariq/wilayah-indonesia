@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7501172004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Daenaa",
+    "postal_code": "96215"
+  },
+  {
+    "id": 7501172009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Haya-Haya (Hayahaya)",
+    "postal_code": "96216"
+  },
+  {
+    "id": 7501172002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Huidu",
+    "postal_code": "96215"
+  },
+  {
+    "id": 7501172010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Huidu Utara",
+    "postal_code": "96216"
+  },
+  {
+    "id": 7501172007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Hutabohu",
+    "postal_code": "96216"
+  },
+  {
+    "id": 7501172003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Ombulo",
+    "postal_code": "96215"
+  },
+  {
+    "id": 7501172008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Padengo",
+    "postal_code": "96216"
+  },
+  {
+    "id": 7501172001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Pone",
+    "postal_code": "96215"
+  },
+  {
+    "id": 7501172006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Tunggulo",
+    "postal_code": "96217"
+  },
+  {
+    "id": 7501172005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750117,
+    "value": "Yosonegoro (Yoosonegoro)",
+    "postal_code": "96216"
+  }
+]

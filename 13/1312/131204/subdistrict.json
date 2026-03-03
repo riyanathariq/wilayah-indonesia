@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1312042001,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Kajai",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042005,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Kajai Selatan",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Simpang Timbo Abu Kajai",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Sinuruik",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Sungai Janiah Talu",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Tabek Sirah Talu",
+    "postal_code": "26561"
+  },
+  {
+    "id": 1312042002,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131204,
+    "value": "Talu",
+    "postal_code": "26561"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7103112005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Dalako Bembanehe (Dalako Bembanahe)",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Kahakitang",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Kalama",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Mahenggetang (Mahengetang)",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Para",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Para I",
+    "postal_code": "95851"
+  },
+  {
+    "id": 7103112006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710311,
+    "value": "Taleko Batusaiki",
+    "postal_code": "95851"
+  }
+]

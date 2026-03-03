@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1603212001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Embacang Kelekar",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Menanti",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Menanti Selatan",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Pelempang",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Suban Baru",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Tanjung Medang",
+    "postal_code": "31176"
+  },
+  {
+    "id": 1603212006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160321,
+    "value": "Teluk Jaya",
+    "postal_code": "31176"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1603082002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Babatan",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Karya Nyata",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Muara Danau",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Muara Dua",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Pagar Agung",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Penindaian",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Penyandingan",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Perapau",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Pulau Panggung",
+    "postal_code": "31358"
+  },
+  {
+    "id": 1603082006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160308,
+    "value": "Tanah Abang",
+    "postal_code": "31358"
+  }
+]

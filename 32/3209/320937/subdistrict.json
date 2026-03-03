@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3209372001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Cikeusal",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Cupang",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Gempol",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Kedungbunder",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Kempek",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Palimanan Barat",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Walahar",
+    "postal_code": "45161"
+  },
+  {
+    "id": 3209372008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320937,
+    "value": "Winong",
+    "postal_code": "45161"
+  }
+]

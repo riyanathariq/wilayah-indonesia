@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1408052008,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Bencah Umbai",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052005,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Lubuk Jering",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052007,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Lubuk Umbut",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052006,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Muara Bungkal",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Muara Kelantan",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052004,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Olak",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Sungai Selodang (Sungai Lodang)",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052009,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Tasik Betung",
+    "postal_code": "28674"
+  },
+  {
+    "id": 1408052002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140805,
+    "value": "Teluk Lancang",
+    "postal_code": "28674"
+  }
+]

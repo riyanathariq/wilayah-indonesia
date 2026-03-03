@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3503032003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Joho",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032009,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Jombok",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032008,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Karanganyar",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Kembangan",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Pakel",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Pule",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Puyung",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Sidomulyo",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032010,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Sukokidul",
+    "postal_code": "66362"
+  },
+  {
+    "id": 3503032007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350303,
+    "value": "Tanggaran",
+    "postal_code": "66362"
+  }
+]

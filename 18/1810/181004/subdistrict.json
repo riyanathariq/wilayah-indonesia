@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1810042001,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Kedaung",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042002,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Pardasuka",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042013,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Pardasuka Selatan",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042011,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Pardasuka Timur",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042006,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Pujodadi",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042009,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Rantau Tijang",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042008,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Selapan",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042010,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Sidodadi",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042003,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Suka Negeri (Sukanegeri / Sukanegara)",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042007,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Sukorejo",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042004,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Tanjung Rusia",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042012,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Tanjung Rusia Timur",
+    "postal_code": "35681"
+  },
+  {
+    "id": 1810042005,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181004,
+    "value": "Wargo/Warga Mulyo",
+    "postal_code": "35681"
+  }
+]

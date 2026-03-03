@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1404142004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Air Balui",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Batu Ampar",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Kemuning Muda",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Kemuning Tua",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Keritang",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Limau Manis",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Lubuk Besar",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Sekara",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Sekayan",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404141001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Selensen",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Talang Jangkang",
+    "postal_code": "29274"
+  },
+  {
+    "id": 1404142005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140414,
+    "value": "Tuk Jimun (Dusun Tuk Jimun)",
+    "postal_code": "29274"
+  }
+]

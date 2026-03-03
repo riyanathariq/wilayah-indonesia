@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5271011004,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Ampenan Selatan",
+    "postal_code": "83114"
+  },
+  {
+    "id": 5271011005,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Ampenan Tengah",
+    "postal_code": "83112"
+  },
+  {
+    "id": 5271011007,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Ampenan Utara",
+    "postal_code": "83511"
+  },
+  {
+    "id": 5271011009,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Banjar",
+    "postal_code": "83118"
+  },
+  {
+    "id": 5271011013,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Bintaro",
+    "postal_code": "83118"
+  },
+  {
+    "id": 5271011012,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Dayan Peken (Doyan Peken)",
+    "postal_code": "83118"
+  },
+  {
+    "id": 5271011010,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Kebun Sari (Kebunsari)",
+    "postal_code": "83118"
+  },
+  {
+    "id": 5271011011,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Pajarakan Karya",
+    "postal_code": "83118"
+  },
+  {
+    "id": 5271011006,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Pejeruk",
+    "postal_code": "83113"
+  },
+  {
+    "id": 5271011008,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527101,
+    "value": "Taman Sari (Tamansari)",
+    "postal_code": "83118"
+  }
+]

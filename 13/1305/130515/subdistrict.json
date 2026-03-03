@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1305152003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130515,
+    "value": "Anduring (Anduriang)",
+    "postal_code": "25585"
+  },
+  {
+    "id": 1305152002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130515,
+    "value": "Guguak",
+    "postal_code": "25585"
+  },
+  {
+    "id": 1305152004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130515,
+    "value": "Kapalo Hilalang",
+    "postal_code": "25585"
+  },
+  {
+    "id": 1305152001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130515,
+    "value": "Kayu Tanam",
+    "postal_code": "25585"
+  }
+]

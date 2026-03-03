@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7271071003,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727107,
+    "value": "Baiya",
+    "postal_code": "94142"
+  },
+  {
+    "id": 7271071004,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727107,
+    "value": "Lambara",
+    "postal_code": "94141"
+  },
+  {
+    "id": 7271071005,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727107,
+    "value": "Panawu (Panau)",
+    "postal_code": "94141"
+  },
+  {
+    "id": 7271071001,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727107,
+    "value": "Pantoloan",
+    "postal_code": "94143"
+  },
+  {
+    "id": 7271071002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727107,
+    "value": "Pantoloan Boya",
+    "postal_code": "94143"
+  }
+]

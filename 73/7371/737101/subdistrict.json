@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7371011001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Bontorannu",
+    "postal_code": "90126"
+  },
+  {
+    "id": 7371011008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Kampung Buyang",
+    "postal_code": "90121"
+  },
+  {
+    "id": 7371011003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Kunjung Mae",
+    "postal_code": "90125"
+  },
+  {
+    "id": 7371011004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Lette",
+    "postal_code": "90123"
+  },
+  {
+    "id": 7371011007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Mario",
+    "postal_code": "90125"
+  },
+  {
+    "id": 7371011006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Mariso",
+    "postal_code": "90122"
+  },
+  {
+    "id": 7371011002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Mattoangin",
+    "postal_code": "90121"
+  },
+  {
+    "id": 7371011005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Panambungan",
+    "postal_code": "90121"
+  },
+  {
+    "id": 7371011009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737101,
+    "value": "Tamarunang",
+    "postal_code": "90126"
+  }
+]

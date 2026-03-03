@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1101182007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Cot Bayu",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Gampong Teungoh (Kampong Teungoh)",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Gunong Kapo/Kapho",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Ie Jeureuneh",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Jambo Papeun",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Krueng Batee",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Ladang Rimba",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Lhok Raya",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Naca",
+    "postal_code": "23775"
+  },
+  {
+    "id": 1101182005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110118,
+    "value": "Pulo Paya",
+    "postal_code": "23775"
+  }
+]

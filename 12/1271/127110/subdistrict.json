@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1271101006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Kota Matsum I",
+    "postal_code": "20215"
+  },
+  {
+    "id": 1271101007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Kota Matsum II",
+    "postal_code": "20215"
+  },
+  {
+    "id": 1271101008,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Kota Matsum IV",
+    "postal_code": "20215"
+  },
+  {
+    "id": 1271101005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Pandau Hulu II",
+    "postal_code": "20211"
+  },
+  {
+    "id": 1271101009,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Pasar Merah Timur",
+    "postal_code": "20217"
+  },
+  {
+    "id": 1271101003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Sei Rengas II",
+    "postal_code": "20214"
+  },
+  {
+    "id": 1271101004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Sei Rengas Permata",
+    "postal_code": "20214"
+  },
+  {
+    "id": 1271101001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Sukaramai I",
+    "postal_code": "20216"
+  },
+  {
+    "id": 1271101002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Sukaramai II",
+    "postal_code": "20216"
+  },
+  {
+    "id": 1271101010,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Tegal Sari I",
+    "postal_code": "20216"
+  },
+  {
+    "id": 1271101011,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Tegal Sari II",
+    "postal_code": "20216"
+  },
+  {
+    "id": 1271101012,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127110,
+    "value": "Tegal Sari III",
+    "postal_code": "20216"
+  }
+]

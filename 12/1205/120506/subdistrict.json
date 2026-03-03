@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1205062008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Bekulap",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Kuta Parit",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062012,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Kwala/Kuala Air Hitam",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Lau Mulgab (Lau Mulgap)",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Mancang",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Nambiki",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Padang Brahrang",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062013,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Padang Cermin",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205061001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Pekan Selesai",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Perhiasan",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Sei Limbat",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Selayang",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062014,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Selayang Baru",
+    "postal_code": "20762"
+  },
+  {
+    "id": 1205062004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120506,
+    "value": "Tanjung Merahe",
+    "postal_code": "20762"
+  }
+]

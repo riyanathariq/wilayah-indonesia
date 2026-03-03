@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5204062012,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Bale Brang",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Jorok",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Labuhan Bajo (Labuan Bajo)",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Motong",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Orong Bawa",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Pukat",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062008,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Sebedo (Sabedo)",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Stowe Brang",
+    "postal_code": "84351"
+  },
+  {
+    "id": 5204062007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520406,
+    "value": "Tengah",
+    "postal_code": "84351"
+  }
+]

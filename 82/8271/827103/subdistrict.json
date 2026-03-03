@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8271031020,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Akehuda",
+    "postal_code": "97735"
+  },
+  {
+    "id": 8271031013,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Dufa Dufa",
+    "postal_code": "97727"
+  },
+  {
+    "id": 8271031009,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Kasturian",
+    "postal_code": "97726"
+  },
+  {
+    "id": 8271031010,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Salero",
+    "postal_code": "97725"
+  },
+  {
+    "id": 8271031012,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Sangaji",
+    "postal_code": "97727"
+  },
+  {
+    "id": 8271031019,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Sangaji Utara",
+    "postal_code": "97736"
+  },
+  {
+    "id": 8271031016,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Sango",
+    "postal_code": "97729"
+  },
+  {
+    "id": 8271031007,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Soa",
+    "postal_code": "97725"
+  },
+  {
+    "id": 8271031008,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Soa Sio",
+    "postal_code": "97723"
+  },
+  {
+    "id": 8271031015,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Tabam",
+    "postal_code": "97728"
+  },
+  {
+    "id": 8271031014,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Tafure",
+    "postal_code": "97728"
+  },
+  {
+    "id": 8271031017,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Tarau",
+    "postal_code": "97737"
+  },
+  {
+    "id": 8271031011,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Toboleu",
+    "postal_code": "97726"
+  },
+  {
+    "id": 8271031021,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827103,
+    "value": "Tubo",
+    "postal_code": "97738"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1201152004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Aek Horsik",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Gunung Kelambu",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201151001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Hutabalang",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Jago Jago",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Kebun Pisang",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201151002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Lopian",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Lubuk Ampolu",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Pagaran Honas",
+    "postal_code": "22654"
+  },
+  {
+    "id": 1201152009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120115,
+    "value": "Sitardas",
+    "postal_code": "22654"
+  }
+]

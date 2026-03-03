@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1802132005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Bandar Agung",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Bandar Sakti",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Gunung Agung",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Gunung Batin Baru",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Gunung Batin Ilir",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Gunung Batin Udik",
+    "postal_code": "34167"
+  },
+  {
+    "id": 1802132007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180213,
+    "value": "Tanjung Anom",
+    "postal_code": "34167"
+  }
+]

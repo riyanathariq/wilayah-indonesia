@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1807082002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Taman Asri",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Taman Bogo",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Taman Cari",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Taman Endah",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Taman Fajar (Taman Pajar)",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tambah Dadi",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082011,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tambah Luhur",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082009,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tanjung Inten",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082012,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tanjung Kesuma",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tegal Gondo",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082010,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Tegal Yoso",
+    "postal_code": "34192"
+  },
+  {
+    "id": 1807082008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180708,
+    "value": "Toto Harjo",
+    "postal_code": "34192"
+  }
+]

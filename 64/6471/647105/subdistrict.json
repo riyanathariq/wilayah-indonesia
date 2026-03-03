@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6471051012,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Damai Bahagia",
+    "postal_code": "76114"
+  },
+  {
+    "id": 6471051011,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Damai Baru",
+    "postal_code": "76114"
+  },
+  {
+    "id": 6471051006,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Gunungbahagia (Gunung Bahagia)",
+    "postal_code": "76114"
+  },
+  {
+    "id": 6471051002,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Sepinggan",
+    "postal_code": "76115"
+  },
+  {
+    "id": 6471051008,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Sepinggan Baru",
+    "postal_code": "76115"
+  },
+  {
+    "id": 6471051009,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Sepinggan Raya",
+    "postal_code": "76115"
+  },
+  {
+    "id": 6471051010,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647105,
+    "value": "Sungainangka (Sungai Nangka)",
+    "postal_code": "76114"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3402082003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340208,
+    "value": "Bantul",
+    "postal_code": "55711"
+  },
+  {
+    "id": 3402082001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340208,
+    "value": "Palbapang",
+    "postal_code": "55713"
+  },
+  {
+    "id": 3402082002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340208,
+    "value": "Ringinharjo (Ringin Harjo)",
+    "postal_code": "55712"
+  },
+  {
+    "id": 3402082005,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340208,
+    "value": "Sabdodadi",
+    "postal_code": "55715"
+  },
+  {
+    "id": 3402082004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340208,
+    "value": "Trirenggo",
+    "postal_code": "55714"
+  }
+]

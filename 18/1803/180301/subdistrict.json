@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1803011001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Bukit Kemuning",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Dwikora",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Muara Aman",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Sido Mulyo (Sidomulyo)",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Suka Menanti",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Tanjung Baru",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Tanjung Baru Timur",
+    "postal_code": "34564"
+  },
+  {
+    "id": 1803012007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180301,
+    "value": "Tanjung Waras",
+    "postal_code": "34564"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1208052010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Banuh Raya",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Marjandi",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Marjandi Pisang",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Nagori Bosar",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Panombeian",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Pematang Pane",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Pematang Panombean (Pematang Panombeian)",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Rukun Mulyo",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Simbolon Tengkoh",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Simpang Panei",
+    "postal_code": "21165"
+  },
+  {
+    "id": 1208052006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120805,
+    "value": "Talun Kondot",
+    "postal_code": "21165"
+  }
+]

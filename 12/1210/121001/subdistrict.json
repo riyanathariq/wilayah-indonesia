@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1210011010,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Aek Paing",
+    "postal_code": "21419"
+  },
+  {
+    "id": 1210011007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Binaraga (Bina Raga / Rinaraga)",
+    "postal_code": "21416"
+  },
+  {
+    "id": 1210011006,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Cendana",
+    "postal_code": "21417"
+  },
+  {
+    "id": 1210011005,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Kartini",
+    "postal_code": "21418"
+  },
+  {
+    "id": 1210011009,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Padang Bulan",
+    "postal_code": "21414"
+  },
+  {
+    "id": 1210011001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Padang Matinggi (Padang Matingi)",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210011008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Pulo Padang",
+    "postal_code": "21419"
+  },
+  {
+    "id": 1210011004,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Rantauprapat",
+    "postal_code": "21412"
+  },
+  {
+    "id": 1210011003,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Sirandorung",
+    "postal_code": "21414"
+  },
+  {
+    "id": 1210011002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121001,
+    "value": "Siringo-Ringo",
+    "postal_code": "21413"
+  }
+]

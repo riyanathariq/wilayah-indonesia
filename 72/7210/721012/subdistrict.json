@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7210122011,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Kabobona",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Karawana",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122006,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Kotapulu (Kota Pulu)",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122007,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Kotarindau",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Langleso (Langaleso)",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122009,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Maku",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122008,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Panturabate (Waturalele)",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122010,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Potoya",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Soulowe",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Tulo",
+    "postal_code": "94361"
+  },
+  {
+    "id": 7210122003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721012,
+    "value": "Watubula",
+    "postal_code": "94361"
+  }
+]

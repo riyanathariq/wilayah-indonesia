@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7206082007,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Ambunu",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082001,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Bahoea Reko Reko",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082003,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Larobenu",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082029,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Marga Mulya",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082005,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Tondo",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082006,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Topogaro (Tofogaro)",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082012,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Uedago",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082004,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Umpanga",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082008,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Wata",
+    "postal_code": "94977"
+  },
+  {
+    "id": 7206082002,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720608,
+    "value": "Wosu",
+    "postal_code": "94977"
+  }
+]

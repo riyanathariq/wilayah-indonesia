@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1472041003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Bangsal Aceh",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472041004,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Basilam Baru",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472041005,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Batu Teritip",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472041001,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Lubuk Gaung",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472041006,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Sungai Geniot",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472041002,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147204,
+    "value": "Tanjung Penyebal (Tanjung Penyembal)",
+    "postal_code": "28826"
+  }
+]

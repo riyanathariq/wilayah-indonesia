@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3505192009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Bumirejo",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Jugo",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Kemirigede",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Kesamben",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Pagergunung",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Pagerwojo",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Siraman",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Sukoanyar",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Tapakrejo",
+    "postal_code": "66191"
+  },
+  {
+    "id": 3505192006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350519,
+    "value": "Tepas",
+    "postal_code": "66191"
+  }
+]

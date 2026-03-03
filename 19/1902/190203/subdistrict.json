@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1902032002,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190203,
+    "value": "Petaling",
+    "postal_code": "33481"
+  },
+  {
+    "id": 1902032004,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190203,
+    "value": "Pulau Gersik (Pulau Gresik)",
+    "postal_code": "33481"
+  },
+  {
+    "id": 1902032001,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190203,
+    "value": "Selat Nasik",
+    "postal_code": "33481"
+  },
+  {
+    "id": 1902032003,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190203,
+    "value": "Suak Gual",
+    "postal_code": "33481"
+  }
+]

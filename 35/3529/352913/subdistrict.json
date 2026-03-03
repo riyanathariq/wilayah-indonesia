@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3529132003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Campaka",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Lebeng Barat",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Lebeng Timur",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Montorna",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Padangdangan",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132010,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Panaongan",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Pasongsongan",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Prancak",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Rajun",
+    "postal_code": "69457"
+  },
+  {
+    "id": 3529132007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352913,
+    "value": "Soddara",
+    "postal_code": "69457"
+  }
+]

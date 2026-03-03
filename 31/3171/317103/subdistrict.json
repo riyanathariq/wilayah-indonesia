@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3171031006,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Cempaka Baru",
+    "postal_code": "10640"
+  },
+  {
+    "id": 3171031005,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Gunung Sahari Selatan",
+    "postal_code": "10610"
+  },
+  {
+    "id": 3171031003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Harapan Mulia (Harapan Mulya)",
+    "postal_code": "10640"
+  },
+  {
+    "id": 3171031002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Kebon Kosong",
+    "postal_code": "10630"
+  },
+  {
+    "id": 3171031001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Kemayoran",
+    "postal_code": "10620"
+  },
+  {
+    "id": 3171031004,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Serdang",
+    "postal_code": "10650"
+  },
+  {
+    "id": 3171031007,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Sumur Batu",
+    "postal_code": "10640"
+  },
+  {
+    "id": 3171031008,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317103,
+    "value": "Utan Panjang",
+    "postal_code": "10650"
+  }
+]

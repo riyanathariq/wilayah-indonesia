@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578061003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Banyu Urip",
+    "postal_code": "60254"
+  },
+  {
+    "id": 3578061005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Kupang Krajan",
+    "postal_code": "60253"
+  },
+  {
+    "id": 3578061006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Pakis",
+    "postal_code": "60256"
+  },
+  {
+    "id": 3578061001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Petemon",
+    "postal_code": "60252"
+  },
+  {
+    "id": 3578061004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Putat Jaya",
+    "postal_code": "60255"
+  },
+  {
+    "id": 3578061002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357806,
+    "value": "Sawahan",
+    "postal_code": "60251"
+  }
+]

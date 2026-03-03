@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6411032004,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641103,
+    "value": "Danum Paroy",
+    "postal_code": "75779"
+  },
+  {
+    "id": 6411032001,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641103,
+    "value": "Laham",
+    "postal_code": "75779"
+  },
+  {
+    "id": 6411032002,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641103,
+    "value": "Long Gelawang",
+    "postal_code": "75779"
+  },
+  {
+    "id": 6411032003,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641103,
+    "value": "Muara Ratah",
+    "postal_code": "75779"
+  },
+  {
+    "id": 6411032005,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641103,
+    "value": "Nyaribungan",
+    "postal_code": "75779"
+  }
+]

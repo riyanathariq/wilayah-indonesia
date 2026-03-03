@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1115092002,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Babah Lueng",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092003,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Drien Tujoh",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092005,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Kabu",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092001,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Kuala Teripa/Tripa",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092004,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Lueng Keubeu Jagat (Lueng Keube Jagat / Jagad)",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092009,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Mon Dua",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092007,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Neubok Yee PK",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092008,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Neubok Yee PP",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092011,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Panton Pange",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092006,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Pasie Keube Dom",
+    "postal_code": "23663"
+  },
+  {
+    "id": 1115092010,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111509,
+    "value": "Ujong Krueng",
+    "postal_code": "23663"
+  }
+]

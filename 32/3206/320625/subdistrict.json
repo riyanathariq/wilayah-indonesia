@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3206252003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Mangunreja",
+    "postal_code": "46462"
+  },
+  {
+    "id": 3206252004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Margajaya",
+    "postal_code": "46462"
+  },
+  {
+    "id": 3206252005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Pasirsalam",
+    "postal_code": "46462"
+  },
+  {
+    "id": 3206252002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Salebu",
+    "postal_code": "46462"
+  },
+  {
+    "id": 3206252006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Sukaluyu",
+    "postal_code": "46462"
+  },
+  {
+    "id": 3206252001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320625,
+    "value": "Sukasukur",
+    "postal_code": "46462"
+  }
+]

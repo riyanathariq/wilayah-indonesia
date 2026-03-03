@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3206102004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320610,
+    "value": "Bojongsari",
+    "postal_code": "46188"
+  },
+  {
+    "id": 3206102001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320610,
+    "value": "Cikuya",
+    "postal_code": "46188"
+  },
+  {
+    "id": 3206102002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320610,
+    "value": "Cintabodas",
+    "postal_code": "46188"
+  },
+  {
+    "id": 3206102003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320610,
+    "value": "Cipicung",
+    "postal_code": "46188"
+  },
+  {
+    "id": 3206102005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320610,
+    "value": "Mekarlaksana",
+    "postal_code": "46188"
+  }
+]

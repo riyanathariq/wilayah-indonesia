@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3210022017,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Babakansari",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Bantarujeg",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Cikidang",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Cimangguhilir",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Cinambo",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Cipeundeuy",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Gununglarang",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Haurgeulis",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Salawangi",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022018,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Silihwangi",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022022,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Sindanghurip",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Sukamenak",
+    "postal_code": "45464"
+  },
+  {
+    "id": 3210022016,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321002,
+    "value": "Wadowetan",
+    "postal_code": "45464"
+  }
+]

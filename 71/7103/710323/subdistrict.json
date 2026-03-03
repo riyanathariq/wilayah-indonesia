@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7103231002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Angges",
+    "postal_code": "95817"
+  },
+  {
+    "id": 7103231006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Kolongan Akembawi (Akembawi)",
+    "postal_code": "95818"
+  },
+  {
+    "id": 7103231004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Kolongan Beha",
+    "postal_code": "95818"
+  },
+  {
+    "id": 7103231005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Kolongan Beha Baru",
+    "postal_code": "95815"
+  },
+  {
+    "id": 7103231003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Kolongan Mitung",
+    "postal_code": "95817"
+  },
+  {
+    "id": 7103231001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710323,
+    "value": "Pananekeng",
+    "postal_code": "95811"
+  }
+]

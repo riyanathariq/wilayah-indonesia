@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1771091003,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Dusun Besar",
+    "postal_code": "38229"
+  },
+  {
+    "id": 1771091002,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Jembatan Kecil",
+    "postal_code": "38224"
+  },
+  {
+    "id": 1771091006,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Lingkar Timur",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771091004,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Padang Nangka",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771091001,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Panorama",
+    "postal_code": "38226"
+  },
+  {
+    "id": 1771091005,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177109,
+    "value": "Timur Indah",
+    "postal_code": "38221"
+  }
+]

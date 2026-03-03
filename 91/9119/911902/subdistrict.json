@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9119022010,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911902,
+    "value": "Fanjur",
+    "postal_code": "98582"
+  },
+  {
+    "id": 9119022009,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911902,
+    "value": "Kobari Jaya",
+    "postal_code": "98582"
+  },
+  {
+    "id": 9119022015,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911902,
+    "value": "Puweri",
+    "postal_code": "98582"
+  },
+  {
+    "id": 9119022008,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911902,
+    "value": "Warbor",
+    "postal_code": "98582"
+  },
+  {
+    "id": 9119022003,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911902,
+    "value": "Warsa",
+    "postal_code": "98582"
+  }
+]

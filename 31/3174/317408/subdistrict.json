@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3174081006,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Cikoko",
+    "postal_code": "12770"
+  },
+  {
+    "id": 3174081004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Duren Tiga",
+    "postal_code": "12760"
+  },
+  {
+    "id": 3174081002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Kalibata",
+    "postal_code": "12740"
+  },
+  {
+    "id": 3174081001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Pancoran",
+    "postal_code": "12780"
+  },
+  {
+    "id": 3174081005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Pengadegan",
+    "postal_code": "12770"
+  },
+  {
+    "id": 3174081003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317408,
+    "value": "Rawajati (Rawa Jati)",
+    "postal_code": "12750"
+  }
+]

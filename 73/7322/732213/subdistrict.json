@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7322132006,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Banyuwangi",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132008,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Lino",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132001,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Mulyorejo",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132003,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Paomacang",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132002,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Rawamangun",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132009,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Sidoraharjo",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132007,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Subur",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132011,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Suka Harapan",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132010,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Sukamukti",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132005,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Sumber Baru",
+    "postal_code": "92963"
+  },
+  {
+    "id": 7322132004,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732213,
+    "value": "Wonokerto",
+    "postal_code": "92963"
+  }
+]

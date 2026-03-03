@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3601272004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Cikadu",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Cikalong",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Cikiruh",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Citeluk",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Kiarajangkung",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Kiarapayung",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Kutakarang",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Malangnengah",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Manglid",
+    "postal_code": "42287"
+  },
+  {
+    "id": 3601272001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360127,
+    "value": "Sindangkerta",
+    "postal_code": "42287"
+  }
+]

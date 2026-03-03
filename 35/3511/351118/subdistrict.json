@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3511182005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Rejo Agung (Rejoagung)",
+    "postal_code": "68289"
+  },
+  {
+    "id": 3511182001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Sukorejo",
+    "postal_code": "68289"
+  },
+  {
+    "id": 3511182003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Sukosari Kidul",
+    "postal_code": "68289"
+  },
+  {
+    "id": 3511182002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Sumber Gading",
+    "postal_code": "68289"
+  },
+  {
+    "id": 3511182006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Sumberwringin (Sumber Wringin)",
+    "postal_code": "68289"
+  },
+  {
+    "id": 3511182004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351118,
+    "value": "Tegaljati",
+    "postal_code": "68289"
+  }
+]

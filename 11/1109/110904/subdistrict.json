@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1109042012,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Air Dingin",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042024,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Air Pinang",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042018,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Amaiteng Mulia",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042013,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Ameria Bahagia",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042021,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Ganting",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042026,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Kota Batu",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042022,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Kuala Makmur",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042028,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Linggi",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042019,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Lugu",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042025,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Pulau Siumat",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042020,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Sefoyan",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042017,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Sinabang",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042009,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Suak Buluh",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042014,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Suka Jaya",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042016,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Suka Karya",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042015,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Suka Maju",
+    "postal_code": "23891"
+  },
+  {
+    "id": 1109042023,
+    "province_id": 11,
+    "regency_id": 1109,
+    "district_id": 110904,
+    "value": "Ujung Tinggi",
+    "postal_code": "23891"
+  }
+]

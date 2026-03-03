@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6502012009,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Harapan Maju",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502012007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Lidung Kemenci",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502012002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Long Bisai",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502012008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Mentarang Baru",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502012006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Paking",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502012005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650201,
+    "value": "Pulau Sapi",
+    "postal_code": "77555"
+  }
+]

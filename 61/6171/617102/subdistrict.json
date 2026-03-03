@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6171021002,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Banjar Serasan",
+    "postal_code": "78233"
+  },
+  {
+    "id": 6171021006,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Dalambugis (Dalam Bugis)",
+    "postal_code": "78235"
+  },
+  {
+    "id": 6171021001,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Paritmayor (Parit Mayor)",
+    "postal_code": "78231"
+  },
+  {
+    "id": 6171021003,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Saigon",
+    "postal_code": "78132"
+  },
+  {
+    "id": 6171021007,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Tambelansampit (Tambelan Sampit)",
+    "postal_code": "78234"
+  },
+  {
+    "id": 6171021005,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Tanjunghilir (Tanjung Hilir)",
+    "postal_code": "78236"
+  },
+  {
+    "id": 6171021004,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617102,
+    "value": "Tanjunghulu (Tanjung Hulu)",
+    "postal_code": "78137"
+  }
+]

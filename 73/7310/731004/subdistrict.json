@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7310041004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Anrong Appaka",
+    "postal_code": "90612"
+  },
+  {
+    "id": 7310041009,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Bonto Perak",
+    "postal_code": "90617"
+  },
+  {
+    "id": 7310041001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Jagong",
+    "postal_code": "90611"
+  },
+  {
+    "id": 7310041002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Mappa Saile (Mappasaile)",
+    "postal_code": "90617"
+  },
+  {
+    "id": 7310041003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Pabundukang",
+    "postal_code": "90616"
+  },
+  {
+    "id": 7310041006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Padoang Doangan (Paddoang Doangan)",
+    "postal_code": "90617"
+  },
+  {
+    "id": 7310041005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Sibatua",
+    "postal_code": "90613"
+  },
+  {
+    "id": 7310041008,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Tekolabbua",
+    "postal_code": "90617"
+  },
+  {
+    "id": 7310041007,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731004,
+    "value": "Tumampua",
+    "postal_code": "90611"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3529122001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Ambunten Barat",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Ambunten Tengah",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Ambunten Timur",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122013,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Belluk Ares (Beluk Ares)",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122014,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Belluk Kenek (Beluk Kenek)",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122015,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Belluk Raja (Beluk Raja)",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122009,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Bukabu",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122010,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Campor Barat",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122012,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Campor Timur",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122011,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Keles",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Sogian",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Tambaagung Ares",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Tambaagung Barat",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Tambaagung Tengah",
+    "postal_code": "69455"
+  },
+  {
+    "id": 3529122008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352912,
+    "value": "Tambaagung Timur",
+    "postal_code": "69455"
+  }
+]

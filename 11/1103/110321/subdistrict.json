@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1103212006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Alue Jangat",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Buket Peulawi",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Gunong Putoh",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Keude Dua",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Lhok Dalam",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Lhok Leumak",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Lhok Meureu",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Lhok Panjoe (Lhok Panjou / Panjau)",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Meudang Ara (Medang Ara)",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Meunasah Aroen (Aron)",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Panton Meurebo (Panton Merbo / Meureubo)",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Pulo Blang",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Seuneubok Aceh Baro",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Seuneubok Kulam",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Seuneubok Lapang",
+    "postal_code": "24468"
+  },
+  {
+    "id": 1103212015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110321,
+    "value": "Seuneubok Teungoh",
+    "postal_code": "24468"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3218042005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Bunisari",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Campaka",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Cigugur",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Cimindi",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Harumandala (Harum Mandala)",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Kertajaya",
+    "postal_code": "46392"
+  },
+  {
+    "id": 3218042003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321804,
+    "value": "Pagerbumi",
+    "postal_code": "46392"
+  }
+]

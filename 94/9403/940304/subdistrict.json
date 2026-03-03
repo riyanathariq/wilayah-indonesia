@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9403042001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Bogobaida",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Eyapouda",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Jibudide II",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Kagoudide",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Madou",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042008,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Miyokepi",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Nawipauwo",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042009,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Obaya Dimi",
+    "postal_code": "98736"
+  },
+  {
+    "id": 9403042005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940304,
+    "value": "Yumauwo",
+    "postal_code": "98736"
+  }
+]

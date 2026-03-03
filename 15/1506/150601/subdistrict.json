@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506012001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Badang",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012021,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Badang Sepakat",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012017,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Brasau",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012019,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Gemuruh",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Kuala Dasal",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506011005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Pelabuhan Dagang",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Pematang Pauh",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012020,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Pematang Tembesu",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Taman Raja",
+    "postal_code": "36552"
+  },
+  {
+    "id": 1506012002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150601,
+    "value": "Tanjungtayas (Tanjung Tayas)",
+    "postal_code": "36552"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3215042004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Kutamekar",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Kutanegara",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Kutapohaci",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Mulyasari",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Mulyasejati",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Parungmulya",
+    "postal_code": "41363"
+  },
+  {
+    "id": 3215042008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321504,
+    "value": "Tegallega (Tegalega)",
+    "postal_code": "41363"
+  }
+]

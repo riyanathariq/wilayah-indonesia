@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1671171003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167117,
+    "value": "15 Ulu",
+    "postal_code": "30257"
+  },
+  {
+    "id": 1671171001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167117,
+    "value": "8 Ulu",
+    "postal_code": "30252"
+  },
+  {
+    "id": 1671171002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167117,
+    "value": "9-10 Ulu",
+    "postal_code": "30251"
+  },
+  {
+    "id": 1671171004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167117,
+    "value": "Silaberanti",
+    "postal_code": "30251"
+  },
+  {
+    "id": 1671171005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167117,
+    "value": "Tuan Kentang",
+    "postal_code": "30251"
+  }
+]

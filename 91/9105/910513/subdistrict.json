@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9105132003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Andersaria (Andesaria)",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Doreianmini",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Kaipuri",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Kirimbri",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Kurudu",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Mansesi",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Manusundu",
+    "postal_code": "98643"
+  },
+  {
+    "id": 9105132007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910513,
+    "value": "Mnukwar",
+    "postal_code": "98643"
+  }
+]

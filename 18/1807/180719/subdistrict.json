@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1807192005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Kedung Ringin",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Labuhan Ratu",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Mekar Sari",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Mulyo Sari",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Pasir Sakti",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Purworejo",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Rejo Mulyo",
+    "postal_code": "34387"
+  },
+  {
+    "id": 1807192007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180719,
+    "value": "Sumur Kucing",
+    "postal_code": "34387"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3305252003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Blater",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Jatipurus",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Jembangan",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Karangtengah",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252011,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Kebapangan",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Kedungdowo",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Lerepkebumen",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Poncowarno",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252010,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Soka",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Tegalrejo",
+    "postal_code": "54390"
+  },
+  {
+    "id": 3305252009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330525,
+    "value": "Tirtomoyo",
+    "postal_code": "54390"
+  }
+]

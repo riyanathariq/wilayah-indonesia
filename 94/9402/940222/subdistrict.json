@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9402222008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Gibaga",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Jigonikme",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Muruwi",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Nioga",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Papak",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222011,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Walom",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Wambagalo",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222010,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Wanduri",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Wonggi",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Wutime",
+    "postal_code": "98932"
+  },
+  {
+    "id": 9402222002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940222,
+    "value": "Yonggi",
+    "postal_code": "98932"
+  }
+]

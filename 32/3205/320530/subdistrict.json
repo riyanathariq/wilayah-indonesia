@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3205302010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Awassagara",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Cijambe",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Cikelet",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Ciroyom",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Cogadog (Cigadog)",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Girimukti",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Karangsari",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Kertamukti",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Linggamanik",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Pamalayan",
+    "postal_code": "44177"
+  },
+  {
+    "id": 3205302011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320530,
+    "value": "Tipar",
+    "postal_code": "44177"
+  }
+]

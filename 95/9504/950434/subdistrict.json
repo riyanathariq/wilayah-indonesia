@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504342007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Dimbara",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Geka",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Gelok",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Kwa",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Makido",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Membramonggen",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Tabunakme",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Wanuwi",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Wenigi",
+    "postal_code": "99054"
+  },
+  {
+    "id": 9504342005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950434,
+    "value": "Yinuwanu",
+    "postal_code": "99054"
+  }
+]

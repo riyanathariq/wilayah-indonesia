@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1206112012,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Batukarang",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112017,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Cimbang",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112015,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Gurukinayan",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112001,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Payung",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Rimo Kayu (Rimokayu)",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Selandi",
+    "postal_code": "22154"
+  },
+  {
+    "id": 1206112025,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120611,
+    "value": "Ujung Payung",
+    "postal_code": "22154"
+  }
+]

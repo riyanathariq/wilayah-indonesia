@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7102011007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Masarang",
+    "postal_code": "95616"
+  },
+  {
+    "id": 7102011013,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Rerewokan",
+    "postal_code": "95615"
+  },
+  {
+    "id": 7102011008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Rinegetan",
+    "postal_code": "95617"
+  },
+  {
+    "id": 7102011009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Roong",
+    "postal_code": "95617"
+  },
+  {
+    "id": 7102011011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Tounkuramber",
+    "postal_code": "95616"
+  },
+  {
+    "id": 7102011010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Tuutu",
+    "postal_code": "95617"
+  },
+  {
+    "id": 7102011014,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Watulambot",
+    "postal_code": "95615"
+  },
+  {
+    "id": 7102011012,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Wawalintouan",
+    "postal_code": "95616"
+  },
+  {
+    "id": 7102011015,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710201,
+    "value": "Wewelan (Wewelen)",
+    "postal_code": "95615"
+  }
+]

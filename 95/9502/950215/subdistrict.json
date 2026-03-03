@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9502152005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Modusit",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Okatem",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Parim",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Seramkatop",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Siminbuk",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Wanbakon",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Yakmor",
+    "postal_code": "99418"
+  },
+  {
+    "id": 9502152001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950215,
+    "value": "Yapimakot",
+    "postal_code": "99418"
+  }
+]

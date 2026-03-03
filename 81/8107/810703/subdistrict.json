@@ -1,0 +1,178 @@
+[
+  {
+    "id": 8107032005,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Algadang",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032001,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Benjina",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032031,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Fatlabata",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032003,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Gardakau",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032038,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Gulili",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032004,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Irloy",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032034,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Jirlay",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032028,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Kobadangar",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032029,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Kobasel Fara",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032030,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Kobasel Timur",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032009,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Kwarbola",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032006,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Lorang",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032043,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Maijuring",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032008,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Manjau",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032035,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Maririmar",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032007,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Murai",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032039,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Namara",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032036,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Papakula",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032045,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Selibata-Bata",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032040,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Selilau",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032037,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Tanah Miring",
+    "postal_code": "97661"
+  },
+  {
+    "id": 8107032033,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810703,
+    "value": "Wakua",
+    "postal_code": "97661"
+  }
+]

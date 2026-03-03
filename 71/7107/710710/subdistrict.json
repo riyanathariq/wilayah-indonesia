@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7107102007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Kuyanga",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Kuyanga Satu",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Dua",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Dua Barat",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Dua Tengah",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Dua Utara",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Tiga",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Tombatu Tiga Tengah",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Winorangian",
+    "postal_code": "95991"
+  },
+  {
+    "id": 7107102010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710710,
+    "value": "Winorangian Satu",
+    "postal_code": "95991"
+  }
+]

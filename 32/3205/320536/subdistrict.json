@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3205362001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Caringin",
+    "postal_code": "44166"
+  },
+  {
+    "id": 3205362003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Cimahi",
+    "postal_code": "44166"
+  },
+  {
+    "id": 3205362002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Indralayang",
+    "postal_code": "44166"
+  },
+  {
+    "id": 3205362005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Purbayani",
+    "postal_code": "44166"
+  },
+  {
+    "id": 3205362006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Samuderajaya",
+    "postal_code": "44166"
+  },
+  {
+    "id": 3205362004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320536,
+    "value": "Sukarame",
+    "postal_code": "44166"
+  }
+]

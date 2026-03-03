@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6371011012,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Basirih Selatan",
+    "postal_code": "70245"
+  },
+  {
+    "id": 6371011004,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Kelayan Barat",
+    "postal_code": "70241"
+  },
+  {
+    "id": 6371011006,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Kelayan Dalam",
+    "postal_code": "70242"
+  },
+  {
+    "id": 6371011002,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Kelayan Selatan",
+    "postal_code": "70246"
+  },
+  {
+    "id": 6371011005,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Kelayan Tengah",
+    "postal_code": "70242"
+  },
+  {
+    "id": 6371011008,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Kelayan Timur",
+    "postal_code": "70247"
+  },
+  {
+    "id": 6371011001,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Mantuil",
+    "postal_code": "70244"
+  },
+  {
+    "id": 6371011007,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Murung Raya",
+    "postal_code": "70247"
+  },
+  {
+    "id": 6371011003,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Pekauman",
+    "postal_code": "70243"
+  },
+  {
+    "id": 6371011011,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Pemurus Baru",
+    "postal_code": "70249"
+  },
+  {
+    "id": 6371011010,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Pemurus Dalam",
+    "postal_code": "70248"
+  },
+  {
+    "id": 6371011009,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637101,
+    "value": "Tanjung Pagar",
+    "postal_code": "70247"
+  }
+]

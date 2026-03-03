@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6108032003,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Bengkawe",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032002,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Lamoanak (Lamo Anak)",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032008,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Menjalin",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032007,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Nangka",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032006,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Raba",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032005,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Re'es (Rees)",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032001,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Sepahat",
+    "postal_code": "79362"
+  },
+  {
+    "id": 6108032004,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610803,
+    "value": "Tempoak",
+    "postal_code": "79362"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1871111003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187111,
+    "value": "Labuhan Dalam",
+    "postal_code": "35142"
+  },
+  {
+    "id": 1871111005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187111,
+    "value": "Pematang Wangi",
+    "postal_code": "35141"
+  },
+  {
+    "id": 1871111004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187111,
+    "value": "Perumnas Way Kandis",
+    "postal_code": "35141"
+  },
+  {
+    "id": 1871111001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187111,
+    "value": "Tanjung Senang",
+    "postal_code": "35141"
+  },
+  {
+    "id": 1871111002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187111,
+    "value": "Way Kandis",
+    "postal_code": "35143"
+  }
+]

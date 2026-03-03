@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8108112001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Herley (Herley Hoka)",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112008,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Nusiata",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Pota Besar",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Pota Kecil",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112007,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Rumalewang Besar (Rumahlewang Besar)",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Rumalewang Kecil (Rumahlewang Kecil)",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Upuhupun (Upuhupu)",
+    "postal_code": "97452"
+  },
+  {
+    "id": 8108112005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810811,
+    "value": "Wasarili",
+    "postal_code": "97452"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202402007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Buniwangi",
+    "postal_code": "43197"
+  },
+  {
+    "id": 3202402005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Caringin",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202402003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Ciengang",
+    "postal_code": "43197"
+  },
+  {
+    "id": 3202402002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Cijurey",
+    "postal_code": "43197"
+  },
+  {
+    "id": 3202402001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Gegerbitung",
+    "postal_code": "43197"
+  },
+  {
+    "id": 3202402004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Karangjaya",
+    "postal_code": "43197"
+  },
+  {
+    "id": 3202402006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320240,
+    "value": "Sukamanah",
+    "postal_code": "43197"
+  }
+]

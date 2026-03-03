@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2102101002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210210,
+    "value": "Darussalam",
+    "postal_code": "29667"
+  },
+  {
+    "id": 2102102003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210210,
+    "value": "Pangke",
+    "postal_code": "29667"
+  },
+  {
+    "id": 2102102004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210210,
+    "value": "Pangke Barat",
+    "postal_code": "29667"
+  },
+  {
+    "id": 2102101001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210210,
+    "value": "Pasir Panjang",
+    "postal_code": "29667"
+  }
+]

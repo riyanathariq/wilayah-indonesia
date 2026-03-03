@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7306052011,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Belabori",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306052009,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Belapunranga",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306052010,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Bontokassi",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306051002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Bontoparang",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306052008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Borisalo (Borisallo)",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306051001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Lanna",
+    "postal_code": "92179"
+  },
+  {
+    "id": 7306052006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730605,
+    "value": "Lonjoboko",
+    "postal_code": "92179"
+  }
+]

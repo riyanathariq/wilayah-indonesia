@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1471111004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Air Hitam",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471111005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Bandarraya",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471111003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Labuh Baru Barat",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471111002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Labuh Baru Timur",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471111001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Tampan",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471111007,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147111,
+    "value": "Tirtasiak",
+    "postal_code": "28292"
+  }
+]

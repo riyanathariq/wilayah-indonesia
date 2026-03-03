@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1302112005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Aripan",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112006,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Kacang",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Koto Sani",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112008,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Saniangbaka (Saning Baka)",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Singkarak",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Sumani",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112007,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Tanjung Alai",
+    "postal_code": "27356"
+  },
+  {
+    "id": 1302112002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130211,
+    "value": "Tikalak",
+    "postal_code": "27356"
+  }
+]

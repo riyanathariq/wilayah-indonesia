@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9504302012,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Bire",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Dagari",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Dow/Bijere",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302013,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Itoli",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Pakare",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Prawa",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Sigou",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Takri",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Tigu",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302014,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Vokuyo",
+    "postal_code": "99051"
+  },
+  {
+    "id": 9504302008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950430,
+    "value": "Warka",
+    "postal_code": "99051"
+  }
+]

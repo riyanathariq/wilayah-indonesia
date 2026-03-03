@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1103012003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Dalam",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Gadeng",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012021,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Lhok (Alur Lhok)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Luddin Dua (Alur Ludin II / Dua)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Luddin Sa (Alur Ludin I / Satu)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012025,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Alue Merbo (Alur Merbo)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012037,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Bagok Panah Dua (Bagok Panah II)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012038,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Bagok Panah Lhee (Bagok Panah III)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012039,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Bagok Panah Peut (Bagok Panah IV)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012036,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Bagok Panah Sa (Bagok Panah I)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Blang Buket",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Buket Kulam",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012026,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Buket Raya",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Buket Rumia/Rumiya",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012040,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Buket Tualang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Dama Pulo Dua (Dama Polo II)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Dama Pulo Sa (Dama Pulo I)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012035,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Gampong Baro (Kampung Baro)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012029,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Gampong Beunot (Kampung Beunot)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012027,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Gampong Keude (Kampung Keude)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012020,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Gaseh Sayang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012023,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Grong-Grong",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Jungka Gajah",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Kapai Baro",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012042,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Keumuneng Dua (Kemuning II)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012043,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Keumuneng Lhee (Kemuning III)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012045,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Keumuneng Limong (Kemuning V)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012044,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Keumuneng Peut (Kemuning IV)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012041,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Keumuneng Sa (Kemuning I)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012032,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Kuala Idi Cut",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Lhok Geulumpang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012024,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Matang Geuto (Matang Geutou)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Matang Pineung",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012046,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Meunasah Blang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Meunasah Keutapang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012028,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Peukan Idi Cut (Keude Idi Cut)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012034,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Aceh",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012030,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Baroh",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012019,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Buloh",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Simpang",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Teungoh",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012018,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Tuha Dua (Seuneubok Tuha II)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012017,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Seuneubok Tuha Sa (Seuneubok Tuha I)",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012031,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Teupin Drum",
+    "postal_code": "24455"
+  },
+  {
+    "id": 1103012022,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110301,
+    "value": "Trieng Gadeng",
+    "postal_code": "24455"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1804212001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Argomulyo (Argo Mulyo)",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Atar Bawang",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Atar Kuwau",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Bakhu",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Batu Kebayan",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Campang Tiga",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Kubu Liku Jaya",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Luas",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Sumber Rejo",
+    "postal_code": "34872"
+  },
+  {
+    "id": 1804212007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180421,
+    "value": "Way Ngison",
+    "postal_code": "34872"
+  }
+]

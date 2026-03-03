@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1305052008,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Ambuang Kapua Sungai Sariak",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Balah Aie",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052012,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Balah Aie Timur",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052011,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Balah Aie Utara",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052007,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Bisati Sungai Sariak",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Lareh Nan Panjang",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052006,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Lareh Nan Panjang Barat",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Lareh Nan Panjang Selatan",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052009,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Lareh Nan Panjang Sungai Sariak",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052010,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Limpato Sungai Sariak",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Lurah Ampalu",
+    "postal_code": "25576"
+  },
+  {
+    "id": 1305052002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130505,
+    "value": "Sungai Sariak",
+    "postal_code": "25576"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3521192002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Cangakan",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Gunungsari",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Jatirejo",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Karangmalang (Karang Malang)",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Kasreman",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Kyonten (Kiyonten)",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Legokulon (Lego Kulon)",
+    "postal_code": "63281"
+  },
+  {
+    "id": 3521192007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352119,
+    "value": "Tawun",
+    "postal_code": "63281"
+  }
+]

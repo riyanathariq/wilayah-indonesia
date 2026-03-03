@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7604102003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Baru",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604101004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Batupanga (Batu Panga)",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Batupanga Daala",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102009,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Luyo (Lujo)",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Mambu",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Mapili Barat (Mapilli Barat)",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102011,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Puccadi",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Pussui",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102010,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Pussui Barat",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Sambali Wali",
+    "postal_code": "91358"
+  },
+  {
+    "id": 7604102002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760410,
+    "value": "Tenggelang (Tenggelan)",
+    "postal_code": "91358"
+  }
+]

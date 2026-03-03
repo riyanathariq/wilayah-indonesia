@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7501132008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Bina Jaya",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132016,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Gandaria",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Gandasari",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132019,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Himalaya",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Lakeya",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132015,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Makmur Abadi",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132014,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Margomulya (Margomulyo)",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Molohu",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132017,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Ombulo Tango",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Polohungo",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Sidoharjo (Sidoarjo)",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Sukamakmur",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132013,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Sukamakmur Utara",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Tamaila",
+    "postal_code": "96222"
+  },
+  {
+    "id": 7501132018,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750113,
+    "value": "Tamalia Utara",
+    "postal_code": "96222"
+  }
+]

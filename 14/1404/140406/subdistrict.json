@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1404062010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Harapan Makmur",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Idaman",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Kelumpang",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Kuala Gaung",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Rambaian",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404061004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Sungaiempat (Sungai Empat)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Sungaiiliran (Sungai Iliran)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404061009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Tanjungharapan (Tanjung Harapan)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Telukpantaian (Teluk Pantaian)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404061005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Telukpinang (Teluk Pinang)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Teluksungka (Teluk Sungka)",
+    "postal_code": "29253"
+  },
+  {
+    "id": 1404062007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140406,
+    "value": "Teluktuasan (Teluk Tuasan)",
+    "postal_code": "29253"
+  }
+]

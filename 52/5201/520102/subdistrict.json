@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5201022006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Banyumulek",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022008,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Dasan Baru",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Gelogor",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Jagaraga Indah",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Kediri",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022009,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Kediri Selatan",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022010,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Lelede",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Montong Are",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022007,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Ombe Baru",
+    "postal_code": "83362"
+  },
+  {
+    "id": 5201022005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520102,
+    "value": "Rumak",
+    "postal_code": "83362"
+  }
+]

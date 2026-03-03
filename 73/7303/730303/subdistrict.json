@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7303032003,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Barua",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032004,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Kampala",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032002,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Lonrong",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032008,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Mamampang",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032006,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Mappilawing",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032005,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Pa'bentengan",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032007,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Pa'bumbungang",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032009,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Parang Loe (Parangloe)",
+    "postal_code": "92415"
+  },
+  {
+    "id": 7303032001,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730303,
+    "value": "Ulu Galung (Ulugalung)",
+    "postal_code": "92414"
+  }
+]

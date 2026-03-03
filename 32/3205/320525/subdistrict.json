@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3205252001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320525,
+    "value": "Cihurip",
+    "postal_code": "44173"
+  },
+  {
+    "id": 3205252002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320525,
+    "value": "Cisangkal",
+    "postal_code": "44173"
+  },
+  {
+    "id": 3205252004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320525,
+    "value": "Jayamukti",
+    "postal_code": "44173"
+  },
+  {
+    "id": 3205252003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320525,
+    "value": "Mekarwangi",
+    "postal_code": "44173"
+  }
+]

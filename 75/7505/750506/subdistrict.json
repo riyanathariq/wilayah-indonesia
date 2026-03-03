@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7505062011,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Bohusami",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Dumolodo",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062010,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Durian",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Gentuma",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062004,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Ipilo",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062008,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Ketapang",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062005,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Langke",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Molonggota",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062009,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Motomingo",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Nanati Jaya",
+    "postal_code": "96513"
+  },
+  {
+    "id": 7505062006,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750506,
+    "value": "Pasalae",
+    "postal_code": "96513"
+  }
+]

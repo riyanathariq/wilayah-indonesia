@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3322181009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Bandarjo",
+    "postal_code": "50517"
+  },
+  {
+    "id": 3322182001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Branjang",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322181006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Candirejo",
+    "postal_code": "50513"
+  },
+  {
+    "id": 3322181007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Genuk",
+    "postal_code": "50512"
+  },
+  {
+    "id": 3322182011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Gogik",
+    "postal_code": "50551"
+  },
+  {
+    "id": 3322182002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Kalisidi",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322182003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Keji",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322181010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Langensari",
+    "postal_code": "50518"
+  },
+  {
+    "id": 3322182004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Lerep",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3322182005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Nyatnyono",
+    "postal_code": "50551"
+  },
+  {
+    "id": 3322181008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332218,
+    "value": "Ungaran",
+    "postal_code": "50511"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1703132006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Air Tenang",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132019,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Gembung Raya",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Jabi (Dusun Jabi)",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132020,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Kinal Jaya",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132016,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Lebong Tandai",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Muara Santan",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Napal Putih",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Tanjung Alai",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Tanjung Kemayan (Kemenyan)",
+    "postal_code": "38363"
+  },
+  {
+    "id": 1703132007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170313,
+    "value": "Teluk Anggung",
+    "postal_code": "38363"
+  }
+]

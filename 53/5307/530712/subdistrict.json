@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5307122003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Done",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Kolisia",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Kolisia B",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Legu Woda",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Magepanda",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Reroroja",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Waturia",
+    "postal_code": "86152"
+  },
+  {
+    "id": 5307122006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530712,
+    "value": "Woda Mude",
+    "postal_code": "86152"
+  }
+]

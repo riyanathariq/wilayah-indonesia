@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8202012020,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Fidy Jaya",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012024,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Goeng",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012022,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Nurweda",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012004,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Nusliko",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012021,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Sidanga",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012023,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Weda / Wedana",
+    "postal_code": "97850"
+  },
+  {
+    "id": 8202012005,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820201,
+    "value": "Were",
+    "postal_code": "97850"
+  }
+]

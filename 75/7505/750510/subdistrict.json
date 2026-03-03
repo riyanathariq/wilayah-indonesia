@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7505102001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Biawu (Biau)",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102010,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Bohulo",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102008,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Bualo",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Didingga",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Luhuto",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Omuto",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102009,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Potanga (Potango)",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102006,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Sembihinga (Sembihingan)",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102005,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Topi",
+    "postal_code": "96523"
+  },
+  {
+    "id": 7505102004,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750510,
+    "value": "Windu",
+    "postal_code": "96523"
+  }
+]

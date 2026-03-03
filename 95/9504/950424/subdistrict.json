@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9504242003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Alobaga",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242019,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Dimbara",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Geya",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Jelepele",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242013,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Kibu",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Nawu",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Timori",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Tinagoga",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Weyambi",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242012,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Winalo",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Witipur",
+    "postal_code": "99024"
+  },
+  {
+    "id": 9504242014,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950424,
+    "value": "Wunggilipur",
+    "postal_code": "99024"
+  }
+]

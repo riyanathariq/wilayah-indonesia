@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3206112003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Bojonggambir",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Bojongkapol",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Campakasari",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Ciroyom",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Girimukti",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Kertanegla",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Mangkonjaya",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Pedangkamulyan",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Purwaraharja",
+    "postal_code": "46476"
+  },
+  {
+    "id": 3206112005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320611,
+    "value": "Wandasari",
+    "postal_code": "46476"
+  }
+]

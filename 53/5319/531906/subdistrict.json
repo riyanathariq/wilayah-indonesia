@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5319062014,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Bamo",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062008,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Gunung",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062013,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Komba",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062003,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Lembur",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062006,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Mbengan",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062015,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Pong Ruan",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062007,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Rana Kolong",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319061002,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Rongga Koe",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319062004,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Ruan",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319061017,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Tanah Rata",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319061001,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531906,
+    "value": "Watu Nggene",
+    "postal_code": "86572"
+  }
+]

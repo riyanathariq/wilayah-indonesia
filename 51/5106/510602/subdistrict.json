@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5106021003,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Bebalang",
+    "postal_code": "80614"
+  },
+  {
+    "id": 5106022001,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Bunutin",
+    "postal_code": "80614"
+  },
+  {
+    "id": 5106021005,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Cempaga",
+    "postal_code": "80612"
+  },
+  {
+    "id": 5106021004,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Kawan",
+    "postal_code": "80613"
+  },
+  {
+    "id": 5106022007,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Kayubihi",
+    "postal_code": "80614"
+  },
+  {
+    "id": 5106021006,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Kubu",
+    "postal_code": "80611"
+  },
+  {
+    "id": 5106022009,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Landih",
+    "postal_code": "80611"
+  },
+  {
+    "id": 5106022008,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Pengotan",
+    "postal_code": "80614"
+  },
+  {
+    "id": 5106022002,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510602,
+    "value": "Tamanbali (Taman Bali)",
+    "postal_code": "80614"
+  }
+]

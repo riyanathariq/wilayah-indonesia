@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3215302004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Cikande",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Ciptamargi",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Kertamukti",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Kosambibatu",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Mekarpohaci",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Pusakajaya Selatan",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Pusakajaya Utara",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Rawasari",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Sukaratu",
+    "postal_code": "41350"
+  },
+  {
+    "id": 3215302010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321530,
+    "value": "Tanjungsari",
+    "postal_code": "41350"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1671121003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167112,
+    "value": "36 Ilir",
+    "postal_code": "30147"
+  },
+  {
+    "id": 1671121001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167112,
+    "value": "Gandus",
+    "postal_code": "30149"
+  },
+  {
+    "id": 1671121002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167112,
+    "value": "Karang Anyar",
+    "postal_code": "30148"
+  },
+  {
+    "id": 1671121004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167112,
+    "value": "Karang Jaya",
+    "postal_code": "30149"
+  },
+  {
+    "id": 1671121005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167112,
+    "value": "Pulo Kerto",
+    "postal_code": "30149"
+  }
+]

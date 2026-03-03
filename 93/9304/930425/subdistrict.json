@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304252001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Beco",
+    "postal_code": "99779"
+  },
+  {
+    "id": 9304252003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Buetkawar",
+    "postal_code": "99779"
+  },
+  {
+    "id": 9304252006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Fakan/Ani",
+    "postal_code": "99779"
+  },
+  {
+    "id": 9304252004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Manep",
+    "postal_code": "99779"
+  },
+  {
+    "id": 9304252005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Simini",
+    "postal_code": "99779"
+  },
+  {
+    "id": 9304252002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930425,
+    "value": "Yuni",
+    "postal_code": "99779"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6302072017,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Bumi Asih",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Pantai",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072016,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Pantai Baru",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Pembelacanan (Pembelancanan)",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Sangking Baru",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072014,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Suka Maju",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072015,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Sungai Kupang Jaya",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Sungai Nipah",
+    "postal_code": "72160"
+  },
+  {
+    "id": 6302072004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630207,
+    "value": "Tanjung Pangga",
+    "postal_code": "72160"
+  }
+]

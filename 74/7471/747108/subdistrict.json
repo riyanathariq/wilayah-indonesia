@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7471081005,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747108,
+    "value": "Anaiwoi",
+    "postal_code": "93118"
+  },
+  {
+    "id": 7471081002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747108,
+    "value": "Bende",
+    "postal_code": "93118"
+  },
+  {
+    "id": 7471081001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747108,
+    "value": "Kadia",
+    "postal_code": "93117"
+  },
+  {
+    "id": 7471081003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747108,
+    "value": "Pondambea",
+    "postal_code": "93117"
+  },
+  {
+    "id": 7471081004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747108,
+    "value": "Wowawanggu",
+    "postal_code": "93117"
+  }
+]

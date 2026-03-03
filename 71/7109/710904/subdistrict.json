@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7109042006,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Balirangeng (Balirangen)",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Bandil",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042005,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Biau",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042013,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Biau Seha",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042010,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Binalu",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042007,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Buhias",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042011,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Kalihiang",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042009,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Lahopang",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Mala",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042014,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Matole",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042012,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Pahepa",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Pangirolong",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Sawang",
+    "postal_code": "95867"
+  },
+  {
+    "id": 7109042008,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710904,
+    "value": "Tapile",
+    "postal_code": "95867"
+  }
+]

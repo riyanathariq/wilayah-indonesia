@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9404092007,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Bhintuka",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092013,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Jimbi",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404091005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Karang Senang",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092010,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Karya Kencana",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404091001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Kuala Kencana",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092009,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Mimika Gunung",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092008,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Tioka Kencana",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092006,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Utikini Baru",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092011,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Utikini Dua",
+    "postal_code": "99969"
+  },
+  {
+    "id": 9404092012,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940409,
+    "value": "Utikini Tiga",
+    "postal_code": "99969"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7407032018,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Kollo Soha",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032003,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Lamanggau",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407031016,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Onemay",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032015,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Patua",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032019,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Patua Dua (II)",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032012,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Runduma",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032017,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Teemoane",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407031001,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Waha",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032004,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Waiti (Waitii)",
+    "postal_code": "93793"
+  },
+  {
+    "id": 7407032002,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740703,
+    "value": "Waitii Barat",
+    "postal_code": "93793"
+  }
+]

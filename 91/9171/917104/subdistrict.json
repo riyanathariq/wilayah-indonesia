@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9171042006,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Holtekamp",
+    "postal_code": "99311"
+  },
+  {
+    "id": 9171041004,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Koya Barat",
+    "postal_code": "99312"
+  },
+  {
+    "id": 9171042007,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Koya Tengah",
+    "postal_code": "99313"
+  },
+  {
+    "id": 9171041005,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Koya Timur",
+    "postal_code": "99314"
+  },
+  {
+    "id": 9171042008,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Mosso",
+    "postal_code": "99318"
+  },
+  {
+    "id": 9171042001,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Skow Mabo (Skouw Mabo )",
+    "postal_code": "99316"
+  },
+  {
+    "id": 9171042003,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Skow Sae (Skouw Sae)",
+    "postal_code": "99317"
+  },
+  {
+    "id": 9171042002,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917104,
+    "value": "Skow Yambe (Skouw Yambe)",
+    "postal_code": "99315"
+  }
+]

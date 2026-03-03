@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3502092006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Coper",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092009,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Jetis",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092012,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Josari",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Karanggebang",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Kradenan (Kradinan)",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Kutu Kulon",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Kutu Wetan",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Mojomati",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Mojorejo",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Ngasinan",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092010,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Tegalsari",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092013,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Turi",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092014,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Winong",
+    "postal_code": "63473"
+  },
+  {
+    "id": 3502092011,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350209,
+    "value": "Wonoketro",
+    "postal_code": "63473"
+  }
+]

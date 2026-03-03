@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6101112003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Galing",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Ratu Sepudak",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Sagu",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112010,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Sijang",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Sungai Palah",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112009,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Teluk Pandan",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Tempapan Hulu",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Tempapan Kuala",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112008,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Tri Gadu (Tri Gaduh)",
+    "postal_code": "79453"
+  },
+  {
+    "id": 6101112007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610111,
+    "value": "Tri Kembang",
+    "postal_code": "79453"
+  }
+]

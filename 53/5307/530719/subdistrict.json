@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5307192004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Balatatatin (Blatatatin)",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Habi",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Kokowahor",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Langir",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Mekendetung",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Tana Duen (Tanaduen)",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Teka Iku (Tekaiku)",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Watuliwung",
+    "postal_code": "86180"
+  },
+  {
+    "id": 5307192007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530719,
+    "value": "Watumilok",
+    "postal_code": "86180"
+  }
+]

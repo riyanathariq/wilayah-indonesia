@@ -1,0 +1,26 @@
+[
+  {
+    "id": 9401052001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940105,
+    "value": "Bumi Mulia (Bumi Mulya / Bumimulia)",
+    "postal_code": "98854"
+  },
+  {
+    "id": 9401052010,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940105,
+    "value": "Karadiri",
+    "postal_code": "98854"
+  },
+  {
+    "id": 9401052013,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940105,
+    "value": "Wanggar Makmur",
+    "postal_code": "98854"
+  }
+]

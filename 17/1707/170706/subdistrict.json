@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1707062004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Ajai Siang",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Suka Negeri",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Talang Baru I",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Talang Baru II",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Talang Donok",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Talang Donok I",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707062002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Tik Sirong",
+    "postal_code": "39260"
+  },
+  {
+    "id": 1707061001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170706,
+    "value": "Topos",
+    "postal_code": "39260"
+  }
+]

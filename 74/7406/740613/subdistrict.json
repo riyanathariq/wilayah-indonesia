@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7406132002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740613,
+    "value": "Batuawu",
+    "postal_code": "93782"
+  },
+  {
+    "id": 7406132001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740613,
+    "value": "Langkema",
+    "postal_code": "93782"
+  },
+  {
+    "id": 7406132003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740613,
+    "value": "Pongkalaero",
+    "postal_code": "93782"
+  },
+  {
+    "id": 7406132004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740613,
+    "value": "Puu Nunu",
+    "postal_code": "93782"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3507122005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Jatiguwi",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Karangkates",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Ngebrug (Ngebruk)",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Sambigede",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Senggreng",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Sumberpucung",
+    "postal_code": "65160"
+  },
+  {
+    "id": 3507122001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350712,
+    "value": "Ternyang",
+    "postal_code": "65160"
+  }
+]

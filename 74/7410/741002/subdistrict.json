@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7410022011,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Baluara",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022010,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Bente",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022001,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Bubu",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022009,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Bubu Barat",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410021004,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Kambowa",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022007,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Konde (Kondo)",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022006,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Lagundi",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022002,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Lahumoko (Lahamoko Jaya)",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022008,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Mata",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022003,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Morindino",
+    "postal_code": "93674"
+  },
+  {
+    "id": 7410022005,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741002,
+    "value": "Pongkowulu (Pongkawulu)",
+    "postal_code": "93674"
+  }
+]

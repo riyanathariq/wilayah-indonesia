@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3604242006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Binong",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Damping",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Kampung Baru",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Keboncau (Kebon Cau)",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Pamarayan",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242018,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Pasir Kembang",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Pasirlimus",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Pudar",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Sangiang",
+    "postal_code": "42179"
+  },
+  {
+    "id": 3604242003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360424,
+    "value": "Wirana",
+    "postal_code": "42179"
+  }
+]

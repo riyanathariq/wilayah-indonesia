@@ -1,0 +1,26 @@
+[
+  {
+    "id": 9508052001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950805,
+    "value": "Geselma (Geselema)",
+    "postal_code": "99903"
+  },
+  {
+    "id": 9508052007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950805,
+    "value": "Kosolpem",
+    "postal_code": "99903"
+  },
+  {
+    "id": 9508052006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950805,
+    "value": "Talem",
+    "postal_code": "99903"
+  }
+]

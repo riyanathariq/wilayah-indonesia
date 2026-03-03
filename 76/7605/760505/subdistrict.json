@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7605052001,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Kabiraan",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052008,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Panggalo",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052006,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Popenga",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052005,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Salutambung",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052002,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Sambabo",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052007,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Sulai",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052003,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Tandeallo",
+    "postal_code": "91454"
+  },
+  {
+    "id": 7605052004,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760505,
+    "value": "Ulumanda",
+    "postal_code": "91454"
+  }
+]

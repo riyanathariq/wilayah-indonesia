@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7324092007,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Alam Buana",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092002,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Cendana Hitam",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092008,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Cendana Hitam Timur",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092001,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Kertoraharjo (Kertaraharjo)",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092005,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Manunggal",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092006,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Margomulyo",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092004,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Pattengko (Patengko)",
+    "postal_code": "92970"
+  },
+  {
+    "id": 7324092003,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732409,
+    "value": "Purwosari",
+    "postal_code": "92970"
+  }
+]

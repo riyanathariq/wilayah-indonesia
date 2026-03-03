@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9507082005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Arigineri",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082016,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Arungwi",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082021,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Gubulela",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082027,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Gumbo",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082022,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Kolari",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Kuwobaga",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Milinggame",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082015,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Muleme",
+    "postal_code": "99595"
+  },
+  {
+    "id": 9507082020,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950708,
+    "value": "Ponuma",
+    "postal_code": "99595"
+  }
+]

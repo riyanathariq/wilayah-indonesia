@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1901052002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Air Duren",
+    "postal_code": "33255"
+  },
+  {
+    "id": 1901052001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Air Ruai",
+    "postal_code": "33255"
+  },
+  {
+    "id": 1901052006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Karya Makmur",
+    "postal_code": "33255"
+  },
+  {
+    "id": 1901052005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Pemali",
+    "postal_code": "33255"
+  },
+  {
+    "id": 1901052003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Penyamun",
+    "postal_code": "33251"
+  },
+  {
+    "id": 1901052004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190105,
+    "value": "Sempan",
+    "postal_code": "33251"
+  }
+]

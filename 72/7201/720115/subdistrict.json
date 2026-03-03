@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201152008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Bonebalantak",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Gori-Gori",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Maasing",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Maleo Jaya",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Masungkang",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Ombolu",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Paisu Buloli",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Sinorang",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Sukamaju",
+    "postal_code": "94763"
+  },
+  {
+    "id": 7201152005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720115,
+    "value": "Sukamaju Satu",
+    "postal_code": "94763"
+  }
+]

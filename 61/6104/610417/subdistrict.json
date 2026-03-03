@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6104172006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Mayak",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Sei/Sungai Awan Kanan",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Sei/Sungai Awan Kiri",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Suka Maju",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Tanjung Pasar",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Tanjung Pura",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Tempurukan",
+    "postal_code": "78810"
+  },
+  {
+    "id": 6104172004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610417,
+    "value": "Ulak Medang",
+    "postal_code": "78810"
+  }
+]

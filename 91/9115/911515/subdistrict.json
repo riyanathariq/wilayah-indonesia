@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9115152003,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Daimboa",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152008,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Dawoa",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152007,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Fafarui",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152001,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Mambai",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152004,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Napani",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152005,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Segha",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152009,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Sinabo",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152002,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Soyoi",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152006,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Wainarisi",
+    "postal_code": "98675"
+  },
+  {
+    "id": 9115152010,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911515,
+    "value": "Woinui",
+    "postal_code": "98675"
+  }
+]

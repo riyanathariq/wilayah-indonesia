@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7174041004,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Gogagoman",
+    "postal_code": "95715"
+  },
+  {
+    "id": 7174041005,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Kotamobagu",
+    "postal_code": "95711"
+  },
+  {
+    "id": 7174041003,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Mogolaing",
+    "postal_code": "95716"
+  },
+  {
+    "id": 7174041002,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Molinow",
+    "postal_code": "95716"
+  },
+  {
+    "id": 7174041001,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Mongkonai",
+    "postal_code": "95716"
+  },
+  {
+    "id": 7174041006,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717404,
+    "value": "Mongkonai Barat",
+    "postal_code": "95716"
+  }
+]

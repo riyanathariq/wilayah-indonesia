@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9501352006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Apenas",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Asojelipele",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Lantipo",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Pawekama",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Tulima",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Welesi",
+    "postal_code": "99512"
+  },
+  {
+    "id": 9501352002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950135,
+    "value": "Yagara",
+    "postal_code": "99512"
+  }
+]

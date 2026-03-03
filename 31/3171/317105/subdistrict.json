@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3171051002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317105,
+    "value": "Cempaka Putih Barat",
+    "postal_code": "10520"
+  },
+  {
+    "id": 3171051001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317105,
+    "value": "Cempaka Putih Timur",
+    "postal_code": "10510"
+  },
+  {
+    "id": 3171051003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317105,
+    "value": "Rawasari",
+    "postal_code": "10570"
+  }
+]

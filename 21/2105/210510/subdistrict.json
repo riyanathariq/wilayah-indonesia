@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2105102003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210510,
+    "value": "Batu Ampar",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105102004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210510,
+    "value": "Matak",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105102001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210510,
+    "value": "Payalaman",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105102002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210510,
+    "value": "Payamaram",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105102005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210510,
+    "value": "Teluk Bayur",
+    "postal_code": "29796"
+  }
+]

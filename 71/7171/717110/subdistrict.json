@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7171101004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717110,
+    "value": "Alung Banua",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171101001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717110,
+    "value": "Bunaken",
+    "postal_code": "95246"
+  },
+  {
+    "id": 7171101003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717110,
+    "value": "Manado Tua Dua",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171101002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717110,
+    "value": "Manado Tua Satu",
+    "postal_code": "95231"
+  }
+]

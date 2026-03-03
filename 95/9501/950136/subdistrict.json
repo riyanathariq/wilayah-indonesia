@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9501362009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Air Garam",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Asotipo",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Heberima",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Hitigima",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Hukulimo",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Iwigima",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Kuantapo",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Pobiatma",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Putageima (Putagaima)",
+    "postal_code": "99502"
+  },
+  {
+    "id": 9501362001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950136,
+    "value": "Sogokmo (Sogomo)",
+    "postal_code": "99502"
+  }
+]

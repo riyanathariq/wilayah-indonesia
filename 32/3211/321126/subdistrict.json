@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3211262001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Cijeungjing",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Cintajaya",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Cipicung",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Ciranggem",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Cisampih",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Jemah",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Kadu",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Kadujaya",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Karedok",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Lebaksiuh",
+    "postal_code": "45377"
+  },
+  {
+    "id": 3211262006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321126,
+    "value": "Mekarasih",
+    "postal_code": "45377"
+  }
+]

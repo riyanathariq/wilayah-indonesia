@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6501022001,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650102,
+    "value": "Long Beluah",
+    "postal_code": "77217"
+  },
+  {
+    "id": 6501022005,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650102,
+    "value": "Long Pari",
+    "postal_code": "77217"
+  },
+  {
+    "id": 6501022002,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650102,
+    "value": "Long Sam",
+    "postal_code": "77217"
+  },
+  {
+    "id": 6501022004,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650102,
+    "value": "Mara Hilir",
+    "postal_code": "77217"
+  },
+  {
+    "id": 6501022003,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650102,
+    "value": "Mara I (Mara Satu)",
+    "postal_code": "77217"
+  }
+]

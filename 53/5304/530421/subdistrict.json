@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5304211001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530421,
+    "value": "Bardao (Berdao)",
+    "postal_code": "85715"
+  },
+  {
+    "id": 5304211004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530421,
+    "value": "Beirafu",
+    "postal_code": "85718"
+  },
+  {
+    "id": 5304211002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530421,
+    "value": "Tulamalae",
+    "postal_code": "85714"
+  },
+  {
+    "id": 5304211003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530421,
+    "value": "Umanen",
+    "postal_code": "85713"
+  }
+]

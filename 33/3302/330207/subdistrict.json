@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3302072010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Banjarpanepen",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Bogangin",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Karanggedang",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302071012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Kebokura",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Kemiri",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Ketanda",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302071014,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Kradenan",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Kuntili",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Lebeng",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Nusadadi",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Pandak",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Selandaka",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302072008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Selanegara",
+    "postal_code": "53195"
+  },
+  {
+    "id": 3302071013,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330207,
+    "value": "Sumpiuh",
+    "postal_code": "53195"
+  }
+]

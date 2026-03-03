@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2104042001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Bakong",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042015,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Bukit Belah",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042009,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Jagoh (Jaqoh)",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Kuala Raya",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042013,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Langkap",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Marok Tua",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104041006,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Raya",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042005,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Sungai Buluh",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042008,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Sungai Harapan",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042007,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Sungai Raya",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042014,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Tanjung Irat",
+    "postal_code": "29875"
+  },
+  {
+    "id": 2104042012,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210404,
+    "value": "Tinjul",
+    "postal_code": "29875"
+  }
+]

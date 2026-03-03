@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8206012014,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Batu Raja",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012016,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Bulapapo (Gulapapo)",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012009,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Bumi Restu",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012008,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Cemara Jaya",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012015,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Mekar Sari",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012006,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Subaim",
+    "postal_code": "97865"
+  },
+  {
+    "id": 8206012027,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820601,
+    "value": "Waisuba",
+    "postal_code": "97865"
+  }
+]

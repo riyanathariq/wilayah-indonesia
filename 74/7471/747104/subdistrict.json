@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7471041003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747104,
+    "value": "Andonohu (Anduonohu)",
+    "postal_code": "93231"
+  },
+  {
+    "id": 7471041005,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747104,
+    "value": "Anggoeya",
+    "postal_code": "93231"
+  },
+  {
+    "id": 7471041006,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747104,
+    "value": "Matabubu",
+    "postal_code": "93233"
+  },
+  {
+    "id": 7471041004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747104,
+    "value": "Rahandouna",
+    "postal_code": "93232"
+  },
+  {
+    "id": 7471041021,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747104,
+    "value": "Wundumbatu",
+    "postal_code": "93232"
+  }
+]

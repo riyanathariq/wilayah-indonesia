@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9408032006,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Diita",
+    "postal_code": "98751"
+  },
+  {
+    "id": 9408032002,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Kopai Dua (II)",
+    "postal_code": "98751"
+  },
+  {
+    "id": 9408032001,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Kopai Satu (I)",
+    "postal_code": "98751"
+  },
+  {
+    "id": 9408032005,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Mudetadi",
+    "postal_code": "98751"
+  },
+  {
+    "id": 9408032003,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Woge",
+    "postal_code": "98751"
+  },
+  {
+    "id": 9408032004,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940803,
+    "value": "Yewadide",
+    "postal_code": "98751"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5206072008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Bala",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Hadirasa",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072013,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Kalajena",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072014,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Mandala",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072011,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Nanga Wera",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Ntoke",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Nunggi",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072009,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Oi Tui",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Pai",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072012,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Ranggasolo",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Sangiang",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072010,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Tadewa",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Tawali",
+    "postal_code": "84152"
+  },
+  {
+    "id": 5206072006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520607,
+    "value": "Wora",
+    "postal_code": "84152"
+  }
+]

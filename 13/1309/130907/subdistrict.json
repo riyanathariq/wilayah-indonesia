@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1309072002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130907,
+    "value": "Cimpungan",
+    "postal_code": "25396"
+  },
+  {
+    "id": 1309072001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130907,
+    "value": "Saibi Muara (Saibi Samukop/Samokop)",
+    "postal_code": "25396"
+  },
+  {
+    "id": 1309072003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130907,
+    "value": "Saliguma",
+    "postal_code": "25396"
+  }
+]

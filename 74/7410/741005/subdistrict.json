@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7410052010,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Bira",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052011,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "E'erinere",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052001,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Kurolabu",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052004,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Laanosangia (Lanosangia)",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052012,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Labelete",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052003,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Lamoahi",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052007,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Lelamo",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052005,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Pebaoa",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052006,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Petetea'a (Peteteaa)",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052002,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Tombia (Torombia / Torumbia)",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052009,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Ulunambo",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052013,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Wamboule",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052008,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Waodeburi (Waode Buri)",
+    "postal_code": "93675"
+  },
+  {
+    "id": 7410052014,
+    "province_id": 74,
+    "regency_id": 7410,
+    "district_id": 741005,
+    "value": "Wowonga Jaya",
+    "postal_code": "93675"
+  }
+]

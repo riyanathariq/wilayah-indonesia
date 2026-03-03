@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3602232003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Candi",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Ciburuy",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Cidadap",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Cilayang",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Cipining",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Curugbitung",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Guradog",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232010,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Lebakasih (Lebakkasih)",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Mayak",
+    "postal_code": "42381"
+  },
+  {
+    "id": 3602232008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360223,
+    "value": "Sekarwangi",
+    "postal_code": "42381"
+  }
+]

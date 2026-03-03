@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3505141013,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Bajang",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Bendosewu",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Duren",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Jabung",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142012,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Jajar",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Jeblog",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505141009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Kamulan",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505141014,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Kaweron",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Kendalrejo",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Pasirharjo",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Sragi",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505141008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Talun",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Tumpang",
+    "postal_code": "66183"
+  },
+  {
+    "id": 3505142007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350514,
+    "value": "Wonorejo",
+    "postal_code": "66183"
+  }
+]

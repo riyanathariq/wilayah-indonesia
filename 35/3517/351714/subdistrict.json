@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3517142013,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Bawangan",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142006,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Daditunggal (Dadi Tunggal)",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142007,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Gedungombo (Gedongombo)",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142008,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Jatibanjar",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142005,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Jatigedong",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142012,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Kebonagung (Kebon Agung)",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142011,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Kedungdowo",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142003,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Losari",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142009,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Pagertanjung (Pager Tanjung)",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142010,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Pandanblole (Pandan Blole)",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142004,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Ploso",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142002,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Rejoagung",
+    "postal_code": "61453"
+  },
+  {
+    "id": 3517142001,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351714,
+    "value": "Tanggungkramat (Tanggung Kramat)",
+    "postal_code": "61453"
+  }
+]

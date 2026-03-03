@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6208042003,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620804,
+    "value": "Sei/Sungai Cabang Barat",
+    "postal_code": "74170"
+  },
+  {
+    "id": 6208042001,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620804,
+    "value": "Sei/Sungai Damar",
+    "postal_code": "74170"
+  },
+  {
+    "id": 6208042004,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620804,
+    "value": "Sei/Sungai Pasir",
+    "postal_code": "74170"
+  },
+  {
+    "id": 6208042002,
+    "province_id": 62,
+    "regency_id": 6208,
+    "district_id": 620804,
+    "value": "Sei/Sungai Tabuk",
+    "postal_code": "74170"
+  }
+]

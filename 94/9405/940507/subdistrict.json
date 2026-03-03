@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9405072001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Agandugume",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Ayume",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Dolinggu",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Dugunale",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Gut'yenggenak",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Ogobak'pelenak",
+    "postal_code": "98970"
+  },
+  {
+    "id": 9405072009,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940507,
+    "value": "Terowi",
+    "postal_code": "98970"
+  }
+]

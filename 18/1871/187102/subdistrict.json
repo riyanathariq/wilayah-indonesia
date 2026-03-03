@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871021008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Korpri Jaya",
+    "postal_code": "35131"
+  },
+  {
+    "id": 1871021009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Korpri Raya",
+    "postal_code": "35131"
+  },
+  {
+    "id": 1871021003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Sukarame",
+    "postal_code": "35131"
+  },
+  {
+    "id": 1871021006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Sukarame Baru",
+    "postal_code": "35131"
+  },
+  {
+    "id": 1871021004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Way Dadi",
+    "postal_code": "35131"
+  },
+  {
+    "id": 1871021007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187102,
+    "value": "Way Dadi Baru",
+    "postal_code": "35131"
+  }
+]

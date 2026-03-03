@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1603242002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Babat",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Gaung Asam",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Ibul",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Lubuk Getam",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Lubuk Semantung",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Sialingan",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Talang Balai",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Talang Beliung",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Tanjung Bunut",
+    "postal_code": "31171"
+  },
+  {
+    "id": 1603242008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160324,
+    "value": "Tanjung Tiga",
+    "postal_code": "31171"
+  }
+]

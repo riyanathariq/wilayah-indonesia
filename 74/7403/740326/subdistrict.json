@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7403262007,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740326,
+    "value": "Bhone Kainsetala (Bone Kancitala)",
+    "postal_code": "93663"
+  },
+  {
+    "id": 7403262008,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740326,
+    "value": "Bone Lolibu",
+    "postal_code": "93663"
+  },
+  {
+    "id": 7403262006,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740326,
+    "value": "Bone Tondo",
+    "postal_code": "93663"
+  },
+  {
+    "id": 7403262010,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740326,
+    "value": "Matombura",
+    "postal_code": "93663"
+  },
+  {
+    "id": 7403262009,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740326,
+    "value": "Oelongko",
+    "postal_code": "93663"
+  }
+]

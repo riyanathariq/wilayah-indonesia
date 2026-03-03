@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3202342003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320234,
+    "value": "Bojongsawah",
+    "postal_code": "43194"
+  },
+  {
+    "id": 3202342002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320234,
+    "value": "Cikaret",
+    "postal_code": "43194"
+  },
+  {
+    "id": 3202342005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320234,
+    "value": "Jambenenggang",
+    "postal_code": "43194"
+  },
+  {
+    "id": 3202342001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320234,
+    "value": "Kebonpedes",
+    "postal_code": "43194"
+  },
+  {
+    "id": 3202342004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320234,
+    "value": "Sasagaran",
+    "postal_code": "43194"
+  }
+]

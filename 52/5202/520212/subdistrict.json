@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5202122006,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Aik Berik",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122004,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Aik Bukak (Bukaq)",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122008,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Karang Sidemen",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122001,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Lantan",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122007,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Mas-mas (Mas Mas)",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122002,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Setiling",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122003,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Tanak Beak",
+    "postal_code": "83550"
+  },
+  {
+    "id": 5202122005,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520212,
+    "value": "Teratak",
+    "postal_code": "83550"
+  }
+]

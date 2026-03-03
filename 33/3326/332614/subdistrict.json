@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3326141004,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Bligo",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Coprayan",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Kertijayan",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142005,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Pakumbulan",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142010,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Paweden",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326141002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Sapugarut",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326141008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Simbangkulon (Simbang Kulon)",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Simbangwetan (Simbang Wetan)",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Watusalam",
+    "postal_code": "51171"
+  },
+  {
+    "id": 3326142003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332614,
+    "value": "Wonoyoso",
+    "postal_code": "51171"
+  }
+]

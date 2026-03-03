@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1108202011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Alue Leukot (Gampong Alue Leukot)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Alue Lhok (Gampong Alue Lhok)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202031,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Asan Seuleumak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Ara (Gampong Blang Ara)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202038,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Dalam",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202026,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Gunci",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Mane",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202037,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Paku",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202039,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Pante",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Blang Sialet",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Buket Guru",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Buket Pidie",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202036,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Cempeudak (Ceumpeudak)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202033,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Cot Teufah (Cot Tufah)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202027,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Gampong Nga",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Geureughek",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Glumpang/Geulumpang Pirak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Jok",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Kebon Pirak (Keubon Pirak)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202025,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Keude Paya Bakong",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202023,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Leuhong",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202035,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Lueng",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202028,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Mampree (Gampong Mampree)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202029,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Matang Panyang",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Meunye Seuleumak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202016,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Meuria Seuleumak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Pante Seuleumak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Paya Meudru",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Peureupok",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202034,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Pucok Alue Seuleumak",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Seuneubok Aceh (Gampong Seuneubok Aceh)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Simpang",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202024,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tanjong Burunyong (Tanjong Beurunyong)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202030,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tanjung Drien (Tanjong Drien)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202032,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tgk. Dibanda Tek-Tek (Teungku Dibanda Tektek)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tgk.Dibanda Pirak (Teungku Dibanda Pirak)",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tumpok Mesjid",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Tunong Krueng",
+    "postal_code": "24383"
+  },
+  {
+    "id": 1108202014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110820,
+    "value": "Ulue Bieng (Alue Bieng)",
+    "postal_code": "24383"
+  }
+]

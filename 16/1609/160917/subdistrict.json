@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1609172003,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Bandar",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172005,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Damarpura",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172008,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Gemiung",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172004,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Jagaraga",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172007,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Sinar Danau",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172002,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Tanjung Beringin",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172001,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Tekana",
+    "postal_code": "32264"
+  },
+  {
+    "id": 1609172006,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160917,
+    "value": "Tunas Jaya",
+    "postal_code": "32264"
+  }
+]

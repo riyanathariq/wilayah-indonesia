@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1307012006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Andiang",
+    "postal_code": "26255"
+  },
+  {
+    "id": 1307012001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Kurai",
+    "postal_code": "26255"
+  },
+  {
+    "id": 1307012005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Limbanang",
+    "postal_code": "26255"
+  },
+  {
+    "id": 1307012004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Suliki",
+    "postal_code": "26255"
+  },
+  {
+    "id": 1307012002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Sungai Rimbang",
+    "postal_code": "26255"
+  },
+  {
+    "id": 1307012003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130701,
+    "value": "Tanjuang Bungo",
+    "postal_code": "26255"
+  }
+]

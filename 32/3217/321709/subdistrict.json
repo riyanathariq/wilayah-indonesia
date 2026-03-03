@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3217092002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Batujajar Barat",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Batujajar Timur",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Cangkorah",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Galanggang",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Giriasih",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Pangauban",
+    "postal_code": "40561"
+  },
+  {
+    "id": 3217092007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321709,
+    "value": "Selacau",
+    "postal_code": "40561"
+  }
+]

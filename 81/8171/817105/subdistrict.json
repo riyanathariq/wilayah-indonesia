@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8171052002,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Ema",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171052005,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Hatalai",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171052001,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Hukurila",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171052006,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Hutumury (Hutumuri)",
+    "postal_code": "97237"
+  },
+  {
+    "id": 8171052003,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Kilang",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171052008,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Leahari",
+    "postal_code": "97237"
+  },
+  {
+    "id": 8171052004,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Naku",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171052007,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817105,
+    "value": "Rutong",
+    "postal_code": "97237"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7307042004,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Baru",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042010,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Bonto",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042011,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Gantarang",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042008,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Kanrung",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042003,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Kompang",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042002,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Mattunreng Tellue",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042005,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Pattongko",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307041001,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Samaenre",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042007,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Saohiring",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042009,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Saotanre",
+    "postal_code": "92652"
+  },
+  {
+    "id": 7307042006,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730704,
+    "value": "Saotengnga",
+    "postal_code": "92652"
+  }
+]

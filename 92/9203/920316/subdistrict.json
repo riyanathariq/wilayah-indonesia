@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9203162003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Gar",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Rumbati",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Salakiti",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Sengkiti",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Tanehamur",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Tawar",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Twootkindik",
+    "postal_code": "98023"
+  },
+  {
+    "id": 9203162005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920316,
+    "value": "Werfra",
+    "postal_code": "98023"
+  }
+]

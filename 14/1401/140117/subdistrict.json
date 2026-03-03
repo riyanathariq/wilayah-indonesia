@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1401172006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Deli Makmur",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Kampar",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Koto Perambahan",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Pulau Birandang",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Pulau Rambai",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172009,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Sawahbaru (Sawah Baru)",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Sei/Sungai Putih",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Sungaitarap (Sungai Tarap)",
+    "postal_code": "28460"
+  },
+  {
+    "id": 1401172008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140117,
+    "value": "Tanjungbungo (Tanjung Bungo)",
+    "postal_code": "28460"
+  }
+]

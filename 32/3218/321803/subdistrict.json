@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3218032009,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Batumalang",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Cimerak",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Ciparanti",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Kertaharja",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Kertamukti",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Legokjawa",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032011,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Limusgede",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Masawah",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032010,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Mekarsari",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032008,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Sindangsari",
+    "postal_code": "46395"
+  },
+  {
+    "id": 3218032006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321803,
+    "value": "Sukajaya",
+    "postal_code": "46395"
+  }
+]

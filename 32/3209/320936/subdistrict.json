@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3209362009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Cankring (Cangkring)",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Gamel",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Kaliwulu",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Panembahan",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Pangkalan",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Sarabau",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Tegalsari",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Trusmi Kulon",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Trusmi Wetan",
+    "postal_code": "45154"
+  },
+  {
+    "id": 3209362006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320936,
+    "value": "Wotgali",
+    "postal_code": "45154"
+  }
+]

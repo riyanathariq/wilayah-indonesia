@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7172041014,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Aertembaga Dua (II)",
+    "postal_code": "95526"
+  },
+  {
+    "id": 7172041005,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Aertembaga Satu (I)",
+    "postal_code": "95526"
+  },
+  {
+    "id": 7172041013,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Kasawari",
+    "postal_code": "95521"
+  },
+  {
+    "id": 7172041007,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Makawidey",
+    "postal_code": "95528"
+  },
+  {
+    "id": 7172041011,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Peteten Dua (II)",
+    "postal_code": "95524"
+  },
+  {
+    "id": 7172041003,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Peteten Satu (I)",
+    "postal_code": "95524"
+  },
+  {
+    "id": 7172041008,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Pinangunian",
+    "postal_code": "95529"
+  },
+  {
+    "id": 7172041006,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Tandurusa (Tandu Rusa)",
+    "postal_code": "95527"
+  },
+  {
+    "id": 7172041012,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Winenet Dua (II)",
+    "postal_code": "95525"
+  },
+  {
+    "id": 7172041004,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717204,
+    "value": "Winenet Satu (I)",
+    "postal_code": "95525"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9503122005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Bue",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Dekbok",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Esaikma",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Haletuk",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Hendikma",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Lidipmu",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Sumegen",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Usaregeik (Usaragek)",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Weleheikma",
+    "postal_code": "99707"
+  },
+  {
+    "id": 9503122008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950312,
+    "value": "Yeriko",
+    "postal_code": "99707"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206032021,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920603,
+    "value": "Amutu",
+    "postal_code": "98132"
+  },
+  {
+    "id": 9206032020,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920603,
+    "value": "Irarutu III",
+    "postal_code": "98132"
+  },
+  {
+    "id": 9206032023,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920603,
+    "value": "Kasira",
+    "postal_code": "98132"
+  },
+  {
+    "id": 9206032022,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920603,
+    "value": "Nusei",
+    "postal_code": "98132"
+  }
+]

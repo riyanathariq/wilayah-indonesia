@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3402092002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340209,
+    "value": "Canden",
+    "postal_code": "55781"
+  },
+  {
+    "id": 3402092001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340209,
+    "value": "Patalan",
+    "postal_code": "55781"
+  },
+  {
+    "id": 3402092003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340209,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "55781"
+  },
+  {
+    "id": 3402092004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340209,
+    "value": "Trimulyo",
+    "postal_code": "55781"
+  }
+]

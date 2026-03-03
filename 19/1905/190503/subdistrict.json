@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1905032021,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Air Kuang",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032001,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Jebus",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032009,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Ketap",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032004,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Limbung",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032018,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Mislak",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032019,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Pebuar",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032008,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Ranggi Asam",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032005,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Rukam",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032020,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Sinar Manik",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032002,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Sungai Buluh",
+    "postal_code": "33362"
+  },
+  {
+    "id": 1905032003,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190503,
+    "value": "Tumbak Petar",
+    "postal_code": "33362"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7301021002,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Bontobangung (Bontobangun)",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022004,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Bontoborusu",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022005,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Bontolebang",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022003,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Bontosunggu",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022006,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Bontotangnga",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022007,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Kahu-Kahu",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301022008,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Kalepadang",
+    "postal_code": "92811"
+  },
+  {
+    "id": 7301021001,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730102,
+    "value": "Putabangung (Putabangun)",
+    "postal_code": "92811"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7203312003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Kamonji",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Ketong",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Malei",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312008,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Manimbaya",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312007,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Palau",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312006,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Pomolulu",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Rano",
+    "postal_code": "94359"
+  },
+  {
+    "id": 7203312001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720331,
+    "value": "Walandano",
+    "postal_code": "94359"
+  }
+]

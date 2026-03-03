@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5302212007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Kiufatu",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Kualin",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Nunusunu",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Oemaman",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Oni",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Toineke",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Tuafanu",
+    "postal_code": "85566"
+  },
+  {
+    "id": 5302212004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530221,
+    "value": "Tuapakas",
+    "postal_code": "85566"
+  }
+]

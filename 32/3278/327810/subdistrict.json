@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3278101003,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Purbaratu",
+    "postal_code": "46190"
+  },
+  {
+    "id": 3278101006,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Singkup",
+    "postal_code": "46190"
+  },
+  {
+    "id": 3278101004,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Sukaasih",
+    "postal_code": "46190"
+  },
+  {
+    "id": 3278101005,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Sukajaya",
+    "postal_code": "46190"
+  },
+  {
+    "id": 3278101002,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Sukamenak",
+    "postal_code": "46190"
+  },
+  {
+    "id": 3278101001,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327810,
+    "value": "Sukanagara",
+    "postal_code": "46190"
+  }
+]

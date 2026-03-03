@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209212007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Bao",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Batdey",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212009,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Dombron",
+    "postal_code": "98376"
+  },
+  {
+    "id": 9209212008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Donan",
+    "postal_code": "98376"
+  },
+  {
+    "id": 9209212001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Jokbujoker",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Kranfotsu",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Kwesefo",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Syuau",
+    "postal_code": "98368"
+  },
+  {
+    "id": 9209212006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920921,
+    "value": "Syumbi",
+    "postal_code": "98368"
+  }
+]

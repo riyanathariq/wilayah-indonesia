@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8101232005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Hunisi",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Lafa",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Laha",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Laha Kaba (Lahakaba)",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Laimu",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Maneoratu (Maneo Ratu)",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Tehua",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Ulahahan",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Wolu",
+    "postal_code": "97510"
+  },
+  {
+    "id": 8101232004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810123,
+    "value": "Yamalatu",
+    "postal_code": "97510"
+  }
+]

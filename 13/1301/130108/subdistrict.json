@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1301082003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Amping Parak",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Amping Parak Timur",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082007,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Aur Duri Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082011,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Ganting Mudiak Selatan Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082012,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Ganting Mudiak Utara Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Koto Nan Tigo Selatan Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082010,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Koto Nan Tigo Utara Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Koto Taratak",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Lansano Taratak",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082008,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Rawang Gunung Malelo Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Surantih",
+    "postal_code": "25662"
+  },
+  {
+    "id": 1301082001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130108,
+    "value": "Taratak",
+    "postal_code": "25662"
+  }
+]

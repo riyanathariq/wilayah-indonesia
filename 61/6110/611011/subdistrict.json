@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6110112006,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Bukit Raya",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112003,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Durian Jaya",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112010,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Ganjang",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112002,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Harapan Jaya",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112009,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Keluas Hulu",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112008,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Laja",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112007,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Lintah Taum",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112005,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Pelita Jaya",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112004,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Togan Baru",
+    "postal_code": "79676"
+  },
+  {
+    "id": 6110112001,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611011,
+    "value": "Ulak Muid",
+    "postal_code": "79676"
+  }
+]

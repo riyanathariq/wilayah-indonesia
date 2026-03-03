@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3204292012,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Babakan",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292013,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Bumiwangi",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Ciheulang",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Cikoneng",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Ciparay",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Gunungleutik",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Mangunharja (Manggungharja)",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292014,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Mekarlaksana (Mekar Laksana)",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Mekarsari",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Pakutandang",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Sagaracipta (Sigaracipta)",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Sarimahi",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Serangmekar",
+    "postal_code": "40381"
+  },
+  {
+    "id": 3204292007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320429,
+    "value": "Sumbersari",
+    "postal_code": "40381"
+  }
+]

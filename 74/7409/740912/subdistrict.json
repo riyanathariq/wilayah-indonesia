@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7409122006,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Boedingi",
+    "postal_code": "93341"
+  },
+  {
+    "id": 7409122001,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Boenaga",
+    "postal_code": "93341"
+  },
+  {
+    "id": 7409122003,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Labengki",
+    "postal_code": "93341"
+  },
+  {
+    "id": 7409122004,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Morombo",
+    "postal_code": "93341"
+  },
+  {
+    "id": 7409122005,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Tapunopaka",
+    "postal_code": "93341"
+  },
+  {
+    "id": 7409122002,
+    "province_id": 74,
+    "regency_id": 7409,
+    "district_id": 740912,
+    "value": "Waturambaha",
+    "postal_code": "93341"
+  }
+]

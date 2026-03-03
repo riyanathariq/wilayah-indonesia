@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1271011006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Kotamatsum III (Kota Matsum III)",
+    "postal_code": "20215"
+  },
+  {
+    "id": 1271011004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Mesjid",
+    "postal_code": "20213"
+  },
+  {
+    "id": 1271011005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Pandau Hulu I",
+    "postal_code": "20211"
+  },
+  {
+    "id": 1271011001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Pasar Baru",
+    "postal_code": "20212"
+  },
+  {
+    "id": 1271011007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Pasar Merah Barat",
+    "postal_code": "20217"
+  },
+  {
+    "id": 1271011002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Pusat Pasar",
+    "postal_code": "20212"
+  },
+  {
+    "id": 1271011003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Sei Rengas I",
+    "postal_code": "20214"
+  },
+  {
+    "id": 1271011012,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Sitirejo I (Siti Rejo I)",
+    "postal_code": "20219"
+  },
+  {
+    "id": 1271011010,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Sudirejo (Sudi Rejo I)",
+    "postal_code": "20218"
+  },
+  {
+    "id": 1271011011,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Sudirejo II (Sudi Rejo II)",
+    "postal_code": "20218"
+  },
+  {
+    "id": 1271011009,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Teladan Barat",
+    "postal_code": "20217"
+  },
+  {
+    "id": 1271011008,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127101,
+    "value": "Teladan Timur",
+    "postal_code": "20217"
+  }
+]

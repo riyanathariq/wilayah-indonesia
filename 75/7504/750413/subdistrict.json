@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7504132005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Butungale",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Dudewulo",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Molosifat (Molosipat)",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132007,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Molosifat Utara (Molosipat Utara)",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Padengo",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132006,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Persatuan",
+    "postal_code": "96467"
+  },
+  {
+    "id": 7504132002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750413,
+    "value": "Tunas Jaya",
+    "postal_code": "96467"
+  }
+]

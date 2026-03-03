@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3203302010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Karyamukti",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Mandalawangi",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Nagasari",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Puncakwangi",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Purabaya",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Pusakasari",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302012,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Sindangsari",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Sirnasari",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Sukajaya",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Sukamulya",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Sukasirna",
+    "postal_code": "43273"
+  },
+  {
+    "id": 3203302002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320330,
+    "value": "Walahir",
+    "postal_code": "43273"
+  }
+]

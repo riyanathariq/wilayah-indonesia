@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9208022007,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Adi Jaya (Adijaya)",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022003,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Edor",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022009,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Esania",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022005,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Gaka",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022006,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Guriasa",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022010,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Hia",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022001,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Kambala",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022008,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Nusaulan (Nusaulan Jaya)",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022004,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Tairi",
+    "postal_code": "98123"
+  },
+  {
+    "id": 9208022002,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920802,
+    "value": "Yarona",
+    "postal_code": "98123"
+  }
+]

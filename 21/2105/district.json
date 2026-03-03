@@ -1,0 +1,62 @@
+[
+  {
+    "id": 210506,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Jemaja"
+  },
+  {
+    "id": 210509,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Jemaja Barat"
+  },
+  {
+    "id": 210505,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Jemaja Timur"
+  },
+  {
+    "id": 210510,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Kute Siantan"
+  },
+  {
+    "id": 210502,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Palmatak"
+  },
+  {
+    "id": 210501,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Siantan"
+  },
+  {
+    "id": 210504,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Siantan Selatan"
+  },
+  {
+    "id": 210507,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Siantan Tengah"
+  },
+  {
+    "id": 210503,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Siantan Timur"
+  },
+  {
+    "id": 210508,
+    "province_id": 21,
+    "regency_id": 2105,
+    "value": "Siantan Utara"
+  }
+]

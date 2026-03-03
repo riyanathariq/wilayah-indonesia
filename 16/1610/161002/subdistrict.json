@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1610022031,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Bangun Jaya",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022026,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Burai",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022020,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Limbang Jaya I",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022033,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Limbang Jaya II",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022016,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Pajar/Fajar Bulan",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022027,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Sentul",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022034,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Senuro Barat",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Senuro Timur",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Seri Bandung",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Seri Tanjung",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022018,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Atap",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022036,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Atap Barat",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022014,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Baru Petai",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610021017,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Batu",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022015,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Batu Seberang",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610021037,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Batu Timur",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022021,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Laut",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022019,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Pinang I",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022035,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Pinang II",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Tambak",
+    "postal_code": "30665"
+  },
+  {
+    "id": 1610022032,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161002,
+    "value": "Tanjung Tambak Baru",
+    "postal_code": "30665"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1277011007,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Batang Ayumi Jae",
+    "postal_code": "22716"
+  },
+  {
+    "id": 1277011008,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Batang Ayumi Julu",
+    "postal_code": "22711"
+  },
+  {
+    "id": 1277011014,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Bincar",
+    "postal_code": "22711"
+  },
+  {
+    "id": 1277011011,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Bonan Dolok",
+    "postal_code": "22712"
+  },
+  {
+    "id": 1277011015,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Kantin",
+    "postal_code": "22711"
+  },
+  {
+    "id": 1277011016,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Kayu Ombun",
+    "postal_code": "22711"
+  },
+  {
+    "id": 1277011012,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Losung Batu",
+    "postal_code": "22713"
+  },
+  {
+    "id": 1277011010,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Panyanggar",
+    "postal_code": "22714"
+  },
+  {
+    "id": 1277011009,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Sadabuan",
+    "postal_code": "22715"
+  },
+  {
+    "id": 1277011005,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Tanobato (Tano Bato)",
+    "postal_code": "22716"
+  },
+  {
+    "id": 1277011013,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Timbangan",
+    "postal_code": "22711"
+  },
+  {
+    "id": 1277011006,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Tobat",
+    "postal_code": "22716"
+  },
+  {
+    "id": 1277011001,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Wek I",
+    "postal_code": "22715"
+  },
+  {
+    "id": 1277011002,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Wek II",
+    "postal_code": "22718"
+  },
+  {
+    "id": 1277011003,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Wek III",
+    "postal_code": "22719"
+  },
+  {
+    "id": 1277011004,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127701,
+    "value": "Wek IV",
+    "postal_code": "22719"
+  }
+]

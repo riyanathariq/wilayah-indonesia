@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7271081007,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Kawatuna",
+    "postal_code": "94233"
+  },
+  {
+    "id": 7271081005,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Lasoani",
+    "postal_code": "94116"
+  },
+  {
+    "id": 7271081001,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Layana Indah",
+    "postal_code": "94111"
+  },
+  {
+    "id": 7271081006,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Poboya",
+    "postal_code": "94115"
+  },
+  {
+    "id": 7271081003,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Talise",
+    "postal_code": "94118"
+  },
+  {
+    "id": 7271081008,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Talise Valangguni",
+    "postal_code": "94118"
+  },
+  {
+    "id": 7271081004,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Tanamodindi",
+    "postal_code": "94234"
+  },
+  {
+    "id": 7271081002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727108,
+    "value": "Tondo",
+    "postal_code": "94119"
+  }
+]

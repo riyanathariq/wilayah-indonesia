@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1471101005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Bambukuning",
+    "postal_code": "28281"
+  },
+  {
+    "id": 1471101002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Bencahlesung",
+    "postal_code": "28285"
+  },
+  {
+    "id": 1471101011,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Industritenayan",
+    "postal_code": "28285"
+  },
+  {
+    "id": 1471101010,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Melebung",
+    "postal_code": "28285"
+  },
+  {
+    "id": 1471101004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Rejosari",
+    "postal_code": "28281"
+  },
+  {
+    "id": 1471101012,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Sialangsakti",
+    "postal_code": "28285"
+  },
+  {
+    "id": 1471101003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Tangkerang Timur",
+    "postal_code": "28289"
+  },
+  {
+    "id": 1471101013,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147110,
+    "value": "Tuahnegeri",
+    "postal_code": "28285"
+  }
+]

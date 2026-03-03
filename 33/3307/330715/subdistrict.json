@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3307152003,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Dempel",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152007,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Depok",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152008,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Kalialang",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152002,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Kalikarung",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152004,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Karangsambung",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152006,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Mergolangu",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152001,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Pengarengan",
+    "postal_code": "56373"
+  },
+  {
+    "id": 3307152005,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330715,
+    "value": "Tempurejo",
+    "postal_code": "56373"
+  }
+]

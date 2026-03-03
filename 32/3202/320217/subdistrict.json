@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3202172002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Babakanpari (Babakan Pari)",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Cidahu",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Girijaya",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Jayabakti",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Pasirdoton",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Pondokaso Tengah (Pondok Kaso Tengah)",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Pondokaso Tonggoh (Pondok Kaso Tonggoh)",
+    "postal_code": "43358"
+  },
+  {
+    "id": 3202172005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320217,
+    "value": "Tangkil",
+    "postal_code": "43358"
+  }
+]

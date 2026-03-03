@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1904032007,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Kemingking",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032011,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Kerakas",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032002,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Kerantai",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032003,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Keretak",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032013,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Keretak Atas",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032004,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Lampur",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032012,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Melabun",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032006,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Munggu",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032010,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Romadhon (Romadhoni)",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032005,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Sarang Mandi (Sarangmandi)",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904031001,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Sungai Selan",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032008,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Sungai Selan Atas",
+    "postal_code": "33675"
+  },
+  {
+    "id": 1904032009,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190403,
+    "value": "Tanjung Pura",
+    "postal_code": "33675"
+  }
+]

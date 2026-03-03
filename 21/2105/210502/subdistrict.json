@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2105022015,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Belibak",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022007,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Candi",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Ladan",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Langir",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Piabung",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022008,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Putik",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105022002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210502,
+    "value": "Tebang",
+    "postal_code": "29796"
+  }
+]

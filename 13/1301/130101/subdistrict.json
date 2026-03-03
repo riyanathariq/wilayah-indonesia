@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1301012001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Inderapura",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Indrapura/Inderapura Barat",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Indrapura/Inderapura Selatan",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012012,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Indrapura/Inderapura Tengah",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Kudo-Kudo Inderapura",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Muaro Sakai Inderapura",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Simpang Lama Inderapura",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Tiga Sepakat Inderapura",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012010,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Tigo Sungai Inderapura (Tigosungai Inderapura)",
+    "postal_code": "25671"
+  },
+  {
+    "id": 1301012011,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130101,
+    "value": "Tluk Amplu Inderapura",
+    "postal_code": "25671"
+  }
+]

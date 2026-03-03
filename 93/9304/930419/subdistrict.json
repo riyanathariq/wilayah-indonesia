@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9304192002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Atambuts",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Biwar Laut",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Desep",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Omanesep",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Pirpis",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "Warkai",
+    "postal_code": "99786"
+  },
+  {
+    "id": 9304192005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930419,
+    "value": "You",
+    "postal_code": "99786"
+  }
+]

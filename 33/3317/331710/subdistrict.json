@@ -1,0 +1,274 @@
+[
+  {
+    "id": 3317102011,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Gedangan",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317101020,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Gegunung Kulon",
+    "postal_code": "59213"
+  },
+  {
+    "id": 3317102021,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Gegunung Wetan",
+    "postal_code": "59213"
+  },
+  {
+    "id": 3317102033,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kabongan Kidul",
+    "postal_code": "59218"
+  },
+  {
+    "id": 3317102032,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kabongan Lor",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102007,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kasreman",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102001,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kedungrejo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102016,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Ketanggi",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102003,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kumendung",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317101029,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Kutoharjo",
+    "postal_code": "59211"
+  },
+  {
+    "id": 3317101027,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Leteh",
+    "postal_code": "59217"
+  },
+  {
+    "id": 3317101019,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Magersari",
+    "postal_code": "59214"
+  },
+  {
+    "id": 3317102014,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Mondoteko",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102015,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Ngadem",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102013,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Ngotet",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317101022,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Pacar",
+    "postal_code": "59213"
+  },
+  {
+    "id": 3317102030,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Padaran",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102005,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Pandean",
+    "postal_code": "59211"
+  },
+  {
+    "id": 3317102010,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Pasar Banggi (Pasarbanggi)",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102017,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Pulo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102008,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Punjulharjo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102026,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Sawahan",
+    "postal_code": "59215"
+  },
+  {
+    "id": 3317101028,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Sidowayah",
+    "postal_code": "59218"
+  },
+  {
+    "id": 3317102004,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Sridadi",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102031,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Sukoharjo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102024,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Sumberjo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317101023,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Tanjungsari",
+    "postal_code": "59213"
+  },
+  {
+    "id": 3317102025,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Tasikagung",
+    "postal_code": "59212"
+  },
+  {
+    "id": 3317102034,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Tireman",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102006,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Tlogomojo",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102009,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Tritunggal",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102002,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Turusgede",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102018,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Waru",
+    "postal_code": "59219"
+  },
+  {
+    "id": 3317102012,
+    "province_id": 33,
+    "regency_id": 3317,
+    "district_id": 331710,
+    "value": "Weton",
+    "postal_code": "59219"
+  }
+]

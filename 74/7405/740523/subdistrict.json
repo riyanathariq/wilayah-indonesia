@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7405232008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Amolengu",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Ampera",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Batuh Putih (Batu Putih)",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Lambangi",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232010,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Langgapulu",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Ngapawali",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Rambu-Rambu",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Rumba-Rumba",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Tumbu-Tumbu Jaya",
+    "postal_code": "93894"
+  },
+  {
+    "id": 7405232009,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740523,
+    "value": "Ulunese",
+    "postal_code": "93894"
+  }
+]

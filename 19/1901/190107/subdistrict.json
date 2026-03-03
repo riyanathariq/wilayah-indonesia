@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1901072008,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Banyu Asin",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072009,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Berbura",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Cit",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Deniang",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072007,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Mapur",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Pangkal Niur",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Pugul",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Riau",
+    "postal_code": "33254"
+  },
+  {
+    "id": 1901072006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190107,
+    "value": "Silip",
+    "postal_code": "33254"
+  }
+]

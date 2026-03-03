@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7503112003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Dumbaya Bulan (Dumbayabulan)",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Panggulo",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112010,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Pangi",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Poduwoma (Poduoma)",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Tilangobula",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Tinemba",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Tulabolo",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Tulabolo Barat",
+    "postal_code": "96565"
+  },
+  {
+    "id": 7503112004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750311,
+    "value": "Tulabolo Timur",
+    "postal_code": "96565"
+  }
+]

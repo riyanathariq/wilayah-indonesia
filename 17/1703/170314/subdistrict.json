@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1703142013,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Air Muring",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Air Pandan",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142017,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Air Petai",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Cipta Mulya",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142019,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Karang Pulau",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142018,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Karang Tengah",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Kota Bani (Pasar Baru Kota Bani)",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Pasar Sebelat",
+    "postal_code": "38326"
+  },
+  {
+    "id": 1703142007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170314,
+    "value": "Talang Arah",
+    "postal_code": "38326"
+  }
+]

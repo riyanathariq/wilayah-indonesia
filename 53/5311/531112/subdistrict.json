@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5311122001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Kananggar",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Karera Jangga",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122011,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Laitaku",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Mahangwatu (Mehang Mata)",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Pabera Tanera/Manera",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Praimbana (Prai Mbana)",
+    "postal_code": "87175"
+  },
+  {
+    "id": 5311122010,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531112,
+    "value": "Winumuru",
+    "postal_code": "87175"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3174021007,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Guntur",
+    "postal_code": "12980"
+  },
+  {
+    "id": 3174021004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Karet",
+    "postal_code": "12920"
+  },
+  {
+    "id": 3174021003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Karet Kuningan",
+    "postal_code": "12940"
+  },
+  {
+    "id": 3174021002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Karet Semanggi",
+    "postal_code": "12930"
+  },
+  {
+    "id": 3174021008,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Kuningan Timur",
+    "postal_code": "12950"
+  },
+  {
+    "id": 3174021005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Menteng Atas",
+    "postal_code": "12960"
+  },
+  {
+    "id": 3174021006,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Pasar Manggis",
+    "postal_code": "12970"
+  },
+  {
+    "id": 3174021001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317402,
+    "value": "Setia Budi (Setiabudi)",
+    "postal_code": "12910"
+  }
+]

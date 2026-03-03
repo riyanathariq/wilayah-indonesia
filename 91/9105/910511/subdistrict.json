@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9105112003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Aibondeni",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112011,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Awado",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Dumani",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Haihorei",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Jaimaria",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Kanaki",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112007,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Karemoni",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Rembai",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112002,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Woinap",
+    "postal_code": "98647"
+  },
+  {
+    "id": 9105112001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910511,
+    "value": "Wooi",
+    "postal_code": "98647"
+  }
+]

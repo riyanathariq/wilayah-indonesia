@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7504082005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750408,
+    "value": "Hutamoputi (Huta Moputi)",
+    "postal_code": "96361"
+  },
+  {
+    "id": 7504082003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750408,
+    "value": "Karangetan (Karangetang)",
+    "postal_code": "96361"
+  },
+  {
+    "id": 7504082002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750408,
+    "value": "Karya Baru",
+    "postal_code": "96361"
+  },
+  {
+    "id": 7504082004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750408,
+    "value": "Padengo",
+    "postal_code": "96361"
+  },
+  {
+    "id": 7504082001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750408,
+    "value": "Popaya",
+    "postal_code": "96361"
+  }
+]

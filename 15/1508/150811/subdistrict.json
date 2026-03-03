@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1508112005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Air Gemuruh",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508111003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Bungo Taman Agung",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508112002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Lubuk Benteng",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508111001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Manggis",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508112006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Purwo Bakti",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508112007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Sarana Jaya",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508111004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Sungai Binjai",
+    "postal_code": "37211"
+  },
+  {
+    "id": 1508112008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150811,
+    "value": "Teluk Panjang",
+    "postal_code": "37211"
+  }
+]

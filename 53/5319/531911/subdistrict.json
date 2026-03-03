@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5319112008,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Golo Mangung",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112010,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Golo Munga Barat",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112009,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Golo Wontong",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112006,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Haju Wangi",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112004,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Lencur",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112005,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Liang Deruk",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112003,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Nampar Tabang",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112007,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Satar Kampas",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112001,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Satar Padut",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112002,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Satar Punda",
+    "postal_code": "86582"
+  },
+  {
+    "id": 5319112011,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531911,
+    "value": "Satar Punda Barat",
+    "postal_code": "86582"
+  }
+]

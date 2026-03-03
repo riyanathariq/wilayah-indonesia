@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7601072003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Bukit Harapan",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Karave (Karabe)",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Kastabuana (Kasta Buana)",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072006,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Lelejae",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Lilimori (Lelemori)",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072007,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Ompi",
+    "postal_code": "91578"
+  },
+  {
+    "id": 7601072005,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760107,
+    "value": "Sumber Sari (Sumbersari)",
+    "postal_code": "91578"
+  }
+]

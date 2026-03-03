@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1276051004,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Badak Bejuang",
+    "postal_code": "20615"
+  },
+  {
+    "id": 1276051005,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Bandar Utama",
+    "postal_code": "20613"
+  },
+  {
+    "id": 1276051001,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Mandailing",
+    "postal_code": "20626"
+  },
+  {
+    "id": 1276051002,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Pasar Baru",
+    "postal_code": "20627"
+  },
+  {
+    "id": 1276051003,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Pasar Gambir",
+    "postal_code": "20628"
+  },
+  {
+    "id": 1276051006,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Rambung",
+    "postal_code": "20633"
+  },
+  {
+    "id": 1276051007,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127605,
+    "value": "Tebing Tinggi Lama",
+    "postal_code": "20632"
+  }
+]

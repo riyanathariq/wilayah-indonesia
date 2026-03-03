@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3375021009,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Gamer",
+    "postal_code": "51123"
+  },
+  {
+    "id": 3375021012,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Kali Baros",
+    "postal_code": "51128"
+  },
+  {
+    "id": 3375021004,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Kauman",
+    "postal_code": "51127"
+  },
+  {
+    "id": 3375021008,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Klego",
+    "postal_code": "51124"
+  },
+  {
+    "id": 3375021002,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Noyontaansari",
+    "postal_code": "51129"
+  },
+  {
+    "id": 3375021007,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Poncol",
+    "postal_code": "51122"
+  },
+  {
+    "id": 3375021010,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337502,
+    "value": "Setono",
+    "postal_code": "51122"
+  }
+]

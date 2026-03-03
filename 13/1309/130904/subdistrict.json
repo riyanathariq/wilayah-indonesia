@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1309042003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Bojakan",
+    "postal_code": "25395"
+  },
+  {
+    "id": 1309042008,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Malancan (Malancang)",
+    "postal_code": "25395"
+  },
+  {
+    "id": 1309042005,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Mongan Poula/Paula",
+    "postal_code": "25395"
+  },
+  {
+    "id": 1309042006,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Muara/Muaro Sikabaluan",
+    "postal_code": "25395"
+  },
+  {
+    "id": 1309042007,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Sirilogui",
+    "postal_code": "25395"
+  },
+  {
+    "id": 1309042004,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130904,
+    "value": "Sotboyak",
+    "postal_code": "25395"
+  }
+]

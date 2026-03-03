@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1210082006,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Kampung Bilah",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210081002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Negeri Baru",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210081001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Negeri Lama",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Negeri Lama Seberang",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082005,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Perkebunan Bilah",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082004,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Perkebunan Negeri Lama",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082003,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Perkebunan Sennah",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082013,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Sei Kasih",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Sei Tampang",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082012,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Sei Tarolat",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082009,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Selat Besar",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082011,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Sidomulyo",
+    "postal_code": "21471"
+  },
+  {
+    "id": 1210082010,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121008,
+    "value": "Tanjung Haloban",
+    "postal_code": "21471"
+  }
+]

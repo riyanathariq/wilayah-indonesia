@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7306132008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Borongpala'la",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Je'nemadinging (Jenemadinging)",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Paccellekang (Pacellekang)",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Palantikang (Pallantikang)",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Panaikang",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Pattallassang",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Sunggumanai",
+    "postal_code": "92172"
+  },
+  {
+    "id": 7306132001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730613,
+    "value": "Timbuseng",
+    "postal_code": "92172"
+  }
+]

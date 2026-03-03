@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3403062005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Giriharjo",
+    "postal_code": "55872"
+  },
+  {
+    "id": 3403062001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Girikarto",
+    "postal_code": "55872"
+  },
+  {
+    "id": 3403062003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Girimulyo",
+    "postal_code": "55872"
+  },
+  {
+    "id": 3403062002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Girisekar",
+    "postal_code": "55872"
+  },
+  {
+    "id": 3403062006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Girisuko",
+    "postal_code": "55872"
+  },
+  {
+    "id": 3403062004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340306,
+    "value": "Giriwungu",
+    "postal_code": "55872"
+  }
+]

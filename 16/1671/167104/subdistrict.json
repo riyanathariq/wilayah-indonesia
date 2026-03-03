@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1671041003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "26 Ilir D. I",
+    "postal_code": "30136"
+  },
+  {
+    "id": 1671041006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "Bukit Baru",
+    "postal_code": "30131"
+  },
+  {
+    "id": 1671041001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "Bukit Lama",
+    "postal_code": "30139"
+  },
+  {
+    "id": 1671041005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "Demang Lebar Daun",
+    "postal_code": "30131"
+  },
+  {
+    "id": 1671041002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "Lorok Pakjo",
+    "postal_code": "30137"
+  },
+  {
+    "id": 1671041004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167104,
+    "value": "Siring Agung",
+    "postal_code": "30138"
+  }
+]

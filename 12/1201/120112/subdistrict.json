@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1201122008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Bondar Sihudon I",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122012,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Bondar Sihudon II",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122010,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Ladang Tengah",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122011,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Lobu Tua",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Pangaribuan",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201121007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Rina Bolak (Rinabolak)",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122014,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sawah Lamo",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sigolang",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sijungkang",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sirami Ramian",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122013,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sitiris-Tiris",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sogar",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Sosor Gonting",
+    "postal_code": "22651"
+  },
+  {
+    "id": 1201122009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120112,
+    "value": "Uratan",
+    "postal_code": "22651"
+  }
+]

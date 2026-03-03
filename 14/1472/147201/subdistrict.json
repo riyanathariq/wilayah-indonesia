@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1472011008,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147201,
+    "value": "Bagan Keladi",
+    "postal_code": "28821"
+  },
+  {
+    "id": 1472011003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147201,
+    "value": "Pangkalan Sesai",
+    "postal_code": "28824"
+  },
+  {
+    "id": 1472011006,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147201,
+    "value": "Purnama",
+    "postal_code": "28823"
+  },
+  {
+    "id": 1472011009,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147201,
+    "value": "Simapang Tetap Darul Ichsan (Simpang Tetap)",
+    "postal_code": "28824"
+  }
+]

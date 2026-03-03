@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1571011012,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Aur Kenali",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571011002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Buluran Kenali",
+    "postal_code": "36123"
+  },
+  {
+    "id": 1571011011,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Pematang Sulur",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571011010,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Penyengat Rendah",
+    "postal_code": "36124"
+  },
+  {
+    "id": 1571011001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Simpang IV Sipin (Simpang Empat Sipin)",
+    "postal_code": "36124"
+  },
+  {
+    "id": 1571011004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Telanaipura",
+    "postal_code": "36122"
+  },
+  {
+    "id": 1571011003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157101,
+    "value": "Teluk Kenali",
+    "postal_code": "36123"
+  }
+]

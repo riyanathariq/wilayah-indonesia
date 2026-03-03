@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7109102005,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Batumawira",
+    "postal_code": "95866"
+  },
+  {
+    "id": 7109102003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Bira Kiama (Bira Kimia / Birakiama)",
+    "postal_code": "95866"
+  },
+  {
+    "id": 7109102006,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Birarikei",
+    "postal_code": "95866"
+  },
+  {
+    "id": 7109102004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Buha",
+    "postal_code": "95866"
+  },
+  {
+    "id": 7109102001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Humbia",
+    "postal_code": "95866"
+  },
+  {
+    "id": 7109102002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710910,
+    "value": "Kisihang",
+    "postal_code": "95866"
+  }
+]

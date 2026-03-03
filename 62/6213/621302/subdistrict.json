@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6213022004,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Bagok",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213022005,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Bamban",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213022003,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Banyu Landas",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213022007,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Gudang Seng",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213022002,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Kandris",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213021001,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Pasar Panas/Taniran",
+    "postal_code": "73661"
+  },
+  {
+    "id": 6213022006,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621302,
+    "value": "Tewah Pupuh",
+    "postal_code": "73661"
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1102012021,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Batu Hamparan",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012025,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Cingkham Mekhanggun",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012019,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Darul Amin",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012031,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Deleng Kukusen",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012001,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Engkeran",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012006,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kubu",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012011,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kuta Batu I",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012013,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kuta Batu II",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012012,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kuta Cingkam I",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012008,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kuta Cingkam II",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012018,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Kute Batu Baru (Kuta Batu Baru)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012007,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Lawe Kongker (Lawe Konker / Kongkir)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012027,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Lawe Kongker Hilir (Lawe Konker Hilir)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012020,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Lawe Lubang Indah",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012014,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Lawe Sempilang",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012009,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Muara Baru",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012030,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pasikh Nunang",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012029,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pasikh Pehkmate (Pasikh Pekhmate)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012004,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pasir Bangun",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012024,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pasir Nunggul",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012022,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Paye Munje",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012015,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Perapat Batu Nunggul",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012026,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pintu Khimbe",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012028,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pulo Gadung",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012023,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pulo Ndapdap (Pulo Ndadap)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012016,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Pulo Sepang",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012017,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Rih Mbelang (Mebelang)",
+    "postal_code": "24661"
+  },
+  {
+    "id": 1102012002,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110201,
+    "value": "Rumah Kampung",
+    "postal_code": "24661"
+  }
+]

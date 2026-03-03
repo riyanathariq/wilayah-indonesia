@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507072007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Balime",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Balingga",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072018,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Binolanggen",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072019,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Dewaka",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Gume",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Tima",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072017,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Timonikime",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072021,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Towewak",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072020,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Yialo",
+    "postal_code": "99583"
+  },
+  {
+    "id": 9507072022,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950707,
+    "value": "Yumaneri",
+    "postal_code": "99583"
+  }
+]

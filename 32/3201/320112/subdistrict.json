@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201121006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Atang Senjaya",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Bojong",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Jampang",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Kemang",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Pabuaran",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Parakanjaya (Parakan Jaya)",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Pondok Udik",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Semplak Barat",
+    "postal_code": "16310"
+  },
+  {
+    "id": 3201122009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320112,
+    "value": "Tegal",
+    "postal_code": "16310"
+  }
+]

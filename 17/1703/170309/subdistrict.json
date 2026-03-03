@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1703092006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Arga Mulya",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Lubuk Banyau",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Marga Jaya",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Marga Sakti",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Padang Jaya",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Sido Luhur",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Sido Mukti",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Talang Tua/Tuo",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Tambak Rejo",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Tanah Hitam",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092012,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Tanah Tinggi",
+    "postal_code": "38657"
+  },
+  {
+    "id": 1703092004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170309,
+    "value": "Tanjung Harapan",
+    "postal_code": "38657"
+  }
+]

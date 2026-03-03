@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3573051004,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Dinoyo",
+    "postal_code": "65144"
+  },
+  {
+    "id": 3573051007,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Jatimulyo",
+    "postal_code": "65141"
+  },
+  {
+    "id": 3573051006,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Ketawanggede",
+    "postal_code": "65145"
+  },
+  {
+    "id": 3573051011,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Lowokwaru",
+    "postal_code": "65141"
+  },
+  {
+    "id": 3573051002,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Merjosari",
+    "postal_code": "65144"
+  },
+  {
+    "id": 3573051009,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Mojolangu",
+    "postal_code": "65142"
+  },
+  {
+    "id": 3573051005,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Sumbersari",
+    "postal_code": "65145"
+  },
+  {
+    "id": 3573051012,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Tasik Madu (Tasikmadu)",
+    "postal_code": "65143"
+  },
+  {
+    "id": 3573051003,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Tlogomas",
+    "postal_code": "65144"
+  },
+  {
+    "id": 3573051010,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Tulusrejo",
+    "postal_code": "65141"
+  },
+  {
+    "id": 3573051001,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Tunggulwulung",
+    "postal_code": "65143"
+  },
+  {
+    "id": 3573051008,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357305,
+    "value": "Tunjungsekar",
+    "postal_code": "65142"
+  }
+]

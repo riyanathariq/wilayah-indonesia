@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203242002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Balegede",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Cinerang",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Malati",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Margasari",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Mekarsari",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Naringgul",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Sukabakti",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Sukamulya",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Wanasari",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Wangunjaya",
+    "postal_code": "43274"
+  },
+  {
+    "id": 3203242009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320324,
+    "value": "Wangunsari",
+    "postal_code": "43274"
+  }
+]

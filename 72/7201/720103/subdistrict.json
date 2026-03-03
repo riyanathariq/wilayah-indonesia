@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7201032013,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Babang Buyangge",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Dimpalon",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032019,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Dimpalon Baru",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Kalolos",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201031006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Kintom",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Manyula",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201031010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Mendono",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201031017,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Mondonun",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Padang",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Samadoya",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Solan",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032015,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Solan Baru",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Tangkiang",
+    "postal_code": "94761"
+  },
+  {
+    "id": 7201032005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720103,
+    "value": "Uling",
+    "postal_code": "94761"
+  }
+]

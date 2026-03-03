@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206202004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920620,
+    "value": "Bibiram",
+    "postal_code": "98152"
+  },
+  {
+    "id": 9206202001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920620,
+    "value": "Kalitama I (Kalitami I)",
+    "postal_code": "98152"
+  },
+  {
+    "id": 9206202002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920620,
+    "value": "Kalitama II (Kalitami II)",
+    "postal_code": "98152"
+  },
+  {
+    "id": 9206202003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920620,
+    "value": "Kenara",
+    "postal_code": "98152"
+  }
+]

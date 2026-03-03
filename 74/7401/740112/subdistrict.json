@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7401122006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Baula",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Longori",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Pewutaa",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Puubenua",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Puubunga",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Puulemo",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401121001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Puundoho",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122009,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Puuroda",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122010,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Ulu Baula",
+    "postal_code": "93561"
+  },
+  {
+    "id": 7401122008,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740112,
+    "value": "Watalara",
+    "postal_code": "93561"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3275121003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327512,
+    "value": "Jatimelati",
+    "postal_code": "17414"
+  },
+  {
+    "id": 3275121004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327512,
+    "value": "Jatimurni",
+    "postal_code": "17431"
+  },
+  {
+    "id": 3275121001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327512,
+    "value": "Jatirahayu (Jati Rahayu)",
+    "postal_code": "17414"
+  },
+  {
+    "id": 3275121002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327512,
+    "value": "Jatiwarna",
+    "postal_code": "17415"
+  }
+]

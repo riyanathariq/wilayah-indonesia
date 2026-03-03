@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1207022006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Aek Pancur",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Bandar Labuhan",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Bangun Rejo",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022016,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Bangun Sari",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022023,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Bangun Sari Baru",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Buntu Badimbar (Bedimbar)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022017,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Dagang Kelambir",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Dagang Krawan (Kerawan)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022018,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Dalu X A (Dalu Sepuluh A)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022019,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Dalu X B (Dalu Sepuluh B)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Langau Seprang (Lengau Serpang)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Limau Manis",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Medan Sinembah",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Naga Timbul",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207021026,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Pekan Tanjung Morawa",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022022,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Penara Kebon/Kebun",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022021,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Perdamean (Perdamaian)",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Punden Rejo",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Sei/Sungai Merah",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022025,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Tanjung Baru",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022014,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Tanjung Morawa A",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Tanjung Morawa B",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Tanjung Mulia",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022024,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Telaga Sari",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Ujung Serdang",
+    "postal_code": "20362"
+  },
+  {
+    "id": 1207022020,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120702,
+    "value": "Wonosari (Wono Sari)",
+    "postal_code": "20362"
+  }
+]

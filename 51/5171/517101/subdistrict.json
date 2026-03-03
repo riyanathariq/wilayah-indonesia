@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5171011004,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Panjer",
+    "postal_code": "80225"
+  },
+  {
+    "id": 5171011002,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Pedungan",
+    "postal_code": "80222"
+  },
+  {
+    "id": 5171012008,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Pemogan",
+    "postal_code": "80221"
+  },
+  {
+    "id": 5171011005,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Renon",
+    "postal_code": "80226"
+  },
+  {
+    "id": 5171011006,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Sanur",
+    "postal_code": "80228"
+  },
+  {
+    "id": 5171012009,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Sanur Kaja",
+    "postal_code": "80227"
+  },
+  {
+    "id": 5171012010,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Sanur Kauh",
+    "postal_code": "80227"
+  },
+  {
+    "id": 5171011001,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Serangan",
+    "postal_code": "80229"
+  },
+  {
+    "id": 5171011003,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Sesetan",
+    "postal_code": "80223"
+  },
+  {
+    "id": 5171012007,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517101,
+    "value": "Sidakarya",
+    "postal_code": "80224"
+  }
+]

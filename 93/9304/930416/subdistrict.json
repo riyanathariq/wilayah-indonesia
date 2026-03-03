@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9304162002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Aworket",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Bayun",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162012,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Emene",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162011,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Itersok (Jitorsok)",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Kayirim",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Primapun",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Saman",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Santambor",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Semendoro",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Simsagar",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Tareo",
+    "postal_code": "99774"
+  },
+  {
+    "id": 9304162009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930416,
+    "value": "Yaptambor",
+    "postal_code": "99774"
+  }
+]

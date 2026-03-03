@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219102008,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Air Hitam",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102010,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Cahaya Pardomuan",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102002,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Empat Negeri",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102009,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Kwala Gunung",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102005,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Lubuk Besar",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102004,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Lubuk Hulu",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Perkebunan Tanah Itam Ulu",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102006,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Pulau Sejuk",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102007,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Simpang Dolok",
+    "postal_code": "21255"
+  },
+  {
+    "id": 1219102003,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121910,
+    "value": "Sumber Rejo",
+    "postal_code": "21255"
+  }
+]

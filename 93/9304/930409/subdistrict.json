@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9304092008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Auban",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Binamsain",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Butukatnau",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Patipi",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Pepera",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Pirabanak",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Ulakin",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Woutu Braza",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304092006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930409,
+    "value": "Woutu Kolof",
+    "postal_code": "99791"
+  }
+]

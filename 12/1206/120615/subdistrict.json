@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1206152001,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Cinta Rakyat (Cinta Rayat)",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Deram",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Gongsol",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152005,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Jaranguda",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152008,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Merdeka",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152009,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Sadaperarih (Sada Perarih)",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152002,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Semangat",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152006,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Semangat Gunung",
+    "postal_code": "22153"
+  },
+  {
+    "id": 1206152003,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120615,
+    "value": "Ujung Teran",
+    "postal_code": "22153"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8203132004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820313,
+    "value": "Birinoa",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203132001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820313,
+    "value": "Kusuri",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203132002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820313,
+    "value": "Sukamaju",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203132003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820313,
+    "value": "Togoliua",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203132005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820313,
+    "value": "Wangongira",
+    "postal_code": "97762"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213132003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Blanakan",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Cilamayagirang (Cilamaya Girang)",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Cilamayahilir (Cilamaya Hilir)",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Jayamukti",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Langensari",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Muara",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Rawamekar",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Rawameneng",
+    "postal_code": "41259"
+  },
+  {
+    "id": 3213132001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321313,
+    "value": "Tanjungtiga",
+    "postal_code": "41259"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3672,
+    "province_id": 36,
+    "type": "Kota",
+    "value": "Kota Cilegon"
+  },
+  {
+    "id": 3602,
+    "province_id": 36,
+    "type": "Kabupaten",
+    "value": "Lebak"
+  },
+  {
+    "id": 3601,
+    "province_id": 36,
+    "type": "Kabupaten",
+    "value": "Pandeglang"
+  },
+  {
+    "id": 3673,
+    "province_id": 36,
+    "type": "Kota",
+    "value": "Kota Serang"
+  },
+  {
+    "id": 3604,
+    "province_id": 36,
+    "type": "Kabupaten",
+    "value": "Serang"
+  },
+  {
+    "id": 3671,
+    "province_id": 36,
+    "type": "Kota",
+    "value": "Kota Tangerang"
+  },
+  {
+    "id": 3603,
+    "province_id": 36,
+    "type": "Kabupaten",
+    "value": "Tangerang"
+  },
+  {
+    "id": 3674,
+    "province_id": 36,
+    "type": "Kota",
+    "value": "Kota Tangerang Selatan"
+  }
+]

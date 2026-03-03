@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504032018,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Aulani",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032054,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Dundu",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032053,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Kagimaluk",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504031001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Kanggime",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032043,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Kerena",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032051,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Lawor (Lawori)",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032029,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Ligiibak / Ligimbak (Lagimbak)",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Logon",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032014,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Marlo",
+    "postal_code": "99044"
+  },
+  {
+    "id": 9504032045,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950403,
+    "value": "Purugi",
+    "postal_code": "99044"
+  }
+]

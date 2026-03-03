@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7271031011,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727103,
+    "value": "Birobuli Selatan",
+    "postal_code": "94231"
+  },
+  {
+    "id": 7271031002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727103,
+    "value": "Birobuli Utara",
+    "postal_code": "94231"
+  },
+  {
+    "id": 7271031003,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727103,
+    "value": "Petobo",
+    "postal_code": "94232"
+  },
+  {
+    "id": 7271031012,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727103,
+    "value": "Tatura Selatan",
+    "postal_code": "94236"
+  },
+  {
+    "id": 7271031001,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727103,
+    "value": "Tatura Utara",
+    "postal_code": "94236"
+  }
+]

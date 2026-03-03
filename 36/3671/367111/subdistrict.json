@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3671111007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Cipete",
+    "postal_code": "15142"
+  },
+  {
+    "id": 3671111004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Kunciran",
+    "postal_code": "15144"
+  },
+  {
+    "id": 3671111005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Kunciran Indah",
+    "postal_code": "15144"
+  },
+  {
+    "id": 3671111006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Kunciran Jaya",
+    "postal_code": "15144"
+  },
+  {
+    "id": 3671111003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Nerogtog",
+    "postal_code": "15145"
+  },
+  {
+    "id": 3671111008,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Pakojan",
+    "postal_code": "15142"
+  },
+  {
+    "id": 3671111009,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Panunggangan",
+    "postal_code": "15143"
+  },
+  {
+    "id": 3671111011,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Panunggangan Timur",
+    "postal_code": "15143"
+  },
+  {
+    "id": 3671111010,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Panunggangan Utara",
+    "postal_code": "15143"
+  },
+  {
+    "id": 3671111001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Pinang",
+    "postal_code": "15145"
+  },
+  {
+    "id": 3671111002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367111,
+    "value": "Sudimara Pinang",
+    "postal_code": "15145"
+  }
+]

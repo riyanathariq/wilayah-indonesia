@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1401192002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Bina Baru",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192010,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Bukit Sakai",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Hidup Baru",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Karya Bakti/Bhakti",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Koto Damai",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Lubuk Sakai",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Mayang Pongkai",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192011,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Mekar Jaya",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Penghidupan",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Simalinyang",
+    "postal_code": "28475"
+  },
+  {
+    "id": 1401192009,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140119,
+    "value": "Utama Karya",
+    "postal_code": "28475"
+  }
+]

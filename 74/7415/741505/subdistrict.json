@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7415052007,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Kamoali",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052005,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Katampe",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052003,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Lalole",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052006,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Lamaninggara",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052002,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Mbanua",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052008,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Mokobeau",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052001,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Molona",
+    "postal_code": "93744"
+  },
+  {
+    "id": 7415052004,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741505,
+    "value": "Watuampara",
+    "postal_code": "93744"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201052008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Babakan Madang",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Bojong Koneng",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Cijayanti",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Cipambuan",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Citaringgul",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Kadumanggu (Kadumangu)",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Karangtengah (Karang Tengah)",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Sentul",
+    "postal_code": "16810"
+  },
+  {
+    "id": 3201052002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320105,
+    "value": "Sumurbatu (Sumur Batu)",
+    "postal_code": "16810"
+  }
+]

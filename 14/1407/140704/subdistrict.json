@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1407042009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Harapan Jaya",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Jumrah",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Karya Mukti",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Lenggadai/Langgadai Hilir",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Lenggadai/Langgadai Hulu",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Mukti Jaya",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Pematang Botam",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042012,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Pematang Sikek",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407041001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Rimba Melintang",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Seremban Jaya",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Telukpulau Hilir (Teluk Pulau Hilir)",
+    "postal_code": "28953"
+  },
+  {
+    "id": 1407042004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140704,
+    "value": "Telukpulau Hulu (Teluk Pulau Hulu)",
+    "postal_code": "28953"
+  }
+]

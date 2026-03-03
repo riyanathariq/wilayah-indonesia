@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6503212003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Bululaun Hulu (Bulu Laun Hulu)",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212007,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Duyan",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212010,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Kabungolor (Kabungalor)",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Kalisun",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Lipaga (Lepaga)",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212005,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Mamasin (Mamanis)",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212006,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Sibalu",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Tau Lumbis",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212009,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Tetagas",
+    "postal_code": "77450"
+  },
+  {
+    "id": 6503212008,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650321,
+    "value": "Tuntulibing (Tantu Libing)",
+    "postal_code": "77450"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7403192006,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Bangkali",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403192005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Bhangkali Barat",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403191004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Dana",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403192008,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Labaha",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403192001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Lakapodo",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403192003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Matarawa",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403192002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Wakadia",
+    "postal_code": "93624"
+  },
+  {
+    "id": 7403191007,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740319,
+    "value": "Wali",
+    "postal_code": "93624"
+  }
+]

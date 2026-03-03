@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1471131005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147113,
+    "value": "Airputih",
+    "postal_code": "28296"
+  },
+  {
+    "id": 1471131002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147113,
+    "value": "Sialangmunggu",
+    "postal_code": "28299"
+  },
+  {
+    "id": 1471131001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147113,
+    "value": "Sidomulyo Barat",
+    "postal_code": "28294"
+  },
+  {
+    "id": 1471131003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147113,
+    "value": "Tuahkarya (Tuah Karya)",
+    "postal_code": "28291"
+  },
+  {
+    "id": 1471131004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147113,
+    "value": "Tuahmadani",
+    "postal_code": "28298"
+  }
+]

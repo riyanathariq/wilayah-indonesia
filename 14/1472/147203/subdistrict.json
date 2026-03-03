@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1472031004,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Bagan Besar",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031006,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Bagan Besar Timur",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031007,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Bukit Kapur",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031002,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Bukit Kayu Kapur",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031001,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Bukit Nenas",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Gurun Panjang",
+    "postal_code": "28882"
+  },
+  {
+    "id": 1472031005,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147203,
+    "value": "Kampung Baru",
+    "postal_code": "28882"
+  }
+]

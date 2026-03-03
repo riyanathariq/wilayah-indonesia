@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1223082008,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Bandar Lama",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082006,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Damuli Kebun (Perkebunan Damuli)",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082002,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Damuli Pekan",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223081001,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Gunting Saga",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082005,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Gunung Melayu",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082007,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Hasang",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082004,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Lobu Huala",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082012,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Sialang Taji",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082003,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Siamporik",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082009,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Sidua Dua",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082010,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Simangalam",
+    "postal_code": "21458"
+  },
+  {
+    "id": 1223082011,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122308,
+    "value": "Tanjung Pasir",
+    "postal_code": "21458"
+  }
+]

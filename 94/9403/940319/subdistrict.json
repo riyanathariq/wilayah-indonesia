@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9403192003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Baya Biru",
+    "postal_code": "98735"
+  },
+  {
+    "id": 9403192004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Jigitopa Timur",
+    "postal_code": "98735"
+  },
+  {
+    "id": 9403192005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Maatadi",
+    "postal_code": "98735"
+  },
+  {
+    "id": 9403192001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Nomouwodide",
+    "postal_code": "98735"
+  },
+  {
+    "id": 9403192002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Pikokebo",
+    "postal_code": "98735"
+  },
+  {
+    "id": 9403192006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940319,
+    "value": "Pupekebo",
+    "postal_code": "98735"
+  }
+]

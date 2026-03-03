@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6302192005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630219,
+    "value": "Batuah",
+    "postal_code": "72169"
+  },
+  {
+    "id": 6302192004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630219,
+    "value": "Mangka",
+    "postal_code": "72169"
+  },
+  {
+    "id": 6302192003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630219,
+    "value": "Marga Jaya",
+    "postal_code": "72169"
+  },
+  {
+    "id": 6302192002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630219,
+    "value": "Mayang Sari",
+    "postal_code": "72169"
+  },
+  {
+    "id": 6302192001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630219,
+    "value": "Sengayam",
+    "postal_code": "72169"
+  }
+]

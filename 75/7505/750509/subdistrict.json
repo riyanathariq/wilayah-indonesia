@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7505092004,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Dunu",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092005,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Garapia",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092008,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Mokonowu",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Monano",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Monas",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Pilohulata",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092006,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Sogu",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092009,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Tolitehuyu",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Tudi",
+    "postal_code": "96526"
+  },
+  {
+    "id": 7505092010,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750509,
+    "value": "Zuriyati",
+    "postal_code": "96526"
+  }
+]

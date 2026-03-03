@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1604252007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Lubuk Selo",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Padang Gumay",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Rindu Hati",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Simpur",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Sinjar Bulan",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Sumber Karya",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Tanjung Aur",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Tanjung Raja",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Tinggi Hari",
+    "postal_code": "31461"
+  },
+  {
+    "id": 1604252010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160425,
+    "value": "Trans SP II Padang Muaradua",
+    "postal_code": "31461"
+  }
+]

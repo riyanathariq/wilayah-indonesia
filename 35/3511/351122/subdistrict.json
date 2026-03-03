@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3511222002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Botolinggo",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511222005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Gayam",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511222008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Gayam Lor",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511222006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Klekehan (Klekean)",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511222003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Lanas",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511222001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Lumutan",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511222004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Penang",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511222007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351122,
+    "value": "Sumber Canting (Sumbercanting)",
+    "postal_code": "68284"
+  }
+]

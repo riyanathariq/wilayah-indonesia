@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3509052004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Gadingrejo",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Gunungsari",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Mundurejo",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Paleran",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Sidorejo",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Sukoreno",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Tanjungsari",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Tegalwangi (Tegal Wangi)",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Umbulrejo",
+    "postal_code": "68166"
+  },
+  {
+    "id": 3509052006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350905,
+    "value": "Umbulsari",
+    "postal_code": "68166"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5206092002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Boro",
+    "postal_code": "84191"
+  },
+  {
+    "id": 5206092003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Kore",
+    "postal_code": "84191"
+  },
+  {
+    "id": 5206092005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Oi Saro",
+    "postal_code": "84191"
+  },
+  {
+    "id": 5206092001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Piong",
+    "postal_code": "84191"
+  },
+  {
+    "id": 5206092006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Sandue",
+    "postal_code": "84191"
+  },
+  {
+    "id": 5206092004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520609,
+    "value": "Taloko",
+    "postal_code": "84191"
+  }
+]

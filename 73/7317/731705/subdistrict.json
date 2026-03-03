@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7317052008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Balutan",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Buntu Batu",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Malenggang",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317051001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Noling",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Padang Kamburi",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052009,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Padang Ma'bud (Padang Ma Bud)",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Padang Tuju",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052010,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Saluinduk",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Tampumia",
+    "postal_code": "91993"
+  },
+  {
+    "id": 7317052002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731705,
+    "value": "Tanjong",
+    "postal_code": "91993"
+  }
+]

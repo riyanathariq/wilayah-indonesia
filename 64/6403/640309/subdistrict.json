@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6403092004,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Labanan Jaya",
+    "postal_code": "77352"
+  },
+  {
+    "id": 6403092006,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Labanan Makarti",
+    "postal_code": "77352"
+  },
+  {
+    "id": 6403092005,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Labanan Makmur",
+    "postal_code": "77352"
+  },
+  {
+    "id": 6403091003,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Rinding",
+    "postal_code": "77313"
+  },
+  {
+    "id": 6403091002,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Teluk Bayur",
+    "postal_code": "77315"
+  },
+  {
+    "id": 6403092001,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640309,
+    "value": "Tumbit Melayu",
+    "postal_code": "77315"
+  }
+]

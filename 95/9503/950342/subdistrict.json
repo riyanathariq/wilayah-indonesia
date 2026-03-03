@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9503422006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Burupmakot",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Koper",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Moruf",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Mosomduba",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Samboga",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Seredala (Seredela)",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Teret",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Tokuni",
+    "postal_code": "99711"
+  },
+  {
+    "id": 9503422007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950342,
+    "value": "Yasip",
+    "postal_code": "99711"
+  }
+]

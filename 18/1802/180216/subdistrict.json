@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1802162005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Bumi Kencana",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Bumi Mas",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Dono Arum",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Endang Rejo",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Fajar Asri",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Gayau Sakti",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Harapan Rejo",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Muji Rahayu",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Simpang Agung",
+    "postal_code": "34166"
+  },
+  {
+    "id": 1802162009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180216,
+    "value": "Sulusuban",
+    "postal_code": "34166"
+  }
+]

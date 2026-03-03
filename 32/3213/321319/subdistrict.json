@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3213192005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Bantarsari",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Cijambe",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Cikadu",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Cimenteng",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Cirangkong",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Gunungtua",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Sukahurip",
+    "postal_code": "41286"
+  },
+  {
+    "id": 3213192006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321319,
+    "value": "Tanjungwangi",
+    "postal_code": "41286"
+  }
+]

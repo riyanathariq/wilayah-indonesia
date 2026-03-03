@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3211222003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Cibeureum Kulon",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Cibeureum Wetan",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Cikole",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Cimalaka",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222014,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Cimuja",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Citimun",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Galudra",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Licin",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Mandalaherang",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Naluk",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Nyalindung",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222013,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Padasari",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Serang",
+    "postal_code": "45353"
+  },
+  {
+    "id": 3211222006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321122,
+    "value": "Trunamanggala",
+    "postal_code": "45353"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3374061007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Gemah",
+    "postal_code": "50246"
+  },
+  {
+    "id": 3374061012,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Kalicari",
+    "postal_code": "50198"
+  },
+  {
+    "id": 3374061005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Muktiharjo Kidul",
+    "postal_code": "50197"
+  },
+  {
+    "id": 3374061011,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Palebon",
+    "postal_code": "50246"
+  },
+  {
+    "id": 3374061008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Pedurungan Kidul",
+    "postal_code": "50192"
+  },
+  {
+    "id": 3374061009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Pedurungan Lor",
+    "postal_code": "50192"
+  },
+  {
+    "id": 3374061010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Pedurungan Tengah",
+    "postal_code": "50192"
+  },
+  {
+    "id": 3374061001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Penggaron Kidul",
+    "postal_code": "50194"
+  },
+  {
+    "id": 3374061006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Plamongansari (Plamongan Sari)",
+    "postal_code": "50199"
+  },
+  {
+    "id": 3374061002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Tlogomulyo",
+    "postal_code": "50113"
+  },
+  {
+    "id": 3374061004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Tlogosari Kulon",
+    "postal_code": "50196"
+  },
+  {
+    "id": 3374061003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337406,
+    "value": "Tlogosari Wetan",
+    "postal_code": "50196"
+  }
+]

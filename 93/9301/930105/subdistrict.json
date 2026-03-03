@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9301052006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Kuper",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Kuprik",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Marga Mulya",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Matara",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Muram Sari (Muramsari)",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Semangga Jaya (Semanggi Jaya)",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Sido Mulyo (Sidomulyo)",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Urumb",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052010,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Waninggap Kai/Kay",
+    "postal_code": "99631"
+  },
+  {
+    "id": 9301052002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930105,
+    "value": "Waninggap Nanggo",
+    "postal_code": "99631"
+  }
+]

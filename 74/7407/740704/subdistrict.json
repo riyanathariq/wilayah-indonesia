@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7407042013,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Jaya Makmur",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407042008,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Kampo-Kampo (Kompo-Kompo)",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407042009,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Lagongga (Longongga)",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407042006,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Makoro",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407041007,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Palahidu",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407042011,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Palahidu Barat",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407041012,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Rukuwa",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407041005,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Taipabu",
+    "postal_code": "93794"
+  },
+  {
+    "id": 7407041010,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740704,
+    "value": "Wali",
+    "postal_code": "93794"
+  }
+]

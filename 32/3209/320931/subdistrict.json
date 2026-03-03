@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3209312001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Cikeduk",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Depok",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Getasan",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Karangwangi",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Kasugengan Kidul",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Kasugengan Lor",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Keduanan",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Kejuden",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Warugede",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Warujaya",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Warukawung",
+    "postal_code": "45155"
+  },
+  {
+    "id": 3209312005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320931,
+    "value": "Waruroyom",
+    "postal_code": "45155"
+  }
+]

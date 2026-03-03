@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6104252001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Beringin Jaya",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Jairan Jaya",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Karya Mukti",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Kepuluk",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252011,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Makmur Abadi",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252010,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Mekar Jaya",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Piansak",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252009,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Sei/Sungai Melayu",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Sei/Sungai Melayu Baru",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Sei/Sungai Melayu Jaya",
+    "postal_code": "78875"
+  },
+  {
+    "id": 6104252003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610425,
+    "value": "Suka Mulia/Mulya",
+    "postal_code": "78875"
+  }
+]

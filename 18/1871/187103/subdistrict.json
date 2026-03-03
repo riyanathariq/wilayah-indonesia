@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871031001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Gedong Air",
+    "postal_code": "35151"
+  },
+  {
+    "id": 1871031008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Kelapa Tiga Permai",
+    "postal_code": "35159"
+  },
+  {
+    "id": 1871031011,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Segalamider (Segala Mider)",
+    "postal_code": "35152"
+  },
+  {
+    "id": 1871031006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Sukadana Ham",
+    "postal_code": "35156"
+  },
+  {
+    "id": 1871031002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Sukajawa (Suka Jawa)",
+    "postal_code": "35151"
+  },
+  {
+    "id": 1871031010,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Sukajawa Baru",
+    "postal_code": "35151"
+  },
+  {
+    "id": 1871031004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187103,
+    "value": "Susunan Baru",
+    "postal_code": "35155"
+  }
+]

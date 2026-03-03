@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8104022006,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Air Buaya",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022023,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Awilinan",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022008,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Bara",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022020,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Batlale",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022019,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Kampung Baru",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022014,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Selwadu",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022007,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Tanjung Karang",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022005,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Waimangit (Waemangit)",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022004,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Waipure (Waepure)",
+    "postal_code": "97572"
+  },
+  {
+    "id": 8104022018,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810402,
+    "value": "Wasbaka",
+    "postal_code": "97572"
+  }
+]

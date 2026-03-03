@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1611062010,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Canggu",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062001,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Karang Are",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062009,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Kembahang Baru",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062003,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Kembahang Lama",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062013,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Lampar Baru Talang Padang",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062006,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Lubuk Buntak",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062005,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Macang Manis",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062002,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Padang Titiran",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062004,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Pasar Tanjung Padang",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062011,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Remantai",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062007,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Talang Durian",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062008,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Talang Padang",
+    "postal_code": "31596"
+  },
+  {
+    "id": 1611062012,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161106,
+    "value": "Ulak Dabuk (Ulak Babuk)",
+    "postal_code": "31596"
+  }
+]

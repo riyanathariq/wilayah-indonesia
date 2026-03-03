@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3510112005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Banyuanyar",
+    "postal_code": "68467"
+  },
+  {
+    "id": 3510112004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Kajarharjo",
+    "postal_code": "68467"
+  },
+  {
+    "id": 3510112001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Kalibarukulon (Kalibaru Kulon)",
+    "postal_code": "68467"
+  },
+  {
+    "id": 3510112002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Kalibarumanis (Kalibaru Manis)",
+    "postal_code": "68467"
+  },
+  {
+    "id": 3510112003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Kalibaruwetan (Kalibaru Wetan)",
+    "postal_code": "68467"
+  },
+  {
+    "id": 3510112006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351011,
+    "value": "Kebonrejo",
+    "postal_code": "68467"
+  }
+]

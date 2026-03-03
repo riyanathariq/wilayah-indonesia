@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1215022004,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Kuta Dame (Kutadame)",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Kuta Mariah/Meriah",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Kuta Saga (Kutasaga)",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022014,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Majanggut I",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022015,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Majanggut II",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022006,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Pardomuan",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022021,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Perduhapen",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022005,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Perpulungen (Parpulungan / Parpulungen)",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Sukaramai",
+    "postal_code": "22271"
+  },
+  {
+    "id": 1215022016,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121502,
+    "value": "Surung Mersada",
+    "postal_code": "22271"
+  }
+]

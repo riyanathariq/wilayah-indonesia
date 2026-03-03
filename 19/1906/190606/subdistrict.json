@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1906062003,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190606,
+    "value": "Aik Madu",
+    "postal_code": "33563"
+  },
+  {
+    "id": 1906062004,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190606,
+    "value": "Lintang",
+    "postal_code": "33563"
+  },
+  {
+    "id": 1906062002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190606,
+    "value": "Renggiang",
+    "postal_code": "33563"
+  },
+  {
+    "id": 1906062001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190606,
+    "value": "Simpang Tiga",
+    "postal_code": "33563"
+  }
+]

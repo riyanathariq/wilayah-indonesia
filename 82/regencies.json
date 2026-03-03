@@ -1,0 +1,62 @@
+[
+  {
+    "id": 8201,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Halmahera Barat"
+  },
+  {
+    "id": 8204,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Halmahera Selatan"
+  },
+  {
+    "id": 8202,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Halmahera Tengah"
+  },
+  {
+    "id": 8206,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Halmahera Timur"
+  },
+  {
+    "id": 8203,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Halmahera Utara"
+  },
+  {
+    "id": 8205,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Kepulauan Sula"
+  },
+  {
+    "id": 8207,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Pulau Morotai"
+  },
+  {
+    "id": 8208,
+    "province_id": 82,
+    "type": "Kabupaten",
+    "value": "Pulau Taliabu"
+  },
+  {
+    "id": 8271,
+    "province_id": 82,
+    "type": "Kota",
+    "value": "Kota Ternate"
+  },
+  {
+    "id": 8272,
+    "province_id": 82,
+    "type": "Kota",
+    "value": "Kota Tidore Kepulauan"
+  }
+]

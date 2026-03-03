@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9501252003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Aikima",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Akiaput",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Pabuma",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Pikhe",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Pisugi",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Suroba",
+    "postal_code": "99523"
+  },
+  {
+    "id": 9501252007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950125,
+    "value": "Wara",
+    "postal_code": "99523"
+  }
+]

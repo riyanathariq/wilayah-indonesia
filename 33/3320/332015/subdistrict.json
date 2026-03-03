@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3320152002,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Bulungan",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152004,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Kawak",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152001,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Lebak",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152008,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Mambak",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152006,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Plajan",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152007,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Slagi",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152003,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Suwawal Timur",
+    "postal_code": "59450"
+  },
+  {
+    "id": 3320152005,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332015,
+    "value": "Tanjung",
+    "postal_code": "59450"
+  }
+]

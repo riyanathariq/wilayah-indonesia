@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9303132002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930313,
+    "value": "Konebi",
+    "postal_code": "99851"
+  },
+  {
+    "id": 9303132003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930313,
+    "value": "Sibi",
+    "postal_code": "99851"
+  },
+  {
+    "id": 9303132005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930313,
+    "value": "Tagaimon Karome",
+    "postal_code": "99851"
+  },
+  {
+    "id": 9303132004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930313,
+    "value": "Tagaimon Sino",
+    "postal_code": "99851"
+  },
+  {
+    "id": 9303132001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930313,
+    "value": "Yeloba",
+    "postal_code": "99851"
+  }
+]

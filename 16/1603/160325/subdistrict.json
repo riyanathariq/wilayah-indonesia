@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1603252001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Karang Agung",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Karang Mulya (Karang Mulia)",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Karang Sari",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Lecah",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Lubai Makmur",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Lubai Persada",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Mekar Jaya",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Pagar Dewa",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Prabumenang",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Sumber Asri",
+    "postal_code": "31174"
+  },
+  {
+    "id": 1603252004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160325,
+    "value": "Sumber Mulya",
+    "postal_code": "31174"
+  }
+]

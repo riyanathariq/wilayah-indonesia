@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1307032001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Koto Baru Simalanggang",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032007,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Koto Tangah Simalanggang",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Piobang",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Simalanggang",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Sungai Beringin",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Taeh Baruah",
+    "postal_code": "26251"
+  },
+  {
+    "id": 1307032002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130703,
+    "value": "Taeh Bukik",
+    "postal_code": "26251"
+  }
+]

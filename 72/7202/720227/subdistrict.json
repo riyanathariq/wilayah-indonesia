@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7202272004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Kuku",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Lena",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Panjoka",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202271009,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Petirodongi",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Sangira",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Saojo",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202271008,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Sawidago",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Sulewana",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202271010,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Tendeadongi",
+    "postal_code": "94667"
+  },
+  {
+    "id": 7202272006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720227,
+    "value": "Uelincu",
+    "postal_code": "94667"
+  }
+]

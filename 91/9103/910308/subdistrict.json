@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9103082002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Benyom Jaya I",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Benyom Jaya II",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Berab",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082009,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Bunyom",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Hamonggrang (Hamongkrang)",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Nembukrang (Nimbokrang)",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Nombukrang Sari (Nembukrang / Nimbokrang Sari)",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082008,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Rhepang Muaf (Rhepang Muaif / Muaib)",
+    "postal_code": "99362"
+  },
+  {
+    "id": 9103082006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910308,
+    "value": "Wahab",
+    "postal_code": "99362"
+  }
+]

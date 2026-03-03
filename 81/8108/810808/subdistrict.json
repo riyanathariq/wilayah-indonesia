@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8108082002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Batumiau",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Laitutun",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082007,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Luhuely (Luhulely / Luhuleli)",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Nuwewang",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Tomra",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Tutukey",
+    "postal_code": "97444"
+  },
+  {
+    "id": 8108082006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810808,
+    "value": "Tutuwaru",
+    "postal_code": "97444"
+  }
+]

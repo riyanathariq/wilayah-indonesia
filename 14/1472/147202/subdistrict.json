@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1472021009,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147202,
+    "value": "Bukit Batrem",
+    "postal_code": "28811"
+  },
+  {
+    "id": 1472021006,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147202,
+    "value": "Buluh Kasap",
+    "postal_code": "28814"
+  },
+  {
+    "id": 1472021004,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147202,
+    "value": "Jaya Mukti",
+    "postal_code": "28815"
+  },
+  {
+    "id": 1472021003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147202,
+    "value": "Tanjung Palas",
+    "postal_code": "28816"
+  },
+  {
+    "id": 1472021002,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147202,
+    "value": "Teluk Binjai",
+    "postal_code": "28813"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1404112010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Gemilang Jaya",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Kuala Sebatu",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Pasir Emas",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sialang Jaya",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112013,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Simpang Jaya",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungaidusun (Sungai Dusun)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungaijunjangan (Sungai Junjangan)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungailuar (Sungai Luar)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404111001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungaipiring (Sungai Piring)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungairawa (Sungai Rawa)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Sungairaya (Sungai Raya)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Tanjungsiantar (Tanjung Siantar)",
+    "postal_code": "29252"
+  },
+  {
+    "id": 1404112011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140411,
+    "value": "Tasik Raya",
+    "postal_code": "29252"
+  }
+]

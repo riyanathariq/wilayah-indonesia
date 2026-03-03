@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7413012003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Kampobalano",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012008,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Lakalamba",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012009,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Lawada Jaya",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012010,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Lombu Jaya",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Maperaha",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Marobea",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Nihi",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012007,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Ondoke",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Wakoila",
+    "postal_code": "93657"
+  },
+  {
+    "id": 7413012002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741301,
+    "value": "Waukuni",
+    "postal_code": "93657"
+  }
+]

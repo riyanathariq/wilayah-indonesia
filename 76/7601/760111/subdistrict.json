@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7601112003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760111,
+    "value": "Letawa",
+    "postal_code": "91591"
+  },
+  {
+    "id": 7601112002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760111,
+    "value": "Maponu",
+    "postal_code": "91591"
+  },
+  {
+    "id": 7601112001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760111,
+    "value": "Sarjo",
+    "postal_code": "91591"
+  },
+  {
+    "id": 7601112004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760111,
+    "value": "Sarude",
+    "postal_code": "91591"
+  }
+]

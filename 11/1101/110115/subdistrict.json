@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1101152002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Ladang Rimba",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Pasie Seubadeh",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Sawah Tingkeum",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Seulekat (Seuleukat)",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Simpang",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Ujung Pulo Cut",
+    "postal_code": "23777"
+  },
+  {
+    "id": 1101152003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110115,
+    "value": "Ujung Pulo Rayeuk",
+    "postal_code": "23777"
+  }
+]

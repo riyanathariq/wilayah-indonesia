@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3404132001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340413,
+    "value": "Caturharjo (Catur Harjo)",
+    "postal_code": "55515"
+  },
+  {
+    "id": 3404132004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340413,
+    "value": "Pandowoharjo (Pandowo Harjo)",
+    "postal_code": "55512"
+  },
+  {
+    "id": 3404132003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340413,
+    "value": "Tridadi",
+    "postal_code": "55511"
+  },
+  {
+    "id": 3404132002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340413,
+    "value": "Triharjo",
+    "postal_code": "55514"
+  },
+  {
+    "id": 3404132005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340413,
+    "value": "Trimulyo (Tri Mulyo)",
+    "postal_code": "55513"
+  }
+]

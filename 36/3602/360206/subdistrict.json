@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3602062008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Bojongmenteng (Bojong Menteng)",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Cibungur",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Cisimeut",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062012,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Cisimeut Raya",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062011,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Jalupangmulya (Jalupang Mulya)",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Kanekes",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Lebakparahiang (Lebak Parahiang)",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Leuwidamar",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Margawangi",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Nayagati",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Sangkanwangi",
+    "postal_code": "42362"
+  },
+  {
+    "id": 3602062010,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360206,
+    "value": "Wantisari",
+    "postal_code": "42362"
+  }
+]

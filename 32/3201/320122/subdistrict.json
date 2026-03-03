@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3201222006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Argapura",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Bangunjaya",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Banyuasih (Banyu Asih)",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Banyuresmi (Banyu Resmi)",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Banyuwangi (Banyu Wangi)",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Batujajar (Batu Jajar)",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Bunar",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Cigudeg",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Cintamanik",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222014,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Mekarjaya",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Rengasjajar",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Sukamaju",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Sukaraksa",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222015,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Tegallega",
+    "postal_code": "16660"
+  },
+  {
+    "id": 3201222010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320122,
+    "value": "Wargajaya",
+    "postal_code": "16660"
+  }
+]

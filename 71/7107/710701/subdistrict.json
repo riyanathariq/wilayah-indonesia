@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7107011008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Lowu Dua",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Lowu Satu",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011016,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Lowu Utara",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011017,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Nataan",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107012003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Rasi",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107012021,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Rasi Satu",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Tosuraya",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011018,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Tosuraya Barat",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011019,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Tosuraya Selatan",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Wawali",
+    "postal_code": "95994"
+  },
+  {
+    "id": 7107011020,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710701,
+    "value": "Wawali Pasan",
+    "postal_code": "95994"
+  }
+]

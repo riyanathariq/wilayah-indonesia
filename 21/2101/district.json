@@ -1,0 +1,62 @@
+[
+  {
+    "id": 210114,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Bintan Pesisir"
+  },
+  {
+    "id": 210106,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Bintan Timur"
+  },
+  {
+    "id": 210107,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Bintan Utara"
+  },
+  {
+    "id": 210104,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Gunung Kijang"
+  },
+  {
+    "id": 210113,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Mantang"
+  },
+  {
+    "id": 210115,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Seri Kuala Lobam (Sri)"
+  },
+  {
+    "id": 210109,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Tambelan"
+  },
+  {
+    "id": 210110,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Telok Sebong (Teluk Sebong)"
+  },
+  {
+    "id": 210108,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Teluk Bintan"
+  },
+  {
+    "id": 210112,
+    "province_id": 21,
+    "regency_id": 2101,
+    "value": "Toapaya"
+  }
+]

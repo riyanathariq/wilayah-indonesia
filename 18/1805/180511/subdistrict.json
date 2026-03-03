@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1805112007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Bakung Ilir",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112018,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Bakung Rahayu",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Bakung Udik",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gedung Bandar Rahayu",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112017,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gedung Bandar Rejo",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gedung Meneng",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112019,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gedung Meneng Baru",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gunung Tapa",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112014,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gunung Tapa Ilir",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112015,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gunung Tapa Tengah",
+    "postal_code": "34597"
+  },
+  {
+    "id": 1805112016,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180511,
+    "value": "Gunung Tapa Udik",
+    "postal_code": "34597"
+  }
+]

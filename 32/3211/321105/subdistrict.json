@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3211052004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Cigintung",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Cilopang",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Cimarga",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Cinangsi",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Cisitu",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Linggajaya",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Pajagan",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Ranjeng",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Situmekar",
+    "postal_code": "45363"
+  },
+  {
+    "id": 3211052005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321105,
+    "value": "Sundamekar",
+    "postal_code": "45363"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9405242001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940524,
+    "value": "Mundidok",
+    "postal_code": "98964"
+  },
+  {
+    "id": 9405242003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940524,
+    "value": "Tobenggi",
+    "postal_code": "98964"
+  },
+  {
+    "id": 9405242004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940524,
+    "value": "Towenggi II",
+    "postal_code": "98964"
+  },
+  {
+    "id": 9405242005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940524,
+    "value": "Welenggaru",
+    "postal_code": "98964"
+  },
+  {
+    "id": 9405242002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940524,
+    "value": "Yaiki Maiki",
+    "postal_code": "98964"
+  }
+]

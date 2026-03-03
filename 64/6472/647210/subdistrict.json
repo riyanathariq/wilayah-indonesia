@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472101004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647210,
+    "value": "Harapan Baru",
+    "postal_code": "75131"
+  },
+  {
+    "id": 6472101005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647210,
+    "value": "Rapak Dalam",
+    "postal_code": "75131"
+  },
+  {
+    "id": 6472101003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647210,
+    "value": "Sengkotek",
+    "postal_code": "75131"
+  },
+  {
+    "id": 6472101001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647210,
+    "value": "Simpang Tiga (Loa Janan Ilir)",
+    "postal_code": "75131"
+  },
+  {
+    "id": 6472101002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647210,
+    "value": "Tani Aman",
+    "postal_code": "75131"
+  }
+]

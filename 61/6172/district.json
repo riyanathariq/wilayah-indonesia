@@ -1,0 +1,32 @@
+[
+  {
+    "id": 617202,
+    "province_id": 61,
+    "regency_id": 6172,
+    "value": "Singkawang Barat"
+  },
+  {
+    "id": 617205,
+    "province_id": 61,
+    "regency_id": 6172,
+    "value": "Singkawang Selatan"
+  },
+  {
+    "id": 617201,
+    "province_id": 61,
+    "regency_id": 6172,
+    "value": "Singkawang Tengah"
+  },
+  {
+    "id": 617203,
+    "province_id": 61,
+    "regency_id": 6172,
+    "value": "Singkawang Timur"
+  },
+  {
+    "id": 617204,
+    "province_id": 61,
+    "regency_id": 6172,
+    "value": "Singkawang Utara"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102202010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Bukit Tinggi",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Kalawiran",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Panasen",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Passo (Paso)",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Simbel",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Totolan",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Touliang",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Tountimomor",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Wailang",
+    "postal_code": "95682"
+  },
+  {
+    "id": 7102202001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710220,
+    "value": "Wasian",
+    "postal_code": "95682"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3202332006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Cisarua",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Langensari",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Limbangan",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Margaluyu",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Pasirhalang",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Selawangi",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Selawi (Selaawi)",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Sukamekar",
+    "postal_code": "43192"
+  },
+  {
+    "id": 3202332004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320233,
+    "value": "Sukaraja",
+    "postal_code": "43192"
+  }
+]

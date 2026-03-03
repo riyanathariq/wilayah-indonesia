@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8171042006,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Hative Besar",
+    "postal_code": "97234"
+  },
+  {
+    "id": 8171042001,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Hunuth (Durian Patah)",
+    "postal_code": "97233"
+  },
+  {
+    "id": 8171042007,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Laha",
+    "postal_code": "97236"
+  },
+  {
+    "id": 8171042002,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Poka",
+    "postal_code": "97233"
+  },
+  {
+    "id": 8171042003,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Rumah Tiga",
+    "postal_code": "97234"
+  },
+  {
+    "id": 8171042005,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Tawiri",
+    "postal_code": "97235"
+  },
+  {
+    "id": 8171041008,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Tihu",
+    "postal_code": "97237"
+  },
+  {
+    "id": 8171042004,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817104,
+    "value": "Wayame",
+    "postal_code": "97234"
+  }
+]

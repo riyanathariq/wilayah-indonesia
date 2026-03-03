@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8108142005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810814,
+    "value": "Ilmamau",
+    "postal_code": "97447"
+  },
+  {
+    "id": 8108142002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810814,
+    "value": "Karbubu",
+    "postal_code": "97447"
+  },
+  {
+    "id": 8108142004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810814,
+    "value": "Klishatu",
+    "postal_code": "97447"
+  },
+  {
+    "id": 8108142001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810814,
+    "value": "Telemar",
+    "postal_code": "97447"
+  },
+  {
+    "id": 8108142003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810814,
+    "value": "Ustutun",
+    "postal_code": "97447"
+  }
+]

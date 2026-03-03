@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1403032016,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Batang Duku",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Bukit Batu",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032005,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Buruk Bakul",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Dompas",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032017,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Pakning Asal",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Pangkalan Jambi",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Sejangat",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Sukajadi",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403031010,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Sungai Pakning",
+    "postal_code": "28761"
+  },
+  {
+    "id": 1403032004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140303,
+    "value": "Sungai Selari",
+    "postal_code": "28761"
+  }
+]

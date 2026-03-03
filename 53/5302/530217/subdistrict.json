@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5302172007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Fat",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Haineno (Hoineno)",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Haumeni",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Nenoat",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Nunkolo",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Op",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Putun",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Saenam",
+    "postal_code": "85586"
+  },
+  {
+    "id": 5302172002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530217,
+    "value": "Sahan",
+    "postal_code": "85586"
+  }
+]

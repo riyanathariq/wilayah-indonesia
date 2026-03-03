@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3314052007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Blimbing",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Dawung",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Jambeyan",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Jetis",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Kadipiro",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Musuk",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Sambi",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Sambirejo",
+    "postal_code": "57293"
+  },
+  {
+    "id": 3314052001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331405,
+    "value": "Sukorejo",
+    "postal_code": "57293"
+  }
+]

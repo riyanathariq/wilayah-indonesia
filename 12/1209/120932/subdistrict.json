@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1209322001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Aek Bange",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Aek Korsik",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Aek Ledong",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Aek Nabuntu",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Ledong Barat",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Ledong Timur",
+    "postal_code": "21277"
+  },
+  {
+    "id": 1209322007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120932,
+    "value": "Padang Sipirok",
+    "postal_code": "21277"
+  }
+]

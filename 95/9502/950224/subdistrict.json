@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9502242001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950224,
+    "value": "Kubiphkop (Kubibkop)",
+    "postal_code": "99427"
+  },
+  {
+    "id": 9502242004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950224,
+    "value": "Mangabip",
+    "postal_code": "99427"
+  },
+  {
+    "id": 9502242002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950224,
+    "value": "Okano",
+    "postal_code": "99427"
+  },
+  {
+    "id": 9502242003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950224,
+    "value": "Sebul",
+    "postal_code": "99427"
+  }
+]

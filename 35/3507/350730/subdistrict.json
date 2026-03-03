@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3507302008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Ampelgading",
+    "postal_code": "65183"
+  },
+  {
+    "id": 3507302010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Gadungsari",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Jogomulyan",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Kepatihan",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Pujiharjo",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302013,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Purwodadi",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Sukorejo",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Sumbertangkil",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Tamankuncaran",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302012,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Tamansatriyan",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Tirtoyudo",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Tlogosari",
+    "postal_code": "65182"
+  },
+  {
+    "id": 3507302011,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350730,
+    "value": "Wonoagung",
+    "postal_code": "65182"
+  }
+]

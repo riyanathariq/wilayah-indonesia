@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1671081002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167108,
+    "value": "Sako",
+    "postal_code": "30163"
+  },
+  {
+    "id": 1671081007,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167108,
+    "value": "Sako Baru",
+    "postal_code": "30165"
+  },
+  {
+    "id": 1671081006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167108,
+    "value": "Sialang",
+    "postal_code": "30161"
+  },
+  {
+    "id": 1671081001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167108,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "30164"
+  }
+]

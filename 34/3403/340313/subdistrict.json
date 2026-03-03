@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3403132005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Beji",
+    "postal_code": "55853"
+  },
+  {
+    "id": 3403132003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Jurangjero (Jurang Jero)",
+    "postal_code": "55853"
+  },
+  {
+    "id": 3403132004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Kampung",
+    "postal_code": "55853"
+  },
+  {
+    "id": 3403132002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Sambirejo",
+    "postal_code": "55853"
+  },
+  {
+    "id": 3403132001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Tancep",
+    "postal_code": "55853"
+  },
+  {
+    "id": 3403132006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340313,
+    "value": "Watusigar (Watu Sigar)",
+    "postal_code": "55853"
+  }
+]

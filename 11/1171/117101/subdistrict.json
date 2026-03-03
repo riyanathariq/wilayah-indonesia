@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1171012009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Ateuk Deah Tanoh",
+    "postal_code": "23244"
+  },
+  {
+    "id": 1171012008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Ateuk Jawo",
+    "postal_code": "23245"
+  },
+  {
+    "id": 1171012010,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Ateuk Munjeng",
+    "postal_code": "23244"
+  },
+  {
+    "id": 1171012007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Ateuk Pahlawan",
+    "postal_code": "23241"
+  },
+  {
+    "id": 1171012001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Kampung Baru",
+    "postal_code": "23242"
+  },
+  {
+    "id": 1171012006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Neusu Aceh",
+    "postal_code": "23244"
+  },
+  {
+    "id": 1171012002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Neusu Jaya",
+    "postal_code": "23243"
+  },
+  {
+    "id": 1171012005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Peuniti",
+    "postal_code": "23241"
+  },
+  {
+    "id": 1171012004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Seutui",
+    "postal_code": "23243"
+  },
+  {
+    "id": 1171012003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117101,
+    "value": "Sukaramai",
+    "postal_code": "23243"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1903042003,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Bangka Kota",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Gudang",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Jelutung II",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042007,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Permis",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Rajik",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Sebagin",
+    "postal_code": "33777"
+  },
+  {
+    "id": 1903042006,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190304,
+    "value": "Simpang Rimba",
+    "postal_code": "33777"
+  }
+]

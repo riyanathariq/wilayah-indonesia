@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1606042002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Bukit Pangkuasan",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042001,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Bukit Sejahtera",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Bukit Selabu",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Lubuk Bintialo",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Lubuk Buah",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042016,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Pangkalan Bulian",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Pengaturan",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042013,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Pinggap",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Sako/Suko Suban",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042011,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Saut (Saud)",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Sungai Napal",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042005,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Talang Buluh",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Talang Leban",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Tanah Abang",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042012,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Tanjung Bali",
+    "postal_code": "30755"
+  },
+  {
+    "id": 1606042015,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160604,
+    "value": "Ulak Kembang",
+    "postal_code": "30755"
+  }
+]

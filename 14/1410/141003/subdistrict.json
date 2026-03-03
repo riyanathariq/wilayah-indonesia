@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1410032014,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Citra Damai",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032016,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Dwi Tunggal",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Gemala Sari",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032008,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Penyagun",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032010,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Repan",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032013,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Sungai Gayung Kiri",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032011,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Tanjung Bakau",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032020,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Tanjung Gemuk",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Tanjung Medang",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Tanjung Samak",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032018,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Tebun",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032012,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Teluk Samak",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Topang",
+    "postal_code": "28755"
+  },
+  {
+    "id": 1410032017,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141003,
+    "value": "Wonosari",
+    "postal_code": "28755"
+  }
+]

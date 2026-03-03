@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5319122002,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Buti",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122006,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Compang Congkar",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122008,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Compang Lawi",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122003,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Golo Ngawan",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122009,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Golo Pari",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319121001,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Golo Wangkung",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319121007,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Golo Wangkung Barat",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122005,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Rana Mese",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122004,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Satar Nawang",
+    "postal_code": "86584"
+  },
+  {
+    "id": 5319122010,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531912,
+    "value": "Wea",
+    "postal_code": "86584"
+  }
+]

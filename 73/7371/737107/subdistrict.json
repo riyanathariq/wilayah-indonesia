@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7371071011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Buloa",
+    "postal_code": "90212"
+  },
+  {
+    "id": 7371071015,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Bunga Eja Beru",
+    "postal_code": "90211"
+  },
+  {
+    "id": 7371071003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Kaluku Bodoa",
+    "postal_code": "90215"
+  },
+  {
+    "id": 7371071002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Kalukuang",
+    "postal_code": "90214"
+  },
+  {
+    "id": 7371071008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "La'latang (La Latang)",
+    "postal_code": "90211"
+  },
+  {
+    "id": 7371071006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Lakkang",
+    "postal_code": "90211"
+  },
+  {
+    "id": 7371071014,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Lembo",
+    "postal_code": "90213"
+  },
+  {
+    "id": 7371071001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Pannampu",
+    "postal_code": "90213"
+  },
+  {
+    "id": 7371071004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Rappojawa",
+    "postal_code": "90215"
+  },
+  {
+    "id": 7371071005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Rappokalling",
+    "postal_code": "90216"
+  },
+  {
+    "id": 7371071012,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Suangga (Suwangga)",
+    "postal_code": "90211"
+  },
+  {
+    "id": 7371071007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Tallo",
+    "postal_code": "90212"
+  },
+  {
+    "id": 7371071010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Tammua",
+    "postal_code": "90216"
+  },
+  {
+    "id": 7371071013,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Ujung Pandang Baru (Makassardang Baru)",
+    "postal_code": "90217"
+  },
+  {
+    "id": 7371071009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737107,
+    "value": "Wala-Walaya",
+    "postal_code": "90217"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3207352001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Bantardawa",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Karangpaningal",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Kutawaringin",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Padaringan",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Pasirlawang",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Purwadadi",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Purwajaya",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Sidarahayu",
+    "postal_code": "46380"
+  },
+  {
+    "id": 3207352009,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320735,
+    "value": "Sukamulya",
+    "postal_code": "46380"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5271041003,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527104,
+    "value": "Jempong Baru (Jempang Baru)",
+    "postal_code": "83116"
+  },
+  {
+    "id": 5271041001,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527104,
+    "value": "Karang Pule",
+    "postal_code": "83116"
+  },
+  {
+    "id": 5271041005,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527104,
+    "value": "Kekalik Jaya",
+    "postal_code": "83116"
+  },
+  {
+    "id": 5271041002,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527104,
+    "value": "Tanjung Karang",
+    "postal_code": "83115"
+  },
+  {
+    "id": 5271041004,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527104,
+    "value": "Tanjung Karang Permai",
+    "postal_code": "83116"
+  }
+]

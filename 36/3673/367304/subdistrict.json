@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3673041005,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Cilaku",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041004,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Cipete",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041001,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Curug",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041009,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Curug Manis (Curugmanis)",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041003,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Kemanisan (Kamanisan)",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041006,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Pancalaksana",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041010,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Sukajaya",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041008,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Sukalaksana",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041007,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Sukawana",
+    "postal_code": "42171"
+  },
+  {
+    "id": 3673041002,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367304,
+    "value": "Tinggar",
+    "postal_code": "42171"
+  }
+]

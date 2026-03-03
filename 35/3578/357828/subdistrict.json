@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3578281001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357828,
+    "value": "Asem Rowo",
+    "postal_code": "60182"
+  },
+  {
+    "id": 3578281002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357828,
+    "value": "Genting Kalianak",
+    "postal_code": "60183"
+  },
+  {
+    "id": 3578281005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357828,
+    "value": "Tambak Sarioso",
+    "postal_code": "60184"
+  }
+]

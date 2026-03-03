@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7324052006,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Balirejo",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052008,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Lamaeto",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052007,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Maliwowo",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052005,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Mantadulu",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052003,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Solo",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052002,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Tampinna",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052004,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Taripa",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052001,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Tawakua",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052010,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Wanasari",
+    "postal_code": "92985"
+  },
+  {
+    "id": 7324052009,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732405,
+    "value": "Watangpanua",
+    "postal_code": "92985"
+  }
+]

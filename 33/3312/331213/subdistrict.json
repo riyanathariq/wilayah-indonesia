@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3312132003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Gedong",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Gemawang",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132011,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Jatimarto",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312131010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Kasihan",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Kerjo Kidul (Kerjokidul)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Kerjo Lor (Kerjolor)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312131009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Mlokomanis Kulon (Mlokomaniskulon)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Mlokomanis Wetan (Mlokomaniswetan)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Ngadirojo Kidul (Ngadirojokidul)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Ngadirojo Lor (Ngadirojolor)",
+    "postal_code": "57681"
+  },
+  {
+    "id": 3312132004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331213,
+    "value": "Pondok",
+    "postal_code": "57681"
+  }
+]

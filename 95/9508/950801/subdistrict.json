@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9508012029,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Bombam",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Delpel",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012016,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Dim",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Kemali",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Kenyam",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Sralala",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012017,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Ulunmu",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012014,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Yike",
+    "postal_code": "99922"
+  },
+  {
+    "id": 9508012015,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950801,
+    "value": "Yunat",
+    "postal_code": "99922"
+  }
+]

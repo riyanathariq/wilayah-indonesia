@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7102082005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Kaima",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Kasuratan",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Leleko",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Parepei (Parepey)",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Paslaten",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Pulutan",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Sendangan",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Sinuian",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Talikuran",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Tampusu",
+    "postal_code": "95681"
+  },
+  {
+    "id": 7102082007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710208,
+    "value": "Timu",
+    "postal_code": "95681"
+  }
+]

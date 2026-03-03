@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1406092003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Bangun Jaya",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Mahato",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092011,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Mahato Sakti",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Mekar Jaya",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Pagar Mayang",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Payung Sekaki",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Rantau Sakti",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Simpang Harapan",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Suka Damai",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Tambusai Utara",
+    "postal_code": "28562"
+  },
+  {
+    "id": 1406092008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140609,
+    "value": "Tanjung Medan",
+    "postal_code": "28562"
+  }
+]

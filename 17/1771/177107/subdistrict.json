@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1771071006,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Anggut Atas",
+    "postal_code": "38222"
+  },
+  {
+    "id": 1771071005,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Anggut Bawah",
+    "postal_code": "38223"
+  },
+  {
+    "id": 1771071007,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Anggut Dalam",
+    "postal_code": "38222"
+  },
+  {
+    "id": 1771071003,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Belakang Pondok",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771071002,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Kebun Dahri",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771071008,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Kebun Geran (Gerand)",
+    "postal_code": "38222"
+  },
+  {
+    "id": 1771071001,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Padang Jati",
+    "postal_code": "38227"
+  },
+  {
+    "id": 1771071009,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Pengantungan (Penggantungan)",
+    "postal_code": "38221"
+  },
+  {
+    "id": 1771071004,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177107,
+    "value": "Penurunan",
+    "postal_code": "38223"
+  }
+]

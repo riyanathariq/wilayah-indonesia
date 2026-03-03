@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5301302002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530130,
+    "value": "Binafun",
+    "postal_code": "85374"
+  },
+  {
+    "id": 5301302003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530130,
+    "value": "Bitobe",
+    "postal_code": "85374"
+  },
+  {
+    "id": 5301302004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530130,
+    "value": "Bonmuti",
+    "postal_code": "85374"
+  },
+  {
+    "id": 5301302001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530130,
+    "value": "Fatumonas",
+    "postal_code": "85374"
+  }
+]

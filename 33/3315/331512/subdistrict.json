@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3315122002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Getasrejo",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315121001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Grobogan",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Karangrejo",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Lebak",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122010,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Lebengjumuk",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Ngabenrejo",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Putatsari",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Rejosari",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122011,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Sedayu",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122012,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Sumberjatipohon (Sumber Jatipohon)",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Tanggungharjo",
+    "postal_code": "58152"
+  },
+  {
+    "id": 3315122005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331512,
+    "value": "Teguhan",
+    "postal_code": "58152"
+  }
+]

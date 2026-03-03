@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202022005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Cibuntu",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Cidadap",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Cihaur",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Kertajaya",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Loji",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Mekarasih",
+    "postal_code": "43361"
+  },
+  {
+    "id": 3202022007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320202,
+    "value": "Sangrawayang",
+    "postal_code": "43361"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9103072004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Benyom",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Gemebs",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072009,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Imsar",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072018,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Kaitemung (Kautemung)",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072010,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Kuipon (Kuipons)",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072017,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Kuwase",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Meyu",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Oyengsi",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072019,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Pobaim",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Singgri",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Singgriway (Singgriwai)",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103071021,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Tabri",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072015,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Yenggu (Yenggu Lama)",
+    "postal_code": "99361"
+  },
+  {
+    "id": 9103072014,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910307,
+    "value": "Yenggu Baru",
+    "postal_code": "99361"
+  }
+]

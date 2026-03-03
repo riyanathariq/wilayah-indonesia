@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7104072008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Ambela",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Kiama",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072012,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Kiama Barat",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Mala",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072017,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Mala Timur",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072015,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Maredaren Utara",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104071001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Melonguane",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104071010,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Melonguane Barat",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104071009,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Melonguane Timur",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Sawang",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072016,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Sawang Utara",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Tarun",
+    "postal_code": "95885"
+  },
+  {
+    "id": 7104072011,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710407,
+    "value": "Tarun Selatan",
+    "postal_code": "95885"
+  }
+]

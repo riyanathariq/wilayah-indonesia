@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3217152003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Bunijaya",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Celak",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Cilangari",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Gununghalu",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Sindangjaya",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Sirnajaya",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Sukasari",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Tamanjaya",
+    "postal_code": "40565"
+  },
+  {
+    "id": 3217152009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321715,
+    "value": "Wargasaluyu",
+    "postal_code": "40565"
+  }
+]

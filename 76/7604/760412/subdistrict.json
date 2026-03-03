@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7604122008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Bala",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604121002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Balanipa",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Galung Tuluk (Galung Tulu)",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122009,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Lambanan",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122010,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Lego",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Mosso",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122011,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Pallis",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Pambusuang",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Sabang Subik",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Tamanggalle (Tammangalle)",
+    "postal_code": "91354"
+  },
+  {
+    "id": 7604122001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760412,
+    "value": "Tammejarra (Tammajarra)",
+    "postal_code": "91354"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3604172001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Carenang",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Mandaya",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Mekarsari",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Pamanuk",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Panenjoan",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Ragasmasigit (Ragasmesigit)",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Teras",
+    "postal_code": "42195"
+  },
+  {
+    "id": 3604172007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360417,
+    "value": "Walikukun",
+    "postal_code": "42195"
+  }
+]

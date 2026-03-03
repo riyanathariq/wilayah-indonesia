@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7501212010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Bihe",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Bontula (Bontulo)",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Bululi",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Karya Baru",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Karya Indah",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Mohiyolo",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Olimohulo",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Pangahu",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Prima",
+    "postal_code": "96221"
+  },
+  {
+    "id": 7501212006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750121,
+    "value": "Tiohu",
+    "postal_code": "96221"
+  }
+]

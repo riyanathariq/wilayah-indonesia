@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3602242004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Aweh",
+    "postal_code": "42312"
+  },
+  {
+    "id": 3602242007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Cikatapis",
+    "postal_code": "42311"
+  },
+  {
+    "id": 3602242003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Cilangkap",
+    "postal_code": "42312"
+  },
+  {
+    "id": 3602242001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Kalanganyar",
+    "postal_code": "42312"
+  },
+  {
+    "id": 3602242002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Pasirkupa",
+    "postal_code": "42312"
+  },
+  {
+    "id": 3602242005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Sangiangtanjung (Sangiang Tanjung)",
+    "postal_code": "42312"
+  },
+  {
+    "id": 3602242006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360224,
+    "value": "Sukamekarsari",
+    "postal_code": "42312"
+  }
+]

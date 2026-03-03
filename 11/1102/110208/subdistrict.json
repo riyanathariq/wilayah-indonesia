@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1102082029,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Bahagia",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082013,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kampung Nangka",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082019,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kandang Mbelang Mandiri",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082017,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Katambaru Becawan (Katembaru Bencawan)",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082016,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kuta Buluh Botong",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082025,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kuta Genting",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082003,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kutambaru (Kutem Baru)",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082006,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kute Bantil",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082030,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Kute Galuh Asli (Kuta Galuh Asli)",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082018,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Kinge",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082011,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Kolok",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082012,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Rutung",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082027,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Sagu",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082026,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Sagu Baru",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082005,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Sagu Hilir",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082004,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Lawe Sagu Hulu",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082020,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Mbacang Racun",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082001,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Pasir Gala",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082002,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Pasir Penjengakan",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082028,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Pekhapet Timur (Pekhapat Timur)",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082023,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Pulonas Baru",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082015,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Simpang Empat",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082021,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Telaga Mekar",
+    "postal_code": "24665"
+  },
+  {
+    "id": 1102082014,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110208,
+    "value": "Tenembak Juhar",
+    "postal_code": "24665"
+  }
+]

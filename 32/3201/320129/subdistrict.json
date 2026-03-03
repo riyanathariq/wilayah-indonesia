@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3201292008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Ciapus",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Ciomas",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Ciomas Rahayu",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Kota Batu",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Laladon",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Mekarjaya",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201291003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Padasuka",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Pagelaran",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Parakan",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Sukaharja",
+    "postal_code": "16610"
+  },
+  {
+    "id": 3201292007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320129,
+    "value": "Sukamakmur",
+    "postal_code": "16610"
+  }
+]

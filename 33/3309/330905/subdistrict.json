@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3309051004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Banaran",
+    "postal_code": "57313"
+  },
+  {
+    "id": 3309052003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Karanggeneng",
+    "postal_code": "57312"
+  },
+  {
+    "id": 3309052009,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Kebonbimo",
+    "postal_code": "57316"
+  },
+  {
+    "id": 3309052007,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Kiringan",
+    "postal_code": "57314"
+  },
+  {
+    "id": 3309052008,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Mudal",
+    "postal_code": "57316"
+  },
+  {
+    "id": 3309052006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Penggung",
+    "postal_code": "57316"
+  },
+  {
+    "id": 3309051001,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Pulisen",
+    "postal_code": "57316"
+  },
+  {
+    "id": 3309051002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Siwodipuran (Siswodipuran)",
+    "postal_code": "57311"
+  },
+  {
+    "id": 3309052005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330905,
+    "value": "Winong",
+    "postal_code": "57315"
+  }
+]

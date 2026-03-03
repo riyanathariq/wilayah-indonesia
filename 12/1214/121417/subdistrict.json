@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1214172007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Guigui",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Hilimaufa",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Hilimbaruzo",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Luahandroito",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Orahuahili",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Siofabanua",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172013,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Tafulu",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Tetegawa'ai",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Tetegawa'ai Ehomo",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214172006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121417,
+    "value": "Ulu Mazo",
+    "postal_code": "22873"
+  }
+]

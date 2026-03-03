@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9403242002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Akoubaida",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403242006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Bodatadi",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403242003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Dauwagu",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403242004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Ganeyetaka",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403242007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Ibouwagu",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403242001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Yabomaida",
+    "postal_code": "98732"
+  },
+  {
+    "id": 9403242005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940324,
+    "value": "Yabomaida II",
+    "postal_code": "98732"
+  }
+]

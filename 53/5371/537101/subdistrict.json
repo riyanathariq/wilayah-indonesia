@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5371011008,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Alak",
+    "postal_code": "85231"
+  },
+  {
+    "id": 5371011009,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Batu Plat (Batuplat)",
+    "postal_code": "85237"
+  },
+  {
+    "id": 5371011005,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Fatufeto",
+    "postal_code": "85234"
+  },
+  {
+    "id": 5371011007,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Mantasi",
+    "postal_code": "85235"
+  },
+  {
+    "id": 5371011010,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Manulai II",
+    "postal_code": "85238"
+  },
+  {
+    "id": 5371011006,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Manutapen",
+    "postal_code": "85236"
+  },
+  {
+    "id": 5371011011,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Naioni",
+    "postal_code": "85239"
+  },
+  {
+    "id": 5371011001,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Namosain",
+    "postal_code": "85232"
+  },
+  {
+    "id": 5371011003,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Nunbaun Delha",
+    "postal_code": "85233"
+  },
+  {
+    "id": 5371011002,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Nunbaun Sabu",
+    "postal_code": "85233"
+  },
+  {
+    "id": 5371011004,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Nunhila",
+    "postal_code": "85234"
+  },
+  {
+    "id": 5371011012,
+    "province_id": 53,
+    "regency_id": 5371,
+    "district_id": 537101,
+    "value": "Penkase Oeleta",
+    "postal_code": "85231"
+  }
+]

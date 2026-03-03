@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9119042006,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Aruri",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042007,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Imbrisbari (Imbirsbari)",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042008,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Ineki",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042009,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Insumbrei",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042003,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Manggonswan (Mangoswan)",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042002,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Mbrurwandi (Mbruwandi / Bruwandi)",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042001,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Rayori",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042004,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Wonggeina (Wongkeina)",
+    "postal_code": "98571"
+  },
+  {
+    "id": 9119042005,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911904,
+    "value": "Yamnaisu",
+    "postal_code": "98571"
+  }
+]

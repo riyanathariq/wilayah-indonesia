@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6103072001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Balai Karangan",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072007,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Bungkang",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072006,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Engkahan",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Kenaman",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072008,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Lubuk Sabuk",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072010,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Melenggang (Malenggang)",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Pengadang",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Raut Muara",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072009,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Sei/Sungai Tekam",
+    "postal_code": "78556"
+  },
+  {
+    "id": 6103072003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610307,
+    "value": "Sotok",
+    "postal_code": "78556"
+  }
+]

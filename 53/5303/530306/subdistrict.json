@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5303062004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Biloe",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303061001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Boronubaen",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303061015,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Boronubaen Timur",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Hautaes",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062014,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Hauteas Barat",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062012,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Lokomea",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Sapaen",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Taunbaen",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062013,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Taunbaen Timur",
+    "postal_code": "85683"
+  },
+  {
+    "id": 5303062003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530306,
+    "value": "Tualena",
+    "postal_code": "85683"
+  }
+]

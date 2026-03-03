@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1201072005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Aloban Bair (Aloban)",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Bair",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Mela Dolok",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Mela I",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Mela II",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Tapian Nauli I",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201071001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Tapian Nauli II",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Tapian Nauli III",
+    "postal_code": "22618"
+  },
+  {
+    "id": 1201072004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120107,
+    "value": "Tapian Nauli IV",
+    "postal_code": "22618"
+  }
+]

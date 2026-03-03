@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7301042002,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Barugaiya",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042006,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Bonea Makmur",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042010,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Bonea Timur",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042011,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Bontokoraang",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042008,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Bontomarannu",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042003,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Jambuiya",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042012,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Kaburu",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042004,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Mare Mare",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042001,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Parak",
+    "postal_code": "92851"
+  },
+  {
+    "id": 7301042005,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730104,
+    "value": "Polebunging (Polebungin)",
+    "postal_code": "92851"
+  }
+]

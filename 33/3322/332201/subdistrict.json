@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3322012002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Batur",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Getasan",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Jetak",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Kopeng",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Manggihan",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012012,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Ngrawan",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012013,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Nogosaren",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Polobogo",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Samirono",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Sumogawe",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Tajuk",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Tolokan",
+    "postal_code": "50774"
+  },
+  {
+    "id": 3322012005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332201,
+    "value": "Wates",
+    "postal_code": "50774"
+  }
+]

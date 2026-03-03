@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871141007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Kampung Baru",
+    "postal_code": "35149"
+  },
+  {
+    "id": 1871141006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Kampung Baru Raya",
+    "postal_code": "35149"
+  },
+  {
+    "id": 1871141004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Kota Sepang",
+    "postal_code": "35148"
+  },
+  {
+    "id": 1871141001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Labuhan Ratu",
+    "postal_code": "35142"
+  },
+  {
+    "id": 1871141002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Labuhan Ratu Raya",
+    "postal_code": "35142"
+  },
+  {
+    "id": 1871141003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187114,
+    "value": "Sepang Jaya",
+    "postal_code": "35148"
+  }
+]

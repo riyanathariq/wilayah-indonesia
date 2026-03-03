@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2103202001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210320,
+    "value": "Batubi Jaya",
+    "postal_code": "29787"
+  },
+  {
+    "id": 2103202002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210320,
+    "value": "Gunung Putri",
+    "postal_code": "29787"
+  },
+  {
+    "id": 2103202004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210320,
+    "value": "Sedanau Timur",
+    "postal_code": "29787"
+  },
+  {
+    "id": 2103202003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210320,
+    "value": "Sedarat Baru",
+    "postal_code": "29787"
+  },
+  {
+    "id": 2103202005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210320,
+    "value": "Semedang",
+    "postal_code": "29787"
+  }
+]

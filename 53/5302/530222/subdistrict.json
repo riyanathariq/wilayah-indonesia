@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5302222001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530222,
+    "value": "Besana",
+    "postal_code": "85541"
+  },
+  {
+    "id": 5302222002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530222,
+    "value": "Fatukoko",
+    "postal_code": "85541"
+  },
+  {
+    "id": 5302222003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530222,
+    "value": "Koa",
+    "postal_code": "85541"
+  },
+  {
+    "id": 5302222004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530222,
+    "value": "Oel Uban (Oeuban)",
+    "postal_code": "85541"
+  },
+  {
+    "id": 5302222005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530222,
+    "value": "Salbait",
+    "postal_code": "85541"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9103042001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910304,
+    "value": "Dosay (Dosai)",
+    "postal_code": "99358"
+  },
+  {
+    "id": 9103042005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910304,
+    "value": "Maribu",
+    "postal_code": "99358"
+  },
+  {
+    "id": 9103042008,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910304,
+    "value": "Sabron Sari",
+    "postal_code": "99358"
+  },
+  {
+    "id": 9103042011,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910304,
+    "value": "Sabron Yaru (Sabro Yaru)",
+    "postal_code": "99358"
+  },
+  {
+    "id": 9103042006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910304,
+    "value": "Waibron",
+    "postal_code": "99358"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1406042008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Batang Kumu",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Batas",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042011,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Lubuk Soting",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Rantau Panjang",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Sialang Rindang",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Suka Maju",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Sungai Komango (Sungai Kumango)",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Talikumain (Tali Kumain)",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Tambusai Barat",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406041001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Tambusai Tengah",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Tambusai Timur",
+    "postal_code": "28558"
+  },
+  {
+    "id": 1406042012,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140604,
+    "value": "Tingkok",
+    "postal_code": "28558"
+  }
+]

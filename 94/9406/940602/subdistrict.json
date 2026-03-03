@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9406022002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Abaimaida",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Bobomani (Bomomani)",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Bonakunu",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Dawaikunu",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Diyoudimi",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Magode (Magone)",
+    "postal_code": "98871"
+  },
+  {
+    "id": 9406022007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940602,
+    "value": "Obaikagopa (Abaugi)",
+    "postal_code": "98871"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7571021010,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757102,
+    "value": "Biawao",
+    "postal_code": "96111"
+  },
+  {
+    "id": 7571021012,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757102,
+    "value": "Biawu",
+    "postal_code": "96111"
+  },
+  {
+    "id": 7571021013,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757102,
+    "value": "Limba B",
+    "postal_code": "96115"
+  },
+  {
+    "id": 7571021020,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757102,
+    "value": "Limba U Dua (Limba U II)",
+    "postal_code": "96115"
+  },
+  {
+    "id": 7571021019,
+    "province_id": 75,
+    "regency_id": 7571,
+    "district_id": 757102,
+    "value": "Limba U Satu (Limba U I)",
+    "postal_code": "96115"
+  }
+]

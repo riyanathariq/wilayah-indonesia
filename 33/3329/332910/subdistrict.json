@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3329102001,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Cenang",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102002,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Dukuhmaja",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102008,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Gegerkunci",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102009,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Jatimakmur",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102003,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Jatirokeh",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102004,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Karangsembung",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102005,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Songgom",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102010,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Songgom Lor",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102006,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Wanacala",
+    "postal_code": "52266"
+  },
+  {
+    "id": 3329102007,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332910,
+    "value": "Wanatawang",
+    "postal_code": "52266"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3510232004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Dasri",
+    "postal_code": "68485"
+  },
+  {
+    "id": 3510232002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Karangdoro",
+    "postal_code": "68485"
+  },
+  {
+    "id": 3510232005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Karangmulyo",
+    "postal_code": "68485"
+  },
+  {
+    "id": 3510232003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Tamansari",
+    "postal_code": "68485"
+  },
+  {
+    "id": 3510232006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Tegalrejo",
+    "postal_code": "68485"
+  },
+  {
+    "id": 3510232001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351023,
+    "value": "Tegalsari",
+    "postal_code": "68485"
+  }
+]

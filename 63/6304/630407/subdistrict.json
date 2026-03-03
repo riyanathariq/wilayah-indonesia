@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6304072009,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Danda Jaya",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Pindahan Baru",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072008,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sei/Sungai Bamban",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sei/Sungai Gampa",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sei/Sungai Gampa Asahi",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sei/Sungai Pantai",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sei/Sungai Sahurai",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Simpang Arya (Simpang Arja)",
+    "postal_code": "70561"
+  },
+  {
+    "id": 6304072007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630407,
+    "value": "Sinar Baru",
+    "postal_code": "70561"
+  }
+]

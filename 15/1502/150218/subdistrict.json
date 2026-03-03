@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1502182003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Baru",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Beringin Tinggi",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Gedang",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182012,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Jangkat (Jangkar)",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182014,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Kabu",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Koto Baru",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Koto Teguh",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Pematang Pauh",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Rantau Suli",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182015,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Simpang Talang Tembago",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Talang Tembago",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182013,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Tanjung Alam",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Tanjung Benuang (Tanjung Beruang)",
+    "postal_code": "37374"
+  },
+  {
+    "id": 1502182001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150218,
+    "value": "Tanjung Mudo",
+    "postal_code": "37374"
+  }
+]

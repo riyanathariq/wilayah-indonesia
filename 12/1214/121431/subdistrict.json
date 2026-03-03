@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1214312001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Baluta",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Bawo Analita Saeru",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Bawo Ofuloa",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Bawo Orudua",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Eho Baluta",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Hale Baluta",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Hiligeho Sogawu",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312012,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Hiliomasio (Hilimasio)",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Jeke",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Makole",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Saeru Melayu",
+    "postal_code": "22887"
+  },
+  {
+    "id": 1214312008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121431,
+    "value": "Sifauruasi",
+    "postal_code": "22887"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1609022020,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Anugerah Kemu",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022014,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Aromantai",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022018,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Gunung Batu",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022019,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Kemu",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022021,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Kemu Ulu",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022017,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Pagar Agung",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022022,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Pematang Obar",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022013,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Pulau Beringin",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022024,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Pulau Beringin Utara",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022016,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Simpang Pancur",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022012,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Tanjung Bulan",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022023,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Tanjung Bulan Ulu",
+    "postal_code": "32273"
+  },
+  {
+    "id": 1609022015,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160902,
+    "value": "Tanjung Kari",
+    "postal_code": "32273"
+  }
+]

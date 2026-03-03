@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7212032009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Bintangor Mukti",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Dolupo Karya (Dalupo Karya)",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Jamor Jaya (Jamur Jaya)",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Lembobelala",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Mandula",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Pa'awaru",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Petumbea",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Po'ona",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Pontangoa",
+    "postal_code": "94967"
+  },
+  {
+    "id": 7212032004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721203,
+    "value": "Ronta",
+    "postal_code": "94967"
+  }
+]

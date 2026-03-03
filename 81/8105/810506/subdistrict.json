@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8105062005,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Airkasar",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062009,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Bati Kilwouw",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062001,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Danama",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062007,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Gah",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Kilbat",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062002,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Kilmoy",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062011,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Kufar",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Sesar",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062010,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Taruy",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062008,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Walang Tenga",
+    "postal_code": "97594"
+  },
+  {
+    "id": 8105062006,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810506,
+    "value": "Waras-Waras",
+    "postal_code": "97594"
+  }
+]

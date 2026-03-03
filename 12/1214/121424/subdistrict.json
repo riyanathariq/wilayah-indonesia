@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1214242009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Amandraya (Amandraya Ulususua)",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Foikhu Fondrako",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Fondrakoraya",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Hilinifaoso",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Hiliwosi",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Lahusa Susua",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242012,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Orahili Fondrako",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Orudua Sibohou (Orudu Sibohou)",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Ramba-Ramba",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Sifaoroasi",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Sisarahili Susua",
+    "postal_code": "22866"
+  },
+  {
+    "id": 1214242004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121424,
+    "value": "Susua",
+    "postal_code": "22866"
+  }
+]

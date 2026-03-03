@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9105012015,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Banawa",
+    "postal_code": "98621"
+  },
+  {
+    "id": 9105012026,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Barawaikap",
+    "postal_code": "98622"
+  },
+  {
+    "id": 9105012027,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Bawai",
+    "postal_code": "98623"
+  },
+  {
+    "id": 9105012024,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Imandoa",
+    "postal_code": "98614"
+  },
+  {
+    "id": 9105012023,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Manaini",
+    "postal_code": "98615"
+  },
+  {
+    "id": 9105012028,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Nundawipi",
+    "postal_code": "98624"
+  },
+  {
+    "id": 9105012019,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Pasir Hitam",
+    "postal_code": "98625"
+  },
+  {
+    "id": 9105012020,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Pasir Putih",
+    "postal_code": "98626"
+  },
+  {
+    "id": 9105011006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Serui Jaya",
+    "postal_code": "98612"
+  },
+  {
+    "id": 9105011005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Serui Kota",
+    "postal_code": "98616"
+  },
+  {
+    "id": 9105012014,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Serui Laut",
+    "postal_code": "98627"
+  },
+  {
+    "id": 9105011004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Tarau",
+    "postal_code": "98613"
+  },
+  {
+    "id": 9105012017,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910501,
+    "value": "Turu",
+    "postal_code": "98617"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1604082014,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Jati",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082012,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Karang Dalam",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082013,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Kuba",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082011,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Lubuk Sepang",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082017,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Muara Siban",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082016,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Pagar Batu",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082018,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Perigi",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Pulau Pinang",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Tanjung Mulak",
+    "postal_code": "31463"
+  },
+  {
+    "id": 1604082010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160408,
+    "value": "Tanjung Sirih",
+    "postal_code": "31463"
+  }
+]

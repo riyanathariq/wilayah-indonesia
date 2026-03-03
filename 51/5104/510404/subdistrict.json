@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5104042004,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Manukaya",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042001,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Pejeng",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042006,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Pejeng Kaja",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042007,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Pejeng Kangin",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042005,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Pejeng Kawan",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042008,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Pejeng Klod (Kelod)",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042002,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Sanding",
+    "postal_code": "80552"
+  },
+  {
+    "id": 5104042003,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510404,
+    "value": "Tampaksiring",
+    "postal_code": "80552"
+  }
+]

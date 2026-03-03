@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3207162004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Kadupandak",
+    "postal_code": "46388"
+  },
+  {
+    "id": 3207162006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Karangpaningal",
+    "postal_code": "46388"
+  },
+  {
+    "id": 3207162003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Kaso",
+    "postal_code": "46388"
+  },
+  {
+    "id": 3207162002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Mekarsari",
+    "postal_code": "46388"
+  },
+  {
+    "id": 3207162005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Sukasari",
+    "postal_code": "46388"
+  },
+  {
+    "id": 3207162001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320716,
+    "value": "Tambaksari",
+    "postal_code": "46388"
+  }
+]

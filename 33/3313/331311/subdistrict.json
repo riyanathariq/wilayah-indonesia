@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3313112008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Brujul",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Dagen",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Jaten",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Jati",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Jetis",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Ngringo",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Sroyo",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313112001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331311,
+    "value": "Suruhkalang",
+    "postal_code": "57731"
+  }
+]

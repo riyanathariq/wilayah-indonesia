@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6206122003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Batu Badak",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Batu Tukan",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Nusa Kutau",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Tumbang Baraoi",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Tumbang Habangoi/Habangei",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Tumbang Jala",
+    "postal_code": "74455"
+  },
+  {
+    "id": 6206122005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620612,
+    "value": "Tumbang Tangoi (Tumbang Tanggoi)",
+    "postal_code": "74455"
+  }
+]

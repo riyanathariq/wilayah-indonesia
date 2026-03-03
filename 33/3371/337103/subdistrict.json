@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3371031002,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Cacaban",
+    "postal_code": "56121"
+  },
+  {
+    "id": 3371031006,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Gelangan",
+    "postal_code": "56112"
+  },
+  {
+    "id": 3371031001,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Kemirirejo",
+    "postal_code": "56122"
+  },
+  {
+    "id": 3371031004,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Magelang",
+    "postal_code": "56117"
+  },
+  {
+    "id": 3371031005,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Panjang",
+    "postal_code": "56111"
+  },
+  {
+    "id": 3371031003,
+    "province_id": 33,
+    "regency_id": 3371,
+    "district_id": 337103,
+    "value": "Rejowinangun Utara",
+    "postal_code": "56127"
+  }
+]

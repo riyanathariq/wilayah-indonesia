@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6407052011,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Anah",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052021,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Kelian Luar (Kalian Luar)",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052018,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Keliwai (Keliway)",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052008,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Linggang Muara Leban (Muara Leban)",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052015,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Long Daliq",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052017,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Long Iram Bayan",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052010,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Long Iram Ilir",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052016,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Long Iram Kota",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052009,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Long Iram Seberang (Longiram Seberang)",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052022,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Sukomulyo (Suko Mulyo)",
+    "postal_code": "75766"
+  },
+  {
+    "id": 6407052019,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640705,
+    "value": "Ujoh Halang",
+    "postal_code": "75766"
+  }
+]

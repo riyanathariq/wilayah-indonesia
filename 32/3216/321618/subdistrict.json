@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3216182003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Burangkeng",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Cibening",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Cijengkol",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Cikarageman",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Ciledug (Cileduk)",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182011,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Kertarahayu",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Lubangbuaya",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182010,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Muktijaya",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Ragamanunggal (Ragemanunggal)",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Taman Rahayu",
+    "postal_code": "17320"
+  },
+  {
+    "id": 3216182006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321618,
+    "value": "Taman Sari",
+    "postal_code": "17320"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1807212001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212010,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Delapan (VIII)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Empat (IV)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Enam (VI)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Lima (V)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212011,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Sembilan (IX)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Tiga (III)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212009,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Labuhan Ratu Tujuh (VII)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Rajabasa Lama (Raja Basa Lama)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Rajabasa Lama I (Raja Basa Lama Satu / I)",
+    "postal_code": "34375"
+  },
+  {
+    "id": 1807212008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180721,
+    "value": "Rajabasa Lama II (Raja Basa Lama Dua / II)",
+    "postal_code": "34375"
+  }
+]

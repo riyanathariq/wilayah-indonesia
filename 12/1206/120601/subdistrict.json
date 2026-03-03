@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1206011011,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Gung Leto",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206011012,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Gung Negeri",
+    "postal_code": "22112"
+  },
+  {
+    "id": 1206012002,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Kaban",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206012008,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Kacaribu",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206011013,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Kampung Dalam",
+    "postal_code": "22113"
+  },
+  {
+    "id": 1206012007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Kandibata",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206012003,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Ketaren",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206011010,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Lau Cimba",
+    "postal_code": "22114"
+  },
+  {
+    "id": 1206012005,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Lau Simomo (Lausimono)",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206011009,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Padang Mas",
+    "postal_code": "22115"
+  },
+  {
+    "id": 1206012001,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Rumah Kabanjahe",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206012004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Samura",
+    "postal_code": "22111"
+  },
+  {
+    "id": 1206012006,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120601,
+    "value": "Sumber Mufakat",
+    "postal_code": "22111"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3279022004,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Batulawang",
+    "postal_code": "46326"
+  },
+  {
+    "id": 3279022006,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Binangun",
+    "postal_code": "46316"
+  },
+  {
+    "id": 3279021001,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Hegarsari",
+    "postal_code": "46322"
+  },
+  {
+    "id": 3279022005,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Karyamukti",
+    "postal_code": "46327"
+  },
+  {
+    "id": 3279022003,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Mulyasari",
+    "postal_code": "46335"
+  },
+  {
+    "id": 3279021002,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Pataruman",
+    "postal_code": "46323"
+  },
+  {
+    "id": 3279022008,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Sinartanjung",
+    "postal_code": "46323"
+  },
+  {
+    "id": 3279022007,
+    "province_id": 32,
+    "regency_id": 3279,
+    "district_id": 327902,
+    "value": "Sukamukti",
+    "postal_code": "46323"
+  }
+]

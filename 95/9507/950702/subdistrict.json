@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507022038,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Amberingime",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022046,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Aniwo",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022047,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Bugumbak",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022013,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Ekanom",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Umbanume",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Wenam",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022012,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Yalipak",
+    "postal_code": "99581"
+  },
+  {
+    "id": 9507022029,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950702,
+    "value": "Yugumbinik",
+    "postal_code": "99581"
+  }
+]

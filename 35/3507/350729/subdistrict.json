@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3507292002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Gajahrejo",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Gedangan",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Girimulyo",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Segaran",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Sidodadi",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Sindurejo",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Sumberejo",
+    "postal_code": "65178"
+  },
+  {
+    "id": 3507292007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350729,
+    "value": "Tumpakrejo",
+    "postal_code": "65178"
+  }
+]

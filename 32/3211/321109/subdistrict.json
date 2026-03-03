@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3211092009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Nanjung Wangi (Nanjungwangi)",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Pamekarsari",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Ranggasari",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Suriamedal (Suriamendal)",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Suriamukti",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Surian",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Tanjung",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Wanajaya",
+    "postal_code": "45393"
+  },
+  {
+    "id": 3211092001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321109,
+    "value": "Wanasari",
+    "postal_code": "45393"
+  }
+]

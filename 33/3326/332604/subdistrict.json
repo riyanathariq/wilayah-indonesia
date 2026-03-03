@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3326042005,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Curugmuncar",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Gumelem",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Kasimpar",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Kayupuring",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Simego",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Songgodadi",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Tlogohendro",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Tlogopakis",
+    "postal_code": "51193"
+  },
+  {
+    "id": 3326042004,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332604,
+    "value": "Yosorejo",
+    "postal_code": "51193"
+  }
+]

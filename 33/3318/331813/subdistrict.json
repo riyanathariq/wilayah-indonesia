@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3318132007,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Bageng",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132001,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Bermi",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132005,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Gembong",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132002,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Kedungbulus",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132010,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Ketanggan",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132009,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Klakahkasihan (Klakah Kasian)",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132006,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Plukaran",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132008,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Pohgading",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132003,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Semirejo",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132011,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Sitiluhur",
+    "postal_code": "59162"
+  },
+  {
+    "id": 3318132004,
+    "province_id": 33,
+    "regency_id": 3318,
+    "district_id": 331813,
+    "value": "Wonosekar",
+    "postal_code": "59162"
+  }
+]

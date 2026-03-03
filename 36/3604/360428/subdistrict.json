@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3604282006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Kadubeureum",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Pabuaran",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Pancanegara",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282013,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Pasanggrahan",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282012,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Sindangheula",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Sindangsari",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282015,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Talaga Warna",
+    "postal_code": "42163"
+  },
+  {
+    "id": 3604282007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360428,
+    "value": "Tanjungsari",
+    "postal_code": "42163"
+  }
+]

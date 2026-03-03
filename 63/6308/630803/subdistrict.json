@@ -1,0 +1,266 @@
+[
+  {
+    "id": 6308032029,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Banyu Tajun Dalam",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032003,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Banyu Tajun Hilir",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032004,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Banyu Tajun Hulu",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032005,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Banyu Tajun Pangkalan",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032010,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Hambuku Hulu",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032044,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Hambuku Pasar",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032011,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Hambuku Tengah",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032032,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Hanbuku Raya (Hambuku Raya)",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032041,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Jalan Lurus",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032039,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Murung Asam",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032043,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Padang Bangkal",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032014,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Pandulangan",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032045,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Pangkalan Sari",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032021,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Pondok Babaris",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032026,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Putat Atas /Tatau",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032001,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Rantau Karau Hilir",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032002,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Rantau Karau Hulu",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032046,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Rantau Karau Raya",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032035,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Rantau Karau Tengah",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032033,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Kuini",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032007,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Pandan Hilir",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032015,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Pandan Hulu",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032031,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Pandan Tengah",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032024,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Pinang",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032006,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Sei/Sungai Sandung",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032009,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Tambalang",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032025,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Tambalang Kecil",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032037,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Tambalang Tengah",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032034,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Tapus Dalam",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032040,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Tatah Laban",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032008,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Teluk Betung",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032038,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Teluk Mesjid",
+    "postal_code": "71455"
+  },
+  {
+    "id": 6308032042,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630803,
+    "value": "Teluk Sinar",
+    "postal_code": "71455"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3201042012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cadasngampar (Cadas Ngampar)",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cibanon",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cijujung",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cikeas",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cilebut Barat",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cilebut Timur",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Cimandala",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Gununggeulis (Gunung Geulis)",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Nagrak",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Pasir Jambu",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Pasirlaja",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Sukaraja",
+    "postal_code": "16711"
+  },
+  {
+    "id": 3201042006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320104,
+    "value": "Sukatani",
+    "postal_code": "16711"
+  }
+]

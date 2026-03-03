@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3216082011,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Cikedokan",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Danau Indah",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Gandamekar",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Gandasari",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Jatiwangi",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Kalijaya (Kali Jaya)",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Mekarwangi (Mekar Wangi)",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Sukadanau",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216081008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Telaga Asih",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Telagamurni (Telaga Murni)",
+    "postal_code": "17530"
+  },
+  {
+    "id": 3216082010,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321608,
+    "value": "Telajung",
+    "postal_code": "17530"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7105012002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Kakenturan",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Kakenturan Barat",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Linelean",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Makaaruyen",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Mokobang",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Palelon",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Pinasungkulan",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Pinasungkulan Utara",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Sinisir",
+    "postal_code": "95958"
+  },
+  {
+    "id": 7105012005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710501,
+    "value": "Wulurmaatus",
+    "postal_code": "95958"
+  }
+]

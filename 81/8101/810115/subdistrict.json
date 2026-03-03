@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8101152006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Asilulu",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152011,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Hila",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152013,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Hitulama (Hitu Lama)",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152014,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Hitumessing (Hitu Mesing)",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Kaitetu",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152015,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Mamala",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152016,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Morella (Morela)",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Negeri Lima",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Seith",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Ureng",
+    "postal_code": "97580"
+  },
+  {
+    "id": 8101152012,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810115,
+    "value": "Wakal",
+    "postal_code": "97580"
+  }
+]

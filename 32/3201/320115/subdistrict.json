@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3201152012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Benteng",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Bojongjengkol (Bojong Jengkol)",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Bojongrangkas (Bojong Rangkas)",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Ciampea",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Ciampea Udik",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cibadak",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cibanteng",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cibuntu",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cicadas",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cihideunghilir (Cihideung Ilir)",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cihideungudik (Cihideung Udik)",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Cinangka",
+    "postal_code": "16620"
+  },
+  {
+    "id": 3201152005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320115,
+    "value": "Tegalwaru (Tegal Waru)",
+    "postal_code": "16620"
+  }
+]

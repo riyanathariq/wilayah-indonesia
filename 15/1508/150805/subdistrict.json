@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1508052009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Candi",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Empelu",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Pasar Lubuk Landai",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052017,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Pasar Rantau Embacang",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Sungai Gambir",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052012,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Tanah Bekali",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052010,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Tanjung",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052015,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Telentam",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Teluk Pandak",
+    "postal_code": "37263"
+  },
+  {
+    "id": 1508052019,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150805,
+    "value": "Tenam",
+    "postal_code": "37263"
+  }
+]

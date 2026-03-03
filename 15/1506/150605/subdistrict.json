@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506052014,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Adi Purwa",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052013,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Bukitharapan (Bukit Harapan)",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Lubuk Terap",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506051007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Merlung (Desa)",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052020,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Merlung (Kelurahan)",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Penyabungan",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052018,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Pinang Gading",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052012,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Tanjungbenanak (Tanjung Benanak)",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052021,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Tanjungmakmur (Tanjung Makmur)",
+    "postal_code": "36554"
+  },
+  {
+    "id": 1506052008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150605,
+    "value": "Tanjungpaku (Tanjung Paku)",
+    "postal_code": "36554"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3505162004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Binangun",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Birowo",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Kedungwungu",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Ngadri",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Ngembul",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Rejoso",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Salamrejo",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Sambigede",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162012,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Sukorame",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Sumberkembar (Sumber Kembar)",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Tawangrejo (Tawang Rejo)",
+    "postal_code": "66193"
+  },
+  {
+    "id": 3505162009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350516,
+    "value": "Umbuldamar (Umbul Damar)",
+    "postal_code": "66193"
+  }
+]

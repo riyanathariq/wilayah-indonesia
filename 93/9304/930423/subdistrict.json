@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9304232004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Amakot",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304232003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Ayak",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304232002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Banum",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304232007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Kapayap Tiga",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304232001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Mabul",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304232005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Nagatun",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304232008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Sipanap",
+    "postal_code": "99791"
+  },
+  {
+    "id": 9304232006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930423,
+    "value": "Ujung Batu",
+    "postal_code": "99792"
+  }
+]

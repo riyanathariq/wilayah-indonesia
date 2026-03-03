@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1607202006,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Jati Sari",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Karang Sari",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Maju Ria",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202007,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Mekar Sari",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Sri Agung",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Sumber Rejeki",
+    "postal_code": "30971"
+  },
+  {
+    "id": 1607202005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160720,
+    "value": "Tabala Jaya",
+    "postal_code": "30971"
+  }
+]

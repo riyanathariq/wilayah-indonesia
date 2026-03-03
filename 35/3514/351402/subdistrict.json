@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3514022004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Andono Sari",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Blarang",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Gendro",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022010,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Kalipucang (Kali Pucang)",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Kayu Kebek",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Ngadirejo",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022012,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Ngembal",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Pungging",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022011,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Sumber Pitu",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Tlogosari",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Tutur",
+    "postal_code": "67165"
+  },
+  {
+    "id": 3514022005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351402,
+    "value": "Wonosari",
+    "postal_code": "67165"
+  }
+]

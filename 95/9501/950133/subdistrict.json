@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501332008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Air Garam",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Bugi",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Dewene",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Kodlangga",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Manda",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Tagulik",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Totni",
+    "postal_code": "99543"
+  },
+  {
+    "id": 9501332006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950133,
+    "value": "Walak Selatan",
+    "postal_code": "99543"
+  }
+]

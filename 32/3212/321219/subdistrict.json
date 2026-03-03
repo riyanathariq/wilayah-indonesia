@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3212192001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Arahan Kidul",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Arahan Lor",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Cidempet",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Linggajati",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Pranggong",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Sukadadi",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Sukasari",
+    "postal_code": "45267"
+  },
+  {
+    "id": 3212192008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321219,
+    "value": "Tawangsari",
+    "postal_code": "45267"
+  }
+]

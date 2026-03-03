@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3512162005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Banyuglugur",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Kalianget",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Kalisari",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Lubawang",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Selabanteng (Selobanteng)",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Telempong",
+    "postal_code": "68359"
+  },
+  {
+    "id": 3512162003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351216,
+    "value": "Tepos",
+    "postal_code": "68359"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7210062002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Gimpu",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Lawua",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Lempelero",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062010,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Moa",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062008,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "O'o Parese (O'o)",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062012,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Palamaki",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062009,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Palimakijawa (Pilimakujawa/Makujawa)",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062007,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Salutome",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Tompi Bugis",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Tomua",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062011,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Wangka",
+    "postal_code": "94373"
+  },
+  {
+    "id": 7210062006,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721006,
+    "value": "Watukilo",
+    "postal_code": "94373"
+  }
+]

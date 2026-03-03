@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7107062022,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Lobu",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062021,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Lobu Atas",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Lobu Dua",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062020,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Lobu Kota",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Lobu Satu",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Ranoketang Atas",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062019,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Ranoketang Atas Satu",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Tondanauw (Toundanouw / Toundanou)",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062017,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Tondanouw Satu (Toundanouw Satu)",
+    "postal_code": "95981"
+  },
+  {
+    "id": 7107062018,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710706,
+    "value": "Toundanouw Atas",
+    "postal_code": "95981"
+  }
+]

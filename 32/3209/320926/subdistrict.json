@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3209262005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Babakan",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Bringin",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Budur",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Ciwaringin",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Galagamba",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Gintung Kidul",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Gintung Tengah",
+    "postal_code": "45167"
+  },
+  {
+    "id": 3209262007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320926,
+    "value": "Gintungranjeng",
+    "postal_code": "45167"
+  }
+]

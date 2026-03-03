@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1702172007,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Air Meles Bawah",
+    "postal_code": "39115"
+  },
+  {
+    "id": 1702172006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Duku Ilir",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702172005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Duku Ulu",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702172008,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Kampung Delima",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702171003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Karang Anyar",
+    "postal_code": "39116"
+  },
+  {
+    "id": 1702171002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Kesambe Baru",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702172009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Kesambe Lama",
+    "postal_code": "39125"
+  },
+  {
+    "id": 1702171001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Sukaraja",
+    "postal_code": "39121"
+  },
+  {
+    "id": 1702171004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170217,
+    "value": "Talang Ulu",
+    "postal_code": "39125"
+  }
+]

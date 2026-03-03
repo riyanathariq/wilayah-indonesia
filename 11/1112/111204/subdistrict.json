@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1112042010,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Baharu",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042003,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Barat",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042023,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Blang Dalam",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042028,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Cot Mancang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042006,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Durian Jangek",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042002,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Durian Rampak",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042021,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Gadang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042029,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Geulima Jaya",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042017,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Kedai Palak Kerambil",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042015,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Kedai Susoh",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042019,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Kepala Bandar",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042018,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Ladang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042025,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Lampoh Drien",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042024,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Meunasah",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042012,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Padang Baru",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042022,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Padang Hilir",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042026,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Padang Panjang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042005,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Palak Hilir",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042004,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Palak Hulu",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042016,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Panjang Baru",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042001,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Pantai Perak",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042011,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Pawoh",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042008,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Pinang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042013,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Pulau Kayu",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042027,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Rubek Meupayong",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042007,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Rumah Dua Lapis",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042009,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Rumah Panjang",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042020,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Tangah",
+    "postal_code": "23765"
+  },
+  {
+    "id": 1112042014,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111204,
+    "value": "Ujung Padang",
+    "postal_code": "23765"
+  }
+]

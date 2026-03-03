@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3305242002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Balingasal",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Kaligubug (Kaligubuk)",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Kalijering",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Merden",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Padureso",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Pejengkolan",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Rahayu",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Sendangdalem",
+    "postal_code": "54394"
+  },
+  {
+    "id": 3305242006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330524,
+    "value": "Sidototo",
+    "postal_code": "54394"
+  }
+]

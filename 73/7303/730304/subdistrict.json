@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7303042011,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Balumbung",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303041003,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Banyorang",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303042009,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Bonto Bontoa (Bonto-Bontoa)",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303042010,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Bonto Tappalang",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303041004,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Campaga",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303041005,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Ereng-Ereng",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303042006,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Labbo",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303041001,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Lembang Gantarang Keke (Lembang Gantarangkeke)",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303042008,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Pattalassang (Pattallassang)",
+    "postal_code": "92462"
+  },
+  {
+    "id": 7303042007,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730304,
+    "value": "Pattaneteang",
+    "postal_code": "92462"
+  }
+]

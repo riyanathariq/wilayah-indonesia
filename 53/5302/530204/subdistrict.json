@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5302042001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Billa",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Mauleum",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Mnelaanen",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Nifukiu",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Oe'Ekam (Oe Ekam)",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Oelet",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Pisan",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042016,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Sini",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Teluk (Telukh)",
+    "postal_code": "85572"
+  },
+  {
+    "id": 5302042017,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530204,
+    "value": "Tliu",
+    "postal_code": "85572"
+  }
+]

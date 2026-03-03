@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7104052004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Dampulis",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052009,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Dampulis Selatan",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Kakorotan",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Karatung",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Karatung Selatan",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Karatung Tengah",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Laluhe",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Marampit",
+    "postal_code": "95884"
+  },
+  {
+    "id": 7104052010,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710405,
+    "value": "Marampit Timur",
+    "postal_code": "95884"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9503392002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Alirji",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Bebekle",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Kap-Kap",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Kirabuk",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Langda",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Laryi",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Lukun",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Wasumurji",
+    "postal_code": "99738"
+  },
+  {
+    "id": 9503392007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950339,
+    "value": "Yalar (Yolar)",
+    "postal_code": "99738"
+  }
+]

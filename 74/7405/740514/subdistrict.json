@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7405141001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Amondo (Amonda)",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Koeono",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Lakara",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142009,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Lalowua",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142010,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Mondoe",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Parasi",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Ulu Lakara (Ululakara)",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Watu Mbohoti (Watumbohoti)",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Watu Rapa (Watarapa / Waturapa)",
+    "postal_code": "93884"
+  },
+  {
+    "id": 7405142006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740514,
+    "value": "Wawo Wonua",
+    "postal_code": "93884"
+  }
+]

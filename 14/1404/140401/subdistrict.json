@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1404011018,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Madani",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Mekar Sari",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404011017,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Metro",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Pulaukecil (Pulau Kecil)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404011001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Pulaukijang (Pulau Kijang)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012014,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Pulauruku (Pulau Ruku)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Sanglar",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Seberang Pulau Kijang",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Seberang Sanglar",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012013,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Sungaiasam (Sungai Asam)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012020,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Sungaimahang (Sungai Mahang)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Sungaiterap (Sungai Terab / Terap)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Sungaiundan (Sungai Undan)",
+    "postal_code": "29273"
+  },
+  {
+    "id": 1404012019,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140401,
+    "value": "Tanjunglabuh (Tanjung Labuh)",
+    "postal_code": "29273"
+  }
+]

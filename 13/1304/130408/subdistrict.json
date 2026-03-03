@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1304082003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Gurun",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082010,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Koto Baru",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082007,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Koto Tuo",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082009,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Kumango",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Padang Laweh",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082006,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Pasie/Pasir Laweh",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082008,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Rao-Rao",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Simpuruik",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Sungai Tarab",
+    "postal_code": "27261"
+  },
+  {
+    "id": 1304082004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130408,
+    "value": "Talang Tangah",
+    "postal_code": "27261"
+  }
+]

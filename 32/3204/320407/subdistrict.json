@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3204072002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Cilengkrang",
+    "postal_code": "40615"
+  },
+  {
+    "id": 3204072003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Cipanjalu",
+    "postal_code": "40618"
+  },
+  {
+    "id": 3204072005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Ciporeat",
+    "postal_code": "40617"
+  },
+  {
+    "id": 3204072006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Girimekar",
+    "postal_code": "40619"
+  },
+  {
+    "id": 3204072001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Jatiendah",
+    "postal_code": "40616"
+  },
+  {
+    "id": 3204072004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320407,
+    "value": "Melatiwangi",
+    "postal_code": "40618"
+  }
+]

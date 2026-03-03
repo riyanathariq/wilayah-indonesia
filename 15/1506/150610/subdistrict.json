@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1506102006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Harapan Jaya",
+    "postal_code": "36511"
+  },
+  {
+    "id": 1506102003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Kuala Baru",
+    "postal_code": "36514"
+  },
+  {
+    "id": 1506102007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Kuala Kahar",
+    "postal_code": "36511"
+  },
+  {
+    "id": 1506102005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Mekar Alam",
+    "postal_code": "36511"
+  },
+  {
+    "id": 1506102008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Muaraseberang (Muara Seberang)",
+    "postal_code": "36511"
+  },
+  {
+    "id": 1506102004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Telukpulai Raya (Teluk Pulai Raya)",
+    "postal_code": "36514"
+  },
+  {
+    "id": 1506102002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Tungkal Empat (IV) Desa",
+    "postal_code": "36514"
+  },
+  {
+    "id": 1506101001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150610,
+    "value": "Tungkal Lima (V)",
+    "postal_code": "36514"
+  }
+]

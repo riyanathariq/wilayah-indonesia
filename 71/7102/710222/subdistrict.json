@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102222004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kanonang Dua",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kanonang Empat",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kanonang Lima",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kanonang Satu",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kayuum (Kayuuwi)",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Kayuuwi Satu",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Ranolambot",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Tombasian Atas",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Tombasian Atas Satu",
+    "postal_code": "95692"
+  },
+  {
+    "id": 7102222009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710222,
+    "value": "Tombasian Bawah",
+    "postal_code": "95692"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3403172004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340317,
+    "value": "Banjarejo",
+    "postal_code": "55881"
+  },
+  {
+    "id": 3403172001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340317,
+    "value": "Hargosari",
+    "postal_code": "55881"
+  },
+  {
+    "id": 3403172003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340317,
+    "value": "Kemadang",
+    "postal_code": "55881"
+  },
+  {
+    "id": 3403172002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340317,
+    "value": "Kemiri",
+    "postal_code": "55881"
+  },
+  {
+    "id": 3403172005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340317,
+    "value": "Ngestirejo",
+    "postal_code": "55881"
+  }
+]

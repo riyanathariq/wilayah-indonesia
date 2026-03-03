@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6309092006,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Halangan",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092005,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Jirak",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092002,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Pampanan",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092001,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Pugaan",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092004,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Sei/Sungai Rukam I",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092003,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Sei/Sungai Rukam II",
+    "postal_code": "71554"
+  },
+  {
+    "id": 6309092007,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630909,
+    "value": "Tamunti",
+    "postal_code": "71554"
+  }
+]

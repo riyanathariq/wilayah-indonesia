@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9203101003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Dulanpokpok",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Kapaurtutin",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Sekban",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Sekru",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102009,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Sukuru Tuare",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Tanama",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203102007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Torea",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203101001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Wagom",
+    "postal_code": "98013"
+  },
+  {
+    "id": 9203101002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920310,
+    "value": "Wagom Utara",
+    "postal_code": "98013"
+  }
+]

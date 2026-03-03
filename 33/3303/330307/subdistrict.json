@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3303072013,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Candinata",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072011,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Candiwulan",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072010,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Cendana",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072008,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karangaren",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072012,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karangcegak",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072014,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karangjengkol",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karangklesem",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karanglewas",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Karangreja",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Kutasari",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072009,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Limbangan",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Meri",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Munjul",
+    "postal_code": "53361"
+  },
+  {
+    "id": 3303072003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330307,
+    "value": "Sumingkir",
+    "postal_code": "53361"
+  }
+]

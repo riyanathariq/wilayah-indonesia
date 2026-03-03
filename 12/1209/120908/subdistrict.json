@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1209082021,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Air Putih",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082019,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Gajah",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Meranti",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Perkebunan Sei Balai (Baleh)",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Sei Beluru",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Serdang",
+    "postal_code": "21264"
+  },
+  {
+    "id": 1209082022,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120908,
+    "value": "Sukajadi",
+    "postal_code": "21264"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7271011004,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727101,
+    "value": "Besusu Barat",
+    "postal_code": "94111"
+  },
+  {
+    "id": 7271011006,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727101,
+    "value": "Besusu Tengah",
+    "postal_code": "94111"
+  },
+  {
+    "id": 7271011007,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727101,
+    "value": "Besusu Timur",
+    "postal_code": "94111"
+  },
+  {
+    "id": 7271011009,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727101,
+    "value": "Lolu Selatan",
+    "postal_code": "94235"
+  },
+  {
+    "id": 7271011010,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727101,
+    "value": "Lolu Utara",
+    "postal_code": "94235"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6111012005,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Benawai Agung",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012009,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Gunungsembilan (Gunung Sembilan)",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012006,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Harapan Mulia",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012007,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Pampang Harapan",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012002,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Pangkalan Buton",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012010,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Riam Berasap Jaya",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012008,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Sedahan Jaya",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012003,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Sejahtera",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012004,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Simpang Tiga",
+    "postal_code": "78852"
+  },
+  {
+    "id": 6111012001,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611101,
+    "value": "Sutera (Sutra)",
+    "postal_code": "78852"
+  }
+]

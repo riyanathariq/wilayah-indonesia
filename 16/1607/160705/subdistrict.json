@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1607051017,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Betung",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607051022,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Betung Selatan",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052003,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Bukit",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Lubuk Karet",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Pulau Rajak",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607051021,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Rimba Asam",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Sri Kembang",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052020,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Suka Mulya",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052016,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Taja Indah (Talang Jaya Indah)",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052014,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Taja Mulya (Talang Jaya Mulya)",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052015,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Taja Raya I (Talang Jaya Raya 1)",
+    "postal_code": "30958"
+  },
+  {
+    "id": 1607052018,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160705,
+    "value": "Taja Raya II (Talang Jaya Raya II)",
+    "postal_code": "30958"
+  }
+]

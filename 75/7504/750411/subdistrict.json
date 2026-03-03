@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7504112003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Bohusami",
+    "postal_code": "96465"
+  },
+  {
+    "id": 7504112002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Bukit Harapan",
+    "postal_code": "96465"
+  },
+  {
+    "id": 7504112004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Lembah Permai (Lembah Malango II)",
+    "postal_code": "96465"
+  },
+  {
+    "id": 7504112005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Limbula",
+    "postal_code": "96469"
+  },
+  {
+    "id": 7504112007,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Tuweya",
+    "postal_code": "96469"
+  },
+  {
+    "id": 7504112001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Wanggarasi (Wonggarasi Timur)",
+    "postal_code": "96465"
+  },
+  {
+    "id": 7504112006,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750411,
+    "value": "Yipilo",
+    "postal_code": "96469"
+  }
+]

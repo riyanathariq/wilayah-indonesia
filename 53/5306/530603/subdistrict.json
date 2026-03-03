@@ -1,0 +1,162 @@
+[
+  {
+    "id": 5306031010,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Amagarapati",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031005,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Balela",
+    "postal_code": "86214"
+  },
+  {
+    "id": 5306031011,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Ekasapta",
+    "postal_code": "86217"
+  },
+  {
+    "id": 5306032020,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Lamawalang",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031004,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Larantuka",
+    "postal_code": "86213"
+  },
+  {
+    "id": 5306031002,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Lewolere",
+    "postal_code": "86212"
+  },
+  {
+    "id": 5306031007,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Lohayong",
+    "postal_code": "86215"
+  },
+  {
+    "id": 5306031008,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Lokea",
+    "postal_code": "86215"
+  },
+  {
+    "id": 5306032019,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Mokantarak",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031003,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Pantai Besar",
+    "postal_code": "86213"
+  },
+  {
+    "id": 5306031022,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Pohon Bao",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031006,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Pohon Sirih",
+    "postal_code": "86214"
+  },
+  {
+    "id": 5306031009,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Postoh",
+    "postal_code": "86216"
+  },
+  {
+    "id": 5306031014,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Pukentobi Wangin Bao (Puken Tobi Wangi Bao)",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031012,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Sarotari",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031023,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Sarotari Tengah",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031024,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Sarotari Timur",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031001,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Waibalun",
+    "postal_code": "86212"
+  },
+  {
+    "id": 5306031021,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Waihali",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306031013,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530603,
+    "value": "Weri",
+    "postal_code": "86219"
+  }
+]

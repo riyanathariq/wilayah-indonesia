@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7207112009,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Bobu",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112008,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Gansal",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112006,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Kampung Baru",
+    "postal_code": "94714"
+  },
+  {
+    "id": 7207112004,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Mansamat A",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112005,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Mansamat B",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112002,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Paisumusoni (Paisumosoni)",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112007,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Tinangkung",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112001,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Tobing",
+    "postal_code": "94885"
+  },
+  {
+    "id": 7207112003,
+    "province_id": 72,
+    "regency_id": 7207,
+    "district_id": 720711,
+    "value": "Tobungin",
+    "postal_code": "94885"
+  }
+]

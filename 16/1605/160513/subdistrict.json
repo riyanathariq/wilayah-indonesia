@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1605132001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Bangun Sari",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132006,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Karya Dadi (Karyadadi)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Kerto Sari (Kertosari)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605131007,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Mangun Harjo",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132004,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Mardi Harjo (Mardiharjo)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Pagar Sari (Pagarsari)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132010,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Purwakarya (Purwa Karya)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605131005,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Purwodadi",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132008,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Rejo Sari (Rejosari)",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132009,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Sadar Karya",
+    "postal_code": "31668"
+  },
+  {
+    "id": 1605132011,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160513,
+    "value": "Tri Karya (Trikarya)",
+    "postal_code": "31668"
+  }
+]

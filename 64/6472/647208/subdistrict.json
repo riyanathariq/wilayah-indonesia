@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472081005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647208,
+    "value": "Bandara",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472081003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647208,
+    "value": "Gunung Lingai",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472081004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647208,
+    "value": "Mugirejo",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472081002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647208,
+    "value": "Sei/Sungai Pinang Dalam",
+    "postal_code": "75117"
+  },
+  {
+    "id": 6472081001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647208,
+    "value": "Temindung Permai",
+    "postal_code": "75119"
+  }
+]

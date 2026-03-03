@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3212132004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Bulak",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Bulak Lor",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Jatibarang",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Jatibarang Baru",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Jatisawit",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Jatisawit Lor",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Kalimati",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Kebulen",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Krasak",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132014,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Lohbener (Lobener)",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132015,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Lohbener Lor (Lobener Lor)",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Malang Semirang (Malangsemirang)",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Pawidean",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Pilangsari",
+    "postal_code": "45273"
+  },
+  {
+    "id": 3212132001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321213,
+    "value": "Sukalila",
+    "postal_code": "45273"
+  }
+]

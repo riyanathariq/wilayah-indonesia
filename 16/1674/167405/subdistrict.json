@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1674051005,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Anak Petai",
+    "postal_code": "31121"
+  },
+  {
+    "id": 1674051004,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Mangga Besar",
+    "postal_code": "31125"
+  },
+  {
+    "id": 1674051001,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Pasar Prabumulih I (Pasar Prabumulih)",
+    "postal_code": "31121"
+  },
+  {
+    "id": 1674051002,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Pasar Prabumulih II",
+    "postal_code": "31121"
+  },
+  {
+    "id": 1674051007,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Sidogede",
+    "postal_code": "31125"
+  },
+  {
+    "id": 1674051006,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Sidomulyo",
+    "postal_code": "31126"
+  },
+  {
+    "id": 1674051003,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167405,
+    "value": "Wonosari",
+    "postal_code": "31126"
+  }
+]

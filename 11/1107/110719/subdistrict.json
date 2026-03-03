@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1107192025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Alue Calong",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Beungga",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Bungong",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Dalam",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Dhot",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Jeurat",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Malo",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Blang Pandak",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Keubon Nilam",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Keudee Tangse",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Krueng Meuriam",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Krueng Seukeuek",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Layan",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Lhok Keutapang",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Nubok Badeuk",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Paya Guci",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Peunalon I",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Peunalon II",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Baro",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Ie",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Kawa",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Mesjid I",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Mesjid II",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Sejahtera",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Pulo Seunong",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Rantau Panyang",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Tuha Blang Beungoh",
+    "postal_code": "24166"
+  },
+  {
+    "id": 1107192018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110719,
+    "value": "Ulee Gunong",
+    "postal_code": "24166"
+  }
+]

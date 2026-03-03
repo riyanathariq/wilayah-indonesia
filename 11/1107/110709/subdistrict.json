@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1107092002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Benteng",
+    "postal_code": "24112"
+  },
+  {
+    "id": 1107092009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Blang Asan",
+    "postal_code": "24111"
+  },
+  {
+    "id": 1107092001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Blang Paseh",
+    "postal_code": "24119"
+  },
+  {
+    "id": 1107092003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Blok Bengkel",
+    "postal_code": "24118"
+  },
+  {
+    "id": 1107092008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Blok Sawah",
+    "postal_code": "24114"
+  },
+  {
+    "id": 1107092011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Kampong Asan",
+    "postal_code": "24115"
+  },
+  {
+    "id": 1107092007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Keramat Dalam",
+    "postal_code": "24115"
+  },
+  {
+    "id": 1107092006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Keramat Luar",
+    "postal_code": "24111"
+  },
+  {
+    "id": 1107092005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Kuala Pidie",
+    "postal_code": "24112"
+  },
+  {
+    "id": 1107092010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Lampoh Krueng",
+    "postal_code": "24119"
+  },
+  {
+    "id": 1107092012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Meunasah Peukan",
+    "postal_code": "24111"
+  },
+  {
+    "id": 1107092004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Pante Teungoh",
+    "postal_code": "24114"
+  },
+  {
+    "id": 1107092014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Pasi Peukan Baro",
+    "postal_code": "24113"
+  },
+  {
+    "id": 1107092013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Pasi Rawa",
+    "postal_code": "24116"
+  },
+  {
+    "id": 1107092015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110709,
+    "value": "Tanjong Krueng",
+    "postal_code": "24116"
+  }
+]

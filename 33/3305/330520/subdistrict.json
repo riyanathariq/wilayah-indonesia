@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3305202005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Candi",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Giripurno",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202010,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Grenggeng",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305201004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Jatiluhur",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305201003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Karanganyar",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Karangkemiri",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305201002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Panjatan",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305201007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Plarangan",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202011,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Pohkumbang",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Sidomulyo",
+    "postal_code": "54364"
+  },
+  {
+    "id": 3305202009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330520,
+    "value": "Wonorejo",
+    "postal_code": "54364"
+  }
+]

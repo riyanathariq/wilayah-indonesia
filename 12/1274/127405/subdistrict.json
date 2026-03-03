@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1274051003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127405,
+    "value": "Gading",
+    "postal_code": "21362"
+  },
+  {
+    "id": 1274051006,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127405,
+    "value": "Pahang",
+    "postal_code": "21369"
+  },
+  {
+    "id": 1274051010,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127405,
+    "value": "Pantai Johor",
+    "postal_code": "21368"
+  },
+  {
+    "id": 1274051005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127405,
+    "value": "Sijambi",
+    "postal_code": "21361"
+  },
+  {
+    "id": 1274051004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127405,
+    "value": "Sirantau",
+    "postal_code": "21368"
+  }
+]

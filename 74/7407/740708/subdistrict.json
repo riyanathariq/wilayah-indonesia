@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7407082005,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740708,
+    "value": "Haka",
+    "postal_code": "93796"
+  },
+  {
+    "id": 7407082002,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740708,
+    "value": "Oihu",
+    "postal_code": "93796"
+  },
+  {
+    "id": 7407081004,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740708,
+    "value": "Popalia",
+    "postal_code": "93796"
+  },
+  {
+    "id": 7407081003,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740708,
+    "value": "Sowa",
+    "postal_code": "93796"
+  },
+  {
+    "id": 7407082001,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740708,
+    "value": "Waloindi",
+    "postal_code": "93796"
+  }
+]

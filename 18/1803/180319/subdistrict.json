@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1803192003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Campang Gijul",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Nyapah Banyu",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Ogan Campang",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Ogan Jaya",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Pekurun",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Pekurun Tengah",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Pekurun Udik",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Sinar Gunung",
+    "postal_code": "34582"
+  },
+  {
+    "id": 1803192004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180319,
+    "value": "Sumber Tani",
+    "postal_code": "34582"
+  }
+]

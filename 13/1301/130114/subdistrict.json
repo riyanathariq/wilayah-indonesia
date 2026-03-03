@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1301142005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Binjai Tapan",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142008,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Kampung Tengah Tapan",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Kubu Tapan (Kobu Tapan)",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Limau Purut Tapan",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142010,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Simpang Gunung Tapan (Simpanggunung Tapan)",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Sungai Gambir Sako Tapan (Sungaigambir)",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Sungai Pinang Tapan (Sungaipinang Tapan)",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Talang Balarik Tapan",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142007,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Talang Koto Pulai Tapan",
+    "postal_code": "25670"
+  },
+  {
+    "id": 1301142004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130114,
+    "value": "Tebing Tinggi Tapan",
+    "postal_code": "25670"
+  }
+]

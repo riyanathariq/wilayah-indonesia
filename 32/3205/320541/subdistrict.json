@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3205412003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Babakan Loa (Babakanloa)",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Cihuni",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Cimarabas (Cimaragas)",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Citangtu",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Karangsari",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Sukahurip",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Sukamulya",
+    "postal_code": "44183"
+  },
+  {
+    "id": 3205412007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320541,
+    "value": "Sukarasa",
+    "postal_code": "44183"
+  }
+]

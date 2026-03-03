@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3603132003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Babakan Asem",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Bojong Renged",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132013,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Kampung Besar",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Kampung Melayu Barat",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Kampung Melayu Timur",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Keboncau (Kebon Cau)",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Lemo",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Muara",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Pangkalan",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132012,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Tanjung Burung",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Tanjung Pasir",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Tegal Angus",
+    "postal_code": "15510"
+  },
+  {
+    "id": 3603132001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360313,
+    "value": "Teluknaga (Teluk Naga)",
+    "postal_code": "15510"
+  }
+]

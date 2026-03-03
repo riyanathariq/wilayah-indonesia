@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503062004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Bolda",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Cenderawasih",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Emm",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Hein",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Imsekla",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Luwemna",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Manggona",
+    "postal_code": "99757"
+  },
+  {
+    "id": 9503062001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950306,
+    "value": "Nalca",
+    "postal_code": "99757"
+  }
+]

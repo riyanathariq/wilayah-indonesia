@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1703072010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Datar Ruyung",
+    "postal_code": "38617"
+  },
+  {
+    "id": 1703072012,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Gunung Agung",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703071027,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Gunung Alam",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Gunung Selam / Selan",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Karang Anyar I (Karang Anyar)",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072022,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Karang Anyar II (Karang Anyar Ilir)",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Karang Suci",
+    "postal_code": "38619"
+  },
+  {
+    "id": 1703072003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Kuro Tidur",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Lubuk Saung/Sahung",
+    "postal_code": "38618"
+  },
+  {
+    "id": 1703071026,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Purwodadi",
+    "postal_code": "38612"
+  },
+  {
+    "id": 1703072005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Rama Agung",
+    "postal_code": "38614"
+  },
+  {
+    "id": 1703072011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Senali",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Sido Urip",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072016,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Taba Tembilang",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Talang Denau",
+    "postal_code": "38611"
+  },
+  {
+    "id": 1703072001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170307,
+    "value": "Tanjung Raman",
+    "postal_code": "38617"
+  }
+]

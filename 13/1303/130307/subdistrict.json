@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1303072003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Buluah Kasok",
+    "postal_code": "27553"
+  },
+  {
+    "id": 1303072004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Kampung Dalam",
+    "postal_code": "27553"
+  },
+  {
+    "id": 1303072002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Lalan",
+    "postal_code": "27553"
+  },
+  {
+    "id": 1303072006,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Latang",
+    "postal_code": "27553"
+  },
+  {
+    "id": 1303072001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Lubuak Tarok",
+    "postal_code": "27553"
+  },
+  {
+    "id": 1303072005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130307,
+    "value": "Silongo",
+    "postal_code": "27553"
+  }
+]

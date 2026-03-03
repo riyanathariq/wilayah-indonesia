@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6101132005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610113,
+    "value": "Seburing",
+    "postal_code": "79457"
+  },
+  {
+    "id": 6101132002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610113,
+    "value": "Semparuk",
+    "postal_code": "79457"
+  },
+  {
+    "id": 6101132004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610113,
+    "value": "Sepadu",
+    "postal_code": "79457"
+  },
+  {
+    "id": 6101132003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610113,
+    "value": "Sepinggan",
+    "postal_code": "79457"
+  },
+  {
+    "id": 6101132001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610113,
+    "value": "Singa Raya (Singaraya)",
+    "postal_code": "79457"
+  }
+]

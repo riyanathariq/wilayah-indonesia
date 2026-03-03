@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8205182002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Bajo",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182007,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Fokalik",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Fukweu",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182006,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Malbufa",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Man-Gega",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Pohea",
+    "postal_code": "97796"
+  },
+  {
+    "id": 8205182005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820518,
+    "value": "Wainin",
+    "postal_code": "97796"
+  }
+]

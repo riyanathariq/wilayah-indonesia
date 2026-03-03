@@ -1,0 +1,80 @@
+[
+  {
+    "id": 6311,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Balangan"
+  },
+  {
+    "id": 6303,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Banjar"
+  },
+  {
+    "id": 6372,
+    "province_id": 63,
+    "type": "Kota",
+    "value": "Kota Banjarbaru"
+  },
+  {
+    "id": 6371,
+    "province_id": 63,
+    "type": "Kota",
+    "value": "Kota Banjarmasin"
+  },
+  {
+    "id": 6304,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Barito Kuala"
+  },
+  {
+    "id": 6306,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Hulu Sungai Selatan"
+  },
+  {
+    "id": 6307,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Hulu Sungai Tengah"
+  },
+  {
+    "id": 6308,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Hulu Sungai Utara"
+  },
+  {
+    "id": 6302,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Kotabaru"
+  },
+  {
+    "id": 6309,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Tabalong"
+  },
+  {
+    "id": 6310,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Tanah Bumbu"
+  },
+  {
+    "id": 6301,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Tanah Laut"
+  },
+  {
+    "id": 6305,
+    "province_id": 63,
+    "type": "Kabupaten",
+    "value": "Tapin"
+  }
+]

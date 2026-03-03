@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3208032006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Bangunjaya",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Gunungaci",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Jatisari",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Pamulihan",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Situgede",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Subang",
+    "postal_code": "45586"
+  },
+  {
+    "id": 3208032001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320803,
+    "value": "Tangkolo",
+    "postal_code": "45586"
+  }
+]

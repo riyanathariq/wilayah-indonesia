@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1673011001,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Air Kuti",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011007,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Batu Urip Taba",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011002,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Majapahit",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011004,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Nikan Jaya",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011003,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Taba Jemekeh",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011015,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Taba Koji",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011005,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Taba Lestari",
+    "postal_code": "31628"
+  },
+  {
+    "id": 1673011016,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167301,
+    "value": "Watervang",
+    "postal_code": "31628"
+  }
+]

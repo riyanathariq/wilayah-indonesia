@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9103142005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Besum",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142009,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Hanggaiy Hamong",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Imestum (Imustum)",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142008,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Karya Bumi",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Sanggai",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Sarmai Atas",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Sarmai Bawah",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142010,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Sumbe",
+    "postal_code": "99360"
+  },
+  {
+    "id": 9103142004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910314,
+    "value": "Yakasib (Yakasip/Yokasib)",
+    "postal_code": "99360"
+  }
+]

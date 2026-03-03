@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7326011007,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Karassik",
+    "postal_code": "91835"
+  },
+  {
+    "id": 7326011001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Laang Tanduk",
+    "postal_code": "91834"
+  },
+  {
+    "id": 7326012010,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Limbong",
+    "postal_code": "91835"
+  },
+  {
+    "id": 7326011004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Manggalo (Malango)",
+    "postal_code": "91831"
+  },
+  {
+    "id": 7326011003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Mentirotiku (Mentiro Tiku)",
+    "postal_code": "91834"
+  },
+  {
+    "id": 7326011005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Pasale (Pasele)",
+    "postal_code": "91831"
+  },
+  {
+    "id": 7326011008,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Penanian",
+    "postal_code": "91835"
+  },
+  {
+    "id": 7326011009,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Rante Pasele",
+    "postal_code": "91835"
+  },
+  {
+    "id": 7326011002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Rantepao",
+    "postal_code": "91831"
+  },
+  {
+    "id": 7326012011,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Saloso",
+    "postal_code": "91835"
+  },
+  {
+    "id": 7326011006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732601,
+    "value": "Singki' (Singki)",
+    "postal_code": "91835"
+  }
+]

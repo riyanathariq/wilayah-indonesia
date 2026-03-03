@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1802051003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Adi Puro (Adipuro)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Depok Rejo",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Leman/Liman Benawi",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Noto Harjo (Notoharjo)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052013,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Pujo Asri (Pujoasri)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052014,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Pujo Basuki",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Pujo Dadi (Pujodadi)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052011,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Pujo Kerto (Pujokerto)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Purwo Adi (Purwoadi)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Purwo Dadi (Purwodadi)",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802051007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Simbar Waringin",
+    "postal_code": "34171"
+  },
+  {
+    "id": 1802052008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Tempuran",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802051004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Trimurjo",
+    "postal_code": "34172"
+  },
+  {
+    "id": 1802052012,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180205,
+    "value": "Untoro",
+    "postal_code": "34172"
+  }
+]

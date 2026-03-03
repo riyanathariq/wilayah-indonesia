@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1410042001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Alai",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042013,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Alai Selatan",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042008,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Batang Malas",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042010,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Gogok Darussalam",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Insit",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042006,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Kundur",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042011,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Maini Darul Aman",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Mantiasa",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Mekong",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042012,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Mengkikip",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Tanjung",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042014,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Tanjung Darul Takzim",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042005,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Tanjung Peranap",
+    "postal_code": "28758"
+  },
+  {
+    "id": 1410042002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141004,
+    "value": "Tenan",
+    "postal_code": "28758"
+  }
+]

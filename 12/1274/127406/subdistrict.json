@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1274061004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127406,
+    "value": "Bunga Tanjung",
+    "postal_code": "21367"
+  },
+  {
+    "id": 1274061001,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127406,
+    "value": "Pulau Simardan",
+    "postal_code": "21366"
+  },
+  {
+    "id": 1274061003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127406,
+    "value": "Selat Lancang",
+    "postal_code": "21364"
+  },
+  {
+    "id": 1274061005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127406,
+    "value": "Selat Tanjung Medan",
+    "postal_code": "21364"
+  },
+  {
+    "id": 1274061002,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127406,
+    "value": "Semula Jadi",
+    "postal_code": "21365"
+  }
+]

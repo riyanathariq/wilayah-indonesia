@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3507262001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Bendosari",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Madiredo",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Ngabab",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Ngroto",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Pandesari",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Pujon Kidul",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Pujon Lor",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Sukomulyo",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Tawangsari",
+    "postal_code": "65391"
+  },
+  {
+    "id": 3507262010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350726,
+    "value": "Wiyurejo",
+    "postal_code": "65391"
+  }
+]

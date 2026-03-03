@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3404092006,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Bokoharjo (Boko Harjo)",
+    "postal_code": "55572"
+  },
+  {
+    "id": 3404092003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Gayamharjo (Gayam Harjo)",
+    "postal_code": "55572"
+  },
+  {
+    "id": 3404092005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Madurejo (Madu Rejo)",
+    "postal_code": "55572"
+  },
+  {
+    "id": 3404092004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Sambirejo (Sambi Rejo)",
+    "postal_code": "55572"
+  },
+  {
+    "id": 3404092001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Sumberharjo (Sumber Harjo)",
+    "postal_code": "55572"
+  },
+  {
+    "id": 3404092002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340409,
+    "value": "Wukirharjo (Wukir Harjo)",
+    "postal_code": "55572"
+  }
+]

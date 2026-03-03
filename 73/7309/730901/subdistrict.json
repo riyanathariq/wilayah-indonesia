@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7309012006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Baji Mangngai",
+    "postal_code": "90552"
+  },
+  {
+    "id": 7309012005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Bonto Mate'ne",
+    "postal_code": "90552"
+  },
+  {
+    "id": 7309011002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Bontoa",
+    "postal_code": "90552"
+  },
+  {
+    "id": 7309011001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Hasanuddin",
+    "postal_code": "90552"
+  },
+  {
+    "id": 7309012004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Pattontongang (Pattontongan)",
+    "postal_code": "90552"
+  },
+  {
+    "id": 7309012003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730901,
+    "value": "Tenrigangkae",
+    "postal_code": "90552"
+  }
+]

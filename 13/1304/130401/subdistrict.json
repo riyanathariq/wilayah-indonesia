@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1304012007,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Aie Angek (Aia/Air Angek)",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Jaho",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012009,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Koto Baru",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012006,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Koto Laweh",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012008,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Pandai Sikek",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Paninjauan",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Panyalaian",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Singgalang",
+    "postal_code": "27151"
+  },
+  {
+    "id": 1304012001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130401,
+    "value": "Tambangan",
+    "postal_code": "27151"
+  }
+]

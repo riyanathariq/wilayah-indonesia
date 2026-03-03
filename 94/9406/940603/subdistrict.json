@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9406032001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Apogomakida (Aporomakida)",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Deniyode (Deneiode)",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Egipa",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Ideduwa",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Kegata",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032008,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Tipaugi",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Ukagu",
+    "postal_code": "98874"
+  },
+  {
+    "id": 9406032003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940603,
+    "value": "Yegiyepa (Yegeiyepa)",
+    "postal_code": "98874"
+  }
+]

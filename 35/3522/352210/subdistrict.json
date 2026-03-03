@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3522102020,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Banjaran",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Banjaranyar",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Baureno",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Blongsong",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102016,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Bumiayu",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Drajat",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102012,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Gajah",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102015,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Gunungsari",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102013,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Kalisari",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102018,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Karangdayu",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102017,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Kauman",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102024,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Kedungrejo (Kadungrejo)",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102025,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Lebaksari",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Ngemplak",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102019,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Pasinan",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102022,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Pomahan",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102023,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Pucungarum (Pucangarum)",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102009,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Selorejo",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102021,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Sembunglor",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Sraturejo",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102011,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Sumuragung",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102014,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Tanggungan",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102010,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Tlogoagung",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102007,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Trojalu",
+    "postal_code": "62192"
+  },
+  {
+    "id": 3522102008,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352210,
+    "value": "Tulungagung",
+    "postal_code": "62192"
+  }
+]

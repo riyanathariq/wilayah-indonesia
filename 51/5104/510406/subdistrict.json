@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5104062004,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Kedisan",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062001,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Keliki",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062003,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Kenderan",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062005,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Pupuan",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062006,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Sebatu",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062007,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Taro",
+    "postal_code": "80561"
+  },
+  {
+    "id": 5104062002,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510406,
+    "value": "Tegallalang",
+    "postal_code": "80561"
+  }
+]

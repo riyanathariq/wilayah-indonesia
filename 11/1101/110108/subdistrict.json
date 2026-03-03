@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1101082011,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Air Berundang (Air Berudang)",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082015,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Air Pinang",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082012,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Batu Itam",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Gunung Kerambil",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Hilir",
+    "postal_code": "23717"
+  },
+  {
+    "id": 1101082004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Hulu",
+    "postal_code": "23714"
+  },
+  {
+    "id": 1101082005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Jambo Apha",
+    "postal_code": "23716"
+  },
+  {
+    "id": 1101082008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Lhok Bengkuang",
+    "postal_code": "23715"
+  },
+  {
+    "id": 1101082016,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Lhok Bengkuang Timur",
+    "postal_code": "23712"
+  },
+  {
+    "id": 1101082001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Lhok Keutapang (Ketapang)",
+    "postal_code": "23718"
+  },
+  {
+    "id": 1101082014,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Lhok Rukam",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Padang",
+    "postal_code": "23713"
+  },
+  {
+    "id": 1101082013,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Panjupian",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Panton Luas",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Pasar",
+    "postal_code": "23711"
+  },
+  {
+    "id": 1101082006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110108,
+    "value": "Tepi Air",
+    "postal_code": "23712"
+  }
+]

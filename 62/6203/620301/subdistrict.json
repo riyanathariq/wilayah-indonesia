@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6203011006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Murung Keramat",
+    "postal_code": "73512"
+  },
+  {
+    "id": 6203011023,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Panamas",
+    "postal_code": "73514"
+  },
+  {
+    "id": 6203012011,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Pulau Telo",
+    "postal_code": "73516"
+  },
+  {
+    "id": 6203012020,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Pulau Telo Baru",
+    "postal_code": "73516"
+  },
+  {
+    "id": 6203011022,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Barat",
+    "postal_code": "73514"
+  },
+  {
+    "id": 6203011010,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Dalam",
+    "postal_code": "73516"
+  },
+  {
+    "id": 6203011007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Hilir",
+    "postal_code": "73513"
+  },
+  {
+    "id": 6203011009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Hulu",
+    "postal_code": "73515"
+  },
+  {
+    "id": 6203011008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Tengah",
+    "postal_code": "73514"
+  },
+  {
+    "id": 6203011021,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620301,
+    "value": "Selat Utara",
+    "postal_code": "73516"
+  }
+]

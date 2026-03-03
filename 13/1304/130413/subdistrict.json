@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1304132002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130413,
+    "value": "Balai Tangah",
+    "postal_code": "27293"
+  },
+  {
+    "id": 1304132001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130413,
+    "value": "Batu Bulek",
+    "postal_code": "27293"
+  },
+  {
+    "id": 1304132004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130413,
+    "value": "Lubuk/Lubuak Jantan",
+    "postal_code": "27293"
+  },
+  {
+    "id": 1304132003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130413,
+    "value": "Tanjung/Tanjuang Bonai",
+    "postal_code": "27293"
+  },
+  {
+    "id": 1304132005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130413,
+    "value": "Tapi/Tepi Selo",
+    "postal_code": "27293"
+  }
+]

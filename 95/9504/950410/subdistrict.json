@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504102020,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Bugum",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Lugwi",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102017,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Mome",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102027,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Pagona",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Teropme",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102030,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Wilileme",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102029,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Wunabu",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Yaliwak",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102031,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Yangguni",
+    "postal_code": "99048"
+  },
+  {
+    "id": 9504102013,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950410,
+    "value": "Yigonime",
+    "postal_code": "99048"
+  }
+]

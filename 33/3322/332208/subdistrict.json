@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3322082002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Bedono",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Brongkol",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Gemawang",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Genting",
+    "postal_code": "50271"
+  },
+  {
+    "id": 3322081006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Gondoriyo",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Jambu",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Kebondalem",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Kelurahan",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Kuwarasan",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322082009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332208,
+    "value": "Rejosari",
+    "postal_code": "50663"
+  }
+]

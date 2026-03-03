@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1509082010,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Giri Mulyo",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Giri Purno",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Giriwinangun",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Karang Dadi",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Pulung Rejo",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082009,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Rantau Kembang",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Sarimulya (Sari Mulyo / Mulya)",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Sepakat Bersatu",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Sidorejo (Sido Rejo)",
+    "postal_code": "37552"
+  },
+  {
+    "id": 1509082006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150908,
+    "value": "Sumber Agung",
+    "postal_code": "37552"
+  }
+]

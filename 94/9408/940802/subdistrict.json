@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9408022006,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Bagou",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022013,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Bagou II",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022011,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Bagumoma",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022007,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Dagokebo",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022005,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Dakebo",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022001,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Damabagata",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022004,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Edagotadi",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022014,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Idayodagi",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022008,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Ipoke",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022002,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Kokobaya",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022010,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Pekepa",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022012,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Udaugida",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022009,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Waitakotu",
+    "postal_code": "98771"
+  },
+  {
+    "id": 9408022003,
+    "province_id": 94,
+    "regency_id": 9408,
+    "district_id": 940802,
+    "value": "Watiyai",
+    "postal_code": "98771"
+  }
+]

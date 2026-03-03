@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1218112004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Batu Masagi",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112013,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Demak/Damak Gelugur",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112016,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Kulasar",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112021,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Pagar Manik",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112022,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Pamah",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112026,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Silinda",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112028,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Sungai Buaya",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112031,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Tapak Meriah",
+    "postal_code": "20983"
+  },
+  {
+    "id": 1218112029,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121811,
+    "value": "Tarean",
+    "postal_code": "20983"
+  }
+]

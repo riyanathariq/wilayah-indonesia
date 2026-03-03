@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3510192002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Balak",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Bangunsari",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Bayu",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Bedewang",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Parangharjo",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Songgon",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Sragi",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Sumberarum (Sumber Arum)",
+    "postal_code": "68463"
+  },
+  {
+    "id": 3510192008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351019,
+    "value": "Sumberbulu (Sumber Bulu)",
+    "postal_code": "68463"
+  }
+]

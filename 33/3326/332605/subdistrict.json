@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3326052006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Banjarsari",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Batursari",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052004,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Donowangun",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Jolotigo",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Kalirejo",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Karangasem",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052010,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Krompeng",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Mesoyi",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Sengare",
+    "postal_code": "51192"
+  },
+  {
+    "id": 3326052005,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332605,
+    "value": "Talun",
+    "postal_code": "51192"
+  }
+]

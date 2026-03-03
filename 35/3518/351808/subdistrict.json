@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3518081011,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Banaran",
+    "postal_code": "64311"
+  },
+  {
+    "id": 3518082003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Bangsri",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Drenges",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Kalianyar",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Kepuh",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082014,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Kudu",
+    "postal_code": "64312"
+  },
+  {
+    "id": 3518082010,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Kutorejo",
+    "postal_code": "64313"
+  },
+  {
+    "id": 3518082012,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Lambangkuning (Lambang Kuning)",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Nglawak",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082013,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Pandantoyo (Pandan Toyo)",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Pelem",
+    "postal_code": "64314"
+  },
+  {
+    "id": 3518082005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Tanjung",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Tembarak",
+    "postal_code": "64315"
+  },
+  {
+    "id": 3518082002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351808,
+    "value": "Yuwono (Juwono)",
+    "postal_code": "64315"
+  }
+]

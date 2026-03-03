@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7110012005,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Dodap",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012006,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Dodap Pantai",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012010,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Dodop Mikasa",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012001,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Kayumoyondi",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012004,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Togid",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012002,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Tombolikat",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012009,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Tombolikat Selatan",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012003,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Tutuyan",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012007,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Tutuyan II",
+    "postal_code": "95783"
+  },
+  {
+    "id": 7110012008,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711001,
+    "value": "Tutuyan III",
+    "postal_code": "95783"
+  }
+]

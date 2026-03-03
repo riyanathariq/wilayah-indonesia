@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3214052007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cianting",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cianting Utara",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cibodas",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052011,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cijantung",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cilalawi",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Cipicung",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Malangnengah",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052013,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Panyindangan",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Pasirmunjul",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052014,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Sindanglaya",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052012,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Sukajaya",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Sukamaju",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Sukatani",
+    "postal_code": "41167"
+  },
+  {
+    "id": 3214052009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321405,
+    "value": "Tajursindang",
+    "postal_code": "41167"
+  }
+]

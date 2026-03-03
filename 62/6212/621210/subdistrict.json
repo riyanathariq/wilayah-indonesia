@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6212102003,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621210,
+    "value": "Kalasin",
+    "postal_code": "73983"
+  },
+  {
+    "id": 6212102002,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621210,
+    "value": "Tumbang Olong I (Tumbang Olong)",
+    "postal_code": "73983"
+  },
+  {
+    "id": 6212102005,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621210,
+    "value": "Tumbang Olong II",
+    "postal_code": "73983"
+  },
+  {
+    "id": 6212102001,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621210,
+    "value": "Tumbang Tujang",
+    "postal_code": "73983"
+  },
+  {
+    "id": 6212102004,
+    "province_id": 62,
+    "regency_id": 6212,
+    "district_id": 621210,
+    "value": "Tumbang Tupus/Topus",
+    "postal_code": "73983"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6104181009,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Banjar",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Baru",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104181001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Kauman",
+    "postal_code": "78821"
+  },
+  {
+    "id": 6104182011,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Kinjil Pesisir",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182010,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Mekar Sari",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104181002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Mulia Kerta",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Negeri Baru",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Padang",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Sei/Sungai Kinjil",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104182006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Suka Baru",
+    "postal_code": "78822"
+  },
+  {
+    "id": 6104181004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610418,
+    "value": "Tuan Tuan",
+    "postal_code": "78822"
+  }
+]

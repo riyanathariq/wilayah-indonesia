@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7405242007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Asaria",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Karoonua",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Sabulakoa",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Talumbinga",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Tetenggabo",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Ulu Sabulakoa",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Watu-Watu",
+    "postal_code": "93872"
+  },
+  {
+    "id": 7405242008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740524,
+    "value": "Wawobende",
+    "postal_code": "93872"
+  }
+]

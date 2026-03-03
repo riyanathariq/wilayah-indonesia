@@ -1,0 +1,122 @@
+[
+  {
+    "id": 8101012005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Amahai",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012011,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Banda Baru",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Haruru",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012022,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Hatuhenu",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101011009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Hollo",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Makariki",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012021,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Nua Nea",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012023,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Nuweletetu",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Rutah",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Sehati",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Sepa",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Soahuku",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Tamilouw",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Yafila",
+    "postal_code": "97516"
+  },
+  {
+    "id": 8101012020,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810101,
+    "value": "Yainuelo",
+    "postal_code": "97516"
+  }
+]

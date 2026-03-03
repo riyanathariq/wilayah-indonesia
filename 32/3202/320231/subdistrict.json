@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3202312003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Caringin Kulon",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Caringin Wetan",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Cijengkol",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Cikembang",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Mekarjaya",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Pasir Datar Indah",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Seuseupan",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Sukamulya",
+    "postal_code": "43154"
+  },
+  {
+    "id": 3202312007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320231,
+    "value": "Talaga",
+    "postal_code": "43154"
+  }
+]

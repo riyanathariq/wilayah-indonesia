@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304222004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Sagare",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304222003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Sohomane",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304222002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Suagai",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304222006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Wagi",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304222005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Yefuwagi",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304222001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930422,
+    "value": "Yerfum",
+    "postal_code": "99771"
+  }
+]

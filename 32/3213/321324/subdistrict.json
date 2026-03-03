@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3213242001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Anggasari",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Batangsari",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Curugreja",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Mandalawangi",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Sukamaju",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Sukareja",
+    "postal_code": "41250"
+  },
+  {
+    "id": 3213242007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321324,
+    "value": "Sukasari",
+    "postal_code": "41250"
+  }
+]

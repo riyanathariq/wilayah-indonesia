@@ -1,0 +1,32 @@
+[
+  {
+    "id": 637103,
+    "province_id": 63,
+    "regency_id": 6371,
+    "value": "Banjarmasin Barat"
+  },
+  {
+    "id": 637101,
+    "province_id": 63,
+    "regency_id": 6371,
+    "value": "Banjarmasin Selatan"
+  },
+  {
+    "id": 637105,
+    "province_id": 63,
+    "regency_id": 6371,
+    "value": "Banjarmasin Tengah"
+  },
+  {
+    "id": 637102,
+    "province_id": 63,
+    "regency_id": 6371,
+    "value": "Banjarmasin Timur"
+  },
+  {
+    "id": 637104,
+    "province_id": 63,
+    "regency_id": 6371,
+    "value": "Banjarmasin Utara"
+  }
+]

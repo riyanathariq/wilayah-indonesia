@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6207012010,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Baung",
+    "postal_code": "74214"
+  },
+  {
+    "id": 6207012009,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Jahitan",
+    "postal_code": "74214"
+  },
+  {
+    "id": 6207011002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Kuala Pembuang Dua (II)",
+    "postal_code": "74215"
+  },
+  {
+    "id": 6207011001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Kuala Pembuang Satu (I)",
+    "postal_code": "74215"
+  },
+  {
+    "id": 6207012008,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Muara Dua",
+    "postal_code": "74214"
+  },
+  {
+    "id": 6207012005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Pematang Limau",
+    "postal_code": "74213"
+  },
+  {
+    "id": 6207012015,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Persil Raya (Persit Raya)",
+    "postal_code": "74215"
+  },
+  {
+    "id": 6207012006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Sei/Sungai Perlu",
+    "postal_code": "74215"
+  },
+  {
+    "id": 6207012016,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Sei/Sungai Urdang",
+    "postal_code": "74215"
+  },
+  {
+    "id": 6207012007,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620701,
+    "value": "Tanjung Rangas",
+    "postal_code": "74214"
+  }
+]

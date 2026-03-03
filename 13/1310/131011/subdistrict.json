@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1310112005,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Abai Siat",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112004,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Bonjol",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112001,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Koto Besar",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112003,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Koto Gadang",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112006,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Koto Laweh",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112007,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Koto Ranah",
+    "postal_code": "27685"
+  },
+  {
+    "id": 1310112002,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131011,
+    "value": "Koto Tinggi",
+    "postal_code": "27685"
+  }
+]

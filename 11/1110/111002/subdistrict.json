@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1110022019,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Cibubukan",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022017,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Guha",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Kain Golong",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022012,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Kuta Batu",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022003,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Kuta Kerangan (Kuta Karangan)",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Kuta Tinggi",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022018,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lae Gambir",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022016,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lae Gecih",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022013,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lae Nipe",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022010,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lae Riman",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lipat Kajang",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022023,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Lipat Kajang Atas",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022011,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Pakiraman",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022025,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Pandan Sari",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022005,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Pangi",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022009,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Pertabas",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022020,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Serasah",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Siatas",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022024,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Sidodadi (Sododadi)",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022008,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Silatong",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022006,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Sukarejo",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022022,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Tanjung Mas",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022021,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Tugan",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022015,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Tuhtuhan (Tuh Tuhan)",
+    "postal_code": "24794"
+  },
+  {
+    "id": 1110022007,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111002,
+    "value": "Ujung Limus",
+    "postal_code": "24794"
+  }
+]

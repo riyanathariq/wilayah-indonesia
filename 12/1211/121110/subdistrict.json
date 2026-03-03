@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1211102001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Bangun",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102011,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Bangun I",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Lae Hole",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102009,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Lae Hole I",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102010,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Lae Hole II",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan I",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan II",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan III",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan IV",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan V",
+    "postal_code": "22282"
+  },
+  {
+    "id": 1211102008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121110,
+    "value": "Parbuluan VI",
+    "postal_code": "22282"
+  }
+]

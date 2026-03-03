@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2171011003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Kasu",
+    "postal_code": "29413"
+  },
+  {
+    "id": 2171011005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Pecong",
+    "postal_code": "29414"
+  },
+  {
+    "id": 2171011002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Pemping",
+    "postal_code": "29412"
+  },
+  {
+    "id": 2171011004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Pulau Terung (Pulau Terong)",
+    "postal_code": "29416"
+  },
+  {
+    "id": 2171011007,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Sekanak Raya",
+    "postal_code": "29416"
+  },
+  {
+    "id": 2171011006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217101,
+    "value": "Tanjung Sari",
+    "postal_code": "29416"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1501202012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Bintang Marak",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Karang Pandan",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Lolo Gedang",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Lolo Hilir",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Lolo Kecil",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Muak",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202015,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Muaro Lulo",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pasar Kerman",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pengasi Baru",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pengasi Lama",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pondok",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pulaupandan",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Pulausangkar",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Talang Kemuning",
+    "postal_code": "37176"
+  },
+  {
+    "id": 1501202005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150120,
+    "value": "Tanjung Syam",
+    "postal_code": "37176"
+  }
+]

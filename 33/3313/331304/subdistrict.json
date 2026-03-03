@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3313042010,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Blorong",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Gemantar",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Genengan",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Kebak",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Ngunut",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Sambirejo",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Sedayu",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042011,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Sringin",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Sukosari",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Tugu",
+    "postal_code": "57782"
+  },
+  {
+    "id": 3313042004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331304,
+    "value": "Tunggulrejo",
+    "postal_code": "57782"
+  }
+]

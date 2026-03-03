@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6102162002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610216,
+    "value": "Anjungan Dalam",
+    "postal_code": "78353"
+  },
+  {
+    "id": 6102161001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610216,
+    "value": "Anjungan Melancar",
+    "postal_code": "78353"
+  },
+  {
+    "id": 6102162005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610216,
+    "value": "Dema",
+    "postal_code": "78353"
+  },
+  {
+    "id": 6102162003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610216,
+    "value": "Kepayang",
+    "postal_code": "78353"
+  },
+  {
+    "id": 6102162004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610216,
+    "value": "Pak Bulu",
+    "postal_code": "78353"
+  }
+]

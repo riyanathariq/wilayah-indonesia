@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9504282011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Kubur",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282019,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Lenggup",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282013,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Liwese",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Onggokme",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282018,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Tabo Wanimbo",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282020,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Tinger",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Wenduri",
+    "postal_code": "99021"
+  },
+  {
+    "id": 9504282012,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950428,
+    "value": "Weu",
+    "postal_code": "99021"
+  }
+]

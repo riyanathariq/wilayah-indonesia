@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3671081003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367108,
+    "value": "Gebang Raya",
+    "postal_code": "15132"
+  },
+  {
+    "id": 3671081002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367108,
+    "value": "Gembor",
+    "postal_code": "15133"
+  },
+  {
+    "id": 3671081001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367108,
+    "value": "Periuk",
+    "postal_code": "15131"
+  },
+  {
+    "id": 3671081005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367108,
+    "value": "Periuk Jaya",
+    "postal_code": "15131"
+  },
+  {
+    "id": 3671081004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367108,
+    "value": "Sangiang Jaya",
+    "postal_code": "15132"
+  }
+]

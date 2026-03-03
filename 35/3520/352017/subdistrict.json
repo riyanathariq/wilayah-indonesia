@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3520172009,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Driyorejo",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172003,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Goranggareng (Gorang Gareng)",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172008,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Kenongomulyo",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172005,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Nguntoronadi",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172004,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Petungrejo",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172007,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Purworejo",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172002,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Semen",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172006,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Simbatan",
+    "postal_code": "63383"
+  },
+  {
+    "id": 3520172001,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352017,
+    "value": "Sukowidi",
+    "postal_code": "63383"
+  }
+]

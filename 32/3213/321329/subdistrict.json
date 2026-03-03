@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3213292002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Ciater",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Cibeusi",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Cibitung",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Cisaat",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Nagrak",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Palasari",
+    "postal_code": "41280"
+  },
+  {
+    "id": 3213292007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321329,
+    "value": "Sanca",
+    "postal_code": "41280"
+  }
+]

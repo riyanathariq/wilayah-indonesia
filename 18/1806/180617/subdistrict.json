@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1806172012,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Kiluan Negeri (Kilauan Negeri)",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Napal",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Negeri Kelumbayan",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Paku",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Pekon Susuk",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Pekon Unggak",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Penyandingan",
+    "postal_code": "35388"
+  },
+  {
+    "id": 1806172010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180617,
+    "value": "Umbar",
+    "postal_code": "35388"
+  }
+]

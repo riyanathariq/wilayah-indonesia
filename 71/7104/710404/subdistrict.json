@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7104042008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Bulude",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042019,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Bulude Selatan",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Essang",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042018,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Essang Selatan",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Lalue",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042020,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Lalue Tengah",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042021,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Lalue Utara",
+    "postal_code": "95883"
+  },
+  {
+    "id": 7104042016,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710404,
+    "value": "Maririk",
+    "postal_code": "95883"
+  }
+]

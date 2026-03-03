@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1304112001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130411,
+    "value": "Atar",
+    "postal_code": "27282"
+  },
+  {
+    "id": 1304112002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130411,
+    "value": "Padang Ganting",
+    "postal_code": "27282"
+  }
+]

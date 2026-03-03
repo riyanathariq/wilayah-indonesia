@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3601062011,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Citeureup",
+    "postal_code": "42281"
+  },
+  {
+    "id": 3601062004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Gombong",
+    "postal_code": "42281"
+  },
+  {
+    "id": 3601062009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Mekar Jaya (Mekarsari)",
+    "postal_code": "42281"
+  },
+  {
+    "id": 3601062002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Mekarjaya",
+    "postal_code": "42281"
+  },
+  {
+    "id": 3601062001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Panimbangjaya",
+    "postal_code": "42281"
+  },
+  {
+    "id": 3601062012,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360106,
+    "value": "Tanjungjaya",
+    "postal_code": "42281"
+  }
+]

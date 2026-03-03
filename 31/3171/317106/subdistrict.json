@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3171061003,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317106,
+    "value": "Cikini",
+    "postal_code": "10330"
+  },
+  {
+    "id": 3171061004,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317106,
+    "value": "Gondangdia",
+    "postal_code": "10350"
+  },
+  {
+    "id": 3171061005,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317106,
+    "value": "Kebon Sirih",
+    "postal_code": "10340"
+  },
+  {
+    "id": 3171061001,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317106,
+    "value": "Menteng",
+    "postal_code": "10310"
+  },
+  {
+    "id": 3171061002,
+    "province_id": 31,
+    "regency_id": 3171,
+    "district_id": 317106,
+    "value": "Pegangsaan",
+    "postal_code": "10320"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472091004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647209,
+    "value": "Bugis",
+    "postal_code": "75121"
+  },
+  {
+    "id": 6472091001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647209,
+    "value": "Karang Mumus",
+    "postal_code": "75113"
+  },
+  {
+    "id": 6472091003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647209,
+    "value": "Pasar Pagi",
+    "postal_code": "75111"
+  },
+  {
+    "id": 6472091002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647209,
+    "value": "Pelabuhan",
+    "postal_code": "75112"
+  },
+  {
+    "id": 6472091005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647209,
+    "value": "Sungai Pinang Luar",
+    "postal_code": "75117"
+  }
+]

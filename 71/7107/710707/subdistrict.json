@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7107072007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Banga",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Bunag",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Kalait",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Kalait Dua",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Kalait Satu",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Kalait Tiga",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Lowatag (Lowatak / Lowantag)",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Ranoako",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Suhuyon",
+    "postal_code": "95982"
+  },
+  {
+    "id": 7107072008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710707,
+    "value": "Tambelang",
+    "postal_code": "95982"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3513022008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Cepoko",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Gemito",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Ledokombo",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Pandansari",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Remba'an (Rambaan)",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Sumber",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Sumberanom",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Tukul",
+    "postal_code": "67263"
+  },
+  {
+    "id": 3513022004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351302,
+    "value": "Wonokerso",
+    "postal_code": "67263"
+  }
+]

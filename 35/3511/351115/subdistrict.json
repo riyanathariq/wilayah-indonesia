@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3511152010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Bajuran",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152014,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Batu Ampar",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152012,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Batu Salang",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Bercak",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152015,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Bercak Asri",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Cermee",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Grujugan",
+    "postal_code": "68261"
+  },
+  {
+    "id": 3511152011,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Jirek Mas",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Kladi",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152013,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Palalangan (Pelalangan)",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Ramban Kulon",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Ramban Wetan",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Solor",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Suling Kulon",
+    "postal_code": "68286"
+  },
+  {
+    "id": 3511152004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351115,
+    "value": "Suling Wetan",
+    "postal_code": "68286"
+  }
+]

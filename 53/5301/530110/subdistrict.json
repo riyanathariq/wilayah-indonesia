@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5301101001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Camplong I",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Camplong II",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102011,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Ekateta",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102015,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Kiuoni",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102012,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Kuimasi",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Naunnu (Naunu)",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102009,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Oebola",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102014,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Oebola Dalam",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102010,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Sillu",
+    "postal_code": "85371"
+  },
+  {
+    "id": 5301102013,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530110,
+    "value": "Tolnaku (Tulnaku)",
+    "postal_code": "85371"
+  }
+]

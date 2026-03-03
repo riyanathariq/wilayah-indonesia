@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8203162005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Bale",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Igobula",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162007,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Ori",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Seki",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Soakonora",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Togawa",
+    "postal_code": "97769"
+  },
+  {
+    "id": 8203162006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820316,
+    "value": "Togawabesi",
+    "postal_code": "97769"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9502032004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Abmisibil (Apmisibil)",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032016,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Atoldol (Atolbol)",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Iriding",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Manunggal (Okipur)",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032019,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Okaplo",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Okbifisil (Okbifisis)",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032018,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Oksemar",
+    "postal_code": "99404"
+  },
+  {
+    "id": 9502032017,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950203,
+    "value": "Oktanglap",
+    "postal_code": "99404"
+  }
+]

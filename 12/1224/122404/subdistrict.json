@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1224042006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Botombawo (Batom Bawo)",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224042005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Fulolo Salo'o (Fulolo Saloo)",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224042003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Hilimbosi",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224042004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Hilisalo'o (Hilisaloo)",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224042001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Tetehosi Maziaya",
+    "postal_code": "22852"
+  },
+  {
+    "id": 1224042002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122404,
+    "value": "Umbubalodano",
+    "postal_code": "22852"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3504011006,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Bago",
+    "postal_code": "66218"
+  },
+  {
+    "id": 3504011014,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Botoran",
+    "postal_code": "66213"
+  },
+  {
+    "id": 3504011005,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Jepun",
+    "postal_code": "66218"
+  },
+  {
+    "id": 3504011009,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kampungdalem",
+    "postal_code": "66212"
+  },
+  {
+    "id": 3504011003,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Karangwaru",
+    "postal_code": "66217"
+  },
+  {
+    "id": 3504011010,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kauman",
+    "postal_code": "66219"
+  },
+  {
+    "id": 3504011001,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kedungsoko",
+    "postal_code": "66215"
+  },
+  {
+    "id": 3504011008,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kenayan",
+    "postal_code": "66212"
+  },
+  {
+    "id": 3504011007,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kepatihan",
+    "postal_code": "66219"
+  },
+  {
+    "id": 3504011011,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Kutoanyar",
+    "postal_code": "66215"
+  },
+  {
+    "id": 3504011013,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Panggungrejo",
+    "postal_code": "66214"
+  },
+  {
+    "id": 3504011012,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Sembung",
+    "postal_code": "66219"
+  },
+  {
+    "id": 3504011004,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Tamanan",
+    "postal_code": "66217"
+  },
+  {
+    "id": 3504011002,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350401,
+    "value": "Tertek",
+    "postal_code": "66216"
+  }
+]

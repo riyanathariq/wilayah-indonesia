@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1803132005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Gunung Keramat (Gunung Kramat)",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Gunung Sari",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Papan Asri",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Semuli Jaya",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Semuli Raya",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Sido Rahayu",
+    "postal_code": "34580"
+  },
+  {
+    "id": 1803132001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180313,
+    "value": "Suka Maju (Sukamaju)",
+    "postal_code": "34580"
+  }
+]

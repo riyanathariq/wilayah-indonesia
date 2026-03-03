@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3309062011,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Brajan",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062008,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Butuh",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062013,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Dlingo",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Jurug",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Karangnongko",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309061007,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Kemiri",
+    "postal_code": "57321"
+  },
+  {
+    "id": 3309062010,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Kragilan",
+    "postal_code": "57323"
+  },
+  {
+    "id": 3309062001,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Madu",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Manggis",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062012,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Metuk",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309061009,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Mojosongo",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Singosari",
+    "postal_code": "57322"
+  },
+  {
+    "id": 3309062003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330906,
+    "value": "Tambak",
+    "postal_code": "57322"
+  }
+]

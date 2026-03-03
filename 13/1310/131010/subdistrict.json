@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1310102002,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131010,
+    "value": "Alahan Nan Tigo",
+    "postal_code": "27684"
+  },
+  {
+    "id": 1310102003,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131010,
+    "value": "Lubuk Besar",
+    "postal_code": "27684"
+  },
+  {
+    "id": 1310102001,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131010,
+    "value": "Sei/Sungai Limau",
+    "postal_code": "27684"
+  },
+  {
+    "id": 1310102005,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131010,
+    "value": "Sinamar",
+    "postal_code": "27684"
+  },
+  {
+    "id": 1310102004,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131010,
+    "value": "Tanjung Alam",
+    "postal_code": "27684"
+  }
+]

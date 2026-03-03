@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202382007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Cicukang",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Cimerang",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Citamiang",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Margaluyu",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Neglasari",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Pagelaran",
+    "postal_code": "43187"
+  },
+  {
+    "id": 3202382001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320238,
+    "value": "Purabaya",
+    "postal_code": "43187"
+  }
+]

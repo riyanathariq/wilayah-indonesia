@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7402241004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Andabia",
+    "postal_code": "93419"
+  },
+  {
+    "id": 7402241002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Anggaberi",
+    "postal_code": "93418"
+  },
+  {
+    "id": 7402241003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Lawulo",
+    "postal_code": "93419"
+  },
+  {
+    "id": 7402242007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Lerehoma",
+    "postal_code": "93418"
+  },
+  {
+    "id": 7402241001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Parauna",
+    "postal_code": "93417"
+  },
+  {
+    "id": 7402241006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Toriki",
+    "postal_code": "93417"
+  },
+  {
+    "id": 7402241005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Unaasi",
+    "postal_code": "93417"
+  },
+  {
+    "id": 7402242008,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740224,
+    "value": "Wunduongohi",
+    "postal_code": "93419"
+  }
+]

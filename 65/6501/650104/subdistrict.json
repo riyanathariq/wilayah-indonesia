@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6501042006,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Binai",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042002,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Mangkupadi",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042008,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Pura Sajau",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042003,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Sajau",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042007,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Sajau Hilir (Sajau Timur)",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042001,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Tanah Kuning",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042005,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Tanjung Agung",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501042004,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650104,
+    "value": "Wonomulyo (Wono Mulyo)",
+    "postal_code": "77215"
+  }
+]

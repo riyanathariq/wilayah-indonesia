@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1208222002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Bah Gunung",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Bandar Betsy I",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Bandar Betsy II",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Bandar Tonga (Bandar Tongah)",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Dolok Parmonangan",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Laras",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Naga Jaya I",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Naga Jaya II",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Naga Soppa",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208222007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120822,
+    "value": "Tanjung Hataran",
+    "postal_code": "21184"
+  }
+]

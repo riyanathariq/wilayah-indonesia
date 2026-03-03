@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7109082005,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Batubulan",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Hiung",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Kawahang",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Kiawang",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Kinali",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082007,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Mini",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082006,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Nameng",
+    "postal_code": "95869"
+  },
+  {
+    "id": 7109082008,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710908,
+    "value": "Winangun",
+    "postal_code": "95869"
+  }
+]

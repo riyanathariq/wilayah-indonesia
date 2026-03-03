@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5206172005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Ka'owa",
+    "postal_code": "84181"
+  },
+  {
+    "id": 5206172001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Kabaro",
+    "postal_code": "84181"
+  },
+  {
+    "id": 5206172002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Kuta",
+    "postal_code": "84181"
+  },
+  {
+    "id": 5206172006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Londu",
+    "postal_code": "84181"
+  },
+  {
+    "id": 5206172003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Sambori",
+    "postal_code": "84181"
+  },
+  {
+    "id": 5206172004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520617,
+    "value": "Teta",
+    "postal_code": "84181"
+  }
+]

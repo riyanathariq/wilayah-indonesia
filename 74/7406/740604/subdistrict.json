@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406041004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740604,
+    "value": "Doule",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406041005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740604,
+    "value": "Kasipute",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406041002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740604,
+    "value": "Lameroro",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406041003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740604,
+    "value": "Lampopala",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406042001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740604,
+    "value": "Lanto Wonua (Lantawonua)",
+    "postal_code": "93771"
+  }
+]

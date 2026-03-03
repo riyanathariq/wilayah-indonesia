@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7603102007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Bakadisura",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603102006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Kalama",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603102005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Masupu",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603102008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Salukona",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603101001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Tabang",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603102004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Tabang Barat",
+    "postal_code": "91364"
+  },
+  {
+    "id": 7603102003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760310,
+    "value": "Tadokalua",
+    "postal_code": "91364"
+  }
+]

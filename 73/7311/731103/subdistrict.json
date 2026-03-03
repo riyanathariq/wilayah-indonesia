@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7311032008,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Anabanua",
+    "postal_code": "90712"
+  },
+  {
+    "id": 7311031001,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Coppo",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311032009,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Galung",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311031002,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Mangempang",
+    "postal_code": "90712"
+  },
+  {
+    "id": 7311032006,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Palakka",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311031004,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Sepee",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311032010,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Siawung",
+    "postal_code": "90712"
+  },
+  {
+    "id": 7311031003,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Sumpang Binangae",
+    "postal_code": "90712"
+  },
+  {
+    "id": 7311032007,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Tompo",
+    "postal_code": "90711"
+  },
+  {
+    "id": 7311031005,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731103,
+    "value": "Tuwung",
+    "postal_code": "90711"
+  }
+]

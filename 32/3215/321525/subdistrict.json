@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3215252009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Cilkampek Utara (Cikampek Utara)",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Jomin Barat",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Jomin Timur",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Pangulah Baru",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Pangulah Selatan",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Pangulah Utara",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Pucung",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Sarimulya",
+    "postal_code": "41376"
+  },
+  {
+    "id": 3215252001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321525,
+    "value": "Wancimekar",
+    "postal_code": "41376"
+  }
+]

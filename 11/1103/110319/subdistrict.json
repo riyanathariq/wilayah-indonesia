@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1103192006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Alue Itam",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Alue Rangan",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Buket Drien (Bukit Drien)",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Buket Seulamat (Bukit Selamat)",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Gajah Mentah",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Geulumpang Payong",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Krueng Lingka",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Kuala Parek",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Labuhan Keudee (Labuhan Keude)",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Paya Keutapang",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Seuneubok Aceh",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Seuneubok Pase",
+    "postal_code": "24466"
+  },
+  {
+    "id": 1103192012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110319,
+    "value": "Sungai Simpang",
+    "postal_code": "24466"
+  }
+]

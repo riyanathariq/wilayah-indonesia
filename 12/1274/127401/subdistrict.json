@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1274011006,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Indra Sakti",
+    "postal_code": "21315"
+  },
+  {
+    "id": 1274011004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Karya",
+    "postal_code": "21314"
+  },
+  {
+    "id": 1274011005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Pantai Burung",
+    "postal_code": "21316"
+  },
+  {
+    "id": 1274011003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Perwira",
+    "postal_code": "21313"
+  },
+  {
+    "id": 1274011001,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Tanjung Balai Kota I (Tanjungbalai Kota I)",
+    "postal_code": "21311"
+  },
+  {
+    "id": 1274011002,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127401,
+    "value": "Tanjung Balai Kota II (Tanjungbalai Kota II)",
+    "postal_code": "21312"
+  }
+]

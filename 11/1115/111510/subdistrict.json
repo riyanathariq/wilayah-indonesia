@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1115102002,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111510,
+    "value": "Babah Suak",
+    "postal_code": "23673"
+  },
+  {
+    "id": 1115102004,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111510,
+    "value": "Blang Meurandeh",
+    "postal_code": "23673"
+  },
+  {
+    "id": 1115102001,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111510,
+    "value": "Blang Puuk",
+    "postal_code": "23673"
+  },
+  {
+    "id": 1115102003,
+    "province_id": 11,
+    "regency_id": 1115,
+    "district_id": 111510,
+    "value": "Kuta Teungoh",
+    "postal_code": "23673"
+  }
+]

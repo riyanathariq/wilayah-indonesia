@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9303092004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Ati / Atti",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Kabe",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Kaumi",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Kayagae (Kayagai)",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092009,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Kofar",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092012,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Kogir",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092008,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Komru",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092011,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Pano",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092007,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Sene",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092010,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Sumuraman (Sumur Aman)",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Taragai / Taragae",
+    "postal_code": "99872"
+  },
+  {
+    "id": 9303092005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930309,
+    "value": "Upin",
+    "postal_code": "99872"
+  }
+]

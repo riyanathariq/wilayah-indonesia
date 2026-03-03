@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7105082006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Aergale",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Blongko",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Boyongpante (Boyong Pante)",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082012,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Boyongpante Dua",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Durian",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Ongkaw I (Ongkaw Satu)",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Ongkaw II (Ongkaw Dua)",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082011,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Ongkaw Tiga",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Poigar I (Poigar Satu)",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Poigar II (Poigar Dua)",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Tanamon",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082013,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Tanamon Utara",
+    "postal_code": "95959"
+  },
+  {
+    "id": 7105082003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710508,
+    "value": "Tiniwangko (Tiniawangko)",
+    "postal_code": "95959"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1373042004,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Batu Tanjung (Batu Tanjuang)",
+    "postal_code": "27443"
+  },
+  {
+    "id": 1373042003,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Bukit Gadang (Bukik Gadang)",
+    "postal_code": "27444"
+  },
+  {
+    "id": 1373042007,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Data Mansiang (Datar Mansiang)",
+    "postal_code": "27441"
+  },
+  {
+    "id": 1373042005,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Kumbayau",
+    "postal_code": "27443"
+  },
+  {
+    "id": 1373042011,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Rantih",
+    "postal_code": "27449"
+  },
+  {
+    "id": 1373042009,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Salak",
+    "postal_code": "27447"
+  },
+  {
+    "id": 1373042008,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Sijantang Koto",
+    "postal_code": "27446"
+  },
+  {
+    "id": 1373042010,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Sikalang",
+    "postal_code": "27448"
+  },
+  {
+    "id": 1373042001,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Talawi Hilie (Talawi Hilir / Hilia)",
+    "postal_code": "27445"
+  },
+  {
+    "id": 1373042002,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Talawi Mudik/Mudiak",
+    "postal_code": "27444"
+  },
+  {
+    "id": 1373042006,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137304,
+    "value": "Tumpuk Tangah (Tumpuak Tangah)",
+    "postal_code": "27442"
+  }
+]

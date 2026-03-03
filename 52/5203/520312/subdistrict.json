@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5203122005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Aik Dewa",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Jurit",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Jurit Baru",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Pengadangan",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Pengadangan Barat",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Pringgasela",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Pringgasela Selatan",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Pringgasela Timur",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Rempung",
+    "postal_code": "83660"
+  },
+  {
+    "id": 5203122009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520312,
+    "value": "Timbanuh",
+    "postal_code": "83660"
+  }
+]

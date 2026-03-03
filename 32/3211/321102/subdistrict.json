@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3211022005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Banjarsari",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Cimanintin",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Cipeundeuy",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Kirisik",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Pawenang",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Sarimekar",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Sirnasari",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Sukamanah",
+    "postal_code": "45376"
+  },
+  {
+    "id": 3211022002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321102,
+    "value": "Tarikolot",
+    "postal_code": "45376"
+  }
+]

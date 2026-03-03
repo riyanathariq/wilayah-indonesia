@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1471081010,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147108,
+    "value": "Binawidya",
+    "postal_code": "28295"
+  },
+  {
+    "id": 1471081008,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147108,
+    "value": "Delima",
+    "postal_code": "28290"
+  },
+  {
+    "id": 1471081001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147108,
+    "value": "Simpangbaru",
+    "postal_code": "28293"
+  },
+  {
+    "id": 1471081014,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147108,
+    "value": "Sungaisibam",
+    "postal_code": "28292"
+  },
+  {
+    "id": 1471081009,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147108,
+    "value": "Tobekgodang",
+    "postal_code": "28297"
+  }
+]

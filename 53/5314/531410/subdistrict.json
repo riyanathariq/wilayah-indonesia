@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5314102001,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Bolatena",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102004,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Daeurendale",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102005,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Daiama",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102002,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Lifuleo",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102006,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Pukuafu",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102003,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Sotimori",
+    "postal_code": "85974"
+  },
+  {
+    "id": 5314102007,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531410,
+    "value": "Tena Lai",
+    "postal_code": "85974"
+  }
+]

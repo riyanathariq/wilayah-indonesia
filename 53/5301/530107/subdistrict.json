@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5301072005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Bipolo",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301072004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Oeteta",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301072006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Pantai Beringin",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301072007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Pantulan",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301072003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Pariti",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301072002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Pitai",
+    "postal_code": "85368"
+  },
+  {
+    "id": 5301071001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530107,
+    "value": "Sulamu",
+    "postal_code": "85368"
+  }
+]

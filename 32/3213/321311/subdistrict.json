@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3213112011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Bongas",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Lengkongjaya",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Mulyasari",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Pamanukan",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Pamanukan Hilir",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Pamanukan Sebrang",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Rancahilir",
+    "postal_code": "41264"
+  },
+  {
+    "id": 3213112002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321311,
+    "value": "Rancasari",
+    "postal_code": "41264"
+  }
+]

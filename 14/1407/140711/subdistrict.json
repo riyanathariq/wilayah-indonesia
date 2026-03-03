@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1407112003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Bagan Nibung",
+    "postal_code": "28994"
+  },
+  {
+    "id": 1407112004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Bukit Damar",
+    "postal_code": "28994"
+  },
+  {
+    "id": 1407112005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Bukit Mas",
+    "postal_code": "28994"
+  },
+  {
+    "id": 1407112006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Bukit Selamat (Tanjung Selamat)",
+    "postal_code": "28994"
+  },
+  {
+    "id": 1407112002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Kota Paret/Parit",
+    "postal_code": "28994"
+  },
+  {
+    "id": 1407111001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140711,
+    "value": "Simpang Kanan",
+    "postal_code": "28994"
+  }
+]

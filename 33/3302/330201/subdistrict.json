@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3302012004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Besuki",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Canduk",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Cidora",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Cingebul",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Cirahab",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Dermaji",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Karanggayam",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Kedunggede",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Lumbir",
+    "postal_code": "53177"
+  },
+  {
+    "id": 3302012003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330201,
+    "value": "Parungkamal",
+    "postal_code": "53177"
+  }
+]

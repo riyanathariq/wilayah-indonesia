@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201322007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Bantar Jati",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Bojong",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Cikahuripan",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Kembang Kuning",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Klapanunggal",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Leuwikaret",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Ligarmukti",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Lulut",
+    "postal_code": "16710"
+  },
+  {
+    "id": 3201322003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320132,
+    "value": "Nambo",
+    "postal_code": "16710"
+  }
+]

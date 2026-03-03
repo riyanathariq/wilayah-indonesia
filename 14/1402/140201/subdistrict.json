@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1402011007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Kampung Besar Kota",
+    "postal_code": "29312"
+  },
+  {
+    "id": 1402011011,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Kampung Besar Seberang",
+    "postal_code": "29312"
+  },
+  {
+    "id": 1402011004,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Kampung Dagang",
+    "postal_code": "29313"
+  },
+  {
+    "id": 1402012005,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Kampung Pulau",
+    "postal_code": "29314"
+  },
+  {
+    "id": 1402012003,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Kuantan Baru",
+    "postal_code": "29314"
+  },
+  {
+    "id": 1402011006,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Pasar Kota (Pasar Kota Rengat)",
+    "postal_code": "29311"
+  },
+  {
+    "id": 1402012010,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Pasir Kemilu",
+    "postal_code": "29316"
+  },
+  {
+    "id": 1402012013,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Pulau Gajah",
+    "postal_code": "29313"
+  },
+  {
+    "id": 1402012012,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Rantau Mapesai",
+    "postal_code": "29319"
+  },
+  {
+    "id": 1402012023,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Rawa Bangun",
+    "postal_code": "29319"
+  },
+  {
+    "id": 1402012002,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sei/Sungai Guntung Hilir",
+    "postal_code": "29319"
+  },
+  {
+    "id": 1402012001,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sei/Sungai Guntung Tengah",
+    "postal_code": "29319"
+  },
+  {
+    "id": 1402011018,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sekip Hilir Jumat (Sekip Hilir)",
+    "postal_code": "29318"
+  },
+  {
+    "id": 1402011008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sekip Hulu",
+    "postal_code": "29319"
+  },
+  {
+    "id": 1402012009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sungai Beringin",
+    "postal_code": "29317"
+  },
+  {
+    "id": 1402012014,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140201,
+    "value": "Sungai Raya",
+    "postal_code": "29319"
+  }
+]

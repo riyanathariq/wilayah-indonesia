@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501302007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Apnae",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Elaboga (Elaboge)",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Gigilobo",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Holasili",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Olagi",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Wogi",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Wonenggulik",
+    "postal_code": "99535"
+  },
+  {
+    "id": 9501302004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950130,
+    "value": "Yerega",
+    "postal_code": "99535"
+  }
+]

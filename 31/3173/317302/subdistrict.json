@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3173021001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Grogol",
+    "postal_code": "11450"
+  },
+  {
+    "id": 3173021004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Jelambar",
+    "postal_code": "11460"
+  },
+  {
+    "id": 3173021006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Jelambar Baru",
+    "postal_code": "11460"
+  },
+  {
+    "id": 3173021005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Tanjung Duren Selatan",
+    "postal_code": "11470"
+  },
+  {
+    "id": 3173021002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Tanjung Duren Utara",
+    "postal_code": "11470"
+  },
+  {
+    "id": 3173021003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Tomang",
+    "postal_code": "11440"
+  },
+  {
+    "id": 3173021007,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317302,
+    "value": "Wijaya Kusuma",
+    "postal_code": "11460"
+  }
+]

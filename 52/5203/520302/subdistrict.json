@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5203022003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Kabar",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Keselet",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022012,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Kuang Baru",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Moyot",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022011,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Peresak",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Rumbuk",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Rumbuk Timur",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Sakra",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Sakra Selatan",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Songak",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Suwangi (Suangi)",
+    "postal_code": "83671"
+  },
+  {
+    "id": 5203022008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520302,
+    "value": "Suwangi Timur",
+    "postal_code": "83671"
+  }
+]

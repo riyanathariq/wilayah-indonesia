@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1103132002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Alue Ie Itam",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Alue Ie Mirah",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Alue Patong",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Bandar Baro",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Blang Nisan (Blang Nisam)",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Jambo Balee",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Jambo Lubok",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Pelita Sagop Jaya",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Perkebunan Julok Rayeuk Selatan",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Perkebunan Julok Rayeuk Utara",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Seuneubok Bayu",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Seuneubok Cina",
+    "postal_code": "24457"
+  },
+  {
+    "id": 1103132007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110313,
+    "value": "Suka Makmur",
+    "postal_code": "24457"
+  }
+]

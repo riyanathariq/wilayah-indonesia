@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3305192003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Banjarsari",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305191008,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Gombong",
+    "postal_code": "54411"
+  },
+  {
+    "id": 3305192001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Kalitengah",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Kedungpuji",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Kemukus",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192014,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Klopogodo",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Panjangsari",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Patemon",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192011,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Semanding",
+    "postal_code": "54414"
+  },
+  {
+    "id": 3305192010,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Semondo",
+    "postal_code": "54413"
+  },
+  {
+    "id": 3305192012,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Sidayu",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305192007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Wero",
+    "postal_code": "54416"
+  },
+  {
+    "id": 3305191009,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Wonokriyo",
+    "postal_code": "54412"
+  },
+  {
+    "id": 3305192013,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330519,
+    "value": "Wonosigro",
+    "postal_code": "54416"
+  }
+]

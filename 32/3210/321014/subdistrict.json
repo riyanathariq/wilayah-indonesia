@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3210142005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Babakan",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Bantarjati",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Kertajati",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Kertasari",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Kertawinangun",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Mekarjaya",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Mekarmulya",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Pakubeureum",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Palasah",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Pasiripis",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Sahbandar",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Sukakerta",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Sukamulya",
+    "postal_code": "45457"
+  },
+  {
+    "id": 3210142002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321014,
+    "value": "Sukawana",
+    "postal_code": "45457"
+  }
+]

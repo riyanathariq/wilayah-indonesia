@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1406142002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140614,
+    "value": "Kembang Damai",
+    "postal_code": "28550"
+  },
+  {
+    "id": 1406142001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140614,
+    "value": "Pagaran Tapah",
+    "postal_code": "28550"
+  },
+  {
+    "id": 1406142005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140614,
+    "value": "Sangkir Indah",
+    "postal_code": "28550"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9502292002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950229,
+    "value": "Milki",
+    "postal_code": "99443"
+  },
+  {
+    "id": 9502292001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950229,
+    "value": "Mot / Moot",
+    "postal_code": "99443"
+  },
+  {
+    "id": 9502292004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950229,
+    "value": "Muara Asbi",
+    "postal_code": "99443"
+  },
+  {
+    "id": 9502292005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950229,
+    "value": "Tual",
+    "postal_code": "99443"
+  },
+  {
+    "id": 9502292003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950229,
+    "value": "Yubu",
+    "postal_code": "99443"
+  }
+]

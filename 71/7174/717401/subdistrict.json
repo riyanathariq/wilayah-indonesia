@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7174011005,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Biga",
+    "postal_code": "95713"
+  },
+  {
+    "id": 7174012002,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Bilalang Dua (Bilalang II)",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174012001,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Bilalang Satu (Bilalang I)",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174011007,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Genggulang",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174012003,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Pontodon",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174012008,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Pontodon Timur",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174012004,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Sia",
+    "postal_code": "95714"
+  },
+  {
+    "id": 7174011006,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717401,
+    "value": "Upai",
+    "postal_code": "95714"
+  }
+]

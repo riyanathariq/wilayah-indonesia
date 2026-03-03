@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7472031004,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747203,
+    "value": "Bugi",
+    "postal_code": "93731"
+  },
+  {
+    "id": 7472031003,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747203,
+    "value": "Gonda Baru",
+    "postal_code": "93731"
+  },
+  {
+    "id": 7472031001,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747203,
+    "value": "Kaisabu Baru",
+    "postal_code": "93731"
+  },
+  {
+    "id": 7472031002,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747203,
+    "value": "Karya Baru",
+    "postal_code": "93731"
+  }
+]

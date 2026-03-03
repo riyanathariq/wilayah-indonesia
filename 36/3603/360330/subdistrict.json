@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603302005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Gempol Sari",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Jati Mulya",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Kampung Kelor",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Kedaung Barat",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Lebak Wangi",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Pondok Kelor",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Sangiang",
+    "postal_code": "15521"
+  },
+  {
+    "id": 3603302008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360330,
+    "value": "Tanah Merah",
+    "postal_code": "15521"
+  }
+]

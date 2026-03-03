@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1218162006,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Bahilang",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Binjai",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162009,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Kuta Pinang",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Laut Tador",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Paya Pasir",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162008,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Paya Pinang",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162007,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Penggalangan",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Penggalian",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Sibulan",
+    "postal_code": "20998"
+  },
+  {
+    "id": 1218162003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121816,
+    "value": "Tanah Besih",
+    "postal_code": "20998"
+  }
+]

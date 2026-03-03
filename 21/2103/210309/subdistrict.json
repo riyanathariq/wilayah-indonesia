@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2103092003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Meliah",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103092008,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Meliah Selatan",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103092001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Subi",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103092002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Subi Besar",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103092007,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Subi Besar Timur",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103092005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210309,
+    "value": "Terayak",
+    "postal_code": "29779"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6502142004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Halanga",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Long Jalan",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Long Lake",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Long Rat",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Metut",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Nahakramo (Nahakramo Baru)",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Punan Mirau",
+    "postal_code": "77553"
+  },
+  {
+    "id": 6502142008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650214,
+    "value": "Tanjung Nanga",
+    "postal_code": "77553"
+  }
+]

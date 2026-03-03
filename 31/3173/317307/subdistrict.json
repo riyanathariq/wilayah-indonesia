@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3173071004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Jatipulo",
+    "postal_code": "11430"
+  },
+  {
+    "id": 3173071005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Kemanggisan",
+    "postal_code": "11480"
+  },
+  {
+    "id": 3173071006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Kota Bambu Selatan",
+    "postal_code": "11420"
+  },
+  {
+    "id": 3173071003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Kota Bambu Utara",
+    "postal_code": "11420"
+  },
+  {
+    "id": 3173071001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Palmerah",
+    "postal_code": "11480"
+  },
+  {
+    "id": 3173071002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317307,
+    "value": "Slipi",
+    "postal_code": "11410"
+  }
+]

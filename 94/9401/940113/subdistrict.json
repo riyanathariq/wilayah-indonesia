@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9401132005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940113,
+    "value": "Arui",
+    "postal_code": "98864"
+  },
+  {
+    "id": 9401132002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940113,
+    "value": "Hariti",
+    "postal_code": "98864"
+  },
+  {
+    "id": 9401132004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940113,
+    "value": "Kama",
+    "postal_code": "98864"
+  },
+  {
+    "id": 9401132001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940113,
+    "value": "Mambor",
+    "postal_code": "98864"
+  },
+  {
+    "id": 9401132003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940113,
+    "value": "Moor",
+    "postal_code": "98864"
+  }
+]

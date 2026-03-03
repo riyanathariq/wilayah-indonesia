@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2171031008,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Patam Lestari",
+    "postal_code": "29427"
+  },
+  {
+    "id": 2171031001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Sungai Harapan",
+    "postal_code": "29428"
+  },
+  {
+    "id": 2171031002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Tanjung Pinggir",
+    "postal_code": "29428"
+  },
+  {
+    "id": 2171031003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Tanjung Riau",
+    "postal_code": "29425"
+  },
+  {
+    "id": 2171031006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Tiban Baru",
+    "postal_code": "29426"
+  },
+  {
+    "id": 2171031005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Tiban Indah",
+    "postal_code": "29426"
+  },
+  {
+    "id": 2171031007,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217103,
+    "value": "Tiban Lama",
+    "postal_code": "29425"
+  }
+]

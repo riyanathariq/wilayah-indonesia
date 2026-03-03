@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1106202003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Baet",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Blang Krueng",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Cadek",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Cot Paya",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Kajhu",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Klieng Cot Aron",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Klieng Muria (Klieng Meuria)",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Labuy (Labui)",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Lam Asan",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Lam Bada Lhok",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Lam Ujong",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Lampineung",
+    "postal_code": "23373"
+  },
+  {
+    "id": 1106202013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110620,
+    "value": "Miruk Lam Reudep (Miruk Lam Reudeup)",
+    "postal_code": "23373"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5308162003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Demulaka",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Kurulimbu",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Kurulimbu Selatan",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Ngguwa",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Roga",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Sokoria",
+    "postal_code": "86363"
+  },
+  {
+    "id": 5308162007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530816,
+    "value": "Sokoria Selatan",
+    "postal_code": "86363"
+  }
+]

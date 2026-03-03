@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3404172001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340417,
+    "value": "Argomulyo (Argo Mulyo)",
+    "postal_code": "55583"
+  },
+  {
+    "id": 3404172003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340417,
+    "value": "Glagaharjo (Glagah Harjo)",
+    "postal_code": "55583"
+  },
+  {
+    "id": 3404172004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340417,
+    "value": "Kepuharjo (Kepuh Harjo)",
+    "postal_code": "55583"
+  },
+  {
+    "id": 3404172005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340417,
+    "value": "Umbulharjo (Umbul Harjo)",
+    "postal_code": "55583"
+  },
+  {
+    "id": 3404172002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340417,
+    "value": "Wukirsari (Wukir Sari)",
+    "postal_code": "55583"
+  }
+]

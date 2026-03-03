@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9502102001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Bime",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Bob",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Bunggon",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Calab",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Kameme",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Lim Lim",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Limiri",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Perem",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Teli",
+    "postal_code": "99451"
+  },
+  {
+    "id": 9502102012,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950210,
+    "value": "Turwe",
+    "postal_code": "99451"
+  }
+]

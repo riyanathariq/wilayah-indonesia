@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1612042001,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Betung",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042002,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Betung Barat",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042008,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Betung Selatan",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042003,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Karang Agung",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042005,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Pengabuan",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042007,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Pengabuan Timur (Pengabuhan Timur)",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042006,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Prambatan",
+    "postal_code": "31315"
+  },
+  {
+    "id": 1612042004,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161204,
+    "value": "Tanjung Kurung",
+    "postal_code": "31315"
+  }
+]

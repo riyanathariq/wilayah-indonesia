@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1206102007,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Bandar Purba",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102012,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Bukit Makmur",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102006,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Kuta Pengkih",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102011,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Garut",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102003,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Kesumpat (Lau Kasumpat)",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102002,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Mulgap",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102009,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Pakam",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102001,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Pengulu",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102010,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Lau Solu",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102008,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Mardingding",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102004,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Rimo Bunga",
+    "postal_code": "22165"
+  },
+  {
+    "id": 1206102005,
+    "province_id": 12,
+    "regency_id": 1206,
+    "district_id": 120610,
+    "value": "Tanjung Pamah",
+    "postal_code": "22165"
+  }
+]

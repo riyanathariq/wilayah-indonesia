@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1207232009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Helvetia",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Lalang (Kampung Lalang)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Medan Krio",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Mulio Rejo (Mulyo Rejo)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Paya Geli",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Puji Mulyo",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Purwodadi",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232017,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sei Beras Sekata",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sei Mencirim",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sei Semayang",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232014,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Serbajadi (Sukajadi / Serba Jadi)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sumber Melati Diski (Sm Diski)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Sunggal Kanan (Tunggal Kanan / Sungal Kanan)",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Tanjung Gusta",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232016,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Tanjung Selamat",
+    "postal_code": "20351"
+  },
+  {
+    "id": 1207232015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120723,
+    "value": "Telaga Sari",
+    "postal_code": "20351"
+  }
+]

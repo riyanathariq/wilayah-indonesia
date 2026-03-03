@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5301202009,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Enolanan",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Muke",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Nunmafo",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Oemofa",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Oemolo",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202010,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Oenaunu",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Oeniko",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Oenuntono (Oenunutono)",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Pathau",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301202001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530120,
+    "value": "Seki",
+    "postal_code": "85363"
+  }
+]

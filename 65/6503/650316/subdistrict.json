@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6503162010,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Binanun",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Katul",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162009,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Liuk Bulu",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Lubok Buat",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Mambulu",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Pagaluyon",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162008,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Pulau Keras",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162007,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Sabuluan",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162005,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Saduman",
+    "postal_code": "77452"
+  },
+  {
+    "id": 6503162006,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650316,
+    "value": "Tulang",
+    "postal_code": "77452"
+  }
+]

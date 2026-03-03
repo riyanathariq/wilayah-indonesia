@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1171092006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Ceurih",
+    "postal_code": "23117"
+  },
+  {
+    "id": 1171092007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Doi/Doy",
+    "postal_code": "23117"
+  },
+  {
+    "id": 1171092009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Ie Masen Ulee Kareng (Iemasen Ulee Kareng)",
+    "postal_code": "23117"
+  },
+  {
+    "id": 1171092003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Ilie",
+    "postal_code": "23119"
+  },
+  {
+    "id": 1171092001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Lambhuk",
+    "postal_code": "23118"
+  },
+  {
+    "id": 1171092008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Lamglumpang",
+    "postal_code": "23117"
+  },
+  {
+    "id": 1171092002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Lamteh",
+    "postal_code": "23118"
+  },
+  {
+    "id": 1171092005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Pango Deah",
+    "postal_code": "23119"
+  },
+  {
+    "id": 1171092004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117109,
+    "value": "Pango Raya",
+    "postal_code": "23119"
+  }
+]

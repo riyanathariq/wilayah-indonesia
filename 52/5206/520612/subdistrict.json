@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5206122010,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Hidirasa",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Kaleo",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122009,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Lambu",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Lanta",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122011,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Lanta Barat (Lauta Barat)",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Mangge",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122012,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Melayu",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122014,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Monta Baru",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Nggelu",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Rato",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122013,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Sangga",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Simpasai",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Soro",
+    "postal_code": "84182"
+  },
+  {
+    "id": 5206122007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520612,
+    "value": "Sumi",
+    "postal_code": "84182"
+  }
+]

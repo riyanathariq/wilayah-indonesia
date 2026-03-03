@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7603021001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Aralle",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022018,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Aralle Selatan",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Aralle Utara",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022010,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Baruru",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022019,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Hahangan",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022017,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Kalabe",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022016,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Pamoseang Pangga",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Panetean",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Ralle Anak",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022015,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Ralleanak Utara",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022009,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Uhaidaho",
+    "postal_code": "91373"
+  },
+  {
+    "id": 7603022005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760302,
+    "value": "Uhailanu",
+    "postal_code": "91373"
+  }
+]

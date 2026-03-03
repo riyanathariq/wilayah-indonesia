@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9304212009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Ainamsato",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Akan Tapak",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Amaita",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Bagair",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Bawos",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Kagas",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Mapane",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Piramat",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Tauro",
+    "postal_code": "99782"
+  },
+  {
+    "id": 9304212006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930421,
+    "value": "Wiyar",
+    "postal_code": "99782"
+  }
+]

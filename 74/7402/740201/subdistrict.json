@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7402012011,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Amberi",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Asaki (Isaki)",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Awuliti (Wawuliti)",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402011001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Lambuya",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012027,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Meraka",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012015,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Tanggobu",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012037,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Tetembomua",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012035,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Wanua Hoa (Wanuahoa)",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012036,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Watarema",
+    "postal_code": "93464"
+  },
+  {
+    "id": 7402012012,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740201,
+    "value": "Waworaha",
+    "postal_code": "93464"
+  }
+]

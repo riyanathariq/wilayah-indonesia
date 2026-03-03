@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3275061002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327506,
+    "value": "Harapanmulya (Harapan Mulya)",
+    "postal_code": "17143"
+  },
+  {
+    "id": 3275061004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327506,
+    "value": "Kalibaru (Kali Baru)",
+    "postal_code": "17133"
+  },
+  {
+    "id": 3275061001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327506,
+    "value": "Medansatria (Medan Satria)",
+    "postal_code": "17132"
+  },
+  {
+    "id": 3275061003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327506,
+    "value": "Pejuang",
+    "postal_code": "17131"
+  }
+]

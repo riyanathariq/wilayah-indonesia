@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9507242002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Balimneri",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Dinuwi",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Gwilonik",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Ilim",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Kungganeri",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Timotani",
+    "postal_code": "99586"
+  },
+  {
+    "id": 9507242001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950724,
+    "value": "Wamitu",
+    "postal_code": "99586"
+  }
+]

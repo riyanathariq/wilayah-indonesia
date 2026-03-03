@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3505152008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Butun",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Gadungan",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Gandusari",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Gondang",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Kotes",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152014,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Krisik",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Ngaringan",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152012,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Semen",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Slumbung",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Soso",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Sukosewu",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Tambakan",
+    "postal_code": "66187"
+  },
+  {
+    "id": 3505152013,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350515,
+    "value": "Tulungrejo",
+    "postal_code": "66187"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7317071007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Balo-Balo (Balo- Balo)",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317072015,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Balubu",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317072006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Belopa",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317072004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Kurrusumanga",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317072016,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Pasamai",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317071005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Senga",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317072014,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Senga Selatan",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317071001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Tampumia Radda",
+    "postal_code": "91983"
+  },
+  {
+    "id": 7317071003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731707,
+    "value": "Tanamanai",
+    "postal_code": "91983"
+  }
+]

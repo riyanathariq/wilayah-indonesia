@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7472011007,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747201,
+    "value": "Katobengke",
+    "postal_code": "93724"
+  },
+  {
+    "id": 7472011016,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747201,
+    "value": "Labalawa",
+    "postal_code": "93725"
+  },
+  {
+    "id": 7472011014,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747201,
+    "value": "Lipu",
+    "postal_code": "93721"
+  },
+  {
+    "id": 7472011013,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747201,
+    "value": "Sulaa",
+    "postal_code": "93721"
+  },
+  {
+    "id": 7472011012,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747201,
+    "value": "Waborobo",
+    "postal_code": "93721"
+  }
+]

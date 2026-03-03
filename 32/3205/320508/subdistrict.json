@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3205082007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Barusari",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Karyamekar",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Padaasih",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Padamukti",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082012,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Padamulya",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Padasuka",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Padawaas (Padaawas)",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Pasirkiamis",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Pasirwangi",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Sarimukti",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Sinarjaya (Sirnajaya)",
+    "postal_code": "44161"
+  },
+  {
+    "id": 3205082008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320508,
+    "value": "Talaga",
+    "postal_code": "44161"
+  }
+]

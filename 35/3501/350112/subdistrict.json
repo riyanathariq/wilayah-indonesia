@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3501122009,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Gunungrejo (Gunung Rejo)",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Karangmulyo (Karang Mulyo)",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Ketanggung",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Klepu (Kelepu)",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Pagerkidul (Pager Kidul)",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Pagerlor (Pager Lor)",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Sembowo",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Sudimoro",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Sukorejo",
+    "postal_code": "63573"
+  },
+  {
+    "id": 3501122010,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350112,
+    "value": "Sumberejo (Sumber Rejo)",
+    "postal_code": "63573"
+  }
+]

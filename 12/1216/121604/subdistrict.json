@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1216042006,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Lobutolong (Lobu Tolong)",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042011,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Lobutolong Habinsaran",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042007,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Lumban Barat",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042004,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Lumban Sialaman",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042010,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Lumban Sianturi",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042002,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Paranginan Selatan",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042003,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Paranginan Utara",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042005,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Pearung",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042009,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Pearung Silali",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042008,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Siboru Torop",
+    "postal_code": "22477"
+  },
+  {
+    "id": 1216042001,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121604,
+    "value": "Sihonongan",
+    "postal_code": "22477"
+  }
+]

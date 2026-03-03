@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7413032001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Lagadi",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413032004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Lalemba",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413031008,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Lapadaku",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413032003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Latompe",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413032002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Latugho",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413032005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Madampi",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413031007,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Wamelai",
+    "postal_code": "93651"
+  },
+  {
+    "id": 7413032006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741303,
+    "value": "Watumela",
+    "postal_code": "93651"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1304122002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130412,
+    "value": "Barulak",
+    "postal_code": "27281"
+  },
+  {
+    "id": 1304122001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130412,
+    "value": "Tanjung Alam",
+    "postal_code": "27281"
+  }
+]

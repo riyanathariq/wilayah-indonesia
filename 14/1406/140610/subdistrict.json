@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1406102004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Bangun Purba",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Bangun Purba Barat",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Bangun Purba Timur Jaya",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Pasir Agung",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Pasir Intan",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Rambah Jaya",
+    "postal_code": "28557"
+  },
+  {
+    "id": 1406102007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140610,
+    "value": "Tangun",
+    "postal_code": "28557"
+  }
+]

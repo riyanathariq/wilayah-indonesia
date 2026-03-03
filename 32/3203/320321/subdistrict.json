@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203212007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Girimukti",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Hegarsari",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Jatisari",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Jayagiri",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Kertamukti",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Kertasari",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Mekarlaksana",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Muaracikadu",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Saganten",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Sirnagalih",
+    "postal_code": "43272"
+  },
+  {
+    "id": 3203212008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320321,
+    "value": "Talagasari",
+    "postal_code": "43272"
+  }
+]

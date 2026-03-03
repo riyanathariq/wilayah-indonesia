@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1803022012,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Bojong Barat",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803021002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Cempedak",
+    "postal_code": "34516"
+  },
+  {
+    "id": 1803021009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kota Gapura",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803021006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kotabumi Ilir",
+    "postal_code": "34517"
+  },
+  {
+    "id": 1803021005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kotabumi Pasar",
+    "postal_code": "34518"
+  },
+  {
+    "id": 1803021004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kotabumi Tengah",
+    "postal_code": "34516"
+  },
+  {
+    "id": 1803022013,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kotabumi Tengah Barat",
+    "postal_code": "34516"
+  },
+  {
+    "id": 1803021001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Kotabumi Udik",
+    "postal_code": "34518"
+  },
+  {
+    "id": 1803021003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Rejo Sari (Rejosari)",
+    "postal_code": "34514"
+  },
+  {
+    "id": 1803021007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Sindang Sari",
+    "postal_code": "34517"
+  },
+  {
+    "id": 1803021008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Sri Basuki (Sribasuki)",
+    "postal_code": "34515"
+  },
+  {
+    "id": 1803022011,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Sumber Arum",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803022010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180302,
+    "value": "Talang Bojong",
+    "postal_code": "34511"
+  }
+]

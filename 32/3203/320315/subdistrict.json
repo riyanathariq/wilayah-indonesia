@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203152008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Campaka",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Cidadap",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Cimenteng",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Girimukti",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Karyamukti",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Margaluyu",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Mekarjaya",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Sukadana",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Sukajadi",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Susukan",
+    "postal_code": "43263"
+  },
+  {
+    "id": 3203152009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320315,
+    "value": "Wangunjaya",
+    "postal_code": "43263"
+  }
+]

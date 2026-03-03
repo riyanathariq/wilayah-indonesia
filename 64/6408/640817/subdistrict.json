@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6408172001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Batu Timbau",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Batu Timbau Ulu",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Beno Harapan (Benua Harapan)",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Himba Lestari",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Mawai Indah",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Mugi Rahayu",
+    "postal_code": "75654"
+  },
+  {
+    "id": 6408172006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640817,
+    "value": "Telaga",
+    "postal_code": "75654"
+  }
+]

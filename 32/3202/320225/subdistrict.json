@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202252002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Banyumurni",
+    "postal_code": "43172"
+  },
+  {
+    "id": 3202252006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Banyuwangi",
+    "postal_code": "43172"
+  },
+  {
+    "id": 3202252003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Cibitung",
+    "postal_code": "43172"
+  },
+  {
+    "id": 3202252005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Cibodas",
+    "postal_code": "43172"
+  },
+  {
+    "id": 3202252004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Cidahu",
+    "postal_code": "43172"
+  },
+  {
+    "id": 3202252001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320225,
+    "value": "Talagamurni",
+    "postal_code": "43172"
+  }
+]

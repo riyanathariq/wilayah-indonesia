@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3301192006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Bulupayung",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Cimrutu",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Cinyawang",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Patimuan",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Purwadadi (Purwodadi)",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Rawaapu",
+    "postal_code": "53264"
+  },
+  {
+    "id": 3301192003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330119,
+    "value": "Sidamukti",
+    "postal_code": "53264"
+  }
+]

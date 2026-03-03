@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3578161001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357816,
+    "value": "Ampel",
+    "postal_code": "60151"
+  },
+  {
+    "id": 3578161002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357816,
+    "value": "Pegirikan (Pegirian)",
+    "postal_code": "60153"
+  },
+  {
+    "id": 3578161005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357816,
+    "value": "Sidotopo",
+    "postal_code": "60152"
+  },
+  {
+    "id": 3578161004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357816,
+    "value": "Ujung",
+    "postal_code": "60155"
+  },
+  {
+    "id": 3578161003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357816,
+    "value": "Wonokusumo",
+    "postal_code": "60154"
+  }
+]

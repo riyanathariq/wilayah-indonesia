@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9508032025,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Borot",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032024,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Delsa",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Disendobo",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Ekilapok (Ekilapo)",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032010,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Karunggame",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032022,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Lumbukdumu",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032011,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Sirit",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Sumbo",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Suwenem",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032023,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Wiritlak",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032014,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Yebadolma",
+    "postal_code": "99919"
+  },
+  {
+    "id": 9508032001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950803,
+    "value": "Yigi",
+    "postal_code": "99919"
+  }
+]

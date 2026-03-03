@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9211032006,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Aryawenmoho",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032005,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Benyas",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032002,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Disi",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032003,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Hiyou",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032007,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Neney",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032004,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Sesum",
+    "postal_code": "98323"
+  },
+  {
+    "id": 9211032001,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921103,
+    "value": "Wama",
+    "postal_code": "98323"
+  }
+]

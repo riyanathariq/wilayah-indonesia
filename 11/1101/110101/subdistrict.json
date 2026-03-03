@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1101012015,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Darul Ikhsan",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012017,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Gampong Baro (Kampung Baru)",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Gampong Drien (Kampung Drien)",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Keude Bakongan",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012016,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Padang Beurahan (Padang Berahan)",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Ujong Mangki (Ujung Mangki)",
+    "postal_code": "23773"
+  },
+  {
+    "id": 1101012003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110101,
+    "value": "Ujong Padang (Ujung Padang)",
+    "postal_code": "23773"
+  }
+]

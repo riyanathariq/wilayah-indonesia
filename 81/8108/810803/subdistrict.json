@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8108032009,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Batugajah (Batu Gajah)",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Elo",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Lelang",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Luang Barat",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Luang Timur",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Mahaleta",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032010,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Pupliora (Pupioliora)",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032011,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Regoha",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032007,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Romdara",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032008,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Rotnama",
+    "postal_code": "97652"
+  },
+  {
+    "id": 8108032004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810803,
+    "value": "Rumkisar (Romkisar)",
+    "postal_code": "97652"
+  }
+]

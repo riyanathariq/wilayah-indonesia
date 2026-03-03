@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5204182006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Bajo Medang",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Bugis Medang",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Karang Dima",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Labuhan Aji (Labuan Aji)",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Labuhan Badas",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Labuhan Sumbawa (Labuan Sumbawa)",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204182005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520418,
+    "value": "Sebotok",
+    "postal_code": "84316"
+  }
+]

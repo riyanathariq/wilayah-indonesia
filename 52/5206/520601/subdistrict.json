@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5206012012,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Baralau",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012010,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Monta",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012018,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Nontotera",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012016,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Pela",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012011,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Sakuru (Sekuru)",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Sie",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Simpasai",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Sondo",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012009,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Tangga",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012017,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Tangga Baru",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Tolotangga",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012014,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Tolouwi",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012019,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Waro",
+    "postal_code": "84172"
+  },
+  {
+    "id": 5206012015,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520601,
+    "value": "Wilamaci",
+    "postal_code": "84172"
+  }
+]

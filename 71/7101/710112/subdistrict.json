@@ -1,0 +1,210 @@
+[
+  {
+    "id": 7101122014,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Baturapa",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122021,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Baturapa II",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122013,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Bumbung",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122012,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Buntalo",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122020,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Buntalo Selatan",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122019,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Buntalo Timur",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122022,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Diat",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122025,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Dulangan",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122008,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Labuan Uki",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122011,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Lalow",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Lolak",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122018,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Lolak II",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122017,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Lolak Tambolango",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122007,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Mongkoinit",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122024,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Mongkoinit Barat",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Motabang",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122026,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Padang Lalow",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Pindol",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122016,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Pindolili",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122023,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Pinogalum Timur",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122009,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Pinogaluman",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122010,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Sauk",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Solog",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Tandu",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Totabuan",
+    "postal_code": "95741"
+  },
+  {
+    "id": 7101122015,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710112,
+    "value": "Tuyat",
+    "postal_code": "95741"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7111052004,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Dayow",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052002,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Dumagin A",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052003,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Dumagin B",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052009,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Iligon",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052001,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Matandoi",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052010,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Matandoi Selatan (Motandoi Selatan)",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052006,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Modisi",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052005,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Onggunoi",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052012,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Onggunoi Selatan",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052011,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Perjuangan",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052008,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Pidung",
+    "postal_code": "95777"
+  },
+  {
+    "id": 7111052007,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711105,
+    "value": "Posilagon",
+    "postal_code": "95777"
+  }
+]

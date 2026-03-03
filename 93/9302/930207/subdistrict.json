@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9302072004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930207,
+    "value": "Amuan",
+    "postal_code": "99662"
+  },
+  {
+    "id": 9302072003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930207,
+    "value": "Kawangtet",
+    "postal_code": "99662"
+  },
+  {
+    "id": 9302072001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930207,
+    "value": "Kombut",
+    "postal_code": "99662"
+  },
+  {
+    "id": 9302072002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930207,
+    "value": "Moukbiran (Mokbiran)",
+    "postal_code": "99662"
+  }
+]

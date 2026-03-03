@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1508152001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150815,
+    "value": "Pelayang",
+    "postal_code": "37254"
+  },
+  {
+    "id": 1508152002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150815,
+    "value": "Peninjau",
+    "postal_code": "37254"
+  },
+  {
+    "id": 1508152004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150815,
+    "value": "Pulau Kerakap",
+    "postal_code": "37254"
+  },
+  {
+    "id": 1508152005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150815,
+    "value": "Seberang Jaya",
+    "postal_code": "37254"
+  },
+  {
+    "id": 1508152003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150815,
+    "value": "Talang Selungko (Talang Silungko)",
+    "postal_code": "37254"
+  }
+]

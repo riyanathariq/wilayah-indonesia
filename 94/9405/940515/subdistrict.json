@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9405152002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Bakcini",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Kilunggame",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Komapaga",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Tagalame I",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Timobut",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Timobut Egewak",
+    "postal_code": "98978"
+  },
+  {
+    "id": 9405152005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940515,
+    "value": "Wonelupaga",
+    "postal_code": "98978"
+  }
+]

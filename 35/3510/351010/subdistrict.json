@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3510102006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Bumiharjo",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Karangharjo",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Margomulyo",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Sepanjang",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Sumbergondo",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Tegalharjo",
+    "postal_code": "68466"
+  },
+  {
+    "id": 3510102004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351010,
+    "value": "Tulungrejo",
+    "postal_code": "68466"
+  }
+]

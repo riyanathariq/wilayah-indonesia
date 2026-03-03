@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8208022003,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820802,
+    "value": "Beringin Jaya",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208022004,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820802,
+    "value": "Kasango",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208022001,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820802,
+    "value": "Nggele",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208022005,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820802,
+    "value": "Onemay (Oneway)",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208022002,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820802,
+    "value": "Salati",
+    "postal_code": "97794"
+  }
+]

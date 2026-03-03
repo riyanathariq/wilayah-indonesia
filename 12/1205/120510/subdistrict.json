@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1205102009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Baru Pasar VIII (8)",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Batu Malenggang (Batu Melenggang)",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Cempa",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Hinai Kanan",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205101008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Kebun Lada",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Muka Paya",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102012,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Paya Rengas",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Perkebunan Tanjung Beringin",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Suka Damai",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102013,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Suka Damai Timur",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Suka Jadi",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Tamaran",
+    "postal_code": "20854"
+  },
+  {
+    "id": 1205102004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120510,
+    "value": "Tanjung Mulya (Tanjung Mulia)",
+    "postal_code": "20854"
+  }
+]

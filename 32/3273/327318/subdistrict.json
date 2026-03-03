@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3273181004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327318,
+    "value": "Cigadung",
+    "postal_code": "40191"
+  },
+  {
+    "id": 3273181001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327318,
+    "value": "Cihaur Geulis",
+    "postal_code": "40122"
+  },
+  {
+    "id": 3273181003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327318,
+    "value": "Neglasari",
+    "postal_code": "40124"
+  },
+  {
+    "id": 3273181002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327318,
+    "value": "Sukaluyu",
+    "postal_code": "40123"
+  }
+]

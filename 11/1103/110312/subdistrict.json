@@ -1,0 +1,210 @@
+[
+  {
+    "id": 1103122014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Abeuk Geulanteu",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122022,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Bintah",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122024,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Blang Andam",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122021,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Blang Awe",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Blang Ubit",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Lueng Dua",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Lueng Peut",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122026,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Lueng Sa (Lueng Satu)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Madat",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Guru",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122017,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Jrok",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Keupula Sa (Matang Kupula / Keupula Satu)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Kupula/Keupula Dua",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Kupula/Keupula Lhee",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122025,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Matang Nibong",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Meunasah Asan",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Meunasah Tingkeum",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122020,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Pante Merbo (Meureubo)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Pantee Bayam (Pante Bayam)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Paya Deumam/Demam Peut",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122018,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Paya Naden",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Rambong Lop",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122023,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Seuneubok Pidie",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Tanjong Ara (Tanjung Ara)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122019,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Tanjong Minjei (Tanjung Minjei)",
+    "postal_code": "24462"
+  },
+  {
+    "id": 1103122005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110312,
+    "value": "Ulee Ateung",
+    "postal_code": "24462"
+  }
+]

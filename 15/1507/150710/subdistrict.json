@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1507102007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Kota Baru",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Lagan Tengah",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Lagan Ulu",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507101010,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Pandan Jaya",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Pandan Lagan/Logan",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Pandan Makmur",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102009,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Pandan Sejahtera",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102008,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Rantau Karya",
+    "postal_code": "36764"
+  },
+  {
+    "id": 1507102006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150710,
+    "value": "Suka Maju",
+    "postal_code": "36764"
+  }
+]

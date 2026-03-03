@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7202232002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Kageroa",
+    "postal_code": "94654"
+  },
+  {
+    "id": 7202232005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Kolori",
+    "postal_code": "94654"
+  },
+  {
+    "id": 7202232006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Lelio",
+    "postal_code": "94654"
+  },
+  {
+    "id": 7202232004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Lengkeka",
+    "postal_code": "94654"
+  },
+  {
+    "id": 7202232003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Tomehipi",
+    "postal_code": "94654"
+  },
+  {
+    "id": 7202232001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720223,
+    "value": "Tuare",
+    "postal_code": "94654"
+  }
+]

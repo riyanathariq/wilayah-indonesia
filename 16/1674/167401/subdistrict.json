@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1674011011,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Gunung Kemala",
+    "postal_code": "31122"
+  },
+  {
+    "id": 1674011009,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Muntang Tapus",
+    "postal_code": "31121"
+  },
+  {
+    "id": 1674011007,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Patih Galung",
+    "postal_code": "31127"
+  },
+  {
+    "id": 1674011012,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Payuputat (Payu Putat)",
+    "postal_code": "31141"
+  },
+  {
+    "id": 1674011001,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Prabumulih",
+    "postal_code": "31123"
+  },
+  {
+    "id": 1674012013,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Tanjung Telang",
+    "postal_code": "31146"
+  },
+  {
+    "id": 1674011014,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167401,
+    "value": "Tebing Tanah Puteh",
+    "postal_code": "31127"
+  }
+]

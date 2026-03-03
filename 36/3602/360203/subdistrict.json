@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3602032001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Bayah Barat",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032013,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Bayah Timur",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Cidikit",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Cimancak",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032014,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Cisuren",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032011,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Darmasari",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032018,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Pamubulan",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032016,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Pasirgombong",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Sawarna",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032017,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Sawarna Timur",
+    "postal_code": "42393"
+  },
+  {
+    "id": 3602032007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360203,
+    "value": "Suwakan",
+    "postal_code": "42393"
+  }
+]

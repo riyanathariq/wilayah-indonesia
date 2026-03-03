@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1702232003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Balai Buntar/Butar",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Lubuk Belimbing I",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Lubuk Belimbing II",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232007,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Lubuk Bingin Baru",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Lubuk Tanjung/Tunjung",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Merantau",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Periang",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232008,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Sari Pulau",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232010,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Suka karya (Sukakarya)",
+    "postal_code": "39184"
+  },
+  {
+    "id": 1702232009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170223,
+    "value": "Suka Merindu",
+    "postal_code": "39184"
+  }
+]

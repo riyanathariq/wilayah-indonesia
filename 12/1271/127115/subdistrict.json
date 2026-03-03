@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271151001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Aur",
+    "postal_code": "20151"
+  },
+  {
+    "id": 1271151002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Hamdan",
+    "postal_code": "20151"
+  },
+  {
+    "id": 1271151003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Jati",
+    "postal_code": "20152"
+  },
+  {
+    "id": 1271151006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Kampung Baru",
+    "postal_code": "20158"
+  },
+  {
+    "id": 1271151005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Sei Mati",
+    "postal_code": "20159"
+  },
+  {
+    "id": 1271151004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127115,
+    "value": "Sukaraja (Suka Raja)",
+    "postal_code": "20159"
+  }
+]

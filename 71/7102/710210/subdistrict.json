@@ -1,0 +1,130 @@
+[
+  {
+    "id": 7102102005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Ampreng",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102014,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Kopiwangker",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Koyawas",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Lowian",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Noongan (Noongan I)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102015,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Noongan Dua (Noongan II)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102016,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Noongan Tiga (Noongan III)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Paslateh (Paslaten)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102018,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Raranon",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Raringis",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102020,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Raringis Selatan",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102019,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Raringis Utara",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Tounelet",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Tumaratas (Tumaratas I)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102017,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Tumaratas Dua (Tumaratas II)",
+    "postal_code": "95694"
+  },
+  {
+    "id": 7102102002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710210,
+    "value": "Walewangko",
+    "postal_code": "95694"
+  }
+]

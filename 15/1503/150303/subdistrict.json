@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1503031026,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Aur Gading",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032002,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Bernai",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032028,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Bernai Dalam",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032024,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Desa Baru",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503031001,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Dusun Sarolangun",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503031025,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Gunung Kembang",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032014,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Ladang Panjang",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032013,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Lidung",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032004,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Panti",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503031016,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Pasar Sarolangun",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503031019,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Sarolangun Kembang",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503031015,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Sukasari",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032006,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Sungai Abang",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032003,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Sungai Baung",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032005,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Tinting (Tingting)",
+    "postal_code": "37481"
+  },
+  {
+    "id": 1503032027,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150303,
+    "value": "Ujung Tanjung",
+    "postal_code": "37481"
+  }
+]

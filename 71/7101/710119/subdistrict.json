@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7101192017,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Bintau",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192018,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Bulud",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192022,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Inuai",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Lobong",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Muntoi (Muntoi Induk / Muntoy)",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192024,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Muntoi Timur",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192019,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Otam",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192025,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Otam Barat",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Passi (Passi 1)",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192023,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Passi II (Passi 2)",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Poyuyanan",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192020,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Wangga",
+    "postal_code": "95751"
+  },
+  {
+    "id": 7101192026,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710119,
+    "value": "Wangga Satu",
+    "postal_code": "95751"
+  }
+]

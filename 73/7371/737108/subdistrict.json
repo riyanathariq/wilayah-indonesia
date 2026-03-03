@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7371081011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Camba Berua",
+    "postal_code": "90162"
+  },
+  {
+    "id": 7371081005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Cambaya",
+    "postal_code": "90162"
+  },
+  {
+    "id": 7371081004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Gusung",
+    "postal_code": "90163"
+  },
+  {
+    "id": 7371081003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Patingalloang (Pattingalloang)",
+    "postal_code": "90161"
+  },
+  {
+    "id": 7371081012,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Patingalloang Baru (Pattingalloang Baru)",
+    "postal_code": "90161"
+  },
+  {
+    "id": 7371081002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Tabaringan",
+    "postal_code": "90165"
+  },
+  {
+    "id": 7371081010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Tamalabba",
+    "postal_code": "90164"
+  },
+  {
+    "id": 7371081009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Totaka",
+    "postal_code": "90165"
+  },
+  {
+    "id": 7371081006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737108,
+    "value": "Ujung Tanah",
+    "postal_code": "90164"
+  }
+]

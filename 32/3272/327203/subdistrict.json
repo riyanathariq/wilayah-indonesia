@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3272031005,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327203,
+    "value": "Cikondang",
+    "postal_code": "43142"
+  },
+  {
+    "id": 3272031001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327203,
+    "value": "Citamiang",
+    "postal_code": "43143"
+  },
+  {
+    "id": 3272031004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327203,
+    "value": "Gedongpanjang",
+    "postal_code": "43144"
+  },
+  {
+    "id": 3272031003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327203,
+    "value": "Nanggeleng",
+    "postal_code": "43145"
+  },
+  {
+    "id": 3272031002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327203,
+    "value": "Tipar",
+    "postal_code": "43141"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5319102005,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Golo Meni (Golomeni)",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102007,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Golo Ndele",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102006,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Golo Nderu",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102001,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Golo Tolang",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102011,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Gunung Baru",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102002,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Mokel",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102009,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Mokel Morid",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102003,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Paan Leleng",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102008,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Rana Mbata",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102004,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Rana Mbeling",
+    "postal_code": "86572"
+  },
+  {
+    "id": 5319102010,
+    "province_id": 53,
+    "regency_id": 5319,
+    "district_id": 531910,
+    "value": "Watu Pari",
+    "postal_code": "86572"
+  }
+]

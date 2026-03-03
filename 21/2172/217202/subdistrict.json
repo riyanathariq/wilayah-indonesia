@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2172021003,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217202,
+    "value": "Air Raja",
+    "postal_code": "29122"
+  },
+  {
+    "id": 2172021004,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217202,
+    "value": "Batu IX (Sembilan)",
+    "postal_code": "29125"
+  },
+  {
+    "id": 2172021002,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217202,
+    "value": "Kampung Bulang",
+    "postal_code": "29122"
+  },
+  {
+    "id": 2172021001,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217202,
+    "value": "Melayu Kota Piring",
+    "postal_code": "29123"
+  },
+  {
+    "id": 2172021005,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217202,
+    "value": "Pinang Kencana",
+    "postal_code": "29122"
+  }
+]

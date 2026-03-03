@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1218012009,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Ara Payung",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012007,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Besar II Terjun (Besar 2 Terjun)",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Celawan",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Kota Pari",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012006,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Kuala Lama",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012011,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Lubuk Saban",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012012,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Naga Kisar",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Pantai Cermin Kanan",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Pantai Cermin Kiri",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Pematang Kasih",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012008,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Sementara",
+    "postal_code": "20987"
+  },
+  {
+    "id": 1218012005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121801,
+    "value": "Ujung Rambung",
+    "postal_code": "20987"
+  }
+]

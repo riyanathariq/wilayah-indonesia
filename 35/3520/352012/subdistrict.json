@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3520122013,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Bangunasri",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122002,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Banjarejo",
+    "postal_code": "63137"
+  },
+  {
+    "id": 3520122010,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Blaran",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122001,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Bogorejo",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122011,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Jonggrang",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122003,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Karangsono",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122014,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Klagen",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520121005,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Mangge",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122007,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Manjung",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122008,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Ngumpul",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122009,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Panggung",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122004,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Purwodadi",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520122012,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Rejomulyo",
+    "postal_code": "63395"
+  },
+  {
+    "id": 3520121006,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352012,
+    "value": "Tebon",
+    "postal_code": "63395"
+  }
+]

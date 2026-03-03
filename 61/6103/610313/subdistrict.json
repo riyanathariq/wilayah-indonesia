@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6103132005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Bagan Asam",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132007,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Balai Belungai",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Belungai Dalam",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Kampung Baru",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132006,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Lumut",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Sansat",
+    "postal_code": "78572"
+  },
+  {
+    "id": 6103132001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610313,
+    "value": "Teraju (Teraju Barat)",
+    "postal_code": "78572"
+  }
+]

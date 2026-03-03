@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7312051003,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Attang Salo",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312051001,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Batu-Batu",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312052006,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Bulue",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312051002,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Kaca",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312052010,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Laringgi",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312051005,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Limpomajang",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312051004,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Manorang Salo",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312052007,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Panincong",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312052008,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Patampanua",
+    "postal_code": "90852"
+  },
+  {
+    "id": 7312052009,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731205,
+    "value": "Tellulimpoe",
+    "postal_code": "90852"
+  }
+]

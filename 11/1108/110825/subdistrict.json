@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1108252003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Alue Awe",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Darul Aman",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Darussalam",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Dayah Seupeng",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Krueng Mbang",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Lhok Asan",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Peudari",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Pulo Meuria",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Rayeuk Jawa",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Suka Damai (Sukadamai)",
+    "postal_code": "24373"
+  },
+  {
+    "id": 1108252007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110825,
+    "value": "Uram Jalan",
+    "postal_code": "24373"
+  }
+]

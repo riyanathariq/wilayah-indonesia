@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3507272003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Banjarejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Banturejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272013,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Jombok",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Kaumrejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Mulyorejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Ngantru",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Pagersari",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Pandansari",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Purworejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Sidodadi",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Sumberagung",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272011,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Tulungrejo",
+    "postal_code": "65392"
+  },
+  {
+    "id": 3507272012,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350727,
+    "value": "Waturejo",
+    "postal_code": "65392"
+  }
+]

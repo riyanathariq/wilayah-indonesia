@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3510072007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Gambiran",
+    "postal_code": "68486"
+  },
+  {
+    "id": 3510072002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Jajag",
+    "postal_code": "68486"
+  },
+  {
+    "id": 3510072001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Purwodadi",
+    "postal_code": "68486"
+  },
+  {
+    "id": 3510072010,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Wringinagung (Wringin Agung)",
+    "postal_code": "68486"
+  },
+  {
+    "id": 3510072009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Wringinrejo",
+    "postal_code": "68486"
+  },
+  {
+    "id": 3510072008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351007,
+    "value": "Yosomulyo",
+    "postal_code": "68486"
+  }
+]

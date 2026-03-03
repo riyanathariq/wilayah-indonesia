@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6305082006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Balawaian",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Baramban",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Batu Ampar",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Batung",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Buniin Jaya (Buni In Jaya)",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Harakit",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Miawa",
+    "postal_code": "71191"
+  },
+  {
+    "id": 6305082001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630508,
+    "value": "Pipitak Jaya",
+    "postal_code": "71191"
+  }
+]

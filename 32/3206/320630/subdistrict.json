@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206302008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Jayaputra",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Jayaratu",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Linggasirna",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Sariwangi",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Selawangi",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Sirnasari",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Sukaharja (Sukaraharja)",
+    "postal_code": "46465"
+  },
+  {
+    "id": 3206302006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320630,
+    "value": "Sukamulih",
+    "postal_code": "46465"
+  }
+]

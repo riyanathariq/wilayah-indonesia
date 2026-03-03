@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3404152001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340415,
+    "value": "Bangunkerto (Bangun Kerto)",
+    "postal_code": "55551"
+  },
+  {
+    "id": 3404152002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340415,
+    "value": "Donokerto",
+    "postal_code": "55551"
+  },
+  {
+    "id": 3404152003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340415,
+    "value": "Girikerto (Giri Kerto)",
+    "postal_code": "55551"
+  },
+  {
+    "id": 3404152004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340415,
+    "value": "Wonokerto (Wono Kerto)",
+    "postal_code": "55551"
+  }
+]

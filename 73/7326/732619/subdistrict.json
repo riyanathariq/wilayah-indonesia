@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7326192003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732619,
+    "value": "Landorundun",
+    "postal_code": "91845"
+  },
+  {
+    "id": 7326192005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732619,
+    "value": "Lempo",
+    "postal_code": "91845"
+  },
+  {
+    "id": 7326192002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732619,
+    "value": "Sesean Matalo (Sesean Matallo)",
+    "postal_code": "91845"
+  },
+  {
+    "id": 7326192001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732619,
+    "value": "Suloara'",
+    "postal_code": "91845"
+  },
+  {
+    "id": 7326192004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732619,
+    "value": "Tonga Riu",
+    "postal_code": "91845"
+  }
+]

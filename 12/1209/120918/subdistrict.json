@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1209182013,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Aek Loba",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209182002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Aek Loba Afdeling I",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209181001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Aek Loba Pekan",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209182003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Alang Bombon (Bonbon)",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209182010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Lobbu Jior (Lobu Jiur)",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209182011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Rawa Sari",
+    "postal_code": "21273"
+  },
+  {
+    "id": 1209182009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120918,
+    "value": "Sengon Sari",
+    "postal_code": "21273"
+  }
+]

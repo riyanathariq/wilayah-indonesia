@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507332003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Ekapame",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Jilekme",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Kubagalo",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Odika",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Papani",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Wanome",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Yiluweneri",
+    "postal_code": "99571"
+  },
+  {
+    "id": 9507332002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950733,
+    "value": "Yubumabur",
+    "postal_code": "99571"
+  }
+]

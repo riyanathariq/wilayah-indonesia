@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3214172008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Cibeber",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Ciracas",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Gardu",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Karangpedas (Kiarapedes)",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Margaluyu",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Mekarjaya",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Parakangarokgek (Parakan Garokgek)",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Pusakamulya",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Sumbersari",
+    "postal_code": "41175"
+  },
+  {
+    "id": 3214172004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321417,
+    "value": "Taringgullandeuh (Taringgul Landeuh)",
+    "postal_code": "41175"
+  }
+]

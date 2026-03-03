@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8203052004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Gamsungi",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052014,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Gosoma",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Gura",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052012,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Kakara (Kakara A)",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052013,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Kumo",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052018,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "MKCM",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052015,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Rawajaya",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052024,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Tagalaya",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Wari",
+    "postal_code": "97762"
+  },
+  {
+    "id": 8203052025,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820305,
+    "value": "Wari Ino",
+    "postal_code": "97762"
+  }
+]

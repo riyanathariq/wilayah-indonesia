@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9501062010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Itlay Halitopo",
+    "postal_code": "99510"
+  },
+  {
+    "id": 9501062011,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Kubulakma",
+    "postal_code": "99510"
+  },
+  {
+    "id": 9501062012,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Kulaken",
+    "postal_code": "99510"
+  },
+  {
+    "id": 9501062002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Pugima",
+    "postal_code": "99510"
+  },
+  {
+    "id": 9501062001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Walelagama",
+    "postal_code": "99510"
+  },
+  {
+    "id": 9501062013,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950106,
+    "value": "Wamusage",
+    "postal_code": "99510"
+  }
+]

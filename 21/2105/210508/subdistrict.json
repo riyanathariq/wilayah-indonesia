@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2105082003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210508,
+    "value": "Bayat",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105082001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210508,
+    "value": "Mubur",
+    "postal_code": "29796"
+  },
+  {
+    "id": 2105082002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210508,
+    "value": "Piasan",
+    "postal_code": "29796"
+  }
+]

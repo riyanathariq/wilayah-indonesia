@@ -1,0 +1,234 @@
+[
+  {
+    "id": 5308012023,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Anaraja",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012011,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Bheramari",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012028,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Embuzozo",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012017,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Jegharangga (Jegharonggo)",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012027,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Jemburea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012024,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Kekandere",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Kerirea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012022,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Malawaru",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012021,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Mbobhenga",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012014,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Ndeturea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308011001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Ndorurea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012015,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Ndorurea I",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012009,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Nggorea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Ondorea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012018,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Ondorea Barat",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012016,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Penggajawa",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012010,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Raporendu",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012008,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Rapowawo",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012019,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Romarea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012013,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Sanggarhorho",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012025,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Tanazozo",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012026,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Tenda Ondo",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Tendambepa",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Tendarea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012020,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Timbaria",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012012,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Titwerea",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012029,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Uzuzozo",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Watumite",
+    "postal_code": "86351"
+  },
+  {
+    "id": 5308012007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530801,
+    "value": "Zozozea",
+    "postal_code": "86351"
+  }
+]

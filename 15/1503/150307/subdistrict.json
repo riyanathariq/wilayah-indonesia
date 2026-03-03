@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1503072007,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Bukit Suban",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072003,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Desa Baru",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072002,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Jernih",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072001,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Lubuk Jering",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072005,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Lubuk Kepayang",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072008,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Mentawak Baru",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072009,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Mentawak Ulu",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072006,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Pematang Kabau",
+    "postal_code": "37490"
+  },
+  {
+    "id": 1503072004,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150307,
+    "value": "Semurung",
+    "postal_code": "37490"
+  }
+]

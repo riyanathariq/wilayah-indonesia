@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9105102006,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Adiwipi",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102016,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Aiwaraggani",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102001,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Ambai I",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102008,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Ambai II",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102015,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Bairei",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Baisore",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102014,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Imboriawa",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Kawipi",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Mambawi",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102019,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Marawi",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102011,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Rondepi",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102017,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Toroa",
+    "postal_code": "98653"
+  },
+  {
+    "id": 9105102005,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910510,
+    "value": "Wamori",
+    "postal_code": "98653"
+  }
+]

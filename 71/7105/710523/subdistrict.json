@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7105232009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Kapoya Satu",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Kapoyah (Kapoya)",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Pinapalangkow (Pinapalangkon)",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Suluun Dua",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Suluun Empat",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Suluun Satu",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Suluun Tiga",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Talaitad",
+    "postal_code": "95952"
+  },
+  {
+    "id": 7105232008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710523,
+    "value": "Talaitad Utara",
+    "postal_code": "95952"
+  }
+]

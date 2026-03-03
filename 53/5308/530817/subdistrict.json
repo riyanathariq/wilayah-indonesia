@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5308172008,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Aebara",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Kelisamba",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Lungaria",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Maubasa",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172010,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Maubasa Barat",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Maubasa Timur",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Mole",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172009,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Ratemangga",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Serandori",
+    "postal_code": "86372"
+  },
+  {
+    "id": 5308172003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530817,
+    "value": "Wonda",
+    "postal_code": "86372"
+  }
+]

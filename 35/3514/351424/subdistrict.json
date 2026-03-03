@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3514242006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Baledono",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Kandangan",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Mororejo",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Ngadiwono",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Podokoyo",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Sedaeng",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Tosari",
+    "postal_code": "67177"
+  },
+  {
+    "id": 3514242005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351424,
+    "value": "Wonokitri",
+    "postal_code": "67177"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3210202007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Baribis",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Batujaya",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210201006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Cicenang",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210201004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Cigasong",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Karayunan",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Kawunghilir",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Kutamanggu",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210201005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Simpeureum",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Tajur",
+    "postal_code": "45476"
+  },
+  {
+    "id": 3210202003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321020,
+    "value": "Tenjolayar",
+    "postal_code": "45476"
+  }
+]

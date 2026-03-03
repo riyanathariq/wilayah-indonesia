@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3314142008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Bagor",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Brojol",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Doyong",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Geneng",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Gilirejo",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142010,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Gilirejo Baru",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Girimargo",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Jeruk",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Soko",
+    "postal_code": "57276"
+  },
+  {
+    "id": 3314142003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331414,
+    "value": "Sunggingan",
+    "postal_code": "57276"
+  }
+]

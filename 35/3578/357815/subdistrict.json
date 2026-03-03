@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3578151004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357815,
+    "value": "Dupak",
+    "postal_code": "60179"
+  },
+  {
+    "id": 3578151002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357815,
+    "value": "Kemayoran",
+    "postal_code": "60176"
+  },
+  {
+    "id": 3578151001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357815,
+    "value": "Krembangan Selatan",
+    "postal_code": "60175"
+  },
+  {
+    "id": 3578151005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357815,
+    "value": "Morokrembangan (Moro Krembangan)",
+    "postal_code": "60178"
+  },
+  {
+    "id": 3578151003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357815,
+    "value": "Perak Barat",
+    "postal_code": "60177"
+  }
+]

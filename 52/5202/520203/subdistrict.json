@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5202032005,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Aik Darek",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032007,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Barabali",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032008,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Beber",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032001,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Bujak",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032011,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Lendang Tampel",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032004,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Mantang",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032010,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Mekar Bersatu",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032009,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Pagutan",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032003,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Peresak",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032002,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Selebung",
+    "postal_code": "83552"
+  },
+  {
+    "id": 5202032006,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520203,
+    "value": "Tampak Siring",
+    "postal_code": "83552"
+  }
+]

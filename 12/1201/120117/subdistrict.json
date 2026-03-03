@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1201172001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Hutaginjang (Huta Ginjang)",
+    "postal_code": "22567"
+  },
+  {
+    "id": 1201172005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Pananggahan",
+    "postal_code": "22567"
+  },
+  {
+    "id": 1201172003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Parik Sinomba",
+    "postal_code": "22567"
+  },
+  {
+    "id": 1201172004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Purba Tua (Purbatua)",
+    "postal_code": "22567"
+  },
+  {
+    "id": 1201172006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Siharbangan",
+    "postal_code": "22567"
+  },
+  {
+    "id": 1201172002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120117,
+    "value": "Sihorbo",
+    "postal_code": "22567"
+  }
+]

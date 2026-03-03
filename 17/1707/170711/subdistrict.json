@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1707112001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Embong",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Embong I",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Kota Agung",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Kota Baru",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Lemeu / Limau",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Pangkalan",
+    "postal_code": "39268"
+  },
+  {
+    "id": 1707112007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170711,
+    "value": "Tangua",
+    "postal_code": "39268"
+  }
+]

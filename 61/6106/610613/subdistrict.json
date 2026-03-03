@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6106132004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Bajau Andai",
+    "postal_code": "78768"
+  },
+  {
+    "id": 6106132001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Keling Panggau",
+    "postal_code": "78768"
+  },
+  {
+    "id": 6106132005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Kumang Jaya",
+    "postal_code": "78768"
+  },
+  {
+    "id": 6106132006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Laja Sandang",
+    "postal_code": "78768"
+  },
+  {
+    "id": 6106132002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Nanga Kantuk",
+    "postal_code": "78768"
+  },
+  {
+    "id": 6106132003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610613,
+    "value": "Tintin Peninjau",
+    "postal_code": "78768"
+  }
+]

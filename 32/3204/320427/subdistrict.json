@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3204272004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Cihanyir",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Cikancung",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Cikasungka",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Ciluluk",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Hegarmanah",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Mandalasari",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Mekarlaksana",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Srirahayu",
+    "postal_code": "40396"
+  },
+  {
+    "id": 3204272008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320427,
+    "value": "Tanjunglaya",
+    "postal_code": "40396"
+  }
+]

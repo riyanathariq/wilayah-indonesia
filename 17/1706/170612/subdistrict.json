@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1706122001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Lalang Luas",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Lubuk Cabau",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Pondok Panjang",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Pondok Tengah",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Resno (Rasno)",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Sungai Lintang",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Sungai Rengas",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Talang Petai",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Talang Sakti",
+    "postal_code": "38757"
+  },
+  {
+    "id": 1706122008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170612,
+    "value": "Talang Sepakat",
+    "postal_code": "38757"
+  }
+]

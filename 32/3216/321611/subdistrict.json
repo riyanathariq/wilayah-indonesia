@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216112002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Cipayung",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Hegarmanah",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Jatibaru",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Jatireja",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Karangsari",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Labansari",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216111007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Sertajaya",
+    "postal_code": "17533"
+  },
+  {
+    "id": 3216112001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321611,
+    "value": "Tanjungbaru",
+    "postal_code": "17533"
+  }
+]

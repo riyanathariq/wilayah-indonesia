@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3404122006,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Donoharjo",
+    "postal_code": "55581"
+  },
+  {
+    "id": 3404122002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Minomartani",
+    "postal_code": "55581"
+  },
+  {
+    "id": 3404122005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Sardonoharjo",
+    "postal_code": "55581"
+  },
+  {
+    "id": 3404122001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Sariharjo (Sari Harjo)",
+    "postal_code": "55581"
+  },
+  {
+    "id": 3404122003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Sinduharjo",
+    "postal_code": "55581"
+  },
+  {
+    "id": 3404122004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340412,
+    "value": "Sukoharjo (Suko Harjo)",
+    "postal_code": "55581"
+  }
+]

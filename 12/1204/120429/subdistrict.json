@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1204292010,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Hiliborodano",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292009,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Hiligodu Somolo-Molo",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292003,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Huno (Hino)",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292002,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "I'odano (Iodano)",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292006,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Lewuoguru I",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292008,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Lewuombanua",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292007,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Sifaoro Asi (Sifaoroasi)",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292004,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Sisaratandrawa",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292001,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Sisobawino I",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292011,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "So'ewali",
+    "postal_code": "22871"
+  },
+  {
+    "id": 1204292005,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120429,
+    "value": "Somolo-Molo",
+    "postal_code": "22871"
+  }
+]

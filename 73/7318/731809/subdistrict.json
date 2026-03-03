@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318092009,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Makkodo",
+    "postal_code": "91874"
+  },
+  {
+    "id": 7318092004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Pongbembe",
+    "postal_code": "91874"
+  },
+  {
+    "id": 7318092010,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Puang Bembe Mesakada (Ponghembe)",
+    "postal_code": "91874"
+  },
+  {
+    "id": 7318091008,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Sima",
+    "postal_code": "91874"
+  },
+  {
+    "id": 7318092003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Simbuang",
+    "postal_code": "91874"
+  },
+  {
+    "id": 7318092006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731809,
+    "value": "Simbuang Batutallu (Simbuang Batuallo)",
+    "postal_code": "91874"
+  }
+]

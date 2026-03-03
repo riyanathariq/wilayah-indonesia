@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3402122002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Banguntapan",
+    "postal_code": "55198"
+  },
+  {
+    "id": 3402122001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Baturetno",
+    "postal_code": "55197"
+  },
+  {
+    "id": 3402122003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Jagalan",
+    "postal_code": "55192"
+  },
+  {
+    "id": 3402122005,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Jambidan",
+    "postal_code": "55195"
+  },
+  {
+    "id": 3402122006,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Potorono",
+    "postal_code": "55196"
+  },
+  {
+    "id": 3402122004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Singosaren",
+    "postal_code": "55193"
+  },
+  {
+    "id": 3402122007,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Tamanan",
+    "postal_code": "55191"
+  },
+  {
+    "id": 3402122008,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340212,
+    "value": "Wirokerten",
+    "postal_code": "55194"
+  }
+]

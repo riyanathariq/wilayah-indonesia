@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6204012004,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620401,
+    "value": "Rangga Ilung",
+    "postal_code": "73763"
+  },
+  {
+    "id": 6204012002,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620401,
+    "value": "Rantau Bahuang",
+    "postal_code": "73763"
+  },
+  {
+    "id": 6204011003,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620401,
+    "value": "Rantau Kujang",
+    "postal_code": "73763"
+  },
+  {
+    "id": 6204012005,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620401,
+    "value": "Tabatan",
+    "postal_code": "73763"
+  },
+  {
+    "id": 6204012001,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620401,
+    "value": "Tampulang",
+    "postal_code": "73763"
+  }
+]

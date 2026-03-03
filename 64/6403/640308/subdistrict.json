@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6403082001,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Biduk-Biduk",
+    "postal_code": "77373"
+  },
+  {
+    "id": 6403082009,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Giring-Giring",
+    "postal_code": "77373"
+  },
+  {
+    "id": 6403082002,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Pantai Harapan",
+    "postal_code": "77373"
+  },
+  {
+    "id": 6403082003,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Tanjung Prepat (Tanjung Perepat)",
+    "postal_code": "77373"
+  },
+  {
+    "id": 6403082008,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Teluk Sulaiman",
+    "postal_code": "77373"
+  },
+  {
+    "id": 6403082004,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640308,
+    "value": "Teluk Sumbang",
+    "postal_code": "77373"
+  }
+]

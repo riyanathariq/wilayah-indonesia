@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7503052002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Bandungan",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Boidu",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052015,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Bunuo",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052010,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Kopi",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Lomaya",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Longalo",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052012,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Suka Damai",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Tuloa",
+    "postal_code": "96544"
+  },
+  {
+    "id": 7503052003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750305,
+    "value": "Tupa",
+    "postal_code": "96544"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3510132001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Aliyan",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Bubuk",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132010,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Gitik",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Gladag",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132012,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Karangbendo (Karang Bendo)",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132018,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Kedaleman",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Lemahbangdewo (Lemahbang Dewo)",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Mangir",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132014,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Pengatigan (Pengantigan)",
+    "postal_code": "68462"
+  },
+  {
+    "id": 3510132013,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351013,
+    "value": "Rogojampi",
+    "postal_code": "68462"
+  }
+]

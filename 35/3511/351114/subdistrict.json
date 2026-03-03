@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3511142012,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Besuk",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Blimbing",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Karang Anyar (Karanganyar)",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Karang Sengon",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Klabang",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Klampokan",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142014,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Leprak",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142013,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Pandak",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142011,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Sumber Suko (Sumbersuko)",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142015,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Wonoboyo",
+    "postal_code": "68284"
+  },
+  {
+    "id": 3511142008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351114,
+    "value": "Wonokerto",
+    "postal_code": "68284"
+  }
+]

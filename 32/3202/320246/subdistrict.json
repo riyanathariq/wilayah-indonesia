@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202462005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Boregahindah (Boregah Indah)",
+    "postal_code": "43178"
+  },
+  {
+    "id": 3202462001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Cimanggu",
+    "postal_code": "43178"
+  },
+  {
+    "id": 3202462004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Karangmekar",
+    "postal_code": "43178"
+  },
+  {
+    "id": 3202462003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Sukajadi",
+    "postal_code": "43178"
+  },
+  {
+    "id": 3202462002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Sukamaju",
+    "postal_code": "43178"
+  },
+  {
+    "id": 3202462006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320246,
+    "value": "Sukamanah",
+    "postal_code": "43178"
+  }
+]

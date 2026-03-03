@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7304011001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Benteng",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012014,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Bontomanai",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304011004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Bontorannu",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012013,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Gunung Silanu",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012011,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Jenetallasa",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Kalimporo",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012009,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Kapita",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012008,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Mallasoro",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012010,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Marayoka",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Pallantikang",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304011002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Pallengu",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304011003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Pantai Bahari",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Punagaya",
+    "postal_code": "92352"
+  },
+  {
+    "id": 7304012012,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730401,
+    "value": "Tombo-Tombolo",
+    "postal_code": "92352"
+  }
+]

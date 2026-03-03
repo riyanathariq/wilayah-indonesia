@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8105092002,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Argam",
+    "postal_code": "97599"
+  },
+  {
+    "id": 8105092003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Lalasa",
+    "postal_code": "97599"
+  },
+  {
+    "id": 8105092004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Magat",
+    "postal_code": "97599"
+  },
+  {
+    "id": 8105092006,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Perik Basaranggi",
+    "postal_code": "97599"
+  },
+  {
+    "id": 8105092001,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Pulau Panjang",
+    "postal_code": "97599"
+  },
+  {
+    "id": 8105092005,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810509,
+    "value": "Ruku Ruku",
+    "postal_code": "97599"
+  }
+]

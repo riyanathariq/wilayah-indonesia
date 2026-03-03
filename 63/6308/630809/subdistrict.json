@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6308092003,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Ambahai",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092005,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Bararawa",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092006,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Pal Batu",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092001,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Paminggir",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092002,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Paminggir Seberang",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092004,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Sapala",
+    "postal_code": "71451"
+  },
+  {
+    "id": 6308092007,
+    "province_id": 63,
+    "regency_id": 6308,
+    "district_id": 630809,
+    "value": "Tampakang",
+    "postal_code": "71451"
+  }
+]

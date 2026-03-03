@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1401142003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Alam Panjang",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Batang Betindah (Batang Batindih)",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Bukit Keratai (Bukit Kratai)",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Pulau Payung",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Simpang Petai",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Tambusai",
+    "postal_code": "28458"
+  },
+  {
+    "id": 1401142002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140114,
+    "value": "Teratak",
+    "postal_code": "28458"
+  }
+]

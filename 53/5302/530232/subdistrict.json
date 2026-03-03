@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5302322005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Feto Mone",
+    "postal_code": "85544"
+  },
+  {
+    "id": 5302322001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Lill ana (Liliana)",
+    "postal_code": "85544"
+  },
+  {
+    "id": 5302322003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Noebesi",
+    "postal_code": "85544"
+  },
+  {
+    "id": 5302322002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Nunbena",
+    "postal_code": "85544"
+  },
+  {
+    "id": 5302322004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Taneotob",
+    "postal_code": "85544"
+  },
+  {
+    "id": 5302322006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530232,
+    "value": "Tunbes",
+    "postal_code": "85544"
+  }
+]

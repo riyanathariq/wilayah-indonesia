@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5302122004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530212,
+    "value": "Fatumnasi",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302122009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530212,
+    "value": "Kuanoel",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302122010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530212,
+    "value": "Mutis",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302122001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530212,
+    "value": "Nenas",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302122005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530212,
+    "value": "Nuapin",
+    "postal_code": "85561"
+  }
+]

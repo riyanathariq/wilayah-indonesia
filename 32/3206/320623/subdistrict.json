@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3206232003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Bojongsari",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Cinunjang",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Giriwangi",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Gunungtanjung (Gunung Tanjung)",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Jatijaya",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Malatisuka",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206232005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320623,
+    "value": "Tanjungsari",
+    "postal_code": "46418"
+  }
+]

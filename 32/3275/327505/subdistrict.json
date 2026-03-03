@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3275051001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327505,
+    "value": "Bojong Rawalumbu",
+    "postal_code": "17116"
+  },
+  {
+    "id": 3275051004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327505,
+    "value": "Bojongmenteng (Bojong Menteng)",
+    "postal_code": "17117"
+  },
+  {
+    "id": 3275051002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327505,
+    "value": "Pengasinan",
+    "postal_code": "17115"
+  },
+  {
+    "id": 3275051003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327505,
+    "value": "Sepanjangjaya (Sepanjang Jaya)",
+    "postal_code": "17114"
+  }
+]

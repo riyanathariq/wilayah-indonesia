@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271091006,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927109,
+    "value": "Klabulu",
+    "postal_code": "98419"
+  },
+  {
+    "id": 9271091001,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927109,
+    "value": "Klagete",
+    "postal_code": "98419"
+  },
+  {
+    "id": 9271091004,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927109,
+    "value": "Malaingkedi",
+    "postal_code": "98419"
+  },
+  {
+    "id": 9271091005,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927109,
+    "value": "Malamso",
+    "postal_code": "98419"
+  }
+]

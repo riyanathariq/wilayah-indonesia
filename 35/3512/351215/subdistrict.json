@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3512152006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Alastengah (Alas Tengah)",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Baderan",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Kalirejo",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152009,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Plalangan",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Sumberargo",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Taman",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Tamankursi",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Tamansari (Taman Sari)",
+    "postal_code": "68355"
+  },
+  {
+    "id": 3512152008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351215,
+    "value": "Tlogosari",
+    "postal_code": "68355"
+  }
+]

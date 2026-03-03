@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3274011004,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327401,
+    "value": "Kebonbaru",
+    "postal_code": "45121"
+  },
+  {
+    "id": 3274011001,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327401,
+    "value": "Kejaksan",
+    "postal_code": "45123"
+  },
+  {
+    "id": 3274011003,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327401,
+    "value": "Kesenden",
+    "postal_code": "45121"
+  },
+  {
+    "id": 3274011002,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327401,
+    "value": "Sukapura",
+    "postal_code": "45122"
+  }
+]

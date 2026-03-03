@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1372011006,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "Aro IV Korong",
+    "postal_code": "27317"
+  },
+  {
+    "id": 1372011004,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "IX Korong",
+    "postal_code": "27314"
+  },
+  {
+    "id": 1372011005,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "Kampai Tabu Kerambil/Karambia",
+    "postal_code": "27315"
+  },
+  {
+    "id": 1372011007,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "Simpang Rumbio",
+    "postal_code": "27316"
+  },
+  {
+    "id": 1372011003,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "Sinapa Piliang",
+    "postal_code": "27313"
+  },
+  {
+    "id": 1372011001,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "Tanah Garam",
+    "postal_code": "27312"
+  },
+  {
+    "id": 1372011002,
+    "province_id": 13,
+    "regency_id": 1372,
+    "district_id": 137201,
+    "value": "VI Suku",
+    "postal_code": "27311"
+  }
+]

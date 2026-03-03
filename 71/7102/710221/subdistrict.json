@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7102212008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Dua",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102212010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Dua Barat",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102212009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Dua Timur",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102212005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Satu",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102212007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Satu Barat",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102212006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Kiawa Satu Utara",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102211001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Talikuran",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102211003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Talikuran Barat",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102211002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Talikuran Utara",
+    "postal_code": "95699"
+  },
+  {
+    "id": 7102211004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710221,
+    "value": "Uner",
+    "postal_code": "95699"
+  }
+]

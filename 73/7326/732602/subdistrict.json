@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7326021001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Bori",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326022008,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Bori' Lombongan (Bori Lombongan)",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326022007,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Bori' Ranteletok",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326022003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Buntu Lobo",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326021005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Deri' (Deri)",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326021004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Palawa' (Palawa)",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326021002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Pangli (Pangli Palawa)",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326021009,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Pangli Selatan",
+    "postal_code": "91844"
+  },
+  {
+    "id": 7326022006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732602,
+    "value": "Parinding",
+    "postal_code": "91844"
+  }
+]

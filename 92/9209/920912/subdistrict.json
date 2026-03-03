@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9209122016,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Arekon",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Arfu",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Atori",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Bawey",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122017,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Bonpaya",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122018,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Marbuan",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Meriambeker",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122015,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Warokon",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Waru",
+    "postal_code": "98385"
+  },
+  {
+    "id": 9209122003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920912,
+    "value": "Wasnembri",
+    "postal_code": "98385"
+  }
+]

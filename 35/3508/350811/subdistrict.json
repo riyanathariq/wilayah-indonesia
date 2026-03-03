@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3508112004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Jambearum",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Jambekumbu",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Karanganom",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Kertosari",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Pagowan",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Pasrujambe (Pasujambe)",
+    "postal_code": "67361"
+  },
+  {
+    "id": 3508112003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350811,
+    "value": "Sukorejo",
+    "postal_code": "67361"
+  }
+]

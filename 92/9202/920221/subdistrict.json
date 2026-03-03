@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9202212001,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Kaironi",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212004,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Kasi (Kassi)",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212011,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Manggupi",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212008,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Meyof I",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212005,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Saray",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212002,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Sidey",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212006,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Sidey Baru",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212012,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Sidey Jaya",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212007,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Sidey Makmur",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212010,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Wamnowi (Womnowi)",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212003,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Waramui (Waramoi)",
+    "postal_code": "98319"
+  },
+  {
+    "id": 9202212009,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920221,
+    "value": "Wariki",
+    "postal_code": "98319"
+  }
+]

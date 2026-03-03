@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9103112001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910311,
+    "value": "Lapua",
+    "postal_code": "99364"
+  },
+  {
+    "id": 9103112002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910311,
+    "value": "Sebum",
+    "postal_code": "99364"
+  },
+  {
+    "id": 9103112003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910311,
+    "value": "Soskotek",
+    "postal_code": "99364"
+  },
+  {
+    "id": 9103112006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910311,
+    "value": "Umbron",
+    "postal_code": "99364"
+  },
+  {
+    "id": 9103112004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910311,
+    "value": "Yadouw (Yadauw)",
+    "postal_code": "99364"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1207282006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Bakaran Batu",
+    "postal_code": "20511"
+  },
+  {
+    "id": 1207281010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Cemara",
+    "postal_code": "20517"
+  },
+  {
+    "id": 1207281007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Lubuk Pakam I-II",
+    "postal_code": "20511"
+  },
+  {
+    "id": 1207281008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Lubuk Pakam III (Lubuk Pakam Tiga)",
+    "postal_code": "20516"
+  },
+  {
+    "id": 1207281013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Lubuk Pakam Pekan",
+    "postal_code": "20512"
+  },
+  {
+    "id": 1207282002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Pagar Jati",
+    "postal_code": "20518"
+  },
+  {
+    "id": 1207282005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Pagar Merbau III (Pagar Merbau Tiga)",
+    "postal_code": "20515"
+  },
+  {
+    "id": 1207281009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Paluh Kemiri",
+    "postal_code": "20513"
+  },
+  {
+    "id": 1207282004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Pasar Melintang",
+    "postal_code": "20518"
+  },
+  {
+    "id": 1207281012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Petapahan",
+    "postal_code": "20514"
+  },
+  {
+    "id": 1207282001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Sekip",
+    "postal_code": "20517"
+  },
+  {
+    "id": 1207281011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Syahmad",
+    "postal_code": "20515"
+  },
+  {
+    "id": 1207282003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120728,
+    "value": "Tanjung Garbus I (Tanjung Garbus)",
+    "postal_code": "20511"
+  }
+]

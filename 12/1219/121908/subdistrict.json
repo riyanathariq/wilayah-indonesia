@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219082005,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Dewi Sri",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082010,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Kandangan",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082002,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Laut Tador",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082008,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Mekar Sari",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082003,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Pelanggiran Laut Tador",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082004,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Perkebunan Tanjung Kasau",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082009,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Sei Simujur",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082006,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Tanjung Kasau",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Tanjung Parapat",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219082007,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121908,
+    "value": "Tanjung Seri",
+    "postal_code": "21257"
+  }
+]

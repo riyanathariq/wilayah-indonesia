@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7174021008,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Kobo Besar",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174022002,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Kobo Kecil",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174021003,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Kotobangun (Kotobangon / Kotabangon)",
+    "postal_code": "95712"
+  },
+  {
+    "id": 7174021006,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Matali",
+    "postal_code": "95718"
+  },
+  {
+    "id": 7174021007,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Motoboi Besar",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174022001,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Moyag",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174022009,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Moyag Tampoan",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174022010,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Moyag Todulan",
+    "postal_code": "95719"
+  },
+  {
+    "id": 7174021005,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Sinindian",
+    "postal_code": "95718"
+  },
+  {
+    "id": 7174021004,
+    "province_id": 71,
+    "regency_id": 7174,
+    "district_id": 717402,
+    "value": "Tumubui / Tomobui (Tumobuy)",
+    "postal_code": "95716"
+  }
+]

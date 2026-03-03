@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9302202004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Biwage",
+    "postal_code": "99654"
+  },
+  {
+    "id": 9302202005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Biwage Dua",
+    "postal_code": "99654"
+  },
+  {
+    "id": 9302202002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Kawagit",
+    "postal_code": "99654"
+  },
+  {
+    "id": 9302202003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Kombai",
+    "postal_code": "99654"
+  },
+  {
+    "id": 9302202006,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Niop",
+    "postal_code": "99654"
+  },
+  {
+    "id": 9302202001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930220,
+    "value": "Wanggom",
+    "postal_code": "99654"
+  }
+]

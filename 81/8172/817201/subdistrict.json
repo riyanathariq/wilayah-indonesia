@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8172012003,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Dullah (Darat)",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012008,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Dullah Laut",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012001,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Fiditan",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012004,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Labetawi",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012002,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Ngadi",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012006,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Ohoitahit",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012007,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Ohoitel",
+    "postal_code": "97612"
+  },
+  {
+    "id": 8172012005,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817201,
+    "value": "Tamedan",
+    "postal_code": "97612"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9303142007,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Bifo",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Busiri",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Haku",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Honya",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Keta",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142008,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Samurukie",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Veta",
+    "postal_code": "99877"
+  },
+  {
+    "id": 9303142001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930314,
+    "value": "Wonggi",
+    "postal_code": "99877"
+  }
+]

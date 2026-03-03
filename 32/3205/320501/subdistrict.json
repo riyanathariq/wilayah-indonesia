@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3205011011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Cimuncang",
+    "postal_code": "44113"
+  },
+  {
+    "id": 3205011007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Ciwalen",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205011001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Kota Kulon (Kotakulon)",
+    "postal_code": "44112"
+  },
+  {
+    "id": 3205011002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Kota Wetan (Kotawetan)",
+    "postal_code": "44111"
+  },
+  {
+    "id": 3205011003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Margawati",
+    "postal_code": "44113"
+  },
+  {
+    "id": 3205011005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Muara Sanding",
+    "postal_code": "44119"
+  },
+  {
+    "id": 3205011004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Pakuwon",
+    "postal_code": "44117"
+  },
+  {
+    "id": 3205011008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Paminggir",
+    "postal_code": "44118"
+  },
+  {
+    "id": 3205011009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Regol",
+    "postal_code": "44114"
+  },
+  {
+    "id": 3205011006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Sukamentri (Sukamantri)",
+    "postal_code": "44116"
+  },
+  {
+    "id": 3205011010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320501,
+    "value": "Sukanegla",
+    "postal_code": "44111"
+  }
+]

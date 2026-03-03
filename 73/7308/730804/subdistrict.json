@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7308042006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Bellu",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Gattareng",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Malimongeng",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Manera",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Mappatoba",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308041001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Pancaitana",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Tebba",
+    "postal_code": "92775"
+  },
+  {
+    "id": 7308042004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730804,
+    "value": "Ulubalang (Ulu Balang)",
+    "postal_code": "92775"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 531807,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Kodi"
+  },
+  {
+    "id": 531811,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Kodi Balaghar"
+  },
+  {
+    "id": 531806,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Kodi Bangedo"
+  },
+  {
+    "id": 531808,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Kodi Utara"
+  },
+  {
+    "id": 531809,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Kota Tambolaka"
+  },
+  {
+    "id": 531801,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Loura"
+  },
+  {
+    "id": 531804,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Wewewa Barat"
+  },
+  {
+    "id": 531805,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Wewewa Selatan"
+  },
+  {
+    "id": 531810,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Wewewa Tengah"
+  },
+  {
+    "id": 531803,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Wewewa Timur"
+  },
+  {
+    "id": 531802,
+    "province_id": 53,
+    "regency_id": 5318,
+    "value": "Wewewa Utara"
+  }
+]

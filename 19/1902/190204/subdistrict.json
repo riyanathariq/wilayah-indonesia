@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1902042006,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Air Selumar",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042004,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Air Seruk (Air Seru)",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042002,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Batu Itam",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042008,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Keciput",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042009,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Pelepak Pute",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042001,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Sijuk",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042007,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Sungai Padang",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042010,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Tanjong Tinggi",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042005,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Tanjung Binga",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902042003,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190204,
+    "value": "Terong",
+    "postal_code": "33414"
+  }
+]

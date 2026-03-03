@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1304142001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130414,
+    "value": "Batu Taba",
+    "postal_code": "27266"
+  },
+  {
+    "id": 1304142004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130414,
+    "value": "Guguak Malalo",
+    "postal_code": "27266"
+  },
+  {
+    "id": 1304142003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130414,
+    "value": "Padang Laweh Malalo",
+    "postal_code": "27266"
+  },
+  {
+    "id": 1304142002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130414,
+    "value": "Sumpur",
+    "postal_code": "27266"
+  }
+]

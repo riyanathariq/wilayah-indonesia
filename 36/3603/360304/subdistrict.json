@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3603042009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Ancol Pasir",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Daru",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Jambe",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Kutruk",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Mekarsari",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Pasir Barat",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Ranca Buaya (Rancabuaya)",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Sukamanah (Suka Manah)",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Taban",
+    "postal_code": "15720"
+  },
+  {
+    "id": 3603042003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360304,
+    "value": "Tipar Raya (Tipar Jaya / Tiparraya)",
+    "postal_code": "15720"
+  }
+]

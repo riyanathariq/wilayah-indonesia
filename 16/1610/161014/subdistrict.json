@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1610142002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Beringin Dalam",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Ibul Dalam",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Kayu Ara",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Kuang Dalam Barat",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Kuang Dalam Timur",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Lubuk Tunggal",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Suka Tangai",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Sunur",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Tambang Rambang",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Tangai/Sukananti",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Tanjung Bulan",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Tanjung Miring",
+    "postal_code": "30869"
+  },
+  {
+    "id": 1610142005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161014,
+    "value": "Ulak Segara",
+    "postal_code": "30869"
+  }
+]

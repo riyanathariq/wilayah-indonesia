@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1812062001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Agung Jaya",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Balam Asri",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Balam Jaya",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Indraloka I",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Indraloka II",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Indraloka Jaya",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062009,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Indraloka Mukti",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Mercu Buana",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Pagar Buana",
+    "postal_code": "34788"
+  },
+  {
+    "id": 1812062010,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181206,
+    "value": "Sido Agung",
+    "postal_code": "34788"
+  }
+]

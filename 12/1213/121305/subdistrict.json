@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1213052001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Barbaran",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Barbaran Jae",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Batang Gadis",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Batang Gadis Jae",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Huta Baringin",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Huta Tonga BB",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213051006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Longat",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Runding (Ruding)",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Saba Jior",
+    "postal_code": "22911"
+  },
+  {
+    "id": 1213052008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121305,
+    "value": "Sirambas",
+    "postal_code": "22911"
+  }
+]

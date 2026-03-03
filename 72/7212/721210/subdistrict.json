@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7212102004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Maralee",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Moleono",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Mondowe",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Onepute",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Sampalowo",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Tadaku Jaya",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Tiu",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Togo Mulyo (Togomulyo)",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Tontowea",
+    "postal_code": "94970"
+  },
+  {
+    "id": 7212102009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721210,
+    "value": "Ulu Laa",
+    "postal_code": "94970"
+  }
+]

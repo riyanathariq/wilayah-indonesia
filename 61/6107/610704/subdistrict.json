@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6107042006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Bani Amas/Emas",
+    "postal_code": "79211"
+  },
+  {
+    "id": 6107042004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Bhakti/Bakti Mulya",
+    "postal_code": "79213"
+  },
+  {
+    "id": 6107041001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Bumi Emas",
+    "postal_code": "79212"
+  },
+  {
+    "id": 6107041010,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Sabalo (Sebalo)",
+    "postal_code": "79211"
+  },
+  {
+    "id": 6107042009,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Setia Budi",
+    "postal_code": "79211"
+  },
+  {
+    "id": 6107042003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610704,
+    "value": "Tirta Kencana",
+    "postal_code": "79211"
+  }
+]

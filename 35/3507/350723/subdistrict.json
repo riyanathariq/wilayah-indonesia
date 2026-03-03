@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3507232005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Ampeldento",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Bocek",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Donowarih",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Girimoyo",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Kepuharjo",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Ngenep",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Ngijo",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Tawangargo",
+    "postal_code": "65152"
+  },
+  {
+    "id": 3507232001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350723,
+    "value": "Tegalgondo",
+    "postal_code": "65152"
+  }
+]

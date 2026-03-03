@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3374051010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Bangetayu Kulon",
+    "postal_code": "50115"
+  },
+  {
+    "id": 3374051011,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Bangetayu Wetan",
+    "postal_code": "50115"
+  },
+  {
+    "id": 3374051005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Banjardowo",
+    "postal_code": "50117"
+  },
+  {
+    "id": 3374051006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Gebangsari",
+    "postal_code": "50117"
+  },
+  {
+    "id": 3374051004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Genuksari",
+    "postal_code": "50231"
+  },
+  {
+    "id": 3374051003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Karangroto",
+    "postal_code": "50117"
+  },
+  {
+    "id": 3374051002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Kudu",
+    "postal_code": "50116"
+  },
+  {
+    "id": 3374051009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Muktiharjo Lor",
+    "postal_code": "50111"
+  },
+  {
+    "id": 3374051008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Penggaron Lor",
+    "postal_code": "50113"
+  },
+  {
+    "id": 3374051001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Sembungharjo",
+    "postal_code": "50116"
+  },
+  {
+    "id": 3374051012,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Terboyo Kulon",
+    "postal_code": "50112"
+  },
+  {
+    "id": 3374051013,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Terboyo Wetan",
+    "postal_code": "50112"
+  },
+  {
+    "id": 3374051007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337405,
+    "value": "Trimulyo",
+    "postal_code": "50118"
+  }
+]

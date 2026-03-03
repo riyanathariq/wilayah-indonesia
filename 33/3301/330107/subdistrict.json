@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3301072008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Glempang",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Kalijaran",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Karangkemiri",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Karangreja",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Karangrena",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Klapagada",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Maos Kidul",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Maos Lor",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Mernek",
+    "postal_code": "53272"
+  },
+  {
+    "id": 3301072007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330107,
+    "value": "Panisihan (Penisihan)",
+    "postal_code": "53272"
+  }
+]

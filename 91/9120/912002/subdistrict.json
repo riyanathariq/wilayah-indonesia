@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9120022001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Dabra",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Dou",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022008,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Fokri",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Fuao",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022004,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Pepasena I",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Pepasena II",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Taiyeve",
+    "postal_code": "98694"
+  },
+  {
+    "id": 9120022015,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912002,
+    "value": "Taria",
+    "postal_code": "98695"
+  }
+]

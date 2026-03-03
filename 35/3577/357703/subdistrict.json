@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3577031003,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Banjarejo",
+    "postal_code": "63137"
+  },
+  {
+    "id": 3577031008,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Demangan",
+    "postal_code": "63136"
+  },
+  {
+    "id": 3577031007,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Josenan",
+    "postal_code": "63134"
+  },
+  {
+    "id": 3577031006,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Kejuron",
+    "postal_code": "63132"
+  },
+  {
+    "id": 3577031004,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Kuncen",
+    "postal_code": "63135"
+  },
+  {
+    "id": 3577031005,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Manisrejo",
+    "postal_code": "63138"
+  },
+  {
+    "id": 3577031001,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Mojorejo",
+    "postal_code": "63139"
+  },
+  {
+    "id": 3577031002,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Pandean",
+    "postal_code": "63133"
+  },
+  {
+    "id": 3577031009,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357703,
+    "value": "Taman",
+    "postal_code": "63131"
+  }
+]

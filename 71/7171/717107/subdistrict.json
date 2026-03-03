@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7171071004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Bumi Nyiur",
+    "postal_code": "95117"
+  },
+  {
+    "id": 7171071009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Karombasan Selatan",
+    "postal_code": "95117"
+  },
+  {
+    "id": 7171071008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Karombasan Utara",
+    "postal_code": "95117"
+  },
+  {
+    "id": 7171071003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Pakowa",
+    "postal_code": "95119"
+  },
+  {
+    "id": 7171071005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Ranotana Weru",
+    "postal_code": "95118"
+  },
+  {
+    "id": 7171071002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Tanjung Batu",
+    "postal_code": "95117"
+  },
+  {
+    "id": 7171071006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Teling Atas",
+    "postal_code": "95119"
+  },
+  {
+    "id": 7171071007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Tingkulu",
+    "postal_code": "95117"
+  },
+  {
+    "id": 7171071001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717107,
+    "value": "Wanea",
+    "postal_code": "95117"
+  }
+]

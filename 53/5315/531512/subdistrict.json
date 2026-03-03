@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5315122007,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Compang Kules",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122001,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Golo Lewe",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122006,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Golo Riwu",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122009,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Golo Wedong",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122005,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Kolang",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122010,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Ranggu",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122003,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Sompang Kolang",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122008,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Tengku",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122002,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Tueng",
+    "postal_code": "86751"
+  },
+  {
+    "id": 5315122004,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531512,
+    "value": "Wajur",
+    "postal_code": "86751"
+  }
+]

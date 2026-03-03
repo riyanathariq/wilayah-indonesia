@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7172071003,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Bitung Barat Dua (II)",
+    "postal_code": "95511"
+  },
+  {
+    "id": 7172071001,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Bitung Barat Satu (I)",
+    "postal_code": "95511"
+  },
+  {
+    "id": 7172071004,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Bitung Tengah",
+    "postal_code": "95521"
+  },
+  {
+    "id": 7172071005,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Bitung Timur",
+    "postal_code": "95522"
+  },
+  {
+    "id": 7172071007,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Kakenturan Dua (Kekenturan Dua / II)",
+    "postal_code": "95523"
+  },
+  {
+    "id": 7172071006,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Kakenturan Satu (Kekenturan Satu / I)",
+    "postal_code": "95523"
+  },
+  {
+    "id": 7172071002,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Pakadoodan",
+    "postal_code": "95512"
+  },
+  {
+    "id": 7172071008,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717207,
+    "value": "Pateten Tiga",
+    "postal_code": "95512"
+  }
+]

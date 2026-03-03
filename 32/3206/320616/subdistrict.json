@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3206162002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Cibalanarik",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Cikeusal",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Cilolohan",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Cintajaya",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Sukanagara",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Sukasenang",
+    "postal_code": "46184"
+  },
+  {
+    "id": 3206162004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320616,
+    "value": "Tanjungjaya",
+    "postal_code": "46184"
+  }
+]

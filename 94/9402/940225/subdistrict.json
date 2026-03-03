@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9402252001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Dagai",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Dagai Dua",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Debite",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Deide",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Farride",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252010,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Gueri",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Mandara Lani",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Mbomban",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Soi",
+    "postal_code": "98941"
+  },
+  {
+    "id": 9402252007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940225,
+    "value": "Yeihineri (Yeihneri)",
+    "postal_code": "98941"
+  }
+]

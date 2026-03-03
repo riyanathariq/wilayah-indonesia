@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1603232006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Belimbing",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Belimbing Jaya",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Berugo",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Bulang",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Cinta Kasih",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Dalam",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Darmo Kasih",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Simpang Tanjung",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Tanjung",
+    "postal_code": "31352"
+  },
+  {
+    "id": 1603232004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160323,
+    "value": "Teluk Lubuk",
+    "postal_code": "31352"
+  }
+]

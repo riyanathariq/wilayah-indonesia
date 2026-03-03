@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1902012014,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Aik Ketekok",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902012013,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Aik Pelempang Jaya (Aik Palempang Jaya)",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902012015,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Aik Rayak",
+    "postal_code": "33413"
+  },
+  {
+    "id": 1902012012,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Air Merbau",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902012010,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Air Saga",
+    "postal_code": "33415"
+  },
+  {
+    "id": 1902012003,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Buluh Tumbang",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902012007,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Dukong",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902012008,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Juru Seberang",
+    "postal_code": "33417"
+  },
+  {
+    "id": 1902011016,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Kampong Damai",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902011001,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Kota",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902011005,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Lesung Batang",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902011011,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Paal Satu",
+    "postal_code": "33414"
+  },
+  {
+    "id": 1902011006,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Pangkallalang",
+    "postal_code": "33412"
+  },
+  {
+    "id": 1902011002,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Parit",
+    "postal_code": "33411"
+  },
+  {
+    "id": 1902012004,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Perawas",
+    "postal_code": "33413"
+  },
+  {
+    "id": 1902011009,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190201,
+    "value": "Tanjungpendam",
+    "postal_code": "33411"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5306192007,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Bubuatagamu (Bubu Atagamu)",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192001,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Kalike / Kelike",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192002,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Kalike / Kelike Aimatan",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192004,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Kenere",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192005,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Lemanu",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192006,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Lewograran",
+    "postal_code": "86273"
+  },
+  {
+    "id": 5306192003,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530619,
+    "value": "Sulengwaseng",
+    "postal_code": "86273"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3402142001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340214,
+    "value": "Sitimulyo",
+    "postal_code": "55792"
+  },
+  {
+    "id": 3402142003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340214,
+    "value": "Srimartani",
+    "postal_code": "55792"
+  },
+  {
+    "id": 3402142002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340214,
+    "value": "Srimulyo",
+    "postal_code": "55792"
+  }
+]

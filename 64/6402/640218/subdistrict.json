@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6402182004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Enggelam",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Lebak Cilong",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Lebak Mantan",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Melintang",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Muara Enggelam",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Muara Wis",
+    "postal_code": "75559"
+  },
+  {
+    "id": 6402182002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640218,
+    "value": "Sebemban",
+    "postal_code": "75559"
+  }
+]

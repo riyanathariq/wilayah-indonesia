@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3204321002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Andir",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204321001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Baleendah",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204322005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Bojongmalaka",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204321004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Jelekong",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204322007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Malakasari",
+    "postal_code": "40258"
+  },
+  {
+    "id": 3204321003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Manggahang",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204322006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Rancamanyar",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204321008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320432,
+    "value": "Wargamekar",
+    "postal_code": "40375"
+  }
+]

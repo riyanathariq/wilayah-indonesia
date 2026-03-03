@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6109052009,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Empajak",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052003,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Entabuk",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052005,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Kumpang Bis",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052011,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Melanjan Raya",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052006,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Menawai Tekam",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052008,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Merbang",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052007,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Semadu",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052010,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Sepantak",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052002,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Sungai Ayak Dua",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052001,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Sungai Ayak Satu",
+    "postal_code": "79586"
+  },
+  {
+    "id": 6109052004,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610905,
+    "value": "Tapang Pulau",
+    "postal_code": "79586"
+  }
+]

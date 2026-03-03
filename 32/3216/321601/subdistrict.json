@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216012004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Pahlawan Setia",
+    "postal_code": "17216"
+  },
+  {
+    "id": 3216012008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Pantai Makmur",
+    "postal_code": "17212"
+  },
+  {
+    "id": 3216012003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Pusaka Rakyat",
+    "postal_code": "17214"
+  },
+  {
+    "id": 3216012001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Sagara Makmur (Segara Makmur)",
+    "postal_code": "17211"
+  },
+  {
+    "id": 3216012006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Samudra Jaya",
+    "postal_code": "17217"
+  },
+  {
+    "id": 3216012002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Segarajaya (Segara Jaya)",
+    "postal_code": "17218"
+  },
+  {
+    "id": 3216012007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Setia Asih",
+    "postal_code": "17215"
+  },
+  {
+    "id": 3216012005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321601,
+    "value": "Setia Mulya",
+    "postal_code": "17213"
+  }
+]

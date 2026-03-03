@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206042001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920604,
+    "value": "Aranday (Arandai)",
+    "postal_code": "98151"
+  },
+  {
+    "id": 9206042007,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920604,
+    "value": "Baru (Kampung Baru)",
+    "postal_code": "98151"
+  },
+  {
+    "id": 9206042008,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920604,
+    "value": "Kecap",
+    "postal_code": "98151"
+  },
+  {
+    "id": 9206042009,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920604,
+    "value": "Manunggal Karya/Jaya",
+    "postal_code": "98151"
+  }
+]

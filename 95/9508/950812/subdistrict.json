@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9508122005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Aptam",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122011,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Bone",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Eregenmanggal",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Lemurak",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Meborok",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Narugum",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Ngenamba",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Olunmu",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122014,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Pereki",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Sabiem",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Setmit",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122010,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Siginimarem",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Talpam",
+    "postal_code": "99912"
+  },
+  {
+    "id": 9508122002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950812,
+    "value": "Yuguru",
+    "postal_code": "99912"
+  }
+]

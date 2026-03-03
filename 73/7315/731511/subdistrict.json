@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7315111006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Benteng Sawito (Benteng Sawitto)",
+    "postal_code": "91215"
+  },
+  {
+    "id": 7315111005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Laleng Bata",
+    "postal_code": "91215"
+  },
+  {
+    "id": 7315111002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Macinnae",
+    "postal_code": "91214"
+  },
+  {
+    "id": 7315111004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Mamminasae",
+    "postal_code": "91215"
+  },
+  {
+    "id": 7315111001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Pacongang",
+    "postal_code": "91215"
+  },
+  {
+    "id": 7315111003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731511,
+    "value": "Temmassarangnge",
+    "postal_code": "91213"
+  }
+]

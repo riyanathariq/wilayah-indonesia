@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8108062021,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Amau",
+    "postal_code": "97446"
+  },
+  {
+    "id": 8108062023,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Hiay",
+    "postal_code": "97446"
+  },
+  {
+    "id": 8108062002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Ilputih",
+    "postal_code": "97446"
+  },
+  {
+    "id": 8108062001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Ilwaki",
+    "postal_code": "97446"
+  },
+  {
+    "id": 8108062003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Mahuan",
+    "postal_code": "97446"
+  },
+  {
+    "id": 8108062004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810806,
+    "value": "Masapun",
+    "postal_code": "97446"
+  }
+]

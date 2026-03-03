@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1204282007,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Atualuo",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282001,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Balodano",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282009,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Dekha",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282005,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Lasara Siwalu Banua",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282008,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Lewa Lewa (Lewa - Lewa)",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282002,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Lewuoguru II (Lewu Oguru II / Lewuaguru II)",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282003,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Sihare'o III (Sihaero III)",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282010,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Sihare'o III Bawosalo'o Berua",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282011,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Sihare'o III Hilibadalu",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282004,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Sisarahilima'u (Sisarahili Ma U)",
+    "postal_code": "22855"
+  },
+  {
+    "id": 1204282006,
+    "province_id": 12,
+    "regency_id": 1204,
+    "district_id": 120428,
+    "value": "Tuhemberua",
+    "postal_code": "22855"
+  }
+]

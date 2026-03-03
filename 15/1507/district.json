@@ -1,0 +1,68 @@
+[
+  {
+    "id": 150711,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Berbak"
+  },
+  {
+    "id": 150706,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Dendang"
+  },
+  {
+    "id": 150710,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Geragai"
+  },
+  {
+    "id": 150708,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Kuala Jambi"
+  },
+  {
+    "id": 150703,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Mendahara"
+  },
+  {
+    "id": 150709,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Mendahara Ulu"
+  },
+  {
+    "id": 150707,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Muara Sabak Barat"
+  },
+  {
+    "id": 150701,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Muara Sabak Timur"
+  },
+  {
+    "id": 150702,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Nipah Panjang"
+  },
+  {
+    "id": 150704,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Rantau Rasau"
+  },
+  {
+    "id": 150705,
+    "province_id": 15,
+    "regency_id": 1507,
+    "value": "Sadu"
+  }
+]

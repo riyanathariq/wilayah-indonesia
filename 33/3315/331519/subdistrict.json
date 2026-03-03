@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3315192008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Brabo",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Kaliwenang",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Kapung",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Mrisi",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Ngambakrejo",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Padang",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Ringinpitu",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Sugihmanik",
+    "postal_code": "58166"
+  },
+  {
+    "id": 3315192007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331519,
+    "value": "Tanggungharjo",
+    "postal_code": "58166"
+  }
+]

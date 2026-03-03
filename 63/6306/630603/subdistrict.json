@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6306032004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Ambutun",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032009,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Gumbil",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Hamak",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Hamak Timur",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Hamak Utara",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Lok Binuang",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032010,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Longawang",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Mandala",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032008,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Pakuan Timur",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032011,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Pandulangan",
+    "postal_code": "71292"
+  },
+  {
+    "id": 6306032002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630603,
+    "value": "Telaga Langsat",
+    "postal_code": "71292"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9507132007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Abua",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Golikme",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Gumagame",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Ninabua",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Ninengwa",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Tepogi",
+    "postal_code": "99598"
+  },
+  {
+    "id": 9507132005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950713,
+    "value": "Weri",
+    "postal_code": "99598"
+  }
+]

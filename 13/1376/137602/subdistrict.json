@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1376021037,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Balai Tongah Koto",
+    "postal_code": "26214"
+  },
+  {
+    "id": 1376021036,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Ikua Koto Dibalai",
+    "postal_code": "26212"
+  },
+  {
+    "id": 1376021038,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Kapalo Koto Dibalai",
+    "postal_code": "26211"
+  },
+  {
+    "id": 1376021039,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Kotokociak Kubu Tapakrajo",
+    "postal_code": "26213"
+  },
+  {
+    "id": 1376021002,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Napar",
+    "postal_code": "26218"
+  },
+  {
+    "id": 1376021032,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Ompang Tanah Sirah",
+    "postal_code": "26216"
+  },
+  {
+    "id": 1376021033,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Taratak Padang Kampuang",
+    "postal_code": "26217"
+  },
+  {
+    "id": 1376021035,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Tigo Koto Diate",
+    "postal_code": "26218"
+  },
+  {
+    "id": 1376021034,
+    "province_id": 13,
+    "regency_id": 1376,
+    "district_id": 137602,
+    "value": "Tigo Koto Dibaruah",
+    "postal_code": "26215"
+  }
+]

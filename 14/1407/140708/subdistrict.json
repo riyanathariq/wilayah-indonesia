@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1407082003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Air Hitam",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082016,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Babussalam Rokan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Kasang Bangsawan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082017,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Perkebunan Siarang-arang",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Pujud",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407081010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Pujud Selatan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082015,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Pujud Utara",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Siarang-arang",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Suka Jadi",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Sungaipinang",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407082001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140708,
+    "value": "Teluk Nayang (Teluknayang)",
+    "postal_code": "28983"
+  }
+]

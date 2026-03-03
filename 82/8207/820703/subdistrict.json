@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8207032007,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Aru",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032003,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Bere Bere Kecil",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032014,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Cempaka",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032009,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Cendana",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032012,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Gorugo",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032005,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Hapo",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032006,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Libano",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032013,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Loleo",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032001,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Pangeo",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032010,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Podimor Padange",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032002,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Sopi",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032011,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Sopi Majiko",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032004,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Titigogoli",
+    "postal_code": "97772"
+  },
+  {
+    "id": 8207032008,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820703,
+    "value": "Towara",
+    "postal_code": "97772"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1508122005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150812,
+    "value": "Pulau Pekan",
+    "postal_code": "37212"
+  },
+  {
+    "id": 1508122004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150812,
+    "value": "Sungai Arang",
+    "postal_code": "37212"
+  },
+  {
+    "id": 1508121002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150812,
+    "value": "Sungai Kerjan",
+    "postal_code": "37212"
+  },
+  {
+    "id": 1508121001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150812,
+    "value": "Sungai Pinang",
+    "postal_code": "37212"
+  },
+  {
+    "id": 1508122003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150812,
+    "value": "Talang Pantai",
+    "postal_code": "37212"
+  }
+]

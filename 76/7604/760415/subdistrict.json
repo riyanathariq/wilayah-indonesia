@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7604152008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Alu (Allu)",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Kalumammang",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Mombi",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Pao Pao",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604151009,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Petoosang",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Puppu Uring (Pupu Uring / Puppuring)",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Saragian",
+    "postal_code": "91325"
+  },
+  {
+    "id": 7604152007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760415,
+    "value": "Sayoang",
+    "postal_code": "91325"
+  }
+]

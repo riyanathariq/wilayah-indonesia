@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7326202001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Benteng Ka'do (Benteng Kado)",
+    "postal_code": "91848"
+  },
+  {
+    "id": 7326202006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Benteng Mamulu",
+    "postal_code": "91848"
+  },
+  {
+    "id": 7326202004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Kantun Poya",
+    "postal_code": "91848"
+  },
+  {
+    "id": 7326202005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Kapal Pitu (Kapala Pitu)",
+    "postal_code": "91848"
+  },
+  {
+    "id": 7326202003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Polo Padang",
+    "postal_code": "91848"
+  },
+  {
+    "id": 7326202002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732620,
+    "value": "Sikuku'",
+    "postal_code": "91848"
+  }
+]

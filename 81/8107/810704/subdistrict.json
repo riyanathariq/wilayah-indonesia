@@ -1,0 +1,98 @@
+[
+  {
+    "id": 8107042005,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Foket",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042010,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Jerwatu",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042003,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Kabufin",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042006,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Kaibolafin",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042002,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Kolamar",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042001,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Marlasi",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042014,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Mesidang",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042013,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Selmona",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042004,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Tasinwaha (Tasin Waha)",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042007,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Wahangula-Ngula (Wahangulangula)",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042008,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Wahayum / Wahayun",
+    "postal_code": "97660"
+  },
+  {
+    "id": 8107042009,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810704,
+    "value": "Warialau",
+    "postal_code": "97660"
+  }
+]

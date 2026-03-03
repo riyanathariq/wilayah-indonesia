@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271021004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Babura Sunggal",
+    "postal_code": "20121"
+  },
+  {
+    "id": 1271021001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Lalang",
+    "postal_code": "20127"
+  },
+  {
+    "id": 1271021002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Sei Sikambing B",
+    "postal_code": "20122"
+  },
+  {
+    "id": 1271021006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Simpang Tanjung",
+    "postal_code": "20122"
+  },
+  {
+    "id": 1271021003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Sunggal",
+    "postal_code": "20128"
+  },
+  {
+    "id": 1271021005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127102,
+    "value": "Tanjung Rejo",
+    "postal_code": "20122"
+  }
+]

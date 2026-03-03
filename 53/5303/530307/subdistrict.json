@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5303072005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Kotafoun",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Maukabatan",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Motadik",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Nifutasi",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Nonotbatan (Nonatbatan)",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072008,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Oemanu",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303071007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Ponu",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Sifaniha",
+    "postal_code": "85613"
+  },
+  {
+    "id": 5303072006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530307,
+    "value": "Tuamese",
+    "postal_code": "85613"
+  }
+]

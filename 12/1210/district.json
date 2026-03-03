@@ -1,0 +1,56 @@
+[
+  {
+    "id": 121007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Bilah Barat"
+  },
+  {
+    "id": 121008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Bilah Hilir"
+  },
+  {
+    "id": 121009,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Bilah Hulu"
+  },
+  {
+    "id": 121019,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Panai Hilir"
+  },
+  {
+    "id": 121020,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Panai Hulu"
+  },
+  {
+    "id": 121018,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Panai Tengah"
+  },
+  {
+    "id": 121014,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Pangkatan"
+  },
+  {
+    "id": 121002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Rantau Selatan"
+  },
+  {
+    "id": 121001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "value": "Rantau Utara"
+  }
+]

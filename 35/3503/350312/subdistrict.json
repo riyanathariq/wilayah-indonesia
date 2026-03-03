@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3503122006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Bendorejo",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Gembleb",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122010,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Kedunglurah",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122008,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Ngadirejo",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Ngadirenggo",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Ngetal",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Ngulangkulon (Ngulankulon)",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122009,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Ngulanwetan",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Pogalan",
+    "postal_code": "66371"
+  },
+  {
+    "id": 3503122001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350312,
+    "value": "Wonocoyo",
+    "postal_code": "66371"
+  }
+]

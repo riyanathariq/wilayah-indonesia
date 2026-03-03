@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1205212005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Aman Damai/Dame",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Gunung Tinggi",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Perkebunan Amaltani",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Pulau Semikat",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Sebertung",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Serapit",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Sidorejo",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Suka Pulung",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Sumber Jaya",
+    "postal_code": "20775"
+  },
+  {
+    "id": 1205212006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120521,
+    "value": "Tanjung Kariahan (Tanjung Keriahan / Keriahen)",
+    "postal_code": "20775"
+  }
+]

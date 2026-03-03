@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204302001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Cap",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Galala",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Madopolo (Madapolo)",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Madopolo Barat (Madapolo Barat)",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Madopolo Timur (Madapolo Timur)",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Pasir Putih",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204302005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820430,
+    "value": "Waringi",
+    "postal_code": "97792"
+  }
+]

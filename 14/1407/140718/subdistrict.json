@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1407182006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Bagan Bhakti",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Balai Jaya",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407181001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Balai Jaya Kota",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Balam Jaya",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Balam Sempurna",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407181002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Balam Sempurna Kota",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Kencana",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Lubuk Jawi",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Pasir Putih",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Pasir Putih Barat",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407182009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140718,
+    "value": "Pasir Putih Utara",
+    "postal_code": "28992"
+  }
+]

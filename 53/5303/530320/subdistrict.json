@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5303202007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Atmen",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303201006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Atmen (Kelurahan Atmen)",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Bannae",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Lapeom",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Letneo",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202008,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Letneo Selatan",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202010,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Nifunenas",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Oabikase",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Subun",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202011,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Subun Bestobe",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202012,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Subun Tualele",
+    "postal_code": "85670"
+  },
+  {
+    "id": 5303202002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530320,
+    "value": "Usapinonot",
+    "postal_code": "85670"
+  }
+]

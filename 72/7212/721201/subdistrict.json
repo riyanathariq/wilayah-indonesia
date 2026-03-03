@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7212011002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Bahontula",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212011003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Bahoue",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Ganda Ganda",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Gililana",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212011001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Kolonodale",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Korololaki",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Korololama",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Koromatantu",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Koya",
+    "postal_code": "94971"
+  },
+  {
+    "id": 7212012007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721201,
+    "value": "Tanauge",
+    "postal_code": "94971"
+  }
+]

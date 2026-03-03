@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406222001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740622,
+    "value": "Kolombi Matausu",
+    "postal_code": "93786"
+  },
+  {
+    "id": 7406222004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740622,
+    "value": "Lamuru",
+    "postal_code": "93786"
+  },
+  {
+    "id": 7406222002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740622,
+    "value": "Morengke",
+    "postal_code": "93786"
+  },
+  {
+    "id": 7406222005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740622,
+    "value": "Totole",
+    "postal_code": "93786"
+  },
+  {
+    "id": 7406222003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740622,
+    "value": "Wia-Wia",
+    "postal_code": "93786"
+  }
+]

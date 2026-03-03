@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1218062001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121806,
+    "value": "Bandar Tengah",
+    "postal_code": "20994"
+  },
+  {
+    "id": 1218062003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121806,
+    "value": "Gelam Sei Serimah (Gelam Sei Sarimah)",
+    "postal_code": "20994"
+  },
+  {
+    "id": 1218062002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121806,
+    "value": "Juhar (Kampung Juhar)",
+    "postal_code": "20994"
+  },
+  {
+    "id": 1218062005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121806,
+    "value": "Kayu Besar",
+    "postal_code": "20994"
+  },
+  {
+    "id": 1218062004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121806,
+    "value": "Pekan Bandar Khalipah",
+    "postal_code": "20994"
+  }
+]

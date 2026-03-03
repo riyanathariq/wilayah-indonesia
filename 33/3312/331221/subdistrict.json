@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3312211009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Balepanjang",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Girimulyo",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Giriyoso",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312211005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Jatipurno",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Jatipurwo",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Jeporo",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Kembang",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Kopen",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212011,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Mangunharjo",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Slogoretno",
+    "postal_code": "57693"
+  },
+  {
+    "id": 3312212004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331221,
+    "value": "Tawangrejo",
+    "postal_code": "57693"
+  }
+]

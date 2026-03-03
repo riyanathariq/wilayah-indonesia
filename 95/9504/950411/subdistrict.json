@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9504112002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Aruku",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112020,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Kalewi",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Kubu",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Kubugiwa",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112026,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Menggenagi",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112019,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Minagi",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112018,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Murik",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Numbugawe",
+    "postal_code": "99030"
+  },
+  {
+    "id": 9504112016,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950411,
+    "value": "Tiyenggupur",
+    "postal_code": "99030"
+  }
+]

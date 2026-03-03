@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3603281002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Bencongan",
+    "postal_code": "15811"
+  },
+  {
+    "id": 3603281003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Bencongan Indah",
+    "postal_code": "15811"
+  },
+  {
+    "id": 3603281005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Bojong Nangka",
+    "postal_code": "15811"
+  },
+  {
+    "id": 3603282006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Curug Sangerang (Curug Sangereng)",
+    "postal_code": "15811"
+  },
+  {
+    "id": 3603281001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Kelapa Dua",
+    "postal_code": "15811"
+  },
+  {
+    "id": 3603281004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360328,
+    "value": "Pakulonan Barat",
+    "postal_code": "15811"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1224092001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Afulu",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092009,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Faekhuna'a (Faekhunaa)",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Harewakhe",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Lauru Fadoro",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Lauru I (Lauru I Afulu)",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092007,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Lauru Lahewa",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Ombolata Afulu",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092008,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Sifaoro'asi (Sifaoroasi)",
+    "postal_code": "22857"
+  },
+  {
+    "id": 1224092006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122409,
+    "value": "Sisobahili",
+    "postal_code": "22857"
+  }
+]

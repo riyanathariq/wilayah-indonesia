@@ -1,0 +1,98 @@
+[
+  {
+    "id": 8101252012,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Kabauhari",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Kobi",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Kobimukti",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Leaway",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Maneo Rendah",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252011,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Marasahua",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Morokai",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Samal",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Sariputih",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Waimusi",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Waitonipa",
+    "postal_code": "97533"
+  },
+  {
+    "id": 8101252009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810125,
+    "value": "Way Asih",
+    "postal_code": "97533"
+  }
+]

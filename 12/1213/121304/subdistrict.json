@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1213042001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Aek Ngali",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Hayuraja",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Huta Julu",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Huta Raja",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Hutarimbaru",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Kayu Laut",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Lumban Dolok",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Pagaran Gala-Gala",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Roburan Dolok",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213042008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Roburan Lombang",
+    "postal_code": "22952"
+  },
+  {
+    "id": 1213041009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121304,
+    "value": "Tano Bato",
+    "postal_code": "22952"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3507012002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Banjarejo (Banjarjo)",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Donomulyo",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Kedungsalam",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Mentaraman",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Purwodadi",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Purworejo",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Sumberoto",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Tempursari",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Tlogosari",
+    "postal_code": "65167"
+  },
+  {
+    "id": 3507012001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350701,
+    "value": "Tulungrejo",
+    "postal_code": "65167"
+  }
+]

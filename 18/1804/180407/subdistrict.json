@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1804071001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Fajar Bulan (Pajar Bulan)",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Karang Agung",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Mutar Alam",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Padang Tambak",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Puralaksana (Pura Laksana)",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Sukananti",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Sukaraja",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Tambak Jaya",
+    "postal_code": "34884"
+  },
+  {
+    "id": 1804072005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180407,
+    "value": "Tanjung Raya",
+    "postal_code": "34884"
+  }
+]

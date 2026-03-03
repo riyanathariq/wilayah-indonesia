@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7501232002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Bilato",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Bumela",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Ilomata",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Juriya",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Lamahu",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Musyawarah",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Pelehu",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Suka Damai",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Taula'a (Taulaa)",
+    "postal_code": "96234"
+  },
+  {
+    "id": 7501232001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750123,
+    "value": "Totopo",
+    "postal_code": "96234"
+  }
+]

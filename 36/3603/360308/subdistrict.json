@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3603082011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Banyu Asih",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Gunung Sari",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Jatiwaringin (Jati Waringin)",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Kedung Dalem",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082012,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Ketapang",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Marga Mulya",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Mauk Barat",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603081002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Mauk Timur",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Sasak",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Tanjung Anom",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Tegal Kunir Kidul",
+    "postal_code": "15531"
+  },
+  {
+    "id": 3603082004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360308,
+    "value": "Tegal Kunir Lor",
+    "postal_code": "15531"
+  }
+]

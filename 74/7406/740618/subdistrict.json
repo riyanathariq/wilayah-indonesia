@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406181003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740618,
+    "value": "Kampung Baru",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406182005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740618,
+    "value": "Lampata",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406181001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740618,
+    "value": "Lauru",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406181002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740618,
+    "value": "Poea",
+    "postal_code": "93771"
+  },
+  {
+    "id": 7406182004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740618,
+    "value": "Tapuhahi",
+    "postal_code": "93771"
+  }
+]

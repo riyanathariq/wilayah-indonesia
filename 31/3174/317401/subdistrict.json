@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3174011005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Bukit Duri",
+    "postal_code": "12840"
+  },
+  {
+    "id": 3174011004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Kebon Baru",
+    "postal_code": "12830"
+  },
+  {
+    "id": 3174011007,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Manggarai",
+    "postal_code": "12850"
+  },
+  {
+    "id": 3174011006,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Manggarai Selatan",
+    "postal_code": "12860"
+  },
+  {
+    "id": 3174011003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Menteng Dalam",
+    "postal_code": "12870"
+  },
+  {
+    "id": 3174011002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Tebet Barat",
+    "postal_code": "12810"
+  },
+  {
+    "id": 3174011001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317401,
+    "value": "Tebet Timur",
+    "postal_code": "12820"
+  }
+]

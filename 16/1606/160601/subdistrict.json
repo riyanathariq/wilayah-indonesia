@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1606012003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Bailangu",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606011012,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Balai Agung",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Baliangu Timur (Bailangu Timur)",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012005,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Bandar Jaya",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606011009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Kayu Ara (Kayuara)",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Lumpatan",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012013,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Lumpatan Dua (2)",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Muara Teladan",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Rimba Ukur (Rimbah Ukur)",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606011010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Serasan Jaya",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606011011,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Soak Baru",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012001,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Sukarami",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Sungai Batang",
+    "postal_code": "30711"
+  },
+  {
+    "id": 1606012006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160601,
+    "value": "Sungai Medak",
+    "postal_code": "30711"
+  }
+]

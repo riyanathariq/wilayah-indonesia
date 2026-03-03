@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5321062005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Bani-Bani",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Biau",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Fatoin",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062007,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Ikan Tuanbeis",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Kufeu",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Tunabesi",
+    "postal_code": "85768"
+  },
+  {
+    "id": 5321062003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532106,
+    "value": "Tunmat",
+    "postal_code": "85768"
+  }
+]

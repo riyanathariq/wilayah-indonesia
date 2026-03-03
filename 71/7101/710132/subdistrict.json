@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7101322008,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Apado",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322007,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Bilalang Baru",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Bilalang III",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Bilalang III Utara",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Bilalang IV",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Kolinganga'an",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Tudu Aog",
+    "postal_code": "95755"
+  },
+  {
+    "id": 7101322004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710132,
+    "value": "Tudu Aog Baru",
+    "postal_code": "95755"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9501312006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Aboneri",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Algonik",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Balima",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Beam",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Gobalimo",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Perabaga",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Piramid",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Yalinggume",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Yonggime",
+    "postal_code": "99534"
+  },
+  {
+    "id": 9501312009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950131,
+    "value": "Yumbun",
+    "postal_code": "99534"
+  }
+]

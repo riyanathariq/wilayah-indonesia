@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1208161003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Girsang",
+    "postal_code": "21174"
+  },
+  {
+    "id": 1208161004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Parapat",
+    "postal_code": "21174"
+  },
+  {
+    "id": 1208162002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Sabaganding (Sibaganding)",
+    "postal_code": "21174"
+  },
+  {
+    "id": 1208162001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Sipangan Bolon",
+    "postal_code": "21174"
+  },
+  {
+    "id": 1208162006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Sipangan Bolon Mekar",
+    "postal_code": "21174"
+  },
+  {
+    "id": 1208161005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120816,
+    "value": "Tiga Raja",
+    "postal_code": "21174"
+  }
+]

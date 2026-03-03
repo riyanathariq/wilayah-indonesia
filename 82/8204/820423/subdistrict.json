@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8204232001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Awis",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Dowora",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Gane Dalam",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Jibubu",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Pasipalele (Pasi Palele)",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Sekely",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Tawa",
+    "postal_code": "97782"
+  },
+  {
+    "id": 8204232008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820423,
+    "value": "Yamli (Yamly)",
+    "postal_code": "97782"
+  }
+]

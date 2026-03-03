@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5311062003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Lailunggi",
+    "postal_code": "87161"
+  },
+  {
+    "id": 5311062006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Mahaniwa",
+    "postal_code": "87161"
+  },
+  {
+    "id": 5311062001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Ramuk",
+    "postal_code": "87161"
+  },
+  {
+    "id": 5311062004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Tawui",
+    "postal_code": "87161"
+  },
+  {
+    "id": 5311062005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Wahang",
+    "postal_code": "87161"
+  },
+  {
+    "id": 5311062002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531106,
+    "value": "Wangga Mbewa",
+    "postal_code": "87161"
+  }
+]

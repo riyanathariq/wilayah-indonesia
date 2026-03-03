@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7107112007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Liwutung",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Liwutung Dua",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Liwutung Satu",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112011,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Maulit",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Poniki",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Tolombukan",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Tolombukan Barat",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Tolombukan Satu",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Towuntu",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Towuntu Barat",
+    "postal_code": "95993"
+  },
+  {
+    "id": 7107112002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710711,
+    "value": "Towuntu Timur",
+    "postal_code": "95993"
+  }
+]

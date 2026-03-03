@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8104122006,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Basalale",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122008,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Dava",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122002,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Deboway / Debowae",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122003,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Parbulu",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122009,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Waehata",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122005,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Waeleman",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122001,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Waelo",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122004,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Waetina",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122007,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Waflan",
+    "postal_code": "97579"
+  },
+  {
+    "id": 8104122010,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810412,
+    "value": "Widit",
+    "postal_code": "97579"
+  }
+]

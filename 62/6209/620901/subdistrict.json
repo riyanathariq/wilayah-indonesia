@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6209012009,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Bakonsu",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012003,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Cuhai",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012005,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Karang Taba",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012004,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Kawa",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012006,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Penopa (Panopa)",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012022,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Samu Jaya",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012008,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Sekoban",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012007,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Suja",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012001,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Sungai Tuat",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209012002,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Tanjung Beringin",
+    "postal_code": "74660"
+  },
+  {
+    "id": 6209011012,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620901,
+    "value": "Tapin Bini",
+    "postal_code": "74660"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1903082002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190308,
+    "value": "Celagen",
+    "postal_code": "33791"
+  },
+  {
+    "id": 1903082001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190308,
+    "value": "Pongok",
+    "postal_code": "33791"
+  }
+]

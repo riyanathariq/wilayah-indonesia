@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7104142003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Awit",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104142004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Awit Selatan",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104142007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Lobbo",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104142008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Lobbo I",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104141001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Makatara",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104141002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Makatara Timur",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104142005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Rae",
+    "postal_code": "95881"
+  },
+  {
+    "id": 7104142006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710414,
+    "value": "Rae Selatan",
+    "postal_code": "95881"
+  }
+]

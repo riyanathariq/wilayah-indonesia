@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3401072002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Karangsari",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Kedungsari",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Margosari",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Pengasih",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Sendangsari",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072007,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Sidomulyo",
+    "postal_code": "55652"
+  },
+  {
+    "id": 3401072001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340107,
+    "value": "Tawangsari",
+    "postal_code": "55652"
+  }
+]

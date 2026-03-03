@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1207192003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Bandar Kuala",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Baru Titi Besi",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Batu Lokong",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Galang Barat",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207191038,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Galang Kota",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Galang Suka",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Jaharum A",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Jaharum B",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Juhar Baru",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192016,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Kelapa Satu",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Keramat Gajah",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Kotangan",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Kotasan",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192019,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Nogorejo",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192022,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Paku",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192026,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Paya Itik",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192028,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Paya Kuda",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192029,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Paya Sampir",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192024,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Petangguhan",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192023,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Petumbukan",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192025,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Pisang Pala",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192027,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Pulau Tagor Batu",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192031,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Sei Karang",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192030,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Sei Putih",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192034,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Tanah Abang",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192036,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Tanah Merah",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Tanjung Gusti",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192037,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Tanjung Siporkis",
+    "postal_code": "20585"
+  },
+  {
+    "id": 1207192035,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120719,
+    "value": "Timbang Deli",
+    "postal_code": "20585"
+  }
+]

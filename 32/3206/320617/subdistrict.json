@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206172006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Janggala",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Leuwibudah",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Linggaraja",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Margalaksana",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Mekarjaya",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Sirnajaya",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Sukapura",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206172008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320617,
+    "value": "Tarunajaya",
+    "postal_code": "46183"
+  }
+]

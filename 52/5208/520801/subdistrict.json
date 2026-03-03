@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5208012003,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Jenggala",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012006,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Medana",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012008,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Sama Guna",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012005,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Sigar Penjalin (Pinjalin)",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012002,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Sokong",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012001,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Tanjung",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012004,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Tegal Maja",
+    "postal_code": "83350"
+  },
+  {
+    "id": 5208012007,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520801,
+    "value": "Teniga",
+    "postal_code": "83350"
+  }
+]

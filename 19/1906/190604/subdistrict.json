@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1906042005,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Buding",
+    "postal_code": "33572"
+  },
+  {
+    "id": 1906042003,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Cendil",
+    "postal_code": "33572"
+  },
+  {
+    "id": 1906042006,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Mayang",
+    "postal_code": "33572"
+  },
+  {
+    "id": 1906042001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Mentawak",
+    "postal_code": "33572"
+  },
+  {
+    "id": 1906042007,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Pembaharuan",
+    "postal_code": "33572"
+  },
+  {
+    "id": 1906042002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190604,
+    "value": "Senyubuk",
+    "postal_code": "33572"
+  }
+]

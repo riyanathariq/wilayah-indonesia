@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3272071002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327207,
+    "value": "Babakan",
+    "postal_code": "43142"
+  },
+  {
+    "id": 3272071001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327207,
+    "value": "Cibeureum Hilir (Cibeureumhilir)",
+    "postal_code": "43165"
+  },
+  {
+    "id": 3272071004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327207,
+    "value": "Limusnunggal",
+    "postal_code": "43165"
+  },
+  {
+    "id": 3272071003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327207,
+    "value": "Sindangpalay",
+    "postal_code": "43162"
+  }
+]

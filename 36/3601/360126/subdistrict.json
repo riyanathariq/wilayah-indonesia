@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3601262005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Babakanlor",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Bangkuyung",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Cening",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Cipicung",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Dahu",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Karyasari",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Karyautama",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Mekarjaya",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Padahayu",
+    "postal_code": "42271"
+  },
+  {
+    "id": 3601262002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360126,
+    "value": "Tegal",
+    "postal_code": "42271"
+  }
+]

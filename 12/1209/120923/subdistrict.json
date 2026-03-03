@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1209232006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Bahung Sibatu-Batu",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Pasiran",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Perkebunan Sei Dadap I/II",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Perkebunan Sei Dadap III/IV",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Sei Alim Hasak",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Sei Kamah Baru",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Sei Kamah I",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Sei Kamah II",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Tanjung Alam",
+    "postal_code": "21279"
+  },
+  {
+    "id": 1209232008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120923,
+    "value": "Tanjung Asri",
+    "postal_code": "21279"
+  }
+]

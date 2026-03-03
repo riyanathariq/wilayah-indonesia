@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9501202007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Isawa Himan",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Lunaima",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Manika",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Noagalo",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Sekan",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Sekan Dalam",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Siepkosi",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Wekia",
+    "postal_code": "99507"
+  },
+  {
+    "id": 9501202002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950120,
+    "value": "Yumogima (Isibitlah)",
+    "postal_code": "99507"
+  }
+]

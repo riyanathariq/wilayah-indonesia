@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3505222003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Jambewangi",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Jatitengah",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Mandesan",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Mronjo",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Ploso",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Popoh",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Selopuro",
+    "postal_code": "66184"
+  },
+  {
+    "id": 3505222005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350522,
+    "value": "Tegalrejo",
+    "postal_code": "66184"
+  }
+]

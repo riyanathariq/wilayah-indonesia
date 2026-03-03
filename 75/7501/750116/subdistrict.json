@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7501162010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Ayumolingo",
+    "postal_code": "96161"
+  },
+  {
+    "id": 7501162004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Bakti",
+    "postal_code": "96162"
+  },
+  {
+    "id": 7501162011,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Bukit Aren",
+    "postal_code": "96163"
+  },
+  {
+    "id": 7501162006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Molalahu",
+    "postal_code": "96164"
+  },
+  {
+    "id": 7501162003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Molamahu",
+    "postal_code": "96165"
+  },
+  {
+    "id": 7501162007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Mulyonegoro",
+    "postal_code": "96166"
+  },
+  {
+    "id": 7501162001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Pongongaila",
+    "postal_code": "96167"
+  },
+  {
+    "id": 7501162002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Pulubala",
+    "postal_code": "96168"
+  },
+  {
+    "id": 7501162008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Puncak",
+    "postal_code": "96169"
+  },
+  {
+    "id": 7501162009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Toyidito (Toydito)",
+    "postal_code": "96171"
+  },
+  {
+    "id": 7501162005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750116,
+    "value": "Tridharma (Tridarma)",
+    "postal_code": "96172"
+  }
+]

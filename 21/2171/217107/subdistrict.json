@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2171071002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217107,
+    "value": "Duriangkang (Duriangka)",
+    "postal_code": "29437"
+  },
+  {
+    "id": 2171071003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217107,
+    "value": "Mangsang (Mangsa)",
+    "postal_code": "29437"
+  },
+  {
+    "id": 2171071001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217107,
+    "value": "Muka Kuning",
+    "postal_code": "29433"
+  },
+  {
+    "id": 2171071004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217107,
+    "value": "Tanjung Piayu",
+    "postal_code": "29437"
+  }
+]

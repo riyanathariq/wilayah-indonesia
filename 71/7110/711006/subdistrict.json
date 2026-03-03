@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7110062004,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Atoga",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062005,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Atoga Timur",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062009,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Jiko",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062010,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Jiko Utara",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062007,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Molobog",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062008,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Molobog Barat",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062011,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Molobog Timur",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062002,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Motongkad",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062003,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Motongkad Selatan",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062006,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Motongkad Tengah",
+    "postal_code": "95785"
+  },
+  {
+    "id": 7110062001,
+    "province_id": 71,
+    "regency_id": 7110,
+    "district_id": 711006,
+    "value": "Motongkad Utara",
+    "postal_code": "95785"
+  }
+]

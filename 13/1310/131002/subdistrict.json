@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1310022006,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Empat Koto Pulau Punjung",
+    "postal_code": "27573"
+  },
+  {
+    "id": 1310022008,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Gunung Selasih",
+    "postal_code": "27573"
+  },
+  {
+    "id": 1310022009,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Sikabau",
+    "postal_code": "27573"
+  },
+  {
+    "id": 1310022001,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Sungai Dareh",
+    "postal_code": "27573"
+  },
+  {
+    "id": 1310022007,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Sungai Kambut",
+    "postal_code": "27573"
+  },
+  {
+    "id": 1310022002,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131002,
+    "value": "Tebing Tinggi",
+    "postal_code": "27573"
+  }
+]

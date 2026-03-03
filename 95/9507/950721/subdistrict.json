@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9507212008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Andiaput",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Dolinggame",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Eyuni",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Indawa",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Nambume",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Tinggira",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Wumuak",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Wuragabur",
+    "postal_code": "99572"
+  },
+  {
+    "id": 9507212004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950721,
+    "value": "Yugumia",
+    "postal_code": "99572"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7205022017,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Bukaan",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022019,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Ilambe",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022011,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Lakea I (Leok 1)",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022010,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Lakea II (Leok II)",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022012,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Lakuan Buol (Buol)",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022018,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Ngune",
+    "postal_code": "94573"
+  },
+  {
+    "id": 7205022009,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720502,
+    "value": "Tuinan",
+    "postal_code": "94573"
+  }
+]

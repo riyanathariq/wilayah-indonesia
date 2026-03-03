@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3213152004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Compreng",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Jatimulya",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Jatireja",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Kalensari",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Kiarasari",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Mekarjaya",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Sukadana",
+    "postal_code": "41258"
+  },
+  {
+    "id": 3213152002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321315,
+    "value": "Sukatani",
+    "postal_code": "41258"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3513012003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Jetak",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012011,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Kedasih",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Ngadas",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Ngadirejo",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Ngadisari",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012012,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Ngepung",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Pakel",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Sapikerep",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Sariwani",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Sukapura",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Wonokerto",
+    "postal_code": "67254"
+  },
+  {
+    "id": 3513012002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351301,
+    "value": "Wonotoro",
+    "postal_code": "67254"
+  }
+]

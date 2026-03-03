@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1803172006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Beringin Jaya",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Bonglai Tengah (Bunglay Tengah / Bunglao)",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Gedung Makrifat",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Gedung Negara",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Gedung Raja",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Hibul/Ibul Jaya",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Lubuk Rukam",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Negera Kemakmuran (Negara Kemakmuran)",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Tanjung Harapan",
+    "postal_code": "34561"
+  },
+  {
+    "id": 1803172010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180317,
+    "value": "Tulung Buyut",
+    "postal_code": "34561"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 611001,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Belimbing"
+  },
+  {
+    "id": 611010,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Belimbing Hulu"
+  },
+  {
+    "id": 611003,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Ella Hilir"
+  },
+  {
+    "id": 611004,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Menukung"
+  },
+  {
+    "id": 611002,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Nanga Pinoh"
+  },
+  {
+    "id": 611009,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Pinoh Selatan"
+  },
+  {
+    "id": 611008,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Pinoh Utara"
+  },
+  {
+    "id": 611005,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Sayan"
+  },
+  {
+    "id": 611007,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Sokan"
+  },
+  {
+    "id": 611006,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Tanah Pinoh"
+  },
+  {
+    "id": 611011,
+    "province_id": 61,
+    "regency_id": 6110,
+    "value": "Tanah Pinoh Barat"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1601072006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Bandar",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Kungkilan",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Lubuk Baru",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Lubuk Leban",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072010,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Mekar Jaya",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072009,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Mekar Sari",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Negeri Sindang",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072011,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Penantian",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Penyandingan",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Rantau Kumpai",
+    "postal_code": "32151"
+  },
+  {
+    "id": 1601072008,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160107,
+    "value": "Tungku Jaya",
+    "postal_code": "32151"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6105212001,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Ampar Bedang",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212004,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Binai Hilir (Binjai Hilir)",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212005,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Binjai Hulu",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212007,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Dak Jaya",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212009,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Empaka Kabiau Raya",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212008,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Mensiku",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212006,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Sei/Sungai Risap",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212011,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Simba Raya",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212010,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Sungai Risap Mensiku Bersatu",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212003,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Telaga Dua",
+    "postal_code": "78663"
+  },
+  {
+    "id": 6105212002,
+    "province_id": 61,
+    "regency_id": 6105,
+    "district_id": 610521,
+    "value": "Telaga Satu",
+    "postal_code": "78663"
+  }
+]

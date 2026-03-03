@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3314092005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Guworejo",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Jurangjero",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Kedungwaduk (Kedung Waduk)",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314091010,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Kroyo",
+    "postal_code": "57221"
+  },
+  {
+    "id": 3314092007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Mojorejo",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Pelemgadung (Pelem Gadung)",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Plosokerep",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314091009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Plumbungan",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Puro",
+    "postal_code": "57222"
+  },
+  {
+    "id": 3314092003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331409,
+    "value": "Saradan",
+    "postal_code": "57222"
+  }
+]

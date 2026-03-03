@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3509302008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Garahan",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Harjomulyo (Harjomolyo)",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Karangharjo",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Mulyorejo",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Pace",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Sempolan",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Sidomulyo",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Silo",
+    "postal_code": "68184"
+  },
+  {
+    "id": 3509302007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350930,
+    "value": "Sumberjati",
+    "postal_code": "68184"
+  }
+]

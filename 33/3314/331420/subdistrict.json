@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3314202007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Banyurip (Banyuurip)",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Dawung",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Japoh",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Jenar",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Kandangsapi (Kandang Sapi)",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Mlale",
+    "postal_code": "57256"
+  },
+  {
+    "id": 3314202002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331420,
+    "value": "Ngepringan",
+    "postal_code": "57256"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7406062006,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Balo",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406062011,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Bungi-bungi",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406061009,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Dongkala",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406061010,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Lambale",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406062008,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Tapuhaka",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406062007,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Toli-Toli",
+    "postal_code": "93784"
+  },
+  {
+    "id": 7406062005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740606,
+    "value": "Wumbuburo (Wumbubura)",
+    "postal_code": "93784"
+  }
+]

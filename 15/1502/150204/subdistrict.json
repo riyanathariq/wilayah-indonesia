@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1502042025,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Benteng",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042015,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Bukit Batu",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Durian Lecah",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042026,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Gelanggang",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Palipan",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Saringat/Seringat",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042017,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Sungai Manau",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042016,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Sungai Nilau",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Sungai/Sei Pinang",
+    "postal_code": "37363"
+  },
+  {
+    "id": 1502042008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150204,
+    "value": "Tiangko",
+    "postal_code": "37363"
+  }
+]

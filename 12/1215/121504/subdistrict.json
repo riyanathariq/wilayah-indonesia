@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1215042005,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121504,
+    "value": "Cikaok",
+    "postal_code": "22276"
+  },
+  {
+    "id": 1215042004,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121504,
+    "value": "Lae Langge Namuseng",
+    "postal_code": "22276"
+  },
+  {
+    "id": 1215042002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121504,
+    "value": "Pardomuan",
+    "postal_code": "22276"
+  },
+  {
+    "id": 1215042003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121504,
+    "value": "Silima Kuta",
+    "postal_code": "22276"
+  },
+  {
+    "id": 1215042001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121504,
+    "value": "Ulumerah (Ulu Merah)",
+    "postal_code": "22276"
+  }
+]

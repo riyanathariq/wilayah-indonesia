@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3303172006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Danasari",
+    "postal_code": "53357"
+  },
+  {
+    "id": 3303172005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Jingkang",
+    "postal_code": "53357"
+  },
+  {
+    "id": 3303172003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Karangjambu",
+    "postal_code": "53357"
+  },
+  {
+    "id": 3303172001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Purbasari",
+    "postal_code": "53357"
+  },
+  {
+    "id": 3303172004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Sanguwatang",
+    "postal_code": "53357"
+  },
+  {
+    "id": 3303172002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330317,
+    "value": "Sirandu",
+    "postal_code": "53357"
+  }
+]

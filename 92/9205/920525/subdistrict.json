@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205252002,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920525,
+    "value": "Amdui",
+    "postal_code": "98491"
+  },
+  {
+    "id": 9205252003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920525,
+    "value": "Wailebet",
+    "postal_code": "98491"
+  },
+  {
+    "id": 9205252004,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920525,
+    "value": "Waiman",
+    "postal_code": "98491"
+  },
+  {
+    "id": 9205252001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920525,
+    "value": "Yenanas",
+    "postal_code": "98491"
+  }
+]

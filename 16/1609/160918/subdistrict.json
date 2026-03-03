@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1609182005,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Karang Pendeta",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182006,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Kota Agung",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182002,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Kuripan",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182008,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Kuripan II / Dua",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182001,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Peninggiran",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182007,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Sukabumi",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182004,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Sukarena",
+    "postal_code": "32262"
+  },
+  {
+    "id": 1609182003,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160918,
+    "value": "Surabaya",
+    "postal_code": "32262"
+  }
+]

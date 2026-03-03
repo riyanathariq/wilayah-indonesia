@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7502022002,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Bongo II (Bongo Dua)",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022003,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Bongo III (Bongo Tiga)",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022010,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Dimito",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022014,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Dulohupa",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022001,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Harapan",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022007,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Jatimulya",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022004,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Mekarjaya (Mekar Jaya)",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022006,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Pangeya",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022012,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Raharja",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022009,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Sari Tani",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022008,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Suka Mulya (Sukamulya)",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022005,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Sukamaju",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022011,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Tanjung Harapan",
+    "postal_code": "96262"
+  },
+  {
+    "id": 7502022013,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750202,
+    "value": "Trirukun (Tri Rukun)",
+    "postal_code": "96262"
+  }
+]

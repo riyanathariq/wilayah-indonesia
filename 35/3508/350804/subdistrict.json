@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3508042003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Bades",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Bago",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Condro",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Gondoruso",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Kalibendo",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Madurejo",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Nguter",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Pasirian",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Selok Awar Awar",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Selokanyar (Selok Anyar)",
+    "postal_code": "67372"
+  },
+  {
+    "id": 3508042009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350804,
+    "value": "Sememu",
+    "postal_code": "67372"
+  }
+]

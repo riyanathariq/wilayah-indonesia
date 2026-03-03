@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3205132004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Girijaya",
+    "postal_code": "44189"
+  },
+  {
+    "id": 3205132001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Kersamanah",
+    "postal_code": "44189"
+  },
+  {
+    "id": 3205132006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Mekarraya",
+    "postal_code": "44189"
+  },
+  {
+    "id": 3205132002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Nanjungjaya",
+    "postal_code": "44189"
+  },
+  {
+    "id": 3205132005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Sukamaju",
+    "postal_code": "44189"
+  },
+  {
+    "id": 3205132003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320513,
+    "value": "Sukamerang",
+    "postal_code": "44189"
+  }
+]

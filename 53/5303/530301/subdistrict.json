@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5303012018,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Amol",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303011006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Bitefa",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Bokon",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012019,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Fatusene",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012024,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Femnasi",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012021,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Jak",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Keanbaun (Kaenbaun)",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303011020,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Oesena",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012025,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Taekas",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012023,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Tunoe",
+    "postal_code": "85654"
+  },
+  {
+    "id": 5303012022,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530301,
+    "value": "Tuntun",
+    "postal_code": "85654"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1802242006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Bumi Nabung Baru",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Bumi Nabung Ilir",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Bumi Nabung Selatan",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Bumi Nabung Timur",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Bumi Nabung Utara",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Sri Kenanga",
+    "postal_code": "34168"
+  },
+  {
+    "id": 1802242001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180224,
+    "value": "Sri Kencono",
+    "postal_code": "34168"
+  }
+]

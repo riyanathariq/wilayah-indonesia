@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3205152009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Maripari",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Mekar Hurip (Mekarhurip)",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Mekarluyu",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Mekarwangi",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Pasanggrahan",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sudalarang",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sukahaji",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sukaluyu",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sukamukti",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sukasono",
+    "postal_code": "44179"
+  },
+  {
+    "id": 3205152001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320515,
+    "value": "Sukawening",
+    "postal_code": "44179"
+  }
+]

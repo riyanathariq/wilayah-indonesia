@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9404152003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Iwaka",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152007,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Limau Asri Barat",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Limau Asri Timur",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Mulia Kencana",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Naena Muktipura",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152006,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Pigapu",
+    "postal_code": "99968"
+  },
+  {
+    "id": 9404152002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940415,
+    "value": "Wangirja",
+    "postal_code": "99968"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3313172002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Anggrasmanis",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Balong",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Gumeng",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Jenawi",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Lempong",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Menjing",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Seloromo",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Sidomukti",
+    "postal_code": "57794"
+  },
+  {
+    "id": 3313172004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331317,
+    "value": "Trengguli",
+    "postal_code": "57794"
+  }
+]

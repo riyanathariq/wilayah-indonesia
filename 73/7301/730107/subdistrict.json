@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7301072003,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Batu Bingkung",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072004,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Bonea",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072001,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Bonerate",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072006,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Komba-Komba",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072008,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Lamantu",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072005,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Lambego",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072002,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Majapahit",
+    "postal_code": "92862"
+  },
+  {
+    "id": 7301072007,
+    "province_id": 73,
+    "regency_id": 7301,
+    "district_id": 730107,
+    "value": "Sambali",
+    "postal_code": "92862"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7371061005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Baraya",
+    "postal_code": "90153"
+  },
+  {
+    "id": 7371061004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Bontoala",
+    "postal_code": "90156"
+  },
+  {
+    "id": 7371061009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Bontoala Parang",
+    "postal_code": "90157"
+  },
+  {
+    "id": 7371061008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Bontoala Tua",
+    "postal_code": "90156"
+  },
+  {
+    "id": 7371061011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Bunga Ejaya",
+    "postal_code": "90154"
+  },
+  {
+    "id": 7371061003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Gaddong",
+    "postal_code": "90157"
+  },
+  {
+    "id": 7371061006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Layang",
+    "postal_code": "90154"
+  },
+  {
+    "id": 7371061001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Malimongan Baru",
+    "postal_code": "90152"
+  },
+  {
+    "id": 7371061007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Parang Layang",
+    "postal_code": "90155"
+  },
+  {
+    "id": 7371061012,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Timungan Lompoa",
+    "postal_code": "90151"
+  },
+  {
+    "id": 7371061010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Tompo Balang",
+    "postal_code": "90151"
+  },
+  {
+    "id": 7371061002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737106,
+    "value": "Wajo Baru",
+    "postal_code": "90151"
+  }
+]

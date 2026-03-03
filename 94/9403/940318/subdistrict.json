@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9403182005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Dokoneida",
+    "postal_code": "98737"
+  },
+  {
+    "id": 9403182003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Ipouwa",
+    "postal_code": "98737"
+  },
+  {
+    "id": 9403182004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Munaiyepa",
+    "postal_code": "98737"
+  },
+  {
+    "id": 9403182006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Namutadi",
+    "postal_code": "98737"
+  },
+  {
+    "id": 9403182002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Uwagi",
+    "postal_code": "98737"
+  },
+  {
+    "id": 9403182001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940318,
+    "value": "Youtadi",
+    "postal_code": "98737"
+  }
+]

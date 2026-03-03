@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3521022010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Babadan",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022013,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Cepoko",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Giriharjo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Hargomulyo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022011,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Krandegan",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Manisharjo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022014,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Mendiro",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Ngrambe",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022012,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Pucangan",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Sambirejo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Setono",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Sidomulyo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Tawangrejo",
+    "postal_code": "63263"
+  },
+  {
+    "id": 3521022004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352102,
+    "value": "Wakah",
+    "postal_code": "63263"
+  }
+]

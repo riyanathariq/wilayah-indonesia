@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7102032003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Eris",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Maumbi",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Ranomerut",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Tandengan",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Tandengan Satu",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Telap",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Touliang Oki",
+    "postal_code": "95683"
+  },
+  {
+    "id": 7102032002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710203,
+    "value": "Watumea",
+    "postal_code": "95683"
+  }
+]

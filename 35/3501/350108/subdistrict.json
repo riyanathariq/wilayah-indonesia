@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3501082003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Bandar",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Bangunsari",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Jeruk",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Kledung",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Ngunut",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Petungsinarang",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Tumpuk",
+    "postal_code": "63583"
+  },
+  {
+    "id": 3501082006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350108,
+    "value": "Watupatok",
+    "postal_code": "63583"
+  }
+]

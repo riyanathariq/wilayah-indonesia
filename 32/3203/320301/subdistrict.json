@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203012001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Babakan Karet (Babakankaret)",
+    "postal_code": "43211"
+  },
+  {
+    "id": 3203011008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Bojongherang",
+    "postal_code": "43216"
+  },
+  {
+    "id": 3203012005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Limbangansari (Limbangan Sari)",
+    "postal_code": "43211"
+  },
+  {
+    "id": 3203012004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Mekarsari",
+    "postal_code": "43211"
+  },
+  {
+    "id": 3203011011,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Muka",
+    "postal_code": "43215"
+  },
+  {
+    "id": 3203012002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Nagrak",
+    "postal_code": "43215"
+  },
+  {
+    "id": 3203011006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Pamoyanan",
+    "postal_code": "43211"
+  },
+  {
+    "id": 3203011007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Sawahgede (Sawah Gede)",
+    "postal_code": "43212"
+  },
+  {
+    "id": 3203011009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Sayang",
+    "postal_code": "43213"
+  },
+  {
+    "id": 3203011010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Solokpandan",
+    "postal_code": "43214"
+  },
+  {
+    "id": 3203012003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320301,
+    "value": "Sukamaju",
+    "postal_code": "43211"
+  }
+]

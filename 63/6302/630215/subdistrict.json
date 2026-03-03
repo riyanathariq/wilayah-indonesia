@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6302152001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Buluh Kuning",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Gendang Timburu",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Manunggul Baru",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Manunggul Lama",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Rantau Buda (Rantau Budha)",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Rantau Jaya",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302152008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630215,
+    "value": "Terombong Sari (Terobong Sari)",
+    "postal_code": "72167"
+  }
+]

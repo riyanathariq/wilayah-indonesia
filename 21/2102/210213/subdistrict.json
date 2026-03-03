@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2102132001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210213,
+    "value": "Parit",
+    "postal_code": "29661"
+  },
+  {
+    "id": 2102132003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210213,
+    "value": "Selat Mendaun (Selatmendaun)",
+    "postal_code": "29661"
+  },
+  {
+    "id": 2102132002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210213,
+    "value": "Tulang",
+    "postal_code": "29661"
+  }
+]

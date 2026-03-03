@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1602242003,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Gading Raja (Gading Rejo)",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242007,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Kayu Labu",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242004,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Maribaya (Mari Baya)",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242005,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Pancawarna",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242001,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Pulau Geronggang",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242002,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Sumber Hidup",
+    "postal_code": "30670"
+  },
+  {
+    "id": 1602242006,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160224,
+    "value": "Tanjung Makmur",
+    "postal_code": "30670"
+  }
+]

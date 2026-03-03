@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7111032006,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Ilomata",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032004,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Kombot",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032010,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Kombot Timur",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032001,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Linawan",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032007,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Linawan I",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032005,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Lungkap",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032002,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Nunuk",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032003,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Pinolosian",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032009,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Pinolosian Selatan",
+    "postal_code": "95775"
+  },
+  {
+    "id": 7111032008,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711103,
+    "value": "Tolotoyon (Tolotoyan)",
+    "postal_code": "95775"
+  }
+]

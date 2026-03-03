@@ -1,0 +1,162 @@
+[
+  {
+    "id": 7201082015,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Bima Karya",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Binsil (Binsil Ch)",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082012,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Binsil Padang",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Bualemo A",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Bualemo B",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082020,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Dwi Karya",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082019,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Lembah Makmur",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082013,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Lembah Tompotika",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Longkoga Barat",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Longkoga Timur",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Malik",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082018,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Malik Makmur",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082014,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Mayayap",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082017,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Nipa Kaleman / Kalemoan",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082016,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Salipi",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Sampaka",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Taima",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Tikupan (Tikupon)",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Toiba",
+    "postal_code": "94752"
+  },
+  {
+    "id": 7201082003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720108,
+    "value": "Trans Mayayap",
+    "postal_code": "94752"
+  }
+]

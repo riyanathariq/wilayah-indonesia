@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9403111006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Badawo",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Geko",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112008,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Kinou",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Kobouyagapa",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Kugitadi",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Muyadebe",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112011,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Obaidagi",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112009,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Toko",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Uwamani",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Woubutu",
+    "postal_code": "98717"
+  },
+  {
+    "id": 9403112010,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940311,
+    "value": "Yagiyo Butu",
+    "postal_code": "98717"
+  }
+]

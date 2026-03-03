@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3204392002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Ciwidey",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Lebakmuncang",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Nengkelan",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Panundaan",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Panyocokan",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Rawabogo",
+    "postal_code": "40973"
+  },
+  {
+    "id": 3204392007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320439,
+    "value": "Sukawening",
+    "postal_code": "40973"
+  }
+]

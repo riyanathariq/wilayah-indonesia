@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3314192007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Denanyar",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Dukuh",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Galeh",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Jekawal",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Katelan",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Ngrombo",
+    "postal_code": "57261"
+  },
+  {
+    "id": 3314192006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331419,
+    "value": "Sigit",
+    "postal_code": "57261"
+  }
+]

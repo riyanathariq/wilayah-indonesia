@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1223061001,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Aek Kota Batu",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062013,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Bangun Rejo",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062003,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Batu Tunggal",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062010,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Hatapang",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062008,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Kampung Pajak",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062009,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Meranti Omas",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062011,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Pasang Lela",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062002,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Pematang",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062005,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Perkebunan Berangir",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062007,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Pulo Jantan",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062006,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Silumajang",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062012,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Simpang Marbau",
+    "postal_code": "21454"
+  },
+  {
+    "id": 1223062004,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122306,
+    "value": "Sungai Raja",
+    "postal_code": "21454"
+  }
+]

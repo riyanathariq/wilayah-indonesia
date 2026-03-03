@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9508082012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Bomegi",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Gearek",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082011,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Gebem",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Gilingga",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Kibid",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Tribit (Tribid)",
+    "postal_code": "99921"
+  },
+  {
+    "id": 9508082007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950808,
+    "value": "Weneworarosa",
+    "postal_code": "99921"
+  }
+]

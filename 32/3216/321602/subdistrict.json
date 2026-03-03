@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3216022008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Babelankota (Babelan Kota)",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216021006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Bahagia",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Bunibakti (Buni Bakti)",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Hurip Jaya",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216021007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Kebalen",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Kedung Pengawas",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Kedungjaya",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Muarabakti (Muara Bakti)",
+    "postal_code": "17610"
+  },
+  {
+    "id": 3216022005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321602,
+    "value": "Pantaihurip (Pantai Hurip)",
+    "postal_code": "17610"
+  }
+]

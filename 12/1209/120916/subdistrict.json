@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1209162001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Ambalutu",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Buntu Pane",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162019,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Karya Ambalutu",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Lestari",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162017,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Mekar Sari",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162018,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Perkebunan Sei Silau",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Prapat Janji",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Sei Silau Timur",
+    "postal_code": "21261"
+  },
+  {
+    "id": 1209162016,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120916,
+    "value": "Sionggang",
+    "postal_code": "21261"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8204122002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Laluin",
+    "postal_code": "97780"
+  },
+  {
+    "id": 8204122001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Ngute Ngute",
+    "postal_code": "97780"
+  },
+  {
+    "id": 8204122005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Orimakurunga",
+    "postal_code": "97780"
+  },
+  {
+    "id": 8204122006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Pasir Putih",
+    "postal_code": "97780"
+  },
+  {
+    "id": 8204122003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Posi Posi",
+    "postal_code": "97780"
+  },
+  {
+    "id": 8204122004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820412,
+    "value": "Sagawele",
+    "postal_code": "97780"
+  }
+]

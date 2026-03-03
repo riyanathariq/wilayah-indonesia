@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1871081005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187108,
+    "value": "Bakung",
+    "postal_code": "35238"
+  },
+  {
+    "id": 1871081009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187108,
+    "value": "Batu Putuk",
+    "postal_code": "35239"
+  },
+  {
+    "id": 1871081006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187108,
+    "value": "Kuripan",
+    "postal_code": "35232"
+  },
+  {
+    "id": 1871081007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187108,
+    "value": "Negeri Olok Gading",
+    "postal_code": "35233"
+  },
+  {
+    "id": 1871081008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187108,
+    "value": "Sukarame II",
+    "postal_code": "35234"
+  }
+]

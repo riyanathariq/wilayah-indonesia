@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318352006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Balepe' (Balepe)",
+    "postal_code": "91861"
+  },
+  {
+    "id": 7318352004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Kole Barebatu",
+    "postal_code": "91861"
+  },
+  {
+    "id": 7318352003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Kole Sawangan",
+    "postal_code": "91861"
+  },
+  {
+    "id": 7318352005,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Lemo Menduruk",
+    "postal_code": "91861"
+  },
+  {
+    "id": 7318352002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Leppan (Lepan)",
+    "postal_code": "91861"
+  },
+  {
+    "id": 7318351001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731835,
+    "value": "Malimbong",
+    "postal_code": "91861"
+  }
+]

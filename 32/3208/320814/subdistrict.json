@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3208142001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Cirea",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Kertawinangun",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Mandirancan",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142010,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Naggela (Nanggela)",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142011,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Nanggerangjaya",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Pakembangan",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Randobawa Girang (Randobawagirang)",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Randobawa Ilir (Randobawailir)",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142012,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Salakadomas",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Seda",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Sukasari",
+    "postal_code": "45558"
+  },
+  {
+    "id": 3208142004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320814,
+    "value": "Trijaya",
+    "postal_code": "45558"
+  }
+]

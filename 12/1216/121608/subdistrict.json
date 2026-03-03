@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1216082011,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Aek Godang Arbaan (Aek Godang)",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082001,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Batu Nagodang Siatas",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082008,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Hutajulu",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082006,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Janji Nagodang",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082002,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Onan Ganjang",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082003,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Parbotihan",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082005,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Parnapa",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082007,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Sampe Tua (Sampetua)",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082012,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Sanggaran II",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082009,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Sibuluan",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082010,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Sigalogo",
+    "postal_code": "22454"
+  },
+  {
+    "id": 1216082004,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121608,
+    "value": "Sihikit (Sihikkit)",
+    "postal_code": "22454"
+  }
+]

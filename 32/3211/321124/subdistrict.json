@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3211242006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Bugel",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Cipeles",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Darmawangi",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Jembarwangi",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Karyamukti",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Marongge",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Mekarwangi",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Tolengas",
+    "postal_code": "45382"
+  },
+  {
+    "id": 3211242001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321124,
+    "value": "Tomo",
+    "postal_code": "45382"
+  }
+]

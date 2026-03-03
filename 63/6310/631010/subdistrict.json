@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6310102001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Giri Mulya",
+    "postal_code": "72272"
+  },
+  {
+    "id": 6310102005,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Indra Lokajaya (Indra Loka Jaya)",
+    "postal_code": "72274"
+  },
+  {
+    "id": 6310102006,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Karang Intan",
+    "postal_code": "72274"
+  },
+  {
+    "id": 6310102002,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Kuranji",
+    "postal_code": "72272"
+  },
+  {
+    "id": 6310102004,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Mustika",
+    "postal_code": "72272"
+  },
+  {
+    "id": 6310102007,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Ringkit",
+    "postal_code": "72272"
+  },
+  {
+    "id": 6310102003,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631010,
+    "value": "Waringin Tunggal",
+    "postal_code": "72272"
+  }
+]

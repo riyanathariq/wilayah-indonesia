@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5171021010,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Dangin Puri",
+    "postal_code": "80232"
+  },
+  {
+    "id": 5171022001,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Dangin Puri Kelod (Dangin Puri Klod)",
+    "postal_code": "80234"
+  },
+  {
+    "id": 5171021003,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Kesiman",
+    "postal_code": "80237"
+  },
+  {
+    "id": 5171022005,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Kesiman Kertalangu",
+    "postal_code": "80237"
+  },
+  {
+    "id": 5171022004,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Kesiman Petilan",
+    "postal_code": "80237"
+  },
+  {
+    "id": 5171021014,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Penatih",
+    "postal_code": "80238"
+  },
+  {
+    "id": 5171022015,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Penatih Dangin Puri",
+    "postal_code": "80238"
+  },
+  {
+    "id": 5171021006,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Sumerta",
+    "postal_code": "80235"
+  },
+  {
+    "id": 5171022007,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Sumerta Kaja",
+    "postal_code": "80236"
+  },
+  {
+    "id": 5171022008,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Sumerta Kauh",
+    "postal_code": "80236"
+  },
+  {
+    "id": 5171022002,
+    "province_id": 51,
+    "regency_id": 5171,
+    "district_id": 517102,
+    "value": "Sumerta Kelod/Klod",
+    "postal_code": "80239"
+  }
+]

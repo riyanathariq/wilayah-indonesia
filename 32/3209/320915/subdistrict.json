@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3209151003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Babakan",
+    "postal_code": "45612"
+  },
+  {
+    "id": 3209151010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Gegunung",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Kaliwadas",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Kemantren",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151014,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Kenanga",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209152001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Matangaji",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Pasalakan",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Pejambon",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Perbutulan",
+    "postal_code": "45613"
+  },
+  {
+    "id": 3209151012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Sendang",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209152002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Sidawangi",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Sumber",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Tukmudal",
+    "postal_code": "45611"
+  },
+  {
+    "id": 3209151008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320915,
+    "value": "Watubelah",
+    "postal_code": "45611"
+  }
+]

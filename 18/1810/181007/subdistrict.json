@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1810072001,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Adiluwih (Adi Luwih)",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072002,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Bandung Baru",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072011,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Bandung Baru Barat",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072004,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Enggal Rejo",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072013,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Kuta Waringin",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072008,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Purwodadi",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072003,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Sinarwayah (Sinar Waya)",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072009,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Srikaton",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072005,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Sukoharum",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072012,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Totokarto",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072007,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Tri Tunggal Mulya (Tritunggal Mulya)",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072010,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Tunggul Pawenang",
+    "postal_code": "35674"
+  },
+  {
+    "id": 1810072006,
+    "province_id": 18,
+    "regency_id": 1810,
+    "district_id": 181007,
+    "value": "Waringin Sari Timur (Waringinsari Timur)",
+    "postal_code": "35674"
+  }
+]

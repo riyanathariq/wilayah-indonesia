@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1903052006,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Bedengung",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Irat",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Malik",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052008,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Nadung",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052012,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Paku",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Pangkal Buluh (Pangkalbuluh)",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Payung",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052009,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Ranggung",
+    "postal_code": "33778"
+  },
+  {
+    "id": 1903052003,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190305,
+    "value": "Sengir",
+    "postal_code": "33778"
+  }
+]

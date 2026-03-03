@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9503102001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Apdagma (Apdakma)",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Harap",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Kolodoma",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Mugi (Mogi)",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Mul",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Sabin",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Sangatur",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Sowaling",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Suok",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Walkuma",
+    "postal_code": "99719"
+  },
+  {
+    "id": 9503102010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950310,
+    "value": "Yerekama",
+    "postal_code": "99719"
+  }
+]

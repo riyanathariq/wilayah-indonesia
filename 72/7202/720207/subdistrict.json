@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7202072009,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Alitupu",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072016,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Bumi Banyusari",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Dodolo",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Kaduwaa",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072008,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Sedoa",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Watumaeta",
+    "postal_code": "94658"
+  },
+  {
+    "id": 7202072014,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720207,
+    "value": "Wuasa",
+    "postal_code": "94658"
+  }
+]

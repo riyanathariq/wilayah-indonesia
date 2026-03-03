@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6302142003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Cantung Kanan",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Cantung Kiri Hulu",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Hampang",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Hulu Sampanahan",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Lalapin",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Limbungan",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Limbur",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Muara Orie",
+    "postal_code": "72163"
+  },
+  {
+    "id": 6302142006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630214,
+    "value": "Peramasan Dua Kali Sanga",
+    "postal_code": "72163"
+  }
+]

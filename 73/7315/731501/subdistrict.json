@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7315011001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Langnga (Langa)",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Massulowalie",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012008,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Mattirotasi (Mattiro Tasi)",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Mattombong",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Mattongang Tongang",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315011002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Pallameang",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Patobong",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012007,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Samaenre",
+    "postal_code": "91261"
+  },
+  {
+    "id": 7315012009,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731501,
+    "value": "Siwolong Polong",
+    "postal_code": "91261"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7209101003,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Dondo",
+    "postal_code": "94685"
+  },
+  {
+    "id": 7209101008,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Dondo Barat",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209102006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Labuan",
+    "postal_code": "94685"
+  },
+  {
+    "id": 7209101009,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Muara Toba",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209102010,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Patingko",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209102005,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Sabulira Toba",
+    "postal_code": "94685"
+  },
+  {
+    "id": 7209102004,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Sumoli",
+    "postal_code": "94685"
+  },
+  {
+    "id": 7209101007,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Uamalingku",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209101002,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Uentanaga Atas",
+    "postal_code": "94685"
+  },
+  {
+    "id": 7209101001,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720910,
+    "value": "Uentanaga Bawah",
+    "postal_code": "94685"
+  }
+]

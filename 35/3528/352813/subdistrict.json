@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3528132009,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Batukerbuy",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132008,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Bindang",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132006,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Dempo Barat",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132007,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Dempo Timur",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132002,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Sana Dajah (Sana Daja)",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132001,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Sana Tengah",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132004,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Sotobar (Sotabar)",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132003,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Tagangser Dajah (Tegangser Daya)",
+    "postal_code": "69356"
+  },
+  {
+    "id": 3528132005,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352813,
+    "value": "Tlonto Raja (Tlontoraja)",
+    "postal_code": "69356"
+  }
+]

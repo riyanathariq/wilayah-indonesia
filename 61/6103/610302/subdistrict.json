@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6103022003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Engkode",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Inggis",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Kedukul",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022006,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Layak Omang",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Sei/Sungai Mawang",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022007,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Semanggis Raya",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Semuntai",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022009,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Serambai Jaya",
+    "postal_code": "78581"
+  },
+  {
+    "id": 6103022008,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610302,
+    "value": "Tri Mulya (Trimulya)",
+    "postal_code": "78581"
+  }
+]

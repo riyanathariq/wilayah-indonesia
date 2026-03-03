@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3501092002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Gedangan",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Gemaharjo",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Kasihan",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Kebondalem",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092009,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Kemuning",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Ngreco (Ngereco)",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Ploso",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Pucangombo",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092010,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Tahunan",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092011,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Tahunan Baru",
+    "postal_code": "63582"
+  },
+  {
+    "id": 3501092008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350109,
+    "value": "Tegalombo",
+    "postal_code": "63582"
+  }
+]

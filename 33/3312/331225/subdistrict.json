@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3312251002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Giriharjo",
+    "postal_code": "57698"
+  },
+  {
+    "id": 3312252006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Golo",
+    "postal_code": "57698"
+  },
+  {
+    "id": 3312252003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Nguneng",
+    "postal_code": "57698"
+  },
+  {
+    "id": 3312252001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Puhpelem",
+    "postal_code": "57698"
+  },
+  {
+    "id": 3312252004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Sukorejo",
+    "postal_code": "57698"
+  },
+  {
+    "id": 3312252005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331225,
+    "value": "Tengger",
+    "postal_code": "57698"
+  }
+]

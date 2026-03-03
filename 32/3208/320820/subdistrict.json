@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3208202008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Ciasih",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Cikadu",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Haurkuning",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Jambar",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Kertawirama",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Kertayuga",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Nusaherang",
+    "postal_code": "45563"
+  },
+  {
+    "id": 3208202003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320820,
+    "value": "Windusari",
+    "postal_code": "45563"
+  }
+]

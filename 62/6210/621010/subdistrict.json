@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6210102003,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Batu Puter",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102006,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Hantapang",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Jangkit",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102007,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Sangal (Sanggal)",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102005,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Sei/Sungai Antai",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102002,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Tumbang Lapan",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102012,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Tumbang Mujai",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210101004,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Tumbang Rahuyan",
+    "postal_code": "74561"
+  },
+  {
+    "id": 6210102008,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621010,
+    "value": "Tumbang Tue / Tuwe",
+    "postal_code": "74561"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3217022006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Cigugurgirang (Cigugur Girang)",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Cihanjuang",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Cihanjuangrahayu (Cihanjuang Rahayu)",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Cihideung",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Ciwaruga",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Karyawangi",
+    "postal_code": "40559"
+  },
+  {
+    "id": 3217022007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321702,
+    "value": "Sariwangi",
+    "postal_code": "40559"
+  }
+]

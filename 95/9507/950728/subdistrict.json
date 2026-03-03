@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507282001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Ambena",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Gunumbur",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Kolayak",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Kolunggu",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Kondena",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Labora",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Lalugume",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Timotius",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Wanuga",
+    "postal_code": "99563"
+  },
+  {
+    "id": 9507282007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950728,
+    "value": "Yagarikme",
+    "postal_code": "99563"
+  }
+]

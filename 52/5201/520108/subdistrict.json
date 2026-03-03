@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5201082003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Bagik Polak",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082011,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Bagik Polak Barat",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Bajur",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Bengkel",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082009,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Karang Bongkot",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082008,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Kuranji",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082012,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Kuranji Dalang",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082010,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Labuapi",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Merembu",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Perampuan",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Telagawaru",
+    "postal_code": "83361"
+  },
+  {
+    "id": 5201082007,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520108,
+    "value": "Terong Tawah",
+    "postal_code": "83361"
+  }
+]

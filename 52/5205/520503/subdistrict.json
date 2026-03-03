@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5205032004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Adu",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Cempi Jaya",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Daha",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Hu'u",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032007,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Jala",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Merada",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Rasa Bou",
+    "postal_code": "84271"
+  },
+  {
+    "id": 5205032008,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520503,
+    "value": "Sawe",
+    "postal_code": "84271"
+  }
+]

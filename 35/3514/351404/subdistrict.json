@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3514042002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Banjarimbo",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Bulu Kandang (Bulukandang)",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042011,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Cukur Guling (Cukurguling)",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042010,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Karang Asem",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042012,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Karang Jati",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Kronto",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Lumbang",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Pancur",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Panditan",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Watu Lumbung (Watulumbung)",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Welulang",
+    "postal_code": "67183"
+  },
+  {
+    "id": 3514042001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351404,
+    "value": "Wonorejo",
+    "postal_code": "67183"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5205042006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Karama (Kramat 2 / Keramat)",
+    "postal_code": "84252"
+  },
+  {
+    "id": 5205042004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Kiwu",
+    "postal_code": "84252"
+  },
+  {
+    "id": 5205042002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Lasi",
+    "postal_code": "84252"
+  },
+  {
+    "id": 5205042001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Malaju",
+    "postal_code": "84252"
+  },
+  {
+    "id": 5205042003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Mbuju",
+    "postal_code": "84252"
+  },
+  {
+    "id": 5205042005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520504,
+    "value": "Taropo",
+    "postal_code": "84252"
+  }
+]

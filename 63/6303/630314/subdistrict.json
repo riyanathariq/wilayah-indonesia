@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6303142007,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Antasan Sutun",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142010,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Keliling Benteng Tengah",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142006,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Keliling Benteng Ulu",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142005,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Panggalaman (Penggalaman)",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142002,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sei/Sungai Batang",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142003,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sei/Sungai Batang Ilir",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142004,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sungai Ranggas",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142009,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sungai Ranggas Hambuku",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142013,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sungai Ranggas Tengah",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142008,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Sungai Ranggas Ulu",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142012,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Tangkas",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142001,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Telok Selong",
+    "postal_code": "70618"
+  },
+  {
+    "id": 6303142011,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630314,
+    "value": "Teluk Selong Ulu (Telok Selong Ulu)",
+    "postal_code": "70618"
+  }
+]

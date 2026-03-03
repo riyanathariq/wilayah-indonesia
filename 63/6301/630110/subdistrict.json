@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6301102001,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Bajuin",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102005,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Galam",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102003,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Ketapang",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102007,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Kunyit",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102006,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Pemalongan (Pamalungan / Pamalongan)",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102002,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Sei/Sungai Bakar",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102009,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Tanjung",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102008,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Tebing Siring",
+    "postal_code": "70815"
+  },
+  {
+    "id": 6301102004,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630110,
+    "value": "Tirta Jaya",
+    "postal_code": "70815"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3203272001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Bangbayang",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Cikahuripan",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Cikancana",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Cintaasih",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Gekbrong",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Kebonpeuteuy",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Songgom",
+    "postal_code": "43261"
+  },
+  {
+    "id": 3203272003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320327,
+    "value": "Sukaratu",
+    "postal_code": "43261"
+  }
+]

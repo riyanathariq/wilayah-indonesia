@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3210052014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Argalingga",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Argamukti",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Cibunut",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Cikaracak",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Gunungwangi",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Haurseah",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Heubeulisuk",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Mekarwangi",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Sadasari",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Sagara",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Sukadana",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Sukasari Kaler",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Sukasari Kidul",
+    "postal_code": "45462"
+  },
+  {
+    "id": 3210052003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321005,
+    "value": "Tejamulya",
+    "postal_code": "45462"
+  }
+]

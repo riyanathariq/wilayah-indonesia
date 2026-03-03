@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1703112003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Air Lakok (Airlakok)",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Air Mangayau (Air Menganyau)",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Batik Nau",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Bintunan",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Durian Amparan",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Pagar Ruyung",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Peninjau (Maninjau)",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112013,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Samban Jaya",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Seberang Tunggal",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112012,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Sekiau",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Selolong",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Serangai",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Suka Marga (Sukamarga)",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Taba Kulintang (Taba Kelintang)",
+    "postal_code": "38656"
+  },
+  {
+    "id": 1703112010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170311,
+    "value": "Ulak Tanding",
+    "postal_code": "38656"
+  }
+]

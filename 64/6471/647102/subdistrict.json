@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6471021001,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Baru Ilir",
+    "postal_code": "76131"
+  },
+  {
+    "id": 6471021002,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Baru Tengah",
+    "postal_code": "76132"
+  },
+  {
+    "id": 6471021003,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Baru Ulu",
+    "postal_code": "76133"
+  },
+  {
+    "id": 6471021004,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Kariangau",
+    "postal_code": "76134"
+  },
+  {
+    "id": 6471021006,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Marga Sari",
+    "postal_code": "76131"
+  },
+  {
+    "id": 6471021005,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647102,
+    "value": "Margo Mulyo",
+    "postal_code": "76131"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5321092005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Dirma",
+    "postal_code": "85761"
+  },
+  {
+    "id": 5321092003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Kusa",
+    "postal_code": "85761"
+  },
+  {
+    "id": 5321092004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Numponi",
+    "postal_code": "85761"
+  },
+  {
+    "id": 5321092001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Raiulun",
+    "postal_code": "85761"
+  },
+  {
+    "id": 5321092006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Sanleo",
+    "postal_code": "85761"
+  },
+  {
+    "id": 5321092002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532109,
+    "value": "Wemeda",
+    "postal_code": "85761"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8207042001,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Bere Bere",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042005,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Bido",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042013,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Goa Hira",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042006,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Gorua",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042014,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Gorua Selatan",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042009,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Kenari",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042007,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Korago",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042010,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Loleo Jaya",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042008,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Lusuo (Losuo)",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042011,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Maba",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042002,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Sakita",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042012,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Tanjung Saleh",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042003,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Tawakali",
+    "postal_code": "97773"
+  },
+  {
+    "id": 8207042004,
+    "province_id": 82,
+    "regency_id": 8207,
+    "district_id": 820704,
+    "value": "Yao",
+    "postal_code": "97773"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3326012002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Bodas",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Bojongkoneng",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Bubak",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012005,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Garungwiyoro",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012004,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Gembong",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Kandangserang",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012014,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Karanggondang",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Klesem",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012011,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Lambur",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012010,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Luragung",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Sukoharjo",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012012,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Tajur",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012013,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Trajumas",
+    "postal_code": "51163"
+  },
+  {
+    "id": 3326012008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332601,
+    "value": "Wangkelang",
+    "postal_code": "51163"
+  }
+]

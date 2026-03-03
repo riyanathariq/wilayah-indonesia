@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216192003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Ciantra",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Cibatu",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Pasirsari",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Serang",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Sukadami",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Sukaresmi",
+    "postal_code": "17532"
+  },
+  {
+    "id": 3216192002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321619,
+    "value": "Sukasejati",
+    "postal_code": "17532"
+  }
+]

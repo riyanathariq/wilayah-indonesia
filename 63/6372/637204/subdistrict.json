@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6372041003,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637204,
+    "value": "Komet",
+    "postal_code": "70714"
+  },
+  {
+    "id": 6372041001,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637204,
+    "value": "Loktabat Utara",
+    "postal_code": "70714"
+  },
+  {
+    "id": 6372041002,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637204,
+    "value": "Mentaos",
+    "postal_code": "70714"
+  },
+  {
+    "id": 6372041004,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637204,
+    "value": "Sei/Sungai Ulin",
+    "postal_code": "70714"
+  }
+]

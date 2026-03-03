@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7111072001,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Botuliodu",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072004,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Milangodaa",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072005,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Milangodaa Barat",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072006,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Milangodaa Utara (Milangoda Utara)",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072002,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Nunuka Raya",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072007,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Pakuku Jaya",
+    "postal_code": "95778"
+  },
+  {
+    "id": 7111072003,
+    "province_id": 71,
+    "regency_id": 7111,
+    "district_id": 711107,
+    "value": "Tolutu",
+    "postal_code": "95778"
+  }
+]

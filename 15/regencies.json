@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1504,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Batanghari"
+  },
+  {
+    "id": 1508,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Bungo"
+  },
+  {
+    "id": 1571,
+    "province_id": 15,
+    "type": "Kota",
+    "value": "Kota Jambi"
+  },
+  {
+    "id": 1501,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Kerinci"
+  },
+  {
+    "id": 1502,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Merangin"
+  },
+  {
+    "id": 1505,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Muaro Jambi"
+  },
+  {
+    "id": 1503,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Sarolangun"
+  },
+  {
+    "id": 1572,
+    "province_id": 15,
+    "type": "Kota",
+    "value": "Kota Sungai Penuh"
+  },
+  {
+    "id": 1506,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Tanjung Jabung Barat"
+  },
+  {
+    "id": 1507,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Tanjung Jabung Timur"
+  },
+  {
+    "id": 1509,
+    "province_id": 15,
+    "type": "Kabupaten",
+    "value": "Tebo"
+  }
+]

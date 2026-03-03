@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9401102007,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Bomopai",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Jaya Mukti",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102006,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Ororodo",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102008,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Parauto",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Wanggar Pantai",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Wanggar Sari",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Wiraska",
+    "postal_code": "98853"
+  },
+  {
+    "id": 9401102003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940110,
+    "value": "Yaro Makmur",
+    "postal_code": "98853"
+  }
+]

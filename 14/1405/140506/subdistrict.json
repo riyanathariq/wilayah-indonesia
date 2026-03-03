@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1405062007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Batang Nilo Kecil",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Delik",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Kuala Tolam",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Lalang Kabung",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405061001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Pelalawan",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Ransang",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Sering",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Sungai Ara",
+    "postal_code": "28353"
+  },
+  {
+    "id": 1405062006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140506,
+    "value": "Telayap",
+    "postal_code": "28353"
+  }
+]

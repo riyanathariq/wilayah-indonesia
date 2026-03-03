@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3322072009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Banyubiru",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Gedong",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Kebondowo",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Kebumen",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Kemambang",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Ngrapah",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Rowoboni",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Sepakung",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Tegaron",
+    "postal_code": "50664"
+  },
+  {
+    "id": 3322072004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332207,
+    "value": "Wirogomo",
+    "postal_code": "50664"
+  }
+]

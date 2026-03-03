@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6306102001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Halunuk",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102010,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Haratai",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Hulu Banyu",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Kamawakan",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102008,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Lok Lahung",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102009,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Loksado",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Lumpangi",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Malinau",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Panggungan",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Tumingki",
+    "postal_code": "71282"
+  },
+  {
+    "id": 6306102011,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630610,
+    "value": "Ulang (Muara Ulang)",
+    "postal_code": "71282"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3509162008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Cangkring",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Jatimulyo",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Jatisari",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Jenggawah",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Kemuningsarikidul (Kemuning Sari Kidul)",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Kertonegoro",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Sruni (Seruni)",
+    "postal_code": "68171"
+  },
+  {
+    "id": 3509162002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350916,
+    "value": "Wonojati",
+    "postal_code": "68171"
+  }
+]

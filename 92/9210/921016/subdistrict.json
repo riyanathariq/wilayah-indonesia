@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9210162001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Adoh",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Orain",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Orsu",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Rawas",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Segior",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Soan",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Sosian",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Temel",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162009,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Warbo",
+    "postal_code": "98242"
+  },
+  {
+    "id": 9210162010,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921016,
+    "value": "Woman",
+    "postal_code": "98242"
+  }
+]

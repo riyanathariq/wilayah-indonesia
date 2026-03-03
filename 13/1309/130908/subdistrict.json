@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1309082001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Betumonga (Beutomonga)",
+    "postal_code": "25398"
+  },
+  {
+    "id": 1309082005,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Bukit Pamewa",
+    "postal_code": "25398"
+  },
+  {
+    "id": 1309082002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Gosooinan (Goisooinan)",
+    "postal_code": "25398"
+  },
+  {
+    "id": 1309082004,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Sido Makmur",
+    "postal_code": "25398"
+  },
+  {
+    "id": 1309082006,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Sipora Jaya",
+    "postal_code": "25398"
+  },
+  {
+    "id": 1309082003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130908,
+    "value": "Tuapejat",
+    "postal_code": "25398"
+  }
+]

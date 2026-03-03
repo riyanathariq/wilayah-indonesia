@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5305112002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Maru",
+    "postal_code": "85850"
+  },
+  {
+    "id": 5305111001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Pura",
+    "postal_code": "85850"
+  },
+  {
+    "id": 5305112006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Pura Barat",
+    "postal_code": "85850"
+  },
+  {
+    "id": 5305112004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Pura Selatan",
+    "postal_code": "85850"
+  },
+  {
+    "id": 5305112005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Pura Timur",
+    "postal_code": "85850"
+  },
+  {
+    "id": 5305112003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530511,
+    "value": "Pura Utara",
+    "postal_code": "85850"
+  }
+]

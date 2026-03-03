@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3578141007,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Balongsari (Balong Sari)",
+    "postal_code": "60186"
+  },
+  {
+    "id": 3578141012,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Banjar Sugian / Sugihan",
+    "postal_code": "60185"
+  },
+  {
+    "id": 3578141009,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Manukan Kulon",
+    "postal_code": "60185"
+  }
+]

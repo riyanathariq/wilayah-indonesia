@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1701112001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Batu Kuning",
+    "postal_code": "38518"
+  },
+  {
+    "id": 1701112002,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Batu Lambang",
+    "postal_code": "38513"
+  },
+  {
+    "id": 1701111005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Belakang Gedung",
+    "postal_code": "38514"
+  },
+  {
+    "id": 1701111006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Gunung Mesir",
+    "postal_code": "38517"
+  },
+  {
+    "id": 1701111008,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Ketapang Besar",
+    "postal_code": "38516"
+  },
+  {
+    "id": 1701111007,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Padang Sialang",
+    "postal_code": "38517"
+  },
+  {
+    "id": 1701111009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Pasar Bawah",
+    "postal_code": "38515"
+  },
+  {
+    "id": 1701111004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Pasar Mulia",
+    "postal_code": "38518"
+  },
+  {
+    "id": 1701111003,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170111,
+    "value": "Tanjung Mulia",
+    "postal_code": "38518"
+  }
+]

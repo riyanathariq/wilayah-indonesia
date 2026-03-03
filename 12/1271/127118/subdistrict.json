@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1271181002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Pahlawan",
+    "postal_code": "20233"
+  },
+  {
+    "id": 1271181001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Pandau Hilir",
+    "postal_code": "20232"
+  },
+  {
+    "id": 1271181003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sei Kera Hilir I (Sei Kerah Hilir I)",
+    "postal_code": "20233"
+  },
+  {
+    "id": 1271181004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sei Kera Hilir II (Sei Kerah Hilir II)",
+    "postal_code": "20233"
+  },
+  {
+    "id": 1271181005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sei Kera Hulu",
+    "postal_code": "20233"
+  },
+  {
+    "id": 1271181007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sidorame Barat I",
+    "postal_code": "20236"
+  },
+  {
+    "id": 1271181008,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sidorame Barat II",
+    "postal_code": "20236"
+  },
+  {
+    "id": 1271181006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Sidorame Timur",
+    "postal_code": "20236"
+  },
+  {
+    "id": 1271181009,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127118,
+    "value": "Tegalrejo (Tegal Rejo)",
+    "postal_code": "20237"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1304102003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Lawang Mandahiling/Mandahiliang",
+    "postal_code": "27263"
+  },
+  {
+    "id": 1304102005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Salimpaung",
+    "postal_code": "27263"
+  },
+  {
+    "id": 1304102002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Situmbuk (Situmbuak)",
+    "postal_code": "27263"
+  },
+  {
+    "id": 1304102001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Sumanik (Sumaniak}",
+    "postal_code": "27263"
+  },
+  {
+    "id": 1304102004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Supayang",
+    "postal_code": "27263"
+  },
+  {
+    "id": 1304102006,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130410,
+    "value": "Tabek Patah",
+    "postal_code": "27262"
+  }
+]

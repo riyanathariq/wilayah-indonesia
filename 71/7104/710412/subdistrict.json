@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7104122004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710412,
+    "value": "Alude",
+    "postal_code": "95874"
+  },
+  {
+    "id": 7104122001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710412,
+    "value": "Kalongan",
+    "postal_code": "95874"
+  },
+  {
+    "id": 7104122003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710412,
+    "value": "Kalongan Selatan",
+    "postal_code": "95874"
+  },
+  {
+    "id": 7104122002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710412,
+    "value": "Kalongan Utara",
+    "postal_code": "95874"
+  },
+  {
+    "id": 7104122005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710412,
+    "value": "Musi I",
+    "postal_code": "95874"
+  }
+]

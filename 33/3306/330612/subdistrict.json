@@ -1,0 +1,322 @@
+[
+  {
+    "id": 3306122011,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Bedono Karangduwur",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122009,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Bedono Kluwung",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122010,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Bedono Pageron",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122020,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Dilem",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122006,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Gedong",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122004,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Gesikan",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122018,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Girijoyo",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122017,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Girimulyo",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122039,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Gunungteges",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122016,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Jatiwangsan",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122030,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kaliglagah",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122024,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kalimeneng",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122034,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kaliurip",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122031,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kapiteran",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122036,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Karangluas",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122021,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kedunglo",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122037,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kedungpomahankulo n",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122035,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kedungpomahanweta n",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122008,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kemiri Kidul",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122025,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kemirilor (Kemiri Lor)",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122026,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kerep",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122002,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kroyokulon (Kroyo Kulon)",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122027,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Kroyolor (Kroyo Lor)",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122013,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Loning",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122005,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Paitan",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122040,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Purbayan",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122012,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Rebug",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122003,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Rejosari",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122033,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Rejowinangun",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122007,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Rowobayem",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122028,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Samping",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122023,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Sidodadi",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122038,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Sukogelap (Sokogelap)",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122015,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Sutoragan",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122019,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Turus",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122001,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Waled",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122032,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Wanurojo",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122014,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Winong",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122029,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Wonosari",
+    "postal_code": "54262"
+  },
+  {
+    "id": 3306122022,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330612,
+    "value": "Wonosuko",
+    "postal_code": "54262"
+  }
+]

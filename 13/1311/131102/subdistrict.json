@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1311022007,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Bomas",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022002,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Koto Baru",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022005,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pasar Muara Labuh",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022001,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pasir Talang",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022010,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pasir Talang Barat",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022012,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pasir Talang Selatan",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022011,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pasir Talang Timur",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022006,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Pulakek Koto Baru",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022004,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Sako Pasia Talang",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022009,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Sako Selatan Pasia Talang",
+    "postal_code": "27774"
+  },
+  {
+    "id": 1311022008,
+    "province_id": 13,
+    "regency_id": 1311,
+    "district_id": 131102,
+    "value": "Sako Utara Pasia Talang",
+    "postal_code": "27774"
+  }
+]

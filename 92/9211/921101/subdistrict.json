@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9211012007,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Abreso",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012006,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Bamaha",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012008,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Hamawi",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012011,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Hamor",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012009,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Kobrey",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012013,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Mambrema",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012002,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Nuhuwei",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012001,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Ransiki",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012005,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Sabri",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012012,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Susmorof",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012004,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Tobou",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012010,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Wamcei",
+    "postal_code": "98324"
+  },
+  {
+    "id": 9211012003,
+    "province_id": 92,
+    "regency_id": 9211,
+    "district_id": 921101,
+    "value": "Yamboi",
+    "postal_code": "98324"
+  }
+]

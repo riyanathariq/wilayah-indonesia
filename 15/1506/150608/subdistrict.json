@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506082010,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Bukitbakar (Bukit Bakar)",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Cinta Damai",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Lampisi",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506081001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Lubuk Kambing",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Muaradanau (Muara Danau)",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Pulaupauh (Pulau Pauh)",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Rantau Benar",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082009,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Sungaipaur (Sungai Pau)",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Sungairotan (Sei / Sungai Rotan)",
+    "postal_code": "36559"
+  },
+  {
+    "id": 1506082008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150608,
+    "value": "Tanahtumbuh (Tanah Tumbuh)",
+    "postal_code": "36559"
+  }
+]

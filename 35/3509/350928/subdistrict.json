@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3509282003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Karangpaiton (Karang Paiton)",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Ledokombo",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Lembengan",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Slateng",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Sukogidri",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Sumberanget (Sumber Anget)",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Sumberbulus (Sumber Bulus)",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Sumberlesung (Sumber Lesung)",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Sumbersalak (Sumber Salak)",
+    "postal_code": "68196"
+  },
+  {
+    "id": 3509282002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350928,
+    "value": "Suren",
+    "postal_code": "68196"
+  }
+]

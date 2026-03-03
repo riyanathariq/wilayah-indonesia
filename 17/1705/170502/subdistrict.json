@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1705021013,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Dusun Baru",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021009,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Lubuk Kebur",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021011,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Lubuk Lintang",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021024,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Napal",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021010,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Pasar Tais",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021014,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Talang Dantuk",
+    "postal_code": "38876"
+  },
+  {
+    "id": 1705021012,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170502,
+    "value": "Talang Saling",
+    "postal_code": "38876"
+  }
+]

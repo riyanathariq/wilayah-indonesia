@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6205052024,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Beringin Raya",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205052025,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Datai Nirui",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205051013,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Lanjas",
+    "postal_code": "73812"
+  },
+  {
+    "id": 6205052010,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Lemo I",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205052011,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Lemo II",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205051014,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Melayu",
+    "postal_code": "73811"
+  },
+  {
+    "id": 6205052012,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Pendreh/Pandreh",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205052017,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Rimba Sari",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205052018,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Sei/Sungai Rahayu I",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205052022,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620505,
+    "value": "Sei/Sungai Rahayu II",
+    "postal_code": "73814"
+  }
+]

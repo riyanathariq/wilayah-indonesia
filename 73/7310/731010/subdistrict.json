@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7310101003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Biraeng",
+    "postal_code": "90614"
+  },
+  {
+    "id": 7310101004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Bonto Kio (Bontokio)",
+    "postal_code": "90614"
+  },
+  {
+    "id": 7310101006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Bonto Langkasa",
+    "postal_code": "90618"
+  },
+  {
+    "id": 7310101005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Bontoa",
+    "postal_code": "90615"
+  },
+  {
+    "id": 7310102007,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Kabba",
+    "postal_code": "90619"
+  },
+  {
+    "id": 7310101002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Kalabbirang",
+    "postal_code": "90615"
+  },
+  {
+    "id": 7310101001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Minasa Tene",
+    "postal_code": "90615"
+  },
+  {
+    "id": 7310102008,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731010,
+    "value": "Panaikang",
+    "postal_code": "90619"
+  }
+]

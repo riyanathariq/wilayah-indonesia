@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7371041005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Baru",
+    "postal_code": "90111"
+  },
+  {
+    "id": 7371041006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Bulogading",
+    "postal_code": "90111"
+  },
+  {
+    "id": 7371041007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Lae - Lae",
+    "postal_code": "90111"
+  },
+  {
+    "id": 7371041010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Lajangiru",
+    "postal_code": "90114"
+  },
+  {
+    "id": 7371041008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Losari",
+    "postal_code": "90112"
+  },
+  {
+    "id": 7371041001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Maloku",
+    "postal_code": "90112"
+  },
+  {
+    "id": 7371041002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Mangkura",
+    "postal_code": "90113"
+  },
+  {
+    "id": 7371041003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Pisang Selatan",
+    "postal_code": "90114"
+  },
+  {
+    "id": 7371041004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Pisang Utara",
+    "postal_code": "90115"
+  },
+  {
+    "id": 7371041009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737104,
+    "value": "Sawerigading",
+    "postal_code": "90113"
+  }
+]

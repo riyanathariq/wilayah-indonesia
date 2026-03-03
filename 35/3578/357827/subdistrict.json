@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578271004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Putat Gede",
+    "postal_code": "60189"
+  },
+  {
+    "id": 3578271005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Simomulyo",
+    "postal_code": "60281"
+  },
+  {
+    "id": 3578271006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Simomulyo Baru",
+    "postal_code": "60281"
+  },
+  {
+    "id": 3578271003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Sonokwijenan",
+    "postal_code": "60189"
+  },
+  {
+    "id": 3578271001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Sukomanunggal (Suko Manunggal)",
+    "postal_code": "60188"
+  },
+  {
+    "id": 3578271002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357827,
+    "value": "Tanjungsari",
+    "postal_code": "60187"
+  }
+]

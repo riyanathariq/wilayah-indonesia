@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1572042001,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Baru Debai",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042012,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Baru Tanah Kampung",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042004,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Dumo",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042010,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Padang",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042007,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Panap",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042003,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Pudung",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042008,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Tengah",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042006,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Koto Tuo",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042013,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Mekar Jaya",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042002,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Pendung Hiang",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042005,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Sembilan",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042009,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Tanjung Bunga/Bungo",
+    "postal_code": "37121"
+  },
+  {
+    "id": 1572042011,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157204,
+    "value": "Tanjung Karang",
+    "postal_code": "37121"
+  }
+]

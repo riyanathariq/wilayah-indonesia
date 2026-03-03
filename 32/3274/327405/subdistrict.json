@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3274051004,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327405,
+    "value": "Drajat",
+    "postal_code": "45133"
+  },
+  {
+    "id": 3274051005,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327405,
+    "value": "Karyamulya",
+    "postal_code": "45131"
+  },
+  {
+    "id": 3274051003,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327405,
+    "value": "Kesambi",
+    "postal_code": "45134"
+  },
+  {
+    "id": 3274051001,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327405,
+    "value": "Pekiringan",
+    "postal_code": "45131"
+  },
+  {
+    "id": 3274051002,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327405,
+    "value": "Sunyaragi",
+    "postal_code": "45132"
+  }
+]

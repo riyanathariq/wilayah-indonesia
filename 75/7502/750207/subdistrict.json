@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7502072005,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Apitalawu (Apitalawo)",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072006,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Bangga",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072001,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Bubaa",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072004,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Bukit Karya",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072003,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Limbatihu",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072002,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Lito",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072008,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Olibu",
+    "postal_code": "96261"
+  },
+  {
+    "id": 7502072007,
+    "province_id": 75,
+    "regency_id": 7502,
+    "district_id": 750207,
+    "value": "Towayu",
+    "postal_code": "96261"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7210042004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721004,
+    "value": "Anca",
+    "postal_code": "94369"
+  },
+  {
+    "id": 7210042002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721004,
+    "value": "Langko",
+    "postal_code": "94369"
+  },
+  {
+    "id": 7210042005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721004,
+    "value": "Olu",
+    "postal_code": "94369"
+  },
+  {
+    "id": 7210042001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721004,
+    "value": "Puroo",
+    "postal_code": "94369"
+  },
+  {
+    "id": 7210042003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721004,
+    "value": "Tomado",
+    "postal_code": "94369"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8103042007,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Batu Putih",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Kamatubun",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042008,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Makatian (Makatiang)",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042009,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Marantutul",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Rumahsalut (Rumasalut)",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042004,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Themin",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042003,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Welutu",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042005,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Weratan",
+    "postal_code": "97472"
+  },
+  {
+    "id": 8103042006,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810304,
+    "value": "Wermatang",
+    "postal_code": "97472"
+  }
+]

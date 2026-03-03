@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5204202006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Buin Baru",
+    "postal_code": "84355"
+  },
+  {
+    "id": 5204202002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Juru Mapin",
+    "postal_code": "84355"
+  },
+  {
+    "id": 5204202003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Kalabeso",
+    "postal_code": "84355"
+  },
+  {
+    "id": 5204202004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Labuhan Burung",
+    "postal_code": "84355"
+  },
+  {
+    "id": 5204202005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Pulau Kaung",
+    "postal_code": "84355"
+  },
+  {
+    "id": 5204202001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520420,
+    "value": "Tarusa",
+    "postal_code": "84355"
+  }
+]

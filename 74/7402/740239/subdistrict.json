@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7402392003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Besu",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Mendikonu",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Morosi",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Paku",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392008,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Paku Jaya",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392010,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Porara",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Puuruy",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Tanggobu",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392009,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Tondowatu",
+    "postal_code": "93456"
+  },
+  {
+    "id": 7402392002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740239,
+    "value": "Wonua Morini",
+    "postal_code": "93456"
+  }
+]

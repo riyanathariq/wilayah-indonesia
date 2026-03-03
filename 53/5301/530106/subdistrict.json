@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5301061001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Babau",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062016,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Manusak",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301061005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Merdeka",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301061003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Naibonat",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Nunkurus",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Oefafi",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062018,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Oelatimo",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062015,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Oesao",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301061004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Oesao (Kelurahan Oesao)",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062011,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Pukdale",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062017,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Tanah Putih",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301062006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Tuapukan",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301061008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530106,
+    "value": "Tuatuka",
+    "postal_code": "85362"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 3502012005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Broto",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Caluk",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012017,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Crabak",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012010,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Duri",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012014,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Galak",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012021,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Gombang",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012019,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Gundik",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012022,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Janti",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012013,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Jebeng (Jabeng)",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Kambeng",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Menggare",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012018,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Mojopitu",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012020,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Nailan",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012009,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Ngilo-Ilo",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012011,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Ngloning",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012012,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Plancungan",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Senepo",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012016,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Simo",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Slahung",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012015,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Truneng",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Tugurejo",
+    "postal_code": "63463"
+  },
+  {
+    "id": 3502012008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350201,
+    "value": "Wates",
+    "postal_code": "63463"
+  }
+]

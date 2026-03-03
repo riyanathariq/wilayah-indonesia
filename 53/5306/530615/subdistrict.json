@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5306152005,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Baluk Herin (Balukhering)",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152002,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Bantala",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152001,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Ile Padung",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152007,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Lewobelen",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152004,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Paingnapang (Painapang)",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152006,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Riangkotek",
+    "postal_code": "86252"
+  },
+  {
+    "id": 5306152003,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530615,
+    "value": "Sinar Hading",
+    "postal_code": "86252"
+  }
+]

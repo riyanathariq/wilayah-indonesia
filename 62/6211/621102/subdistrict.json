@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6211021018,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Basantan",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022017,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Batu Raya",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022007,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Hilir",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022009,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Hulu",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022016,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Hulu Permai",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022008,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Bahaur Tengah",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022001,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Cemantan (Camatan / Cematan)",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022003,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Kiapak",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022002,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Sei/Sungai Barunai (Papuyu II)",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022005,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Sei/Sungai Pasanan (Papuyu I)",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022014,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Sei/Sungai Pudak (Papuyu III)",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022006,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Sei/Sungai Rungun",
+    "postal_code": "74872"
+  },
+  {
+    "id": 6211022015,
+    "province_id": 62,
+    "regency_id": 6211,
+    "district_id": 621102,
+    "value": "Tanjung Perawan",
+    "postal_code": "74872"
+  }
+]

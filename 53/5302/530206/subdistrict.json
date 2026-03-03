@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5302062015,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Batnun",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062018,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Bena",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062019,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Eno Neten (Enoneten)",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Kiubaat",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Linamnutu",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062014,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Mio",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Noemuke",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Oebelo",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Oekiu",
+    "postal_code": "85562"
+  },
+  {
+    "id": 5302062001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530206,
+    "value": "Pollo",
+    "postal_code": "85562"
+  }
+]

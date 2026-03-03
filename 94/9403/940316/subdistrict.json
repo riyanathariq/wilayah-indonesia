@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9403162005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Biyadide",
+    "postal_code": "98727"
+  },
+  {
+    "id": 9403162006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Pekege",
+    "postal_code": "98727"
+  },
+  {
+    "id": 9403162004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Totiyo",
+    "postal_code": "98727"
+  },
+  {
+    "id": 9403162003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Ukago",
+    "postal_code": "98727"
+  },
+  {
+    "id": 9403162001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Ukauwo",
+    "postal_code": "98727"
+  },
+  {
+    "id": 9403162002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940316,
+    "value": "Waipa",
+    "postal_code": "98727"
+  }
+]

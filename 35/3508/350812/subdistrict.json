@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3508122011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Argosari",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Bedayu",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Bedayutalang",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Burno",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Kandangan",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Kandangtepus",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Pandansari",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Purworejo",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122012,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Ranupani",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Sarikemuning",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Senduro",
+    "postal_code": "67362"
+  },
+  {
+    "id": 3508122010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350812,
+    "value": "Wonocepokoayu",
+    "postal_code": "67362"
+  }
+]

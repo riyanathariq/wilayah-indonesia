@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1276031001,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Bagelen",
+    "postal_code": "20634"
+  },
+  {
+    "id": 1276031007,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Damar Sari",
+    "postal_code": "20636"
+  },
+  {
+    "id": 1276031009,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Deblod Sundoro",
+    "postal_code": "20636"
+  },
+  {
+    "id": 1276031006,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Satria",
+    "postal_code": "20636"
+  },
+  {
+    "id": 1276031002,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Tambangan",
+    "postal_code": "20631"
+  },
+  {
+    "id": 1276031008,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Tambangan Hulu",
+    "postal_code": "20636"
+  },
+  {
+    "id": 1276031004,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127603,
+    "value": "Tebing Tinggi",
+    "postal_code": "20631"
+  }
+]

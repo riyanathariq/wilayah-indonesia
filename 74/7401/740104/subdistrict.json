@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7401041003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Balandete",
+    "postal_code": "93517"
+  },
+  {
+    "id": 7401041006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Laloeha",
+    "postal_code": "93511"
+  },
+  {
+    "id": 7401041004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Lalombaa",
+    "postal_code": "93518"
+  },
+  {
+    "id": 7401041001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Lamokato",
+    "postal_code": "93511"
+  },
+  {
+    "id": 7401041005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Sabilambo",
+    "postal_code": "93519"
+  },
+  {
+    "id": 7401041007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Tahoa",
+    "postal_code": "93511"
+  },
+  {
+    "id": 7401041002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740104,
+    "value": "Watuliandu",
+    "postal_code": "93515"
+  }
+]

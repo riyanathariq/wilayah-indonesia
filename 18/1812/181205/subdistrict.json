@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1812052007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Bangun Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052012,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Dwikora Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Jaya Murni",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Marga Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Mekar Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Mulya Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052011,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Mulya Sari",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Suka Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Sumber Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052013,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Sumber Rejeki",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052010,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Tri Tunggal Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Tunas Jaya",
+    "postal_code": "34783"
+  },
+  {
+    "id": 1812052009,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181205,
+    "value": "Wono Rejo",
+    "postal_code": "34783"
+  }
+]

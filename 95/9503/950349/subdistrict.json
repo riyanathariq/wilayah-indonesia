@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9503492006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Esahapuk",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Hokolekma",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Kiroma",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Mesahaput",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Saikama",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Sogasio",
+    "postal_code": "99720"
+  },
+  {
+    "id": 9503492001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950349,
+    "value": "Yogosem",
+    "postal_code": "99720"
+  }
+]

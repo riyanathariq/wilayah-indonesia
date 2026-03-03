@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3508012002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Bulurejo",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Kaliuling",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Pundungsari",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Purorejo",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Tegalrejo",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Tempurejo (Tempurrejo)",
+    "postal_code": "67375"
+  },
+  {
+    "id": 3508012005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350801,
+    "value": "Tempursari",
+    "postal_code": "67375"
+  }
+]

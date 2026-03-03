@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1809082009,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Kampung Baru",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082008,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Kekatang",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082007,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Kunyaian",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082002,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Maja",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082006,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Pekon Ampai",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082003,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Penyandingan",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082010,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Pulau Pahawang",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082001,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Sukajaya Punduh (Suka Jaya Punduh)",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082004,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Tajur",
+    "postal_code": "35453"
+  },
+  {
+    "id": 1809082005,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180908,
+    "value": "Umbul Limus",
+    "postal_code": "35453"
+  }
+]

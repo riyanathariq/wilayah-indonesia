@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3513222003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Jrebeng",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Kareng Kidul",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222011,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Kedungsupit (Kedung Supit)",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Patalan",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Pohsangit Lor",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Pohsangit Ngisor",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Pohsangit Tengah",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Sepuhgembol (Sepuh Gempol)",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Sumberkare",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Tunggakcerme (Tunggak Cerme)",
+    "postal_code": "67253"
+  },
+  {
+    "id": 3513222004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351322,
+    "value": "Wonorejo",
+    "postal_code": "67253"
+  }
+]

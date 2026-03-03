@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5314092002,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531409,
+    "value": "Anarae",
+    "postal_code": "85983"
+  },
+  {
+    "id": 5314092001,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531409,
+    "value": "Mbali Lendeiki",
+    "postal_code": "85983"
+  },
+  {
+    "id": 5314092003,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531409,
+    "value": "Mbiu Lombo",
+    "postal_code": "85983"
+  },
+  {
+    "id": 5314092005,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531409,
+    "value": "Ndaonuse",
+    "postal_code": "85983"
+  },
+  {
+    "id": 5314092004,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531409,
+    "value": "Nuse",
+    "postal_code": "85983"
+  }
+]

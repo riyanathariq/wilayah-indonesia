@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2101142004,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210114,
+    "value": "Air Glubi/Gelubi",
+    "postal_code": "29151"
+  },
+  {
+    "id": 2101142001,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210114,
+    "value": "Kelong",
+    "postal_code": "29151"
+  },
+  {
+    "id": 2101142002,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210114,
+    "value": "Mapur",
+    "postal_code": "29151"
+  },
+  {
+    "id": 2101142003,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210114,
+    "value": "Numbing",
+    "postal_code": "29151"
+  }
+]

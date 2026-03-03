@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6305122007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Asam Randah",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Bagak",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Batu Hapu",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Burakai",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Hatungun",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Kambang Kuning",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Matang Batas",
+    "postal_code": "71184"
+  },
+  {
+    "id": 6305122001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630512,
+    "value": "Tarungin",
+    "postal_code": "71184"
+  }
+]

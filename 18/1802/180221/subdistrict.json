@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1802212005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Bumi Aji",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212011,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Bumi Jaya",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Gunung Agung",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Haji Pemanggilan",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Jaya Sakti",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212012,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Mulyo Haji",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Negara Aji Baru",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Negara Aji Tua",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Negara Bumi Ilir",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Negara Bumi Udik",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Srikaton (Sri Katon)",
+    "postal_code": "34161"
+  },
+  {
+    "id": 1802212010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180221,
+    "value": "Tanjung Harapan",
+    "postal_code": "34161"
+  }
+]

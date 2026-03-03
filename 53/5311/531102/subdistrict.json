@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5311022008,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Kadahang",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022012,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Kalamba",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022010,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Mbatapuhu (Mbata Puhu)",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022009,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Napu",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Praibakul",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Rambangaru",
+    "postal_code": "87153"
+  },
+  {
+    "id": 5311022007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531102,
+    "value": "Wunga",
+    "postal_code": "87153"
+  }
+]

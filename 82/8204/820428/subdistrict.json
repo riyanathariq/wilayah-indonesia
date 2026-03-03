@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8204282001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Alam Kenanga",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204282002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Alam Pelita",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204282003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Jikohai (Jikohay)",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204282004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Manatahan",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204282005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Soa Sangaji (Soasangaji)",
+    "postal_code": "97792"
+  },
+  {
+    "id": 8204282006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820428,
+    "value": "Tapa",
+    "postal_code": "97792"
+  }
+]

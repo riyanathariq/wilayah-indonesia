@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3507022007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Gampingan",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Pagak",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Pandanrejo",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Sempol",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Sumberejo (Sumberrejo)",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Sumberkerto",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Sumbermanjing Kulon",
+    "postal_code": "65168"
+  },
+  {
+    "id": 3507022006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350702,
+    "value": "Tlogorejo",
+    "postal_code": "65168"
+  }
+]

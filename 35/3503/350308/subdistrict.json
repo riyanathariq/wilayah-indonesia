@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3503082003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Dukuh",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082008,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Gemaharjo",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Karanggandu",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Margomulyo",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Ngembel",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Pakel",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082011,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Prigi",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Sawahan",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Slawe",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082012,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Tasikmadu",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082010,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Watuagung",
+    "postal_code": "66382"
+  },
+  {
+    "id": 3503082009,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350308,
+    "value": "Watulimo",
+    "postal_code": "66382"
+  }
+]

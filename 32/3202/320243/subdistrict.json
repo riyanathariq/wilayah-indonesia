@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3202432001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320243,
+    "value": "Cidolog",
+    "postal_code": "43184"
+  },
+  {
+    "id": 3202432003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320243,
+    "value": "Cikarang",
+    "postal_code": "43184"
+  },
+  {
+    "id": 3202432002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320243,
+    "value": "Cipamingkis",
+    "postal_code": "43184"
+  },
+  {
+    "id": 3202432005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320243,
+    "value": "Mekarjaya",
+    "postal_code": "43184"
+  },
+  {
+    "id": 3202432004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320243,
+    "value": "Tegallega",
+    "postal_code": "43184"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5203212010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Kalijaga Baru",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Baru",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Daya",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Duren",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Kali Bambang",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Lauk",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Pasiraman",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Lenek Ramban Biak",
+    "postal_code": "83653"
+  },
+  {
+    "id": 5203212009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520321,
+    "value": "Sukarema",
+    "postal_code": "83653"
+  }
+]

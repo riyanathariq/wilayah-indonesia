@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9203172001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Mbima Jaya",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Otoweri",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Salawier",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Tomage",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172009,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Wammar",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Wamosan",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Warisa Mulya",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Wasa Mulya",
+    "postal_code": "98033"
+  },
+  {
+    "id": 9203172003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920317,
+    "value": "Wonodadi Mulya",
+    "postal_code": "98033"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1214302011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Afore Gobo",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Bale-Bale",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302012,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Bale-Bale Sibohou",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Limo Biang",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Majino Lorang",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Marit Baru (Merit Baru)",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Memong",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Silima Banua Marit (Siofa Banua Marit)",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Siofa Banua Lorang",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Teluk Limo",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Wawa",
+    "postal_code": "22885"
+  },
+  {
+    "id": 1214302003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121430,
+    "value": "Zia Biang (Ziabiang)",
+    "postal_code": "22885"
+  }
+]

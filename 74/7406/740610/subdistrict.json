@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7406102003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Karya Baru",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102007,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Lawatu Ea (Es)",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102006,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Pulau Ea (Es)",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Rompu Rompu",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Tampawulu (Tanpabulu)",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Tanah Poleang",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Toburi",
+    "postal_code": "93777"
+  },
+  {
+    "id": 7406102008,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740610,
+    "value": "Wambarema",
+    "postal_code": "93777"
+  }
+]

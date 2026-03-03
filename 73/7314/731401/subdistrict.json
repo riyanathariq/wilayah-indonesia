@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7314012009,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Alesalewo",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Bapangi",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314011001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Bilokka",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012010,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Cenrana",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Corawali",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314011003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Lajonga",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Lise",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Wanio",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314012005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Wanio Timoreng",
+    "postal_code": "91672"
+  },
+  {
+    "id": 7314011002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731401,
+    "value": "Wette'E",
+    "postal_code": "91672"
+  }
+]

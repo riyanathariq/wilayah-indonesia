@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7171011008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717101,
+    "value": "Bailang",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171011007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717101,
+    "value": "Meras",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171011001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717101,
+    "value": "Molas",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171011009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717101,
+    "value": "Pandu",
+    "postal_code": "95249"
+  },
+  {
+    "id": 7171011006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717101,
+    "value": "Tongkeina / Tongkaina",
+    "postal_code": "95231"
+  }
+]

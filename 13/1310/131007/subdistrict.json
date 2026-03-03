@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1310072002,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131007,
+    "value": "Ampalu",
+    "postal_code": "27680"
+  },
+  {
+    "id": 1310072001,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131007,
+    "value": "Koto Salak",
+    "postal_code": "27680"
+  },
+  {
+    "id": 1310072003,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131007,
+    "value": "Padukuan",
+    "postal_code": "27680"
+  },
+  {
+    "id": 1310072004,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131007,
+    "value": "Pulau Mainan",
+    "postal_code": "27680"
+  },
+  {
+    "id": 1310072005,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131007,
+    "value": "Simalidu",
+    "postal_code": "27680"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1703162005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Air Napal",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Lubuk Tanjung",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Pasar Bembah (Pasar Bemba)",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Pasar Kerkap",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162014,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Pasar Palik",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Pasar Tebat",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162011,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Pukur (Dusun Pukur)",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Selubuk",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162016,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Talang Jarang",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Talang Kering",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162015,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Tebing Kandang",
+    "postal_code": "38373"
+  },
+  {
+    "id": 1703162002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170316,
+    "value": "Tepi Laut (Tepian Laut)",
+    "postal_code": "38373"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 8171012004,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Amahusu",
+    "postal_code": "97117"
+  },
+  {
+    "id": 8171011008,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Benteng",
+    "postal_code": "97117"
+  },
+  {
+    "id": 8171011009,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Kudamati",
+    "postal_code": "97116"
+  },
+  {
+    "id": 8171012001,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Latuhalat",
+    "postal_code": "97118"
+  },
+  {
+    "id": 8171011010,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Mangga Dua",
+    "postal_code": "97114"
+  },
+  {
+    "id": 8171012003,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Nusaniwe",
+    "postal_code": "97117"
+  },
+  {
+    "id": 8171011006,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Nusaniwe (Kelurahan Nusaniwe)",
+    "postal_code": "97117"
+  },
+  {
+    "id": 8171012002,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Seilale",
+    "postal_code": "97118"
+  },
+  {
+    "id": 8171011013,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Silale",
+    "postal_code": "97111"
+  },
+  {
+    "id": 8171011011,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Urimessing (Urimesing) Desa",
+    "postal_code": "97113"
+  },
+  {
+    "id": 8171012005,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Urimessing (Urimesing) Kelurahan",
+    "postal_code": "97113"
+  },
+  {
+    "id": 8171011012,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Waihaong",
+    "postal_code": "97112"
+  },
+  {
+    "id": 8171011007,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817101,
+    "value": "Wainitu (Wainatu)",
+    "postal_code": "97115"
+  }
+]

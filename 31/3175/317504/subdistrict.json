@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3175041005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Balekambang",
+    "postal_code": "13530"
+  },
+  {
+    "id": 3175041004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Batu Ampar (Batuampar)",
+    "postal_code": "13520"
+  },
+  {
+    "id": 3175041007,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Cawang",
+    "postal_code": "13630"
+  },
+  {
+    "id": 3175041006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Cililitan",
+    "postal_code": "13640"
+  },
+  {
+    "id": 3175041003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Dukuh",
+    "postal_code": "13550"
+  },
+  {
+    "id": 3175041001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Kramatjati (Kramat Jati)",
+    "postal_code": "13510"
+  },
+  {
+    "id": 3175041002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317504,
+    "value": "Tengah (Kampung Tengah)",
+    "postal_code": "13540"
+  }
+]

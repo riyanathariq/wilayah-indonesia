@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7503152001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Ayula Selatan",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Ayula Tilango",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Ayula Timur",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Ayula Utara",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Huntu Barat (Mekar Jaya)",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Huntu Selatan",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Huntu Utara",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Lamahu",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152010,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Sejahtera",
+    "postal_code": "96541"
+  },
+  {
+    "id": 7503152009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750315,
+    "value": "Tinelo Ayula",
+    "postal_code": "96541"
+  }
+]

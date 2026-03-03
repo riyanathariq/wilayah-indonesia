@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3603122013,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Gelam Jaya",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603121014,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Kuta Baru",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603121012,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Kuta Jaya",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603121010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Kutabumi (Kuta Bumi)",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603122011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Pangadegan",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603122001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Pasar Kemis",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603121005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Sindangsari (Sindang Sari)",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603122015,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Suka Asih (Sukaasih)",
+    "postal_code": "15560"
+  },
+  {
+    "id": 3603122008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360312,
+    "value": "Sukamantri",
+    "postal_code": "15560"
+  }
+]

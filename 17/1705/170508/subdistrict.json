@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1705082002,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Air Latak",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082007,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Lubuk Lagan",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082006,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Lunjuk",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082004,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Pagar Agung",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082008,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Purbosari",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082009,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Sengkuang Jaya",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082003,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Talang Perapat",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082005,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Talang Tinggi",
+    "postal_code": "38883"
+  },
+  {
+    "id": 1705082001,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170508,
+    "value": "Tanjung Agung",
+    "postal_code": "38883"
+  }
+]

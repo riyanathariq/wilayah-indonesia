@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202442003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Banjarsari",
+    "postal_code": "43183"
+  },
+  {
+    "id": 3202442002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Cidadap",
+    "postal_code": "43183"
+  },
+  {
+    "id": 3202442004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Hegarmulya",
+    "postal_code": "43183"
+  },
+  {
+    "id": 3202442006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Mekartani",
+    "postal_code": "43183"
+  },
+  {
+    "id": 3202442001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Padasenang",
+    "postal_code": "43183"
+  },
+  {
+    "id": 3202442005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320244,
+    "value": "Tenjolaut",
+    "postal_code": "43183"
+  }
+]

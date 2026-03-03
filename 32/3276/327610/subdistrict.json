@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3276101006,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Cilangkap",
+    "postal_code": "16458"
+  },
+  {
+    "id": 3276101007,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Cimpaeun",
+    "postal_code": "16459"
+  },
+  {
+    "id": 3276101005,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Jatijajar",
+    "postal_code": "16451"
+  },
+  {
+    "id": 3276101002,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Leuwinanggung",
+    "postal_code": "16456"
+  },
+  {
+    "id": 3276101004,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Sukamaju Baru",
+    "postal_code": "16455"
+  },
+  {
+    "id": 3276101003,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Sukatani",
+    "postal_code": "16454"
+  },
+  {
+    "id": 3276101001,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327610,
+    "value": "Tapos",
+    "postal_code": "16457"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9301112012,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Anum Bob (Anumbob)",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112010,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Candra Jaya",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Harapan Makmur",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Ivimahad (Ivi Mahad)",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Jaya Makmur",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Kaliki",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Kurik",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Salor Indah",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Sumber Mulya",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Sumber Rejeki",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Telaga Sari",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112013,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Wapeko",
+    "postal_code": "99646"
+  },
+  {
+    "id": 9301112011,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930111,
+    "value": "Wonorejo",
+    "postal_code": "99646"
+  }
+]

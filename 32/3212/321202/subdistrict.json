@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3212022007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Jayamulya",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Kroya",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Suka Slamet (Sukaslamet)",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Sukamelang",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Sumberjaya",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Sumbon",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Tamiyangsari (Temiyangsari)",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Tanjungkerta",
+    "postal_code": "45265"
+  },
+  {
+    "id": 3212022005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321202,
+    "value": "Temiyang",
+    "postal_code": "45265"
+  }
+]

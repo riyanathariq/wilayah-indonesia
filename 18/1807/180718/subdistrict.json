@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1807182001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180718,
+    "value": "Negeri Agung",
+    "postal_code": "34388"
+  },
+  {
+    "id": 1807182005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180718,
+    "value": "Nibung",
+    "postal_code": "34388"
+  },
+  {
+    "id": 1807182004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180718,
+    "value": "Pelindung Jaya",
+    "postal_code": "34388"
+  },
+  {
+    "id": 1807182002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180718,
+    "value": "Pempen",
+    "postal_code": "34388"
+  },
+  {
+    "id": 1807182003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180718,
+    "value": "Way Mili (Wai Mili)",
+    "postal_code": "34388"
+  }
+]

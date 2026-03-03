@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1571031004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Budiman",
+    "postal_code": "36145"
+  },
+  {
+    "id": 1571031006,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Kasang",
+    "postal_code": "36141"
+  },
+  {
+    "id": 1571031002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Kasang Jaya",
+    "postal_code": "36141"
+  },
+  {
+    "id": 1571031008,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Rajawali",
+    "postal_code": "36143"
+  },
+  {
+    "id": 1571031001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Sijenjang (Sijinjang)",
+    "postal_code": "36149"
+  },
+  {
+    "id": 1571031005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Sulanjana (Sulan Jana)",
+    "postal_code": "36144"
+  },
+  {
+    "id": 1571031003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Talang Banjar",
+    "postal_code": "36142"
+  },
+  {
+    "id": 1571031010,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Tanjung Pinang",
+    "postal_code": "36146"
+  },
+  {
+    "id": 1571031007,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157103,
+    "value": "Tanjung Sari",
+    "postal_code": "36147"
+  }
+]

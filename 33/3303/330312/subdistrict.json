@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3303122008,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Baleraksa",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Grantung",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Karangsari",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122010,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Kramat",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Pekiringan",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Pepedan",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Rajawana",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122011,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Sirau",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Tajug",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Tamansari",
+    "postal_code": "53355"
+  },
+  {
+    "id": 3303122009,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330312,
+    "value": "Tunjungmuli",
+    "postal_code": "53355"
+  }
+]

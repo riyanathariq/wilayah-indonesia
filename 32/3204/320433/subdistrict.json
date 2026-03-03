@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3204332003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Biru",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Bojong",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Majakerta",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Majalaya",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Majasetra",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Neglasari",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Padamulya",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Padaulun",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Sukamaju",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332011,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Sukamukti",
+    "postal_code": "40382"
+  },
+  {
+    "id": 3204332002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320433,
+    "value": "Wangisagara",
+    "postal_code": "40382"
+  }
+]

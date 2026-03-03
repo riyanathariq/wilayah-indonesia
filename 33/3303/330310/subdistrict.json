@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3303102007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Gondang",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Karangreja",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Kutabawa",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Serang",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Siwarak",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Tlahab Kidul",
+    "postal_code": "53358"
+  },
+  {
+    "id": 3303102004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330310,
+    "value": "Tlahab Lor",
+    "postal_code": "53358"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7206122010,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Bumi Harapan",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122002,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Emea",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122008,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Lantula Jaya",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122006,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Moahino",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122009,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Puntari Makmur",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122001,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Sampeantaba",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122007,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Solonsa",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122011,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Solonsa Jaya",
+    "postal_code": "94978"
+  },
+  {
+    "id": 7206122012,
+    "province_id": 72,
+    "regency_id": 7206,
+    "district_id": 720612,
+    "value": "Ungkaya",
+    "postal_code": "94978"
+  }
+]

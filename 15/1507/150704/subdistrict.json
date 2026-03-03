@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1507041006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Bandar Jaya",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042008,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Bangun Karya",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Harapan Makmur",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042013,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Karya Bakti",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042014,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Marga Mulya",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042015,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Pematang Mayan",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042009,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Rantau Jaya",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Rantau Rasau I",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Rantau Rasau II",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042011,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Sungai Dusun",
+    "postal_code": "36772"
+  },
+  {
+    "id": 1507042016,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150704,
+    "value": "Tri Mulya/Mulyo",
+    "postal_code": "36772"
+  }
+]

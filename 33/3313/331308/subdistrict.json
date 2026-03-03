@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3313082001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Bangsri",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082010,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Dayu",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Doplang",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Gerdu",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Gondangmanis",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082011,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Harjosari",
+    "postal_code": "57715"
+  },
+  {
+    "id": 3313082005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Karang",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Karangpandan (Karang Pandan)",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Ngemplak",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Salam",
+    "postal_code": "57791"
+  },
+  {
+    "id": 3313082008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331308,
+    "value": "Tohkuning",
+    "postal_code": "57791"
+  }
+]

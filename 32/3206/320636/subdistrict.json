@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3206362002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Bugel",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Ciawi",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Citamba",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Gombong",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Kertamukti",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Kurniabakti",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Margasari",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362011,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Pakamitankidul (Pakemitankidul)",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Pakemitan",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Pasirhuni",
+    "postal_code": "46156"
+  },
+  {
+    "id": 3206362006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320636,
+    "value": "Sukamantri",
+    "postal_code": "46156"
+  }
+]

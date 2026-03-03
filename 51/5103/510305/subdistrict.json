@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5103051004,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Benoa",
+    "postal_code": "80362"
+  },
+  {
+    "id": 5103051006,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Jimbaran",
+    "postal_code": "80362"
+  },
+  {
+    "id": 5103052003,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Kutuh",
+    "postal_code": "80362"
+  },
+  {
+    "id": 5103052001,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Pecatu",
+    "postal_code": "80362"
+  },
+  {
+    "id": 5103051005,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Tanjung Benoa",
+    "postal_code": "80362"
+  },
+  {
+    "id": 5103052002,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510305,
+    "value": "Ungasan",
+    "postal_code": "80362"
+  }
+]

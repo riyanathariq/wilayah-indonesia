@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1220102004,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Aek Bayur",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102005,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Aek Tolong",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102008,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Bangun Purba",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102012,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Gulangan",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Mompang II",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102009,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Naga Saribu",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102013,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Pijor Koling",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102014,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Purba Tua Dolok",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102010,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Sihoda-Hoda",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102007,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Simaninggir",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102003,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Siunggam Jae",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102001,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Siunggam Julu",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102002,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Siunggam Tonga",
+    "postal_code": "22751"
+  },
+  {
+    "id": 1220102006,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122010,
+    "value": "Tangga-Tangga Hambeng",
+    "postal_code": "22751"
+  }
+]

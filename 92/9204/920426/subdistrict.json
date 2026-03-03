@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9204262003,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Haemaran",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262002,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Ikana",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262007,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Makaroro",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262005,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Mogatemin",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262001,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Mukamat",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262006,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Onimsefa",
+    "postal_code": "98226"
+  },
+  {
+    "id": 9204262004,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920426,
+    "value": "Siranggo",
+    "postal_code": "98226"
+  }
+]

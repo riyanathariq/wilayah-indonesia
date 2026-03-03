@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1208062005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Bah Birong Ulu",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Bah Sampuran",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Dipar Hataran",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Dolok Marlawan",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Dolok Parriasan",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Jorlang Hataran",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Kasindir",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Pagar Pinang",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Panombean Hutaurung (Panombean Huta Urung)",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Parmonangan",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Pinang Ratus",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208062002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Sibunga Bunga",
+    "postal_code": "21172"
+  },
+  {
+    "id": 1208061008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120806,
+    "value": "Tiga Balata",
+    "postal_code": "21172"
+  }
+]

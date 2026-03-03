@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3314082004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Bandung",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Bener",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Gabus",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Karangudi",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Kebonromo",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Klandungan",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Ngarum",
+    "postal_code": "57252"
+  },
+  {
+    "id": 3314082003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331408,
+    "value": "Pilangsari",
+    "postal_code": "57252"
+  }
+]

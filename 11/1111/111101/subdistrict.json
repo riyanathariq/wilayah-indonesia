@@ -1,0 +1,370 @@
+[
+  {
+    "id": 1111012023,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Alue Barat",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012041,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Angkieng Barat (Ankieng Barat)",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012016,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Batee Iliek",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012022,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Cot Mane",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012035,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Cot Meurak Baroh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012036,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Cot Meurak Blang",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012024,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Cot Siren",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012019,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Darussalam",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012027,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Gampong Baro",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012029,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Gampong Putoh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012033,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Geulumpang/Glumpang Bungkok",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012084,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Geulumpang/Glumpang Payong",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012034,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Glumpang Meulum",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012028,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Kandang",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012001,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Keude Aceh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012013,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Lancok",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012011,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Lhok Seumira",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012032,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Lueng Keubeu",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012021,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Matang",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012020,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Matang Jereung (Matang Jareung)",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012039,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Matang Teungoh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012018,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Matang Wakeuh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012015,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Mesjid Baro",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012004,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meuliek",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012043,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meunasah Lancok",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012042,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meunasah Lincah",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012010,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meunasah Lueng",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012044,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meunasah Puuk",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012037,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Meurah",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012031,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Mideun Geudong",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012030,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Mideun Jok",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012005,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Namploh Baro",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012007,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Namploh Blang Garang",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012008,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Namploh Krueng",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012006,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Namploh Manyang",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012009,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Namploh Papeun (Namploh Papeuen)",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012014,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Paloh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012003,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Pante Rheeng/Rheng",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012026,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Pineung Siribee (Pineung Siri Bee)",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012017,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Pulo Baroh",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012002,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Sangso",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012040,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Tanjong Baro",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012045,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Tonjongan Idem (Tanjongan Idem)",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012025,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Ulee Alue",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012012,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Ulee Jeumatan",
+    "postal_code": "24264"
+  },
+  {
+    "id": 1111012038,
+    "province_id": 11,
+    "regency_id": 1111,
+    "district_id": 111101,
+    "value": "Ulee Ue",
+    "postal_code": "24264"
+  }
+]

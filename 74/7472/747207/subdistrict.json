@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7472071002,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747207,
+    "value": "Kalia Lia",
+    "postal_code": "93733"
+  },
+  {
+    "id": 7472071005,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747207,
+    "value": "Kantalai",
+    "postal_code": "93733"
+  },
+  {
+    "id": 7472071004,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747207,
+    "value": "Kolese",
+    "postal_code": "93733"
+  },
+  {
+    "id": 7472071001,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747207,
+    "value": "Lowu-Lowu",
+    "postal_code": "93733"
+  },
+  {
+    "id": 7472071003,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747207,
+    "value": "Palabusa",
+    "postal_code": "93733"
+  }
+]

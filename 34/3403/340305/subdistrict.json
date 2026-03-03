@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3403052007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Giring",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Grogol",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Karangasem (Karang Asem)",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Karangduwet (Karang Duwet)",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Mulusan",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Pampang",
+    "postal_code": "55871"
+  },
+  {
+    "id": 3403052001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340305,
+    "value": "Sodo",
+    "postal_code": "55871"
+  }
+]

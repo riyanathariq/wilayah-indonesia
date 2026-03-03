@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7210032005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721003,
+    "value": "Bulili",
+    "postal_code": "94365"
+  },
+  {
+    "id": 7210032003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721003,
+    "value": "Kadidia",
+    "postal_code": "94365"
+  },
+  {
+    "id": 7210032001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721003,
+    "value": "Kamarora A",
+    "postal_code": "94365"
+  },
+  {
+    "id": 7210032002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721003,
+    "value": "Kamarora B",
+    "postal_code": "94365"
+  },
+  {
+    "id": 7210032004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721003,
+    "value": "Sopu",
+    "postal_code": "94365"
+  }
+]

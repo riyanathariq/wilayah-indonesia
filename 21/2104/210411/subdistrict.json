@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2104112001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210411,
+    "value": "Benan",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104112002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210411,
+    "value": "Mensanak",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104112003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210411,
+    "value": "Pulau Bukit",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104112004,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210411,
+    "value": "Pulau Duyung",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104112005,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210411,
+    "value": "Pulau Medang",
+    "postal_code": "29873"
+  }
+]

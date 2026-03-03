@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2103112001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Sabang Mawang",
+    "postal_code": "29788"
+  },
+  {
+    "id": 2103112006,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Sabang Mawang Barat",
+    "postal_code": "29788"
+  },
+  {
+    "id": 2103112003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Sededap",
+    "postal_code": "29788"
+  },
+  {
+    "id": 2103112005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Serantas",
+    "postal_code": "29788"
+  },
+  {
+    "id": 2103112004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Tanjung Batang",
+    "postal_code": "29788"
+  },
+  {
+    "id": 2103112010,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210311,
+    "value": "Teluk Labuh",
+    "postal_code": "29788"
+  }
+]

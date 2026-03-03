@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1201092004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Barambang",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Baringin",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Huta Tombak",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Muara Bolak",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Siantar Ca",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Siantar Dolok",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Sibintang",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201091001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Sosor Gadong",
+    "postal_code": "22568"
+  },
+  {
+    "id": 1201092002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120109,
+    "value": "Unte Boang",
+    "postal_code": "22568"
+  }
+]

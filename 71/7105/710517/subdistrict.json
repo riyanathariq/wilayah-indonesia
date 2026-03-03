@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7105172007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Elusan",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Kapitu",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105171002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Kawangkoan Bawah",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Pondos",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Rumoong Bawah",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105171003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Rumoong Bawah (Kelurahan Rumoong Bawah)",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Teep",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Teep Trans",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Tewasen",
+    "postal_code": "95955"
+  },
+  {
+    "id": 7105172009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710517,
+    "value": "Wakan",
+    "postal_code": "95955"
+  }
+]

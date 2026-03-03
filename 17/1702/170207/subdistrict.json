@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1702072027,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Air Kati",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072009,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Belumai I",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072008,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Belumai II",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072028,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Bukit Batu",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072007,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Guru Agung",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Karang Baru",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072026,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Kasie Kasubun",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072013,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Muara Telita",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702071011,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Pasar Padang Ulak Tanding",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072021,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Taba Tinggi",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072025,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Taktoi",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072012,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Tanjung Sanai I",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072022,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Tanjung Sanai II",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072014,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Ujan Panas",
+    "postal_code": "39180"
+  },
+  {
+    "id": 1702072010,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170207,
+    "value": "Ulak Tanding",
+    "postal_code": "39180"
+  }
+]

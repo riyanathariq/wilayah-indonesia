@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7204092010,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Binontoan",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092008,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Diule",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092014,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Gio",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092011,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Lakuan Tolitoli (Lakuan Toli Toli)",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092006,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Laulalang",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092009,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Pinjan",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092007,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Salumpaga",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092005,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Santigi",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092013,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Teluk Jaya",
+    "postal_code": "94560"
+  },
+  {
+    "id": 7204092012,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720409,
+    "value": "Timbolo",
+    "postal_code": "94560"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3501012012,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Belah",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012007,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Cemeng",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012011,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Donorojo",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012006,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Gedompol",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012008,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Gendaran",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012003,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Kalak",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012005,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Klepu",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012002,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Sawahan",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012010,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Sekar",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012004,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Sendang",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012009,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Sukodono",
+    "postal_code": "63554"
+  },
+  {
+    "id": 3501012001,
+    "province_id": 35,
+    "regency_id": 3501,
+    "district_id": 350101,
+    "value": "Widoro",
+    "postal_code": "63554"
+  }
+]

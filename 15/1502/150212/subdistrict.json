@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1502122006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Kedarasan Panjang (Kederasan Panjang)",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Lubuk Gaung",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Nibung (Tambang Nibung)",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Pelangki",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Pulau Baru",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Pulau Layang",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Rantau Alai",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Salam Buku",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Tambang Besi",
+    "postal_code": "37316"
+  },
+  {
+    "id": 1502122005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150212,
+    "value": "Titian Teras",
+    "postal_code": "37316"
+  }
+]

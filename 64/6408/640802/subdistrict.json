@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6408022006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Benhes",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Dabeq",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Diaq Lay",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Jak Luay",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022009,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Karya Bhakti (Karya Bakti)",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022010,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Long Wehea",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Muara Wahau",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Nehes Liah Bing (Nehesliah Bing)",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022008,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Wahau Baru",
+    "postal_code": "75655"
+  },
+  {
+    "id": 6408022007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640802,
+    "value": "Wanasari (Wana Sari)",
+    "postal_code": "75655"
+  }
+]

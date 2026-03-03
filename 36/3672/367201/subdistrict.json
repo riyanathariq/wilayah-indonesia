@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3672011003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Bulakan",
+    "postal_code": "42426"
+  },
+  {
+    "id": 3672011001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Cibeber",
+    "postal_code": "42423"
+  },
+  {
+    "id": 3672011004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Cikerai",
+    "postal_code": "42427"
+  },
+  {
+    "id": 3672011006,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Kalitimbang",
+    "postal_code": "42424"
+  },
+  {
+    "id": 3672011005,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Karang Asem (Karangasem)",
+    "postal_code": "42425"
+  },
+  {
+    "id": 3672011002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367201,
+    "value": "Kedaleman",
+    "postal_code": "42422"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5302312008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Bestobe",
+    "postal_code": "85552"
+  },
+  {
+    "id": 5302312004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Bonleu",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302312006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Huetalan",
+    "postal_code": "85552"
+  },
+  {
+    "id": 5302312005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Pubasu",
+    "postal_code": "85552"
+  },
+  {
+    "id": 5302312007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Saubalan",
+    "postal_code": "85552"
+  },
+  {
+    "id": 5302312001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Tobu",
+    "postal_code": "85552"
+  },
+  {
+    "id": 5302312003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Tune",
+    "postal_code": "85561"
+  },
+  {
+    "id": 5302312002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530231,
+    "value": "Tutem",
+    "postal_code": "85552"
+  }
+]

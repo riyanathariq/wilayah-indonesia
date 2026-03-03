@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3502132010,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Badegan",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Bandaralim",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132009,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Biting",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Dayakan",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Kapuran",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Karangan",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Karangjoho",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Tanjunggunung (Tanjung Gunung)",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Tanjungrejo",
+    "postal_code": "63455"
+  },
+  {
+    "id": 3502132008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350213,
+    "value": "Watubonang",
+    "postal_code": "63455"
+  }
+]

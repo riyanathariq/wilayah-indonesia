@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106052005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Hualoy",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Latu",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Rumahkay",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052006,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Seriholo",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052007,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Tala",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052001,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Tihulale",
+    "postal_code": "97563"
+  },
+  {
+    "id": 8106052004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810605,
+    "value": "Tomalehu",
+    "postal_code": "97563"
+  }
+]

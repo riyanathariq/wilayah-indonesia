@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9103122002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910312,
+    "value": "Abar (Atabar)",
+    "postal_code": "99351"
+  },
+  {
+    "id": 9103122003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910312,
+    "value": "Babrongko (Ifar Bobrongko)",
+    "postal_code": "99351"
+  },
+  {
+    "id": 9103122001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910312,
+    "value": "Ebungfa",
+    "postal_code": "99351"
+  },
+  {
+    "id": 9103122004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910312,
+    "value": "Khameyoka (Khameyaka / Kameyoka / Khamaeka)",
+    "postal_code": "99351"
+  },
+  {
+    "id": 9103122005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910312,
+    "value": "Simporo (Babo/Yosiba/Homf)",
+    "postal_code": "99351"
+  }
+]

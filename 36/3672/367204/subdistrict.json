@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3672041001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Banjar Negara",
+    "postal_code": "42441"
+  },
+  {
+    "id": 3672041004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Gunung Sugih (Gunungsugih)",
+    "postal_code": "42447"
+  },
+  {
+    "id": 3672041005,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Kepuh",
+    "postal_code": "42446"
+  },
+  {
+    "id": 3672041003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Kubangsari",
+    "postal_code": "42445"
+  },
+  {
+    "id": 3672041006,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Randakari",
+    "postal_code": "42446"
+  },
+  {
+    "id": 3672041002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367204,
+    "value": "Tegal Ratu (Tegalratu)",
+    "postal_code": "42445"
+  }
+]

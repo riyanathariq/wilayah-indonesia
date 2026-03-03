@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1871,
+    "province_id": 18,
+    "type": "Kota",
+    "value": "Kota Bandar Lampung"
+  },
+  {
+    "id": 1804,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Lampung Barat"
+  },
+  {
+    "id": 1801,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Lampung Selatan"
+  },
+  {
+    "id": 1802,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Lampung Tengah"
+  },
+  {
+    "id": 1807,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Lampung Timur"
+  },
+  {
+    "id": 1803,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Lampung Utara"
+  },
+  {
+    "id": 1811,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Mesuji"
+  },
+  {
+    "id": 1872,
+    "province_id": 18,
+    "type": "Kota",
+    "value": "Kota Metro"
+  },
+  {
+    "id": 1809,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Pesawaran"
+  },
+  {
+    "id": 1813,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Pesisir Barat"
+  },
+  {
+    "id": 1810,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Pringsewu"
+  },
+  {
+    "id": 1806,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Tanggamus"
+  },
+  {
+    "id": 1805,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Tulang Bawang"
+  },
+  {
+    "id": 1812,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Tulang Bawang Barat"
+  },
+  {
+    "id": 1808,
+    "province_id": 18,
+    "type": "Kabupaten",
+    "value": "Way Kanan"
+  }
+]

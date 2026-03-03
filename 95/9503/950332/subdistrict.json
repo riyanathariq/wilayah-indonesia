@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9503322002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950332,
+    "value": "Kalpok",
+    "postal_code": "99721"
+  },
+  {
+    "id": 9503322001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950332,
+    "value": "Kona (Konda)",
+    "postal_code": "99721"
+  },
+  {
+    "id": 9503322005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950332,
+    "value": "Kugun",
+    "postal_code": "99721"
+  },
+  {
+    "id": 9503322003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950332,
+    "value": "Seklak",
+    "postal_code": "99721"
+  },
+  {
+    "id": 9503322004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950332,
+    "value": "Wetmuk",
+    "postal_code": "99721"
+  }
+]

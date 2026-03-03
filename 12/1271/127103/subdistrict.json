@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1271031005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Cinta Damai",
+    "postal_code": "20126"
+  },
+  {
+    "id": 1271031006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Dwi Kora",
+    "postal_code": "20123"
+  },
+  {
+    "id": 1271031001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Helvetia",
+    "postal_code": "20124"
+  },
+  {
+    "id": 1271031002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Helvetia Tengah",
+    "postal_code": "20124"
+  },
+  {
+    "id": 1271031003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Helvetia Timur",
+    "postal_code": "20124"
+  },
+  {
+    "id": 1271031007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Sei Sikambing C II",
+    "postal_code": "20123"
+  },
+  {
+    "id": 1271031004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127103,
+    "value": "Tanjung Gusta",
+    "postal_code": "20125"
+  }
+]

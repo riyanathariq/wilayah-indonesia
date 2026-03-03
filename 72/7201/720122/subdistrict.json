@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201222004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Binotik",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Bollo (Bolla)",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Bombongan",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Boras",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Garuga",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Lonas",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Pondan (Pondang)",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Sobol",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Sobol Baru",
+    "postal_code": "94770"
+  },
+  {
+    "id": 7201222007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720122,
+    "value": "Sulubombong",
+    "postal_code": "94770"
+  }
+]

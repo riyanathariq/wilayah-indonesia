@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3207292002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320729,
+    "value": "Beber",
+    "postal_code": "46381"
+  },
+  {
+    "id": 3207292004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320729,
+    "value": "Bojongmalang",
+    "postal_code": "46381"
+  },
+  {
+    "id": 3207292001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320729,
+    "value": "Cimaragas",
+    "postal_code": "46381"
+  },
+  {
+    "id": 3207292005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320729,
+    "value": "Jayaraksa",
+    "postal_code": "46381"
+  },
+  {
+    "id": 3207292003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320729,
+    "value": "Raksabaya",
+    "postal_code": "46381"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5312102004,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Bali Ledo",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102001,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Bera Dolu",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102005,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Dedekadu (Dede Kadu)",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312101013,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Dira Tana",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102002,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Doka Kaka",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312101011,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Loda Pare",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102014,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Manola",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312101008,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Sobawawi (Soba Wawi)",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102003,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Tana Rara",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102009,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Tema Tana",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102006,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Ubu Pede",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312102010,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Ubu Raya",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312101012,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Wee Dabo",
+    "postal_code": "87284"
+  },
+  {
+    "id": 5312101007,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531210,
+    "value": "Wee Karou",
+    "postal_code": "87284"
+  }
+]

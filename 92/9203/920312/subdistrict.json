@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9203122005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Kalamanuk",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Kotam",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122009,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Krabelang",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Kwama",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Wambar",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122010,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Wambar Timur",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Waserat",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Wayati",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Wayati Barat",
+    "postal_code": "98031"
+  },
+  {
+    "id": 9203122006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920312,
+    "value": "Wayati Timur",
+    "postal_code": "98031"
+  }
+]

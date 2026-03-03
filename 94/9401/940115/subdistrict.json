@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9401152001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940115,
+    "value": "Kunupi / Obaipoto",
+    "postal_code": "98855"
+  },
+  {
+    "id": 9401152003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940115,
+    "value": "Lokodimi / Bokomidi",
+    "postal_code": "98855"
+  },
+  {
+    "id": 9401152002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940115,
+    "value": "Ogiyai (Ogiay/Waisai)",
+    "postal_code": "98855"
+  },
+  {
+    "id": 9401152004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940115,
+    "value": "Yegeugi (Yageugi)",
+    "postal_code": "98855"
+  }
+]

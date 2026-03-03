@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3529082004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Aenganyar",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Banbaru",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082008,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Banmaleng",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Bringsang",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Galis",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Gedugan",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Jate",
+    "postal_code": "69482"
+  },
+  {
+    "id": 3529082005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352908,
+    "value": "Lombang",
+    "postal_code": "69482"
+  }
+]

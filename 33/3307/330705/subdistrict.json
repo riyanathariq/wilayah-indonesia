@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3307052005,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Besani",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052013,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Durensawit",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052007,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Jlamprang",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052009,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Jonggolsari",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052010,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Kalimendong",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307051006,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Leksono",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052002,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Lipursari",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052014,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Manggis",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052012,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Pacarmulyo",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052001,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Sawangan",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052003,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Selokromo",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052004,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Sojokerto",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052011,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Timbang",
+    "postal_code": "56362"
+  },
+  {
+    "id": 3307052008,
+    "province_id": 33,
+    "regency_id": 3307,
+    "district_id": 330705,
+    "value": "Wonokerto",
+    "postal_code": "56362"
+  }
+]

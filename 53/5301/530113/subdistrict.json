@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5301132001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Afoan",
+    "postal_code": "85365"
+  },
+  {
+    "id": 5301132005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Bakuin",
+    "postal_code": "85365"
+  },
+  {
+    "id": 5301132003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Fatunaus",
+    "postal_code": "85365"
+  },
+  {
+    "id": 5301132004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Kolabe",
+    "postal_code": "85365"
+  },
+  {
+    "id": 5301132010,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Lilmus",
+    "postal_code": "85365"
+  },
+  {
+    "id": 5301131002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530113,
+    "value": "Naikliu",
+    "postal_code": "85365"
+  }
+]

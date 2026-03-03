@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3271031005,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Babakan",
+    "postal_code": "16128"
+  },
+  {
+    "id": 3271031008,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Babakan Pasar",
+    "postal_code": "16126"
+  },
+  {
+    "id": 3271031004,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Cibogor",
+    "postal_code": "16124"
+  },
+  {
+    "id": 3271031010,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Ciwaringin",
+    "postal_code": "16124"
+  },
+  {
+    "id": 3271031001,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Gudang",
+    "postal_code": "16123"
+  },
+  {
+    "id": 3271031011,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Kebon Kalapa (Kebon Kelapa)",
+    "postal_code": "16125"
+  },
+  {
+    "id": 3271031003,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Pabaton",
+    "postal_code": "16121"
+  },
+  {
+    "id": 3271031002,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Paledang",
+    "postal_code": "16122"
+  },
+  {
+    "id": 3271031009,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Panaragan",
+    "postal_code": "16125"
+  },
+  {
+    "id": 3271031006,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Sempur",
+    "postal_code": "16129"
+  },
+  {
+    "id": 3271031007,
+    "province_id": 32,
+    "regency_id": 3271,
+    "district_id": 327103,
+    "value": "Tegallega (Tegal Panjang)",
+    "postal_code": "16129"
+  }
+]

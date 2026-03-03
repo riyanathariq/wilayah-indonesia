@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3309012010,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Jeruk",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Jrakah",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Klakah",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Lencoh",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Samiran",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012007,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Selo",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012009,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Senden",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Suroteleng",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012008,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Tarubatang",
+    "postal_code": "57363"
+  },
+  {
+    "id": 3309012001,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330901,
+    "value": "Tlogolele",
+    "postal_code": "57363"
+  }
+]

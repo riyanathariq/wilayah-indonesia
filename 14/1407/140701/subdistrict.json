@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1407012004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Rantau Panjang Kanan",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012015,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Sei Segajah Makmur",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012022,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Sungai Segajah Jaya",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Sungaikubu (Sei / Sungai Kubu)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012021,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Sungaikubu Hulu (Sungai Kubu Hulu)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012013,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Sungaisegajah (Sungai Sigajah / Segajah Makmur)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Tanjungleban (Tanjung Leban)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407011010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Telukmerbau (Teluk Merbau)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012012,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Telukpiyai (Teluk Piyai)",
+    "postal_code": "28991"
+  },
+  {
+    "id": 1407012020,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140701,
+    "value": "Telukpiyai Pesisir (Teluk Piyai Pesisir)",
+    "postal_code": "28991"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3322101010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Baran",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322102003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Bejalen",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322101007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Kranggan",
+    "postal_code": "50613"
+  },
+  {
+    "id": 3322101006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Kupang",
+    "postal_code": "50612"
+  },
+  {
+    "id": 3322101005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Lodoyong",
+    "postal_code": "50611"
+  },
+  {
+    "id": 3322101001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Ngampin",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322101008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Panjang",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322102009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Pasekan",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322101002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Pojoksari",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322101004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332210,
+    "value": "Tambakboyo",
+    "postal_code": "50612"
+  }
+]

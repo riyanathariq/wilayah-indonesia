@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8172032001,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817203,
+    "value": "Tam Ngurhir",
+    "postal_code": "97613"
+  },
+  {
+    "id": 8172032002,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817203,
+    "value": "Tayando Langgiar",
+    "postal_code": "97613"
+  },
+  {
+    "id": 8172032004,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817203,
+    "value": "Tayando Ohoiel",
+    "postal_code": "97613"
+  },
+  {
+    "id": 8172032005,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817203,
+    "value": "Tayando Yamru",
+    "postal_code": "97613"
+  },
+  {
+    "id": 8172032003,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817203,
+    "value": "Tayando Yamtel",
+    "postal_code": "97613"
+  }
+]

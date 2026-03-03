@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1312032006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Aia Gadang",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032016,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Aia Gadang Barat",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032015,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Aia Gadang Timur",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Aua Kuniang",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032019,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lembah Binuang Aua Kuniang",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032009,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Bandarajo",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032012,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Barat",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032008,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Baru",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032013,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Hilia",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032010,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Jambak",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032011,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Koto Dalam",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lingkuang Aua Timur",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032018,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Lubuak Landua Aua Kuniang",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032017,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Pinaga Aua Kuniang",
+    "postal_code": "26566"
+  },
+  {
+    "id": 1312032014,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131203,
+    "value": "Sukomananti Aua Kuniang",
+    "postal_code": "26566"
+  }
+]

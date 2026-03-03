@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3321022010,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Brambang",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022009,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Bumirejo",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022001,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Jragung",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022007,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Karangawen",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022008,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Kuripan",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022003,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Margohayu",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022012,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Pundenarum",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022006,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Rejosari",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022011,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Sidorejo (Sido Rejo)",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022004,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Teluk",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022005,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Tlogorejo",
+    "postal_code": "59566"
+  },
+  {
+    "id": 3321022002,
+    "province_id": 33,
+    "regency_id": 3321,
+    "district_id": 332102,
+    "value": "Wonosekar",
+    "postal_code": "59566"
+  }
+]

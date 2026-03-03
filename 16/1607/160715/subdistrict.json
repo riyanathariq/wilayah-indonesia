@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1607152001,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Bentayan",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152011,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Bumi Serdang",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152006,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Karang Anyar",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152007,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Karang Asem",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152012,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Karang Mulya",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152010,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Keluang",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152008,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Marga Rahayu",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152014,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Panca Mulya (Pancamulya)",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152009,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Sido Mulyo (Sidomulyo)",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152015,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Suka Jaya (Sukajaya)",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152004,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Suka Mulya (Sukamulya)",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152005,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Suka Raja",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152013,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Sukakarya (Suka Karya)",
+    "postal_code": "30956"
+  },
+  {
+    "id": 1607152002,
+    "province_id": 16,
+    "regency_id": 1607,
+    "district_id": 160715,
+    "value": "Teluktenggulang (Teluk Tenggulang)",
+    "postal_code": "30956"
+  }
+]

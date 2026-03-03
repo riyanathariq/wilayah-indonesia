@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7103252002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710325,
+    "value": "Kawio",
+    "postal_code": "95841"
+  },
+  {
+    "id": 7103252001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710325,
+    "value": "Marore",
+    "postal_code": "95841"
+  },
+  {
+    "id": 7103252003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710325,
+    "value": "Matutuang",
+    "postal_code": "95841"
+  }
+]

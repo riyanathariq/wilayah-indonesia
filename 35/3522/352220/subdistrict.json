@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3522202005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Basah (Besah)",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Batokan",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Betet",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202008,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Kasiman",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202007,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Ngaglik",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Sambeng",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202009,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Sekaran",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Sidomukti",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202010,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Tambakmerak",
+    "postal_code": "62164"
+  },
+  {
+    "id": 3522202003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352220,
+    "value": "Tembeling",
+    "postal_code": "62164"
+  }
+]

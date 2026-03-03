@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206342001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Dawagung",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Manggungjaya",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Manggungsari",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Rajamandala",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Rajapolah",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Sukanagalih",
+    "postal_code": "46155"
+  },
+  {
+    "id": 3206342005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Sukaraja",
+    "postal_code": "46183"
+  },
+  {
+    "id": 3206342008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320634,
+    "value": "Tanjungpura",
+    "postal_code": "46155"
+  }
+]

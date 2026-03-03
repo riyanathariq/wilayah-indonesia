@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5302252003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530225,
+    "value": "Manufui",
+    "postal_code": "85587"
+  },
+  {
+    "id": 5302252005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530225,
+    "value": "Naifatu",
+    "postal_code": "85587"
+  },
+  {
+    "id": 5302252004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530225,
+    "value": "Nenotes",
+    "postal_code": "85587"
+  },
+  {
+    "id": 5302252002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530225,
+    "value": "Poli",
+    "postal_code": "85587"
+  },
+  {
+    "id": 5302252001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530225,
+    "value": "Santian",
+    "postal_code": "85587"
+  }
+]

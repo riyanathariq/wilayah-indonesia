@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1502192002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150219,
+    "value": "Bukit Bungkul",
+    "postal_code": "37351"
+  },
+  {
+    "id": 1502192004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150219,
+    "value": "Lantak Seribu",
+    "postal_code": "37351"
+  },
+  {
+    "id": 1502192001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150219,
+    "value": "Meranti",
+    "postal_code": "37351"
+  },
+  {
+    "id": 1502192003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150219,
+    "value": "Rasau",
+    "postal_code": "37351"
+  }
+]

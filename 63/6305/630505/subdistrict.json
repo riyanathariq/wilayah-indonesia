@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6305052003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Baringin A",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Baringin B",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052011,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Baulin",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Candi Laras",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Marampiau",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052009,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Marampiau Hilir",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Margasari Hulu (Margasari Ulu)",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Pabaungan Hilir",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Pabaungan Hulu",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052012,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Pabaungan Pantai",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Sei/Sungai Rutas",
+    "postal_code": "71162"
+  },
+  {
+    "id": 6305052010,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630505,
+    "value": "Sei/Sungai Rutas Hulu",
+    "postal_code": "71162"
+  }
+]

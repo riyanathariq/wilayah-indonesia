@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6203112010,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Bajuh",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112011,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Barunang",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112019,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Buhut Jaya",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112021,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Hurung Pukung",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Karukus",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Kayu Bulan",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Kota Baru",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Manis",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Marapit (Merapit)",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Masaran",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Penda Muntei",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Pujon",
+    "postal_code": "73555"
+  },
+  {
+    "id": 6203112005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620311,
+    "value": "Tapen",
+    "postal_code": "73555"
+  }
+]

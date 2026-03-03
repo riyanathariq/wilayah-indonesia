@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9301022010,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Afkab Makmur",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022012,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Andaito",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Boha",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Enggol Jaya (Elanggol Jaya)",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Kolam",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Manway Bop (Manway Bob / Man Wai Bob)",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Muting",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Pachas",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Seed Agung (Sedayu Agung Prasasti)",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Selauw",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022011,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Sigabel Jaya",
+    "postal_code": "99634"
+  },
+  {
+    "id": 9301022003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930102,
+    "value": "Wan (Waan)",
+    "postal_code": "99634"
+  }
+]

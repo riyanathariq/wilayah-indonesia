@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1113072001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Gumpang",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Gumpang Lempuh",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Kutelengat Sepakat",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Marpunge Gabungan (Marpunge)",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Meloak Sepakat",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072009,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Putri Betung",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Ramung Musara",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Singah Mulo",
+    "postal_code": "24658"
+  },
+  {
+    "id": 1113072007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111307,
+    "value": "Uning Pune",
+    "postal_code": "24658"
+  }
+]

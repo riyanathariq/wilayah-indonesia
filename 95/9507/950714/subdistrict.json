@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507142006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Bogomanum",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Bonanip",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Giari",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Kotorambur",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Kukepake",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Kumuluk",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Lambui",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Numbo",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Pindoak",
+    "postal_code": "99594"
+  },
+  {
+    "id": 9507142005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950714,
+    "value": "Wayuleme",
+    "postal_code": "99594"
+  }
+]

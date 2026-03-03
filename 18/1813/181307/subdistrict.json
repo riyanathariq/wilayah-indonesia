@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1813072003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Banjar Agung",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Bumi Waras",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Gunung Kemala",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072010,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Gunungkemala Timur (Gunung Kemala Timur)",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072007,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Labuhan Mandi (Labuan)",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Pajar Bulan",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072009,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Penggawa Lima (Penggawa V)",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Penggawa V Ilir",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072008,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Suka Baru (Sukabaru)",
+    "postal_code": "34898"
+  },
+  {
+    "id": 1813072005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181307,
+    "value": "Ulu Krui",
+    "postal_code": "34898"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1707012002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Gandung",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012033,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Gandung Baru",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012023,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Kampung Dalam",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707011004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Kampung Jawa",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012024,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Kampung Muara Aman",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012022,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Ladang Palembang",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012016,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Lebong Tambang",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012028,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Lokasari",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012014,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Nangai Amen",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707011006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Pasar Muara Aman",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Talang Ulu",
+    "postal_code": "39259"
+  },
+  {
+    "id": 1707012005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170701,
+    "value": "Tunggang",
+    "postal_code": "39259"
+  }
+]

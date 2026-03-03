@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3204102006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Cigondewah Hilir",
+    "postal_code": "40214"
+  },
+  {
+    "id": 3204102002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Lagadar",
+    "postal_code": "40216"
+  },
+  {
+    "id": 3204102001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Margaasih",
+    "postal_code": "40215"
+  },
+  {
+    "id": 3204102004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Mekarrahayu (Mekar Rahayu)",
+    "postal_code": "40218"
+  },
+  {
+    "id": 3204102003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Nanjung",
+    "postal_code": "40217"
+  },
+  {
+    "id": 3204102005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320410,
+    "value": "Rahayu",
+    "postal_code": "40218"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6171061004,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617106,
+    "value": "Bangka Belitung Darat",
+    "postal_code": "78124"
+  },
+  {
+    "id": 6171061003,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617106,
+    "value": "Bangka Belitung Laut",
+    "postal_code": "78124"
+  },
+  {
+    "id": 6171061002,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617106,
+    "value": "Bansir Darat",
+    "postal_code": "78124"
+  },
+  {
+    "id": 6171061001,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617106,
+    "value": "Bansir Laut",
+    "postal_code": "78124"
+  }
+]

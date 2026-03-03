@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7407062007,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Darawa",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062002,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Kasuwari (Kasuari/Kaswari)",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062004,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Langge",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062006,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Lentea",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062003,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Pajam",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062009,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Peropa",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062008,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Sandi",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062001,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Tampara",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062010,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Tanjung",
+    "postal_code": "93790"
+  },
+  {
+    "id": 7407062005,
+    "province_id": 74,
+    "regency_id": 7407,
+    "district_id": 740706,
+    "value": "Tanomeha",
+    "postal_code": "93790"
+  }
+]

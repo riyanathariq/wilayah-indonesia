@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3210042005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Argasari",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Campaga",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Cibeureum",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Cicanir",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Cikeusal",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Ganeas",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Gunungmanik",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Jatipamor",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Kertahayu (Kertarahayu)",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Lampuyang",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042016,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Margamukti",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042017,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Mekarhurip",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Mekarraharja",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Salado",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Sukaperna",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Talaga Kulon (Talagakulon)",
+    "postal_code": "45463"
+  },
+  {
+    "id": 3210042010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321004,
+    "value": "Talaga Wetan (Talagawetan)",
+    "postal_code": "45463"
+  }
+]

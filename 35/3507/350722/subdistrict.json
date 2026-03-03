@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3507222009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Gadingkulon",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Kalisongo",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Karangwidoro",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Kucur",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Landungsari",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Mulyoagung",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Petungsewu (Petung Sewu)",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Selorejo",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Sumbersekar",
+    "postal_code": "65151"
+  },
+  {
+    "id": 3507222006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350722,
+    "value": "Tegalweru",
+    "postal_code": "65151"
+  }
+]

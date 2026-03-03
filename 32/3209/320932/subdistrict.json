@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3209322007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Cigobang",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Cigobangwangi (Cigobang Wangi)",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Cilengkrang",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Cilengkrang Girang",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Pasaleman",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Tanjunganom (Tanjung Anom)",
+    "postal_code": "45187"
+  },
+  {
+    "id": 3209322001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320932,
+    "value": "Tonjong",
+    "postal_code": "45187"
+  }
+]

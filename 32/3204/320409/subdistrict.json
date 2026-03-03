@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3204092002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320409,
+    "value": "Magahayu Selatan (Margahayu Selatan)",
+    "postal_code": "40226"
+  },
+  {
+    "id": 3204092001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320409,
+    "value": "Margahayu Tengah",
+    "postal_code": "40225"
+  },
+  {
+    "id": 3204092005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320409,
+    "value": "Sayati",
+    "postal_code": "40228"
+  },
+  {
+    "id": 3204092003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320409,
+    "value": "Sukamenak",
+    "postal_code": "40227"
+  },
+  {
+    "id": 3204091004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320409,
+    "value": "Sulaiman (Sulaeman)",
+    "postal_code": "40229"
+  }
+]

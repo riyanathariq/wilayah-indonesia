@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3276111001,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Bojongsari (Bojong Sari / Lama)",
+    "postal_code": "16516"
+  },
+  {
+    "id": 3276111002,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Bojongsari Baru (Bojong Sari Baru)",
+    "postal_code": "16516"
+  },
+  {
+    "id": 3276111005,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Curug",
+    "postal_code": "16517"
+  },
+  {
+    "id": 3276111006,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Duren Mekar",
+    "postal_code": "16518"
+  },
+  {
+    "id": 3276111007,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Duren Seribu",
+    "postal_code": "16518"
+  },
+  {
+    "id": 3276111004,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Pondok Petir",
+    "postal_code": "16517"
+  },
+  {
+    "id": 3276111003,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327611,
+    "value": "Serua",
+    "postal_code": "16517"
+  }
+]

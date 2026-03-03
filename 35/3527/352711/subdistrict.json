@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3527112004,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Bira Tengah",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112005,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Bira Timur",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112010,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Sokobanah Daya",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112006,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Sokobanah Laok",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112009,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Sokobanah Tengah",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112011,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tamberu Barat",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112008,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tamberu Daya",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112007,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tamberu Laok",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112012,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tamberu Timur",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112001,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tobai Barat",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112002,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tobai Tengah",
+    "postal_code": "69262"
+  },
+  {
+    "id": 3527112003,
+    "province_id": 35,
+    "regency_id": 3527,
+    "district_id": 352711,
+    "value": "Tobai Timur",
+    "postal_code": "69262"
+  }
+]

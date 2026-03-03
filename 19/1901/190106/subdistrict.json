@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1901062001,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Bakam",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062008,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Bukit Layang",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062003,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Dalil",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062002,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Kapuk",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062007,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Mabat",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062006,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Mangka",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062009,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Maras Senang",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062004,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Neknang",
+    "postal_code": "33252"
+  },
+  {
+    "id": 1901062005,
+    "province_id": 19,
+    "regency_id": 1901,
+    "district_id": 190106,
+    "value": "Tiang Tarah (Tiang Tara)",
+    "postal_code": "33252"
+  }
+]

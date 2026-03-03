@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5204092011,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Batu Bangka",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Berare",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Kakiang",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092014,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Labuhan Ijuk",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Moyo",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092013,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Moyo Mekar",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Ngeru",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092010,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Olat Rawa",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Poto",
+    "postal_code": "84381"
+  },
+  {
+    "id": 5204092009,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520409,
+    "value": "Serading",
+    "postal_code": "84381"
+  }
+]

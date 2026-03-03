@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1210182008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Bagan Bilah",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210181001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Labuhan Bilik",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182010,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Pasar Tiga",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182005,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Sei Merdeka",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182004,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Sei Nahodaris",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Sei Pelancang (Sei Plancang)",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182006,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Sei Rakyat",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182003,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Sei Siati/Siarti",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Selat Beting",
+    "postal_code": "21472"
+  },
+  {
+    "id": 1210182009,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121018,
+    "value": "Telaga Suka",
+    "postal_code": "21472"
+  }
+]

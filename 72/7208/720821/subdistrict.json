@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7208212005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Bajo",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Beringin Jaya",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Bolano",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Bolano Barat",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Bolano Tengah",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Bolano Utara",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212010,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Lembah Bomban",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212013,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Sama Bahari",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212011,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Sidomukti",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Sritabaang",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Wanamukti",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212012,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Wanamukti Barat",
+    "postal_code": "94479"
+  },
+  {
+    "id": 7208212009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720821,
+    "value": "Wanamukti Utara",
+    "postal_code": "94479"
+  }
+]

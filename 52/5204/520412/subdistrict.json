@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5204122006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520412,
+    "value": "Dete",
+    "postal_code": "84382"
+  },
+  {
+    "id": 5204122009,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520412,
+    "value": "Hijrah",
+    "postal_code": "84382"
+  },
+  {
+    "id": 5204122005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520412,
+    "value": "Labuhan Kuris (Labuan Kuris)",
+    "postal_code": "84382"
+  },
+  {
+    "id": 5204122003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520412,
+    "value": "Lape",
+    "postal_code": "84382"
+  }
+]

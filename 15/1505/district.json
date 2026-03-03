@@ -1,0 +1,68 @@
+[
+  {
+    "id": 150510,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Bahar Selatan"
+  },
+  {
+    "id": 150509,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Bahar Utara"
+  },
+  {
+    "id": 150501,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Jambi Luar Kota"
+  },
+  {
+    "id": 150503,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Kumpeh"
+  },
+  {
+    "id": 150506,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Kumpeh Ulu"
+  },
+  {
+    "id": 150504,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Maro Sebo"
+  },
+  {
+    "id": 150505,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Mestong"
+  },
+  {
+    "id": 150502,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Sekernan"
+  },
+  {
+    "id": 150507,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Sungai Bahar"
+  },
+  {
+    "id": 150508,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Sungai Gelam"
+  },
+  {
+    "id": 150511,
+    "province_id": 15,
+    "regency_id": 1505,
+    "value": "Taman Rajo"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1275031001,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Bandar Senembah",
+    "postal_code": "20719"
+  },
+  {
+    "id": 1275031002,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Limau Mungkur",
+    "postal_code": "20717"
+  },
+  {
+    "id": 1275031003,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Limau Sundai",
+    "postal_code": "20716"
+  },
+  {
+    "id": 1275031004,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Paya Roba (Payaroba)",
+    "postal_code": "20718"
+  },
+  {
+    "id": 1275031005,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Suka Maju",
+    "postal_code": "20719"
+  },
+  {
+    "id": 1275031006,
+    "province_id": 12,
+    "regency_id": 1275,
+    "district_id": 127503,
+    "value": "Sukaramai",
+    "postal_code": "20717"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6503062002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Apas",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062006,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Bebanas",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062010,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Harapan",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062005,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Kekayap",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Kunyit",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062007,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Lulu",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062009,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Melasu Baru",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Pembeliangan",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062008,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Sujau",
+    "postal_code": "77481"
+  },
+  {
+    "id": 6503062004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650306,
+    "value": "Tetaban",
+    "postal_code": "77481"
+  }
+]

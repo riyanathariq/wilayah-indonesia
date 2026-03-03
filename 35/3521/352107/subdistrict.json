@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3521072008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Brangol",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Campurasri (Campur Asri)",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Danguk",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Dungmiri",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Gempol",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Jatipuro",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072013,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Karangjati",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072014,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Legundi",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072017,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Plosolor (Ploso Lor)",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072011,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Puhti",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072015,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Rejomulyo",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072016,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Rejuno",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Ringinanom (Ringin Anom)",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072012,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Sawo",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Sembung",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Sidokerto",
+    "postal_code": "63284"
+  },
+  {
+    "id": 3521072006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352107,
+    "value": "Sidorejo",
+    "postal_code": "63284"
+  }
+]

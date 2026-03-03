@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1509072010,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Damai Makmur",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Mekar Sari",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072012,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Sido Mulyo",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Sido Rukun",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Suka Damai",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072011,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Suka Jaya",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Suka Maju",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Sumber Sari",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Sungai Pandan",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Wana Arum",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072009,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Wana Mulya",
+    "postal_code": "37553"
+  },
+  {
+    "id": 1509072002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150907,
+    "value": "Wana Reja (Wanareja)",
+    "postal_code": "37553"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3206092003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Bojongasih",
+    "postal_code": "46475"
+  },
+  {
+    "id": 3206092002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Cikadongdong",
+    "postal_code": "46475"
+  },
+  {
+    "id": 3206092005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Girijaya",
+    "postal_code": "46475"
+  },
+  {
+    "id": 3206092001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Mertajaya",
+    "postal_code": "46475"
+  },
+  {
+    "id": 3206092004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Sindangsari",
+    "postal_code": "46475"
+  },
+  {
+    "id": 3206092006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320609,
+    "value": "Toblongan",
+    "postal_code": "46475"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9404042011,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Aparuka",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042013,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Apuri",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042012,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Atapo",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Kiura",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Kokonao",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Migiwia",
+    "postal_code": "99975"
+  },
+  {
+    "id": 9404042004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940404,
+    "value": "Mimika",
+    "postal_code": "99975"
+  }
+]

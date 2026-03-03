@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3313122010,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Baturan",
+    "postal_code": "57171"
+  },
+  {
+    "id": 3313122006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Blulukan",
+    "postal_code": "57174"
+  },
+  {
+    "id": 3313122002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Bolon",
+    "postal_code": "57178"
+  },
+  {
+    "id": 3313122005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Gajahan",
+    "postal_code": "57176"
+  },
+  {
+    "id": 3313122007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Gawanan",
+    "postal_code": "57175"
+  },
+  {
+    "id": 3313122008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Gedongan",
+    "postal_code": "57173"
+  },
+  {
+    "id": 3313122011,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Klodran",
+    "postal_code": "57172"
+  },
+  {
+    "id": 3313122003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Malangjiwan",
+    "postal_code": "57177"
+  },
+  {
+    "id": 3313122001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Ngasem",
+    "postal_code": "57179"
+  },
+  {
+    "id": 3313122004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Paulan",
+    "postal_code": "57176"
+  },
+  {
+    "id": 3313122009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331312,
+    "value": "Tohudan",
+    "postal_code": "57173"
+  }
+]

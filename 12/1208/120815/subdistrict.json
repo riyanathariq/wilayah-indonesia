@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1208151005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120815,
+    "value": "Haranggaol",
+    "postal_code": "21177"
+  },
+  {
+    "id": 1208152001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120815,
+    "value": "Nagori Purba (Nagori Purba Saribu)",
+    "postal_code": "21177"
+  },
+  {
+    "id": 1208152003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120815,
+    "value": "Nagori Purba Horison / Harison / Harisan",
+    "postal_code": "21177"
+  },
+  {
+    "id": 1208152004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120815,
+    "value": "Nagori Purba Pasir",
+    "postal_code": "21177"
+  },
+  {
+    "id": 1208152002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120815,
+    "value": "Nagori Sihalpe",
+    "postal_code": "21177"
+  }
+]

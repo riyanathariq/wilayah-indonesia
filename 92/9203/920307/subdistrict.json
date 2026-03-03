@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9203072010,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Bumi Moroh Indah",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Mekarsari",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072014,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Onim Jaya",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Onimsari",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072009,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Pinang Agung",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072012,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Tesha (Tesha Perda)",
+    "postal_code": "98026"
+  },
+  {
+    "id": 9203072015,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920307,
+    "value": "Wono Rejo",
+    "postal_code": "98026"
+  }
+]

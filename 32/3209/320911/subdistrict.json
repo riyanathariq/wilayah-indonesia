@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209112009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Astana Mukti (Astanamukti)",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Bendungan",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Beringin",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Ender",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Getrakmoyan",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Japura Lor",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Pangenan",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Pengarengan (Pangarengan)",
+    "postal_code": "45182"
+  },
+  {
+    "id": 3209112005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320911,
+    "value": "Rawaurip",
+    "postal_code": "45182"
+  }
+]

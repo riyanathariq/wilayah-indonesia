@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9502272008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Daluban",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Limrepasikne",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Mekdamgon",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Merpasikne",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Meryang",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Nomteren",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Taramlu",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Weime",
+    "postal_code": "99446"
+  },
+  {
+    "id": 9502272006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950227,
+    "value": "Youlban (Yolban)",
+    "postal_code": "99446"
+  }
+]

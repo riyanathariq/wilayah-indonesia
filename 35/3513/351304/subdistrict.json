@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3513042004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Bantaran",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Besuk",
+    "postal_code": "67283"
+  },
+  {
+    "id": 3513042001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Gunungtugel (Gunung Tugel)",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Karanganyar (Karang Anyar)",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Kedungrejo (Kedung Rejo)",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Kramatagung (Kramat Agung / Kramatung)",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Kropak",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Legundi",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Patokan",
+    "postal_code": "67261"
+  },
+  {
+    "id": 3513042006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351304,
+    "value": "Tempuran",
+    "postal_code": "67261"
+  }
+]

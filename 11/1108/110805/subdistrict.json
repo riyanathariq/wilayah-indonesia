@@ -1,0 +1,394 @@
+[
+  {
+    "id": 1108052066,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Alue Entok",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052037,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Alue Tho",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Aron Geulumpang VII (Aron Glumpang VII)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052041,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Aron Pirak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Baro",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052055,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Beurancan Pirak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052046,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Beuringen Pirak (Beuringin)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052053,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Blang Kuta",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Blang Matangkuli",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052054,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Blang Supeng",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052039,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Ceubrek Pirak (Ceubreuk Pirak)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052070,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Dayah Baro",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Geulumpang VII (Glumpang VII)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052036,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Hagu",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Jeumpa Geulumpang VII (Jeumpa Glumpang VII)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Keude Matangkuli",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052071,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Kunyet Mulee (Kunyet Mule)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052042,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Lawang",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052052,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Leubok Pirak (Leubok)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Matang Mee (Matang Me)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Matang Munye (Matang Menye)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052049,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Matang Peusangan",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052016,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Mee",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052048,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Mesjid Pirak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052045,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Meunye Pirak (Munye Pirak)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052035,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Meuria Matangkuli (Meuriya Matangkuli)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052050,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Pante Pirak (Pantee Pirak)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Parang Sikureung",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Punti Geulumpang VII (Punti Glumpang VII)",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Punti Matangkuli",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Rayeuk Glang Glong",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Rayeuk Matangkuli",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052040,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Rayeuk Pirak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052069,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Seuriweuk",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052044,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Siren",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tanjong Babah Krueng",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052043,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tanjong Haji Muda",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tanjong Teungku Ali",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052067,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tanjong Teungku Kari",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Teungoh Glumpang VII",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052047,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Teungoh Pirak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052068,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Teungoh Seuleumak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Teupin Keubue",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Trieng Teupin Keubue",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052034,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tumpok Barat",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tumpok Perlak",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052072,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Tutong",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Ude",
+    "postal_code": "24386"
+  },
+  {
+    "id": 1108052006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110805,
+    "value": "Ujong Kulam",
+    "postal_code": "24386"
+  }
+]

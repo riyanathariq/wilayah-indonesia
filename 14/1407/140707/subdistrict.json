@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1407072006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Darussalam",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407072003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Raja Bejamu",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407072002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Sei/Sungai Bakau",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407072001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Senaboi/Sinaboi",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407071005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Sinaboi Kota",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407072004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140707,
+    "value": "Sungai Nyamuk",
+    "postal_code": "28914"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9501122006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Anggulpa",
+    "postal_code": "99508"
+  },
+  {
+    "id": 9501122003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Dinggilimo",
+    "postal_code": "99508"
+  },
+  {
+    "id": 9501122004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Kora Jaya",
+    "postal_code": "99508"
+  },
+  {
+    "id": 9501122005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Korambirik",
+    "postal_code": "99508"
+  },
+  {
+    "id": 9501122002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Nanggo",
+    "postal_code": "99508"
+  },
+  {
+    "id": 9501122001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950112,
+    "value": "Trikora",
+    "postal_code": "99508"
+  }
+]

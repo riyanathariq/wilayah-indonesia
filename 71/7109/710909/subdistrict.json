@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7109092002,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710909,
+    "value": "Beong",
+    "postal_code": "95860"
+  },
+  {
+    "id": 7109092004,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710909,
+    "value": "Dompase",
+    "postal_code": "95860"
+  },
+  {
+    "id": 7109092003,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710909,
+    "value": "Lai",
+    "postal_code": "95860"
+  },
+  {
+    "id": 7109092001,
+    "province_id": 71,
+    "regency_id": 7109,
+    "district_id": 710909,
+    "value": "Salili",
+    "postal_code": "95860"
+  }
+]

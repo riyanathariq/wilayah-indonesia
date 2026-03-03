@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1112082002,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Alue Rambot",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082012,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Alue Seulaseh",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082004,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Alue Sungai Pinang",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082007,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Asoe Nanggroe",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082001,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Baru",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082005,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Cot Mane",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082009,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Ikue Lhung (Iku Lhung)",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082011,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Jeumpa Barat",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082003,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Kuta Jeumpa",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082010,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Kuta Makmur",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082006,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Ladang Neubok",
+    "postal_code": "23769"
+  },
+  {
+    "id": 1112082008,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111208,
+    "value": "Padang Geulumpang",
+    "postal_code": "23769"
+  }
+]

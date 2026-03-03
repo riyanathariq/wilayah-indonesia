@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1808132001,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Bumiharjo (Bumi Harjo)",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132008,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Lebung Lawe",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132007,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Nuar Maju",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132002,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Punjul Agung",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132003,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Sritunggal (Sri Tunggal)",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132005,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Suka Agung",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132004,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Suka Bumi (Sukabumi)",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132006,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Sukadana",
+    "postal_code": "34767"
+  },
+  {
+    "id": 1808132009,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180813,
+    "value": "Way Agung",
+    "postal_code": "34767"
+  }
+]

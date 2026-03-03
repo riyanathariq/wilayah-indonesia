@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1205202002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Alur Gadung",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205202007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Alur Melati",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205202006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Mekar Sawit",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205202005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Sawit Hulu",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205201001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Sawit Seberang",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205202004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Sei Litur Tasik",
+    "postal_code": "20811"
+  },
+  {
+    "id": 1205202003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120520,
+    "value": "Simpang Tiga",
+    "postal_code": "20811"
+  }
+]

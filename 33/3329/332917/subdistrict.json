@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3329172001,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Bandungsari",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172003,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Banjarharjo",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172002,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Banjarlor (Banjar Lor)",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172004,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Blandongan",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172005,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Ciawi",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172006,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cibendung",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172007,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cibuniwangi",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172008,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cigadung",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172009,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cihaur",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172010,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cikakak",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172011,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cikuya",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172012,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cimunding",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172013,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Cipajang",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172014,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Dukuhjeruk",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172015,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Karangmaja",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172016,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Kertasari",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172017,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Kubangjero",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172018,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Malahayu",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172019,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Parereja (Parireja)",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172020,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Penanggapan",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172021,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Pende",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172022,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Sindangheula",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172023,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Sukareja",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172024,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Tegalreja",
+    "postal_code": "52265"
+  },
+  {
+    "id": 3329172025,
+    "province_id": 33,
+    "regency_id": 3329,
+    "district_id": 332917,
+    "value": "Tiwulandu",
+    "postal_code": "52265"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3572031007,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Bendogerit",
+    "postal_code": "66133"
+  },
+  {
+    "id": 3572031001,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Gedog",
+    "postal_code": "66137"
+  },
+  {
+    "id": 3572031006,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Karang Tengah",
+    "postal_code": "66137"
+  },
+  {
+    "id": 3572031003,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Klampok",
+    "postal_code": "66136"
+  },
+  {
+    "id": 3572031002,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Plosokerep",
+    "postal_code": "66134"
+  },
+  {
+    "id": 3572031005,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Rembang",
+    "postal_code": "66135"
+  },
+  {
+    "id": 3572031004,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357203,
+    "value": "Sananwetan (Sanan Wetan)",
+    "postal_code": "66137"
+  }
+]

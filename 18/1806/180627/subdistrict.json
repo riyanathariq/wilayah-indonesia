@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1806272003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Banjar Masin",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Gunung Terang",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272007,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Napal",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Pematang Nebak",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272008,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Sinar Petir (Sinarpetir)",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Suka Agung (Suka Agung Timur)",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Suka Agung Barat",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Sukanegara (Suka Negeri)",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Sukarama (Sukamara)",
+    "postal_code": "35682"
+  },
+  {
+    "id": 1806272010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180627,
+    "value": "Tanjung Sari (Tanjungsari)",
+    "postal_code": "35682"
+  }
+]

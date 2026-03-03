@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7602012005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Bambu",
+    "postal_code": "91514"
+  },
+  {
+    "id": 7602012014,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Batu Pannu",
+    "postal_code": "91511"
+  },
+  {
+    "id": 7602011002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Binanga",
+    "postal_code": "91511"
+  },
+  {
+    "id": 7602012006,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Karampuang",
+    "postal_code": "91515"
+  },
+  {
+    "id": 7602011012,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Karema",
+    "postal_code": "91515"
+  },
+  {
+    "id": 7602011003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Mamunyu",
+    "postal_code": "91511"
+  },
+  {
+    "id": 7602011013,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Rimuku",
+    "postal_code": "91515"
+  },
+  {
+    "id": 7602012010,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760201,
+    "value": "Tadui",
+    "postal_code": "91511"
+  }
+]

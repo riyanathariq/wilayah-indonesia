@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3402112003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Dlingo",
+    "postal_code": "55783"
+  },
+  {
+    "id": 3402112006,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Jatimulyo",
+    "postal_code": "55783"
+  },
+  {
+    "id": 3402112001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Mangunan",
+    "postal_code": "55783"
+  },
+  {
+    "id": 3402112002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Muntuk",
+    "postal_code": "55783"
+  },
+  {
+    "id": 3402112004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Temuwuh",
+    "postal_code": "55783"
+  },
+  {
+    "id": 3402112005,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340211,
+    "value": "Terong",
+    "postal_code": "55783"
+  }
+]

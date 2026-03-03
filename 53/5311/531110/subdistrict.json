@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5311102001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Kaliuda",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Kuruwaki",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Lambakara",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Mburukulu",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102009,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Palanggai",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Pamburu",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Tamma",
+    "postal_code": "87182"
+  },
+  {
+    "id": 5311102003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531110,
+    "value": "Tana Manang (Tanamanang)",
+    "postal_code": "87182"
+  }
+]

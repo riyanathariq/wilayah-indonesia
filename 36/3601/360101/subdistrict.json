@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3601012005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Cigorondong",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Kertajaya",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Kertamukti",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Sumberjaya",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Tamanjaya",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Tunggaljaya",
+    "postal_code": "42283"
+  },
+  {
+    "id": 3601012007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360101,
+    "value": "Ujungjaya",
+    "postal_code": "42283"
+  }
+]

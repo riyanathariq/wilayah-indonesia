@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8102142002,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Matwair (Madwaer)",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142009,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Ohoidertom",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142001,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Ohoidertutu",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142005,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Ohoira",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142004,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Ohoiren",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142003,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Somlain",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142008,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Tanimbar Kei",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142007,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Ur Pulau",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142006,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Warbal",
+    "postal_code": "97624"
+  },
+  {
+    "id": 8102142010,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810214,
+    "value": "Yatwav",
+    "postal_code": "97624"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3508062011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Dorogowok",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Jatigono",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Jatimulyo",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Jatirejo",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Kabuaran",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Karanglo",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Kedungmoro",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Kunir Kidul",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Kunir Lor",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Sukorejo",
+    "postal_code": "67383"
+  },
+  {
+    "id": 3508062005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350806,
+    "value": "Sukosari",
+    "postal_code": "67383"
+  }
+]

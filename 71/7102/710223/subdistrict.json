@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7102232012,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Agotey",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Kalasey Dua",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Kalasey Satu",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Koha",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Koha Barat",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Koha Selatan",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Koha Timur",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Tateli",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Tateli Dua",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Tateli Satu",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Tateli Tiga",
+    "postal_code": "95661"
+  },
+  {
+    "id": 7102232004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710223,
+    "value": "Tateli Weru",
+    "postal_code": "95661"
+  }
+]

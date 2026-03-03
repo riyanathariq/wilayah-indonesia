@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1508031023,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150803,
+    "value": "Batang Bungo",
+    "postal_code": "37214"
+  },
+  {
+    "id": 1508031008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150803,
+    "value": "Bungo Barat",
+    "postal_code": "37214"
+  },
+  {
+    "id": 1508031007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150803,
+    "value": "Bungo Timur",
+    "postal_code": "37214"
+  },
+  {
+    "id": 1508031022,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150803,
+    "value": "Jaya Setia",
+    "postal_code": "37214"
+  },
+  {
+    "id": 1508031006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150803,
+    "value": "Tanjung Gedang",
+    "postal_code": "37214"
+  }
+]

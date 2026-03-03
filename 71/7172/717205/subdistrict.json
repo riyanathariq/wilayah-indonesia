@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7172051003,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Manembo Nembo Atas",
+    "postal_code": "95545"
+  },
+  {
+    "id": 7172051013,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Manembo Nembo Tengah",
+    "postal_code": "95545"
+  },
+  {
+    "id": 7172051007,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Manembo-nembo (Manembo Nembo Bawah)",
+    "postal_code": "95545"
+  },
+  {
+    "id": 7172051002,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Sagerat",
+    "postal_code": "95546"
+  },
+  {
+    "id": 7172051012,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Sagerat Weru Dua (II)",
+    "postal_code": "95546"
+  },
+  {
+    "id": 7172051011,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Sagerat Weru Satu (I)",
+    "postal_code": "95546"
+  },
+  {
+    "id": 7172051001,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Tanjung Merah",
+    "postal_code": "95547"
+  },
+  {
+    "id": 7172051014,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717205,
+    "value": "Tendeki",
+    "postal_code": "95539"
+  }
+]

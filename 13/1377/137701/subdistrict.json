@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1377011009,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Alai Gelombang (Alai Galombang)",
+    "postal_code": "25519"
+  },
+  {
+    "id": 1377012021,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Cimparuh (Cimparuah)",
+    "postal_code": "25511"
+  },
+  {
+    "id": 1377011012,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jalan Baru",
+    "postal_code": "25515"
+  },
+  {
+    "id": 1377011014,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jalan Kereta Api",
+    "postal_code": "25515"
+  },
+  {
+    "id": 1377011016,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jati Hilir (Jalan Hilia)",
+    "postal_code": "25519"
+  },
+  {
+    "id": 1377012025,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jati Mudik / Mudiak",
+    "postal_code": "25517"
+  },
+  {
+    "id": 1377011010,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jawi-Jawi I",
+    "postal_code": "25518"
+  },
+  {
+    "id": 1377011011,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Jawi-Jawi II",
+    "postal_code": "25518"
+  },
+  {
+    "id": 1377011007,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Kampung Jawa I",
+    "postal_code": "25511"
+  },
+  {
+    "id": 1377011008,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Kampung Jawa II",
+    "postal_code": "25511"
+  },
+  {
+    "id": 1377011002,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Kampung Perak",
+    "postal_code": "25513"
+  },
+  {
+    "id": 1377011005,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Kampung Pondok",
+    "postal_code": "25512"
+  },
+  {
+    "id": 1377012020,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Kampung/Kampuang Baru",
+    "postal_code": "25514"
+  },
+  {
+    "id": 1377011001,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Karan Aur",
+    "postal_code": "25514"
+  },
+  {
+    "id": 1377011003,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Lohong",
+    "postal_code": "25513"
+  },
+  {
+    "id": 1377011004,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Pasir",
+    "postal_code": "25513"
+  },
+  {
+    "id": 1377012017,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Pauah/Pauh Barat",
+    "postal_code": "25512"
+  },
+  {
+    "id": 1377012018,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Pauah/Pauh Timur",
+    "postal_code": "25512"
+  },
+  {
+    "id": 1377011006,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Pondok II (Kampung Pondok II)",
+    "postal_code": "25512"
+  },
+  {
+    "id": 1377012019,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Rawang",
+    "postal_code": "25511"
+  },
+  {
+    "id": 1377011013,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Taratak",
+    "postal_code": "25517"
+  },
+  {
+    "id": 1377011015,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137701,
+    "value": "Ujung Batung (Ujuang Batuang)",
+    "postal_code": "25516"
+  }
+]

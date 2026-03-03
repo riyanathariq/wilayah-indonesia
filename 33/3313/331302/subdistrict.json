@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3313022007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Beruk",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Jatisawit",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Jatiyoso",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Karangsari",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Petung",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Tlobo",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Wonokeling",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Wonorejo",
+    "postal_code": "57785"
+  },
+  {
+    "id": 3313022009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331302,
+    "value": "Wukirsawit",
+    "postal_code": "57785"
+  }
+]

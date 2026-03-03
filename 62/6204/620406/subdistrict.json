@@ -1,0 +1,218 @@
+[
+  {
+    "id": 6204062004,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Baru",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204061008,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Buntok Kota",
+    "postal_code": "73711"
+  },
+  {
+    "id": 6204062001,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Danau Ganting",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062027,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Danau Masura",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062005,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Danau Sadar",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062026,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Dangka",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204061007,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Hilir Seper (Hilir Sper)",
+    "postal_code": "73712"
+  },
+  {
+    "id": 6204061006,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Jelapat",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062020,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Kalahien",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062015,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Lembeng",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062019,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Mabuan",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062017,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Madara",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062011,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Mangaris",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062016,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Muara Ripung",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062002,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Muara Talang",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062018,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Murung Paken",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062009,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Pamait",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062013,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Pamangka",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062022,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Pararapak",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062021,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Penda Asam",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062010,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Sababilah",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062014,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Sanggu",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062024,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Tanjung Jawa",
+    "postal_code": "73751"
+  },
+  {
+    "id": 6204062025,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Telang Andrau",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062023,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Teluk Mampun",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062003,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Teluk Telaga",
+    "postal_code": "73713"
+  },
+  {
+    "id": 6204062012,
+    "province_id": 62,
+    "regency_id": 6204,
+    "district_id": 620406,
+    "value": "Tetei Lanan",
+    "postal_code": "73713"
+  }
+]

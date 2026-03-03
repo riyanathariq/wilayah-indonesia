@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5308212009,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Detuara",
+    "postal_code": "86374"
+  },
+  {
+    "id": 5308212004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Kuru",
+    "postal_code": "86375"
+  },
+  {
+    "id": 5308212014,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Kurusare (Kuru Sare)",
+    "postal_code": "86375"
+  },
+  {
+    "id": 5308212011,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Lisekuru (Lise Kuru)",
+    "postal_code": "86379"
+  },
+  {
+    "id": 5308212002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Mukureku",
+    "postal_code": "86376"
+  },
+  {
+    "id": 5308212013,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Mukureku Sa'ate (Mukureku Sa Ate)",
+    "postal_code": "86376"
+  },
+  {
+    "id": 5308212005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Ndenggarongge (Ndengga Rongge)",
+    "postal_code": "86375"
+  },
+  {
+    "id": 5308212006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Ndikosapu",
+    "postal_code": "86378"
+  },
+  {
+    "id": 5308212001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Nggumbelaka",
+    "postal_code": "86376"
+  },
+  {
+    "id": 5308212012,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Rutujeja (Rutu Jeja)",
+    "postal_code": "86377"
+  },
+  {
+    "id": 5308212008,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Tanalangi",
+    "postal_code": "86374"
+  },
+  {
+    "id": 5308212007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Taniwoda",
+    "postal_code": "86374"
+  },
+  {
+    "id": 5308212010,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Tiwusora",
+    "postal_code": "86374"
+  },
+  {
+    "id": 5308212003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530821,
+    "value": "Wologai Timur",
+    "postal_code": "86376"
+  }
+]

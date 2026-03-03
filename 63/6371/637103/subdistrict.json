@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6371031009,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Basirih",
+    "postal_code": "70245"
+  },
+  {
+    "id": 6371031002,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Belitung Selatan",
+    "postal_code": "70116"
+  },
+  {
+    "id": 6371031001,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Belitung Utara",
+    "postal_code": "70116"
+  },
+  {
+    "id": 6371031008,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Kuin Cerucuk",
+    "postal_code": "70129"
+  },
+  {
+    "id": 6371031007,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Kuin Selatan",
+    "postal_code": "70128"
+  },
+  {
+    "id": 6371031003,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Pelambuan",
+    "postal_code": "70118"
+  },
+  {
+    "id": 6371031004,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Telaga Biru",
+    "postal_code": "70119"
+  },
+  {
+    "id": 6371031005,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Telawang",
+    "postal_code": "70112"
+  },
+  {
+    "id": 6371031006,
+    "province_id": 63,
+    "regency_id": 6371,
+    "district_id": 637103,
+    "value": "Teluk Tiram",
+    "postal_code": "70113"
+  }
+]

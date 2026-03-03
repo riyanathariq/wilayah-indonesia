@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9301122005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930112,
+    "value": "Kondo",
+    "postal_code": "99621"
+  },
+  {
+    "id": 9301122001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930112,
+    "value": "Kuler",
+    "postal_code": "99621"
+  },
+  {
+    "id": 9301122002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930112,
+    "value": "Onggaya",
+    "postal_code": "99621"
+  },
+  {
+    "id": 9301122003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930112,
+    "value": "Tomer",
+    "postal_code": "99621"
+  },
+  {
+    "id": 9301122004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930112,
+    "value": "Tomerau",
+    "postal_code": "99621"
+  }
+]

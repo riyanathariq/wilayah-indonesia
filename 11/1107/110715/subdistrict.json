@@ -1,0 +1,386 @@
+[
+  {
+    "id": 1107152027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Balee Pineung (Balee)",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Balee Restong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152043,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Blang Krueng Seumideun",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Blang Raya",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152049,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Blang Seupeng (Kampong Blang Seupeng)",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152031,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Bluek Arab (Bluk Arab)",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Cempala Kuneng",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Cot Meulu",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dayah Bubue",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152033,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dayah Muara",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dayah Seumideun",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dayah Sukon",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dayah Tungku",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Dua Paya",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152050,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Gampong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Gampong waido",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152036,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Jim",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152039,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Jurong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Jurong Raya",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152046,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Kabat",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152044,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Keurumbok",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152037,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Keutapang",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Kumbang waido",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Leuhop",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Lueng Guci Rumpong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Lueng Mesjid",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152029,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Me Tanoh",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Mee Hagu",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152042,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Mee Krueng Seumideun",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Mee Krukon",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Mee Lampoh Saka",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Menje Mesjid",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Mesjid Guci Rumpong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152038,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Meuleuweuk",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Peunayong",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152032,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Puuk",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Rambayan Kupula",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Rambayan Lueng",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152040,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Raya Krueng Seumideun",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Reuba Waido",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152034,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Sawiet",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152030,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Sialet-Alet",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152041,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Sukon Krueng Seumideun",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Sumboe Buga",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Tanjong Hagu",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Teungoh Baroh",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152045,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Ulee Cot Seupeng",
+    "postal_code": "24172"
+  },
+  {
+    "id": 1107152035,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110715,
+    "value": "Ulee Tutue",
+    "postal_code": "24172"
+  }
+]

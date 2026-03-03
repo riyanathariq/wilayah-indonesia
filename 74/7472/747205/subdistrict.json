@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7472051006,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Kadolo",
+    "postal_code": "93716"
+  },
+  {
+    "id": 7472051005,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Kadolomoko",
+    "postal_code": "93716"
+  },
+  {
+    "id": 7472051003,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Lakologou (Lakologuo)",
+    "postal_code": "93719"
+  },
+  {
+    "id": 7472051001,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Liwuto",
+    "postal_code": "93711"
+  },
+  {
+    "id": 7472051002,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Sukanayo (Sukanaeyo)",
+    "postal_code": "93711"
+  },
+  {
+    "id": 7472051004,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747205,
+    "value": "Waruruma",
+    "postal_code": "93719"
+  }
+]

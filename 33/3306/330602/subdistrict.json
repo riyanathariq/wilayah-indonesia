@@ -1,0 +1,458 @@
+[
+  {
+    "id": 3306022008,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Awu-awu (Awuawu)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022028,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Bojong",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022032,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Briyan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022035,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Candi",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022027,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Cokroyasan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022050,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Curug",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022006,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Depokrejo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022002,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Girirejo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022015,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Jeruken",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022041,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Jombang",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022034,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Joso",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022017,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kalitanjung",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022025,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kaliwungukidul (Kaliwungu Kidul)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022026,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kaliwungulor (Kaliwungu Lor)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022029,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Karangtalun",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022007,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Keburuhan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022019,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kedondong",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022040,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kembangkuning",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022010,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kesidan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022031,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Klandaran",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022009,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kumpulsari",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022018,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Kuwukan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022021,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Laban",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022005,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Malang",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022042,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Mendiro",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022001,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Ngentak",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022033,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Ngombol",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022004,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Pagak",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022012,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Pejagran",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022054,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Piyono",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022036,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Pulutan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022020,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Rasukan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022024,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Ringgit",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022057,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Seboropasar (Seboro Pasar)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022056,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Secang",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022047,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Singkilkulon (Singkil Kulon)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022048,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Singkilwetan (Singkil Wetan)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022038,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Sruwoh",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022044,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Sumberrejo (Sumberejo)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022030,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Susuk",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022055,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Tanjung",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022016,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Tanjungrejo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022049,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Tumenggungan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022023,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Tunjungan",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022037,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Walikoro",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022022,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wasiat",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022003,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wero",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022046,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wingkoharjo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022052,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wingkomulyo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022051,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wingkosanggrahan (Wingko Sanggrahan)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022045,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wingkosigromulyo (Wingko Sigromulyo)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022053,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wingkotinumpuk (Wingko Tinumpuk)",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022039,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wonoboyo",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022011,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wonoroto",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022013,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wonosari",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022014,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wonosri",
+    "postal_code": "54172"
+  },
+  {
+    "id": 3306022043,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330602,
+    "value": "Wunut",
+    "postal_code": "54172"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6205012010,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Kamawen",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205011001,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Montallat I",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205011002,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Montallat II",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205012009,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Paring Lahung",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205012007,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Pepas",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205012006,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Rubei",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205012008,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Ruji",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205012005,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Sikan",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205011003,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Tumpung Laung I",
+    "postal_code": "73861"
+  },
+  {
+    "id": 6205011004,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620501,
+    "value": "Tumpung Laung II",
+    "postal_code": "73861"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5311161003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Kambaniru",
+    "postal_code": "87114"
+  },
+  {
+    "id": 5311162008,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Kiri Tana (Kiritana)",
+    "postal_code": "87114"
+  },
+  {
+    "id": 5311161007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Lambanapu",
+    "postal_code": "87115"
+  },
+  {
+    "id": 5311161006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Malumbi",
+    "postal_code": "87116"
+  },
+  {
+    "id": 5311161005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Mau Hau (Mauhau)",
+    "postal_code": "87116"
+  },
+  {
+    "id": 5311161004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Mauliru",
+    "postal_code": "87116"
+  },
+  {
+    "id": 5311161002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Prailiu",
+    "postal_code": "87113"
+  },
+  {
+    "id": 5311161001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531116,
+    "value": "Wangga",
+    "postal_code": "87116"
+  }
+]

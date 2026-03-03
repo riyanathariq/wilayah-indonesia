@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213172008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Belendung (Balendung)",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Cibalandong Jaya",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Cibogo",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Cinangsi",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Cisaga",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Majasari",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Padaasih",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Sadawarna",
+    "postal_code": "41285"
+  },
+  {
+    "id": 3213172001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321317,
+    "value": "Sumurbarang",
+    "postal_code": "41285"
+  }
+]

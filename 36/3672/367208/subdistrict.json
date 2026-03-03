@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3672081007,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Citangkil",
+    "postal_code": "42441"
+  },
+  {
+    "id": 3672081002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Dringo (Deringo)",
+    "postal_code": "42444"
+  },
+  {
+    "id": 3672081005,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Kebonsari",
+    "postal_code": "42442"
+  },
+  {
+    "id": 3672081003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Lebak Denok (Lebakdenok)",
+    "postal_code": "42442"
+  },
+  {
+    "id": 3672081006,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Samangraya",
+    "postal_code": "42443"
+  },
+  {
+    "id": 3672081004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Taman Baru (Tamanbaru)",
+    "postal_code": "42441"
+  },
+  {
+    "id": 3672081001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367208,
+    "value": "Warnasari",
+    "postal_code": "42443"
+  }
+]

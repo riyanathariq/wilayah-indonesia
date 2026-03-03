@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7211022006,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Bone Baru",
+    "postal_code": "94896"
+  },
+  {
+    "id": 7211022001,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Kendek",
+    "postal_code": "94896"
+  },
+  {
+    "id": 7211022002,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Lokotoy (Lokotoi)",
+    "postal_code": "94896"
+  },
+  {
+    "id": 7211022004,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Paisumosoni",
+    "postal_code": "94896"
+  },
+  {
+    "id": 7211022003,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Popisi",
+    "postal_code": "94896"
+  },
+  {
+    "id": 7211022005,
+    "province_id": 72,
+    "regency_id": 7211,
+    "district_id": 721102,
+    "value": "Tolisetubono (Tolise Tubono)",
+    "postal_code": "94896"
+  }
+]

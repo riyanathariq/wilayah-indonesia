@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7405202008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Ahuangguluri",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Amosara (Amasara)",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Baito",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Matabubu",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Mekar Jaya",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Sambahule",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Tolihe",
+    "postal_code": "93883"
+  },
+  {
+    "id": 7405202007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740520,
+    "value": "Wonua/Wanua Raya",
+    "postal_code": "93883"
+  }
+]

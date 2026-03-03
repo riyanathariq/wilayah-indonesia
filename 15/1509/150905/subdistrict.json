@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1509052006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Jati Belarik",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Lembak Bungur",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052010,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Muara Sekalo",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052012,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Pemayungan (Pemayongan)",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Punti Kalo (Puntikalo)",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052011,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Semambu (Desa Semambu)",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052009,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Suo Suo",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Tambun Arang",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Teluk Langkap",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Teluk Singkawang",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Teriti",
+    "postal_code": "37573"
+  },
+  {
+    "id": 1509052007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150905,
+    "value": "Tuo Sumay",
+    "postal_code": "37573"
+  }
+]

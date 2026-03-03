@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1105102023,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Alue Keumuning (Alue Keumuneng)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102008,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Alue Leuhop (Alue Leuhob)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102014,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Alue Permen (Alue Perman)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102006,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Blang Cot Mameh",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102007,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Blang Cot Rubek",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102001,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Blang Luah LM (Blang Luah)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102011,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Cot Lagan Lm",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102002,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Cot Rambong",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102020,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Ie Sayang",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102019,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Karak",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102013,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Kulam Kaju",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102003,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Lhok Malee",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102009,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Lubuk Pasi Ara (Leubok Pasi Ara)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102012,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Lueng Baro",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102017,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Mon Pasong",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102005,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Napai",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102016,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Pasi Jeut",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102004,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Pasi Malee",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102018,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Pasi Mali",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102022,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Pasi Panyang",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102015,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Peuleukueng (Peuluekung)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102024,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Simpang Keumaron (Simpang Teumarom)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102021,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Ule Pulo (Ulee Pulo)",
+    "postal_code": "23682"
+  },
+  {
+    "id": 1105102010,
+    "province_id": 11,
+    "regency_id": 1105,
+    "district_id": 110510,
+    "value": "Ulei Pasi Ara (Ulee Pasi Ara)",
+    "postal_code": "23682"
+  }
+]

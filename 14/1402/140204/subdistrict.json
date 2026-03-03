@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1402041007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Air Molek (Air Molek I)",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Air Molek II",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042017,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Batu Gajah",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042018,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Candi Rejo",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042016,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Jati Rejo (Jatirejo)",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402041020,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Kembang Harum Beras Hilir (Kembang Harum)",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042019,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Lembah Dusun Gading",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Pasir Keranji",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042006,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Petalongan",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402041032,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Sekar Mawar",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402042030,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Serumpun Jaya",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402041033,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Tanah Merah",
+    "postal_code": "29358"
+  },
+  {
+    "id": 1402041031,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140204,
+    "value": "Tanjung Gading",
+    "postal_code": "29358"
+  }
+]

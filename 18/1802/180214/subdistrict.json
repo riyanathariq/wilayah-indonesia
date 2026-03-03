@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1802142007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Bulu Sari (Bulusari)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Bumi Raharjo (Bumiraharjo)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Bumi Rahayu (Bumirahayu)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Bumi Ratu (Bumiratu)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Sido Waras (Sidowaras)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Sidokerto",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Suka Jadi (Sukajadi)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Suka Jawa (Sukajawa)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Tulang Kakan (Tulung Kanan)",
+    "postal_code": "34160"
+  },
+  {
+    "id": 1802142005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180214,
+    "value": "Wates",
+    "postal_code": "34160"
+  }
+]

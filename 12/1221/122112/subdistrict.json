@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1221122010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Aek Goti",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122013,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Balangka",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Gulangan",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Lubuk Gonting",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Padang Hasior (Padang Hasior Lombang)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Padang Hasior Dolok",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Paran Dolok",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Silenjeng",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Simaninggir",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Sitada Tada",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Tanjung Morang",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Ujung Gading",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221122012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122112,
+    "value": "Ujung Padang",
+    "postal_code": "22755"
+  }
+]

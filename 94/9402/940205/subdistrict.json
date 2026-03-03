@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9402052007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Binime",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052021,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Gibaga",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Goyage",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052010,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Kabilimbut",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052030,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Kwatineri",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052023,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Linwakwi",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052018,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Muara",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052022,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Nami",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Tiogeme",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052017,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Wolame",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Wundu",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Yambuni",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052031,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Yileyale",
+    "postal_code": "98925"
+  },
+  {
+    "id": 9402052005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940205,
+    "value": "Yogolawi",
+    "postal_code": "98925"
+  }
+]

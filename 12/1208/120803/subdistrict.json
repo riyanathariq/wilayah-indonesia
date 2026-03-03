@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1208032009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Bandar Malela",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Ganjing (Gajing)",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Hutadipar",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Karang Anyer",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Karang Rejo",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Karang Sari",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Rabuhit",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Silau Bayu",
+    "postal_code": "21176"
+  },
+  {
+    "id": 1208032005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120803,
+    "value": "Tumorang",
+    "postal_code": "21176"
+  }
+]

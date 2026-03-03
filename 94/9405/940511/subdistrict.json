@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9405112008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Bungok",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Gimurik",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Kelandiruma",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Meningimte",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Pilokoma",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Puluk",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Pupet",
+    "postal_code": "98953"
+  },
+  {
+    "id": 9405112006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940511,
+    "value": "Wandibet",
+    "postal_code": "98953"
+  }
+]

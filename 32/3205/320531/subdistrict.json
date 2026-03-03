@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3205312007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Bojong",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Bungbulang",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Cihikeu",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Gunamekar",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312012,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Gunung Jampang",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Hanjuang",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312013,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Hegarmanah",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Margalaksana",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Mekarbakti",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Mekarjaya",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Sinarjaya",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Tegallega (Tegalega)",
+    "postal_code": "44165"
+  },
+  {
+    "id": 3205312011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320531,
+    "value": "Wangunjaya",
+    "postal_code": "44165"
+  }
+]

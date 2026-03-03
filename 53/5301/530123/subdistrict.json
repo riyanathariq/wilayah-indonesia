@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5301232001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Akle",
+    "postal_code": "85353"
+  },
+  {
+    "id": 5301232005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Naiken (Naikean)",
+    "postal_code": "85353"
+  },
+  {
+    "id": 5301232003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Onansila (Oenansila)",
+    "postal_code": "85353"
+  },
+  {
+    "id": 5301232006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Uiboa",
+    "postal_code": "85353"
+  },
+  {
+    "id": 5301232002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Uitiuh Ana",
+    "postal_code": "85353"
+  },
+  {
+    "id": 5301232004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530123,
+    "value": "Uitiuh Tuan",
+    "postal_code": "85353"
+  }
+]

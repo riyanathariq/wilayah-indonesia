@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3302052001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Adisana",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Bangsa",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Cindaga",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Gambarsari",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Kalisalak",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Kaliwedi",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Karangsari",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Kebasen",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Mandirancan",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Randegan",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Sawangan",
+    "postal_code": "53172"
+  },
+  {
+    "id": 3302052011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330205,
+    "value": "Tumiyang",
+    "postal_code": "53172"
+  }
+]

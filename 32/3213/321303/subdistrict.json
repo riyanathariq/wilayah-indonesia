@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3213031002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Cigadung",
+    "postal_code": "41213"
+  },
+  {
+    "id": 3213031007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Dangdeur",
+    "postal_code": "41212"
+  },
+  {
+    "id": 3213031004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Karanganyar",
+    "postal_code": "41211"
+  },
+  {
+    "id": 3213031001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Parung",
+    "postal_code": "41211"
+  },
+  {
+    "id": 3213031003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Pasirkareumbi",
+    "postal_code": "41211"
+  },
+  {
+    "id": 3213031005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Soklat",
+    "postal_code": "41215"
+  },
+  {
+    "id": 3213031006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Sukamelang",
+    "postal_code": "41211"
+  },
+  {
+    "id": 3213031008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321303,
+    "value": "Wanareja",
+    "postal_code": "41211"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7501242004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Ambara",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Ayuhula",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Bongomeme",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Botubulowe (Botubu lowe)",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Dungaliyo",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Duwanga",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Kaliyoso",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Momala",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Pangadaa",
+    "postal_code": "96241"
+  },
+  {
+    "id": 7501242001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750124,
+    "value": "Pilolalenga",
+    "postal_code": "96241"
+  }
+]

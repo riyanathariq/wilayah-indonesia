@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3210092004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Babakankareo",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Cipinang",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Cisetu",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Kumbung",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Pajajar",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Payung",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Rajagaluh",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Rajagaluh Kidul",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Rajagaluh Lor",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Sadomas",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Sindangpano",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Singawada",
+    "postal_code": "45472"
+  },
+  {
+    "id": 3210092002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321009,
+    "value": "Teja",
+    "postal_code": "45472"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3602282002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Cibungur",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Cigemblong",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Cikadongdong",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Cikaret",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Cikate",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Mugijaya",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Peucangpari",
+    "postal_code": "42395"
+  },
+  {
+    "id": 3602282008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360228,
+    "value": "Wangunjaya",
+    "postal_code": "42395"
+  }
+]

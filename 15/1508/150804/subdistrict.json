@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1508042014,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Baru Balai Panjang",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Jumbak",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Pulau Jelmu",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Rantau Ikil",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Rantau Panjang",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Sirih Sekapur",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042015,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Sirih Sekapur Perkembangan",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042013,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Talang Pemesun (Pamesun)",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Tanjung Belit",
+    "postal_code": "37256"
+  },
+  {
+    "id": 1508042005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150804,
+    "value": "Ujung Tanjung",
+    "postal_code": "37256"
+  }
+]

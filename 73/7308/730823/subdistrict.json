@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7308231001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Bajoe",
+    "postal_code": "92716"
+  },
+  {
+    "id": 7308231002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Cellu",
+    "postal_code": "92715"
+  },
+  {
+    "id": 7308231008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Lonrae",
+    "postal_code": "92716"
+  },
+  {
+    "id": 7308231005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Palette (Pallette)",
+    "postal_code": "92719"
+  },
+  {
+    "id": 7308231003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Panyula",
+    "postal_code": "92717"
+  },
+  {
+    "id": 7308231006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Tipojong (Tibojong)",
+    "postal_code": "92716"
+  },
+  {
+    "id": 7308231007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Toro",
+    "postal_code": "92715"
+  },
+  {
+    "id": 7308231004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730823,
+    "value": "Waetuo",
+    "postal_code": "92718"
+  }
+]

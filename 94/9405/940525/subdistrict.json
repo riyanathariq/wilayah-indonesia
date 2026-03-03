@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9405252009,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Ai Arama",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Amungkonin",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Bomogin",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Erelmakawia",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Ipmangkop",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Kalpamonora",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Mamoldema",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Tamagun",
+    "postal_code": "98962"
+  },
+  {
+    "id": 9405252005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940525,
+    "value": "Wamagun",
+    "postal_code": "98962"
+  }
+]

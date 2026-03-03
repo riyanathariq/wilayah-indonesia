@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1108262006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Alue Keurinyai (Alue Keureunyai)",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Blang Pala",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Cot Jabet",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Jamuan",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Paya Beunyet (Paya Beunyot)",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Paya Dua",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Paya Uleue",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Sangkelan",
+    "postal_code": "24376"
+  },
+  {
+    "id": 1108262003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110826,
+    "value": "Ulee Nyeue (Ulee Nyeu)",
+    "postal_code": "24376"
+  }
+]

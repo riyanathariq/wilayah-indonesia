@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7402252004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Ahuhu (Abuhu)",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Ahuloa",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252009,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Lalopisi",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Lamelai (Lamelay)",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Larowiu",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402251003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Meluhu",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252008,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Sambasule",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Tudameaso",
+    "postal_code": "93472"
+  },
+  {
+    "id": 7402252001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740225,
+    "value": "Woerahi (Weorahi)",
+    "postal_code": "93472"
+  }
+]

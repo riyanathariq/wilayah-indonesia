@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1104102001,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Bah",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102018,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Bergang",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102003,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Bintang Pepara",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102002,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Blang Mancung",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102019,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Blang Mancung Bawah",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102020,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Buge Ara",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102004,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Burlah",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102005,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Buter",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102006,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Cang Duri",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102021,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Genting Bulen",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102007,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Geulumpang Payung (Gelumpang / Glumpang Payung)",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102022,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Jalan Tengah",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102008,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Jaluk",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102023,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Jerata",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102009,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Kala Ketol",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102010,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Karang Ampar",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102011,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Kekuyang",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102012,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Kute Gelime",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102013,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Pantan Penyo",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102014,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Pantan Reduk",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102015,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Pondok Balik",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102016,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Rejewali",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102025,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Selon",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102017,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Serempah",
+    "postal_code": "24566"
+  },
+  {
+    "id": 1104102024,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110410,
+    "value": "Simpang Juli",
+    "postal_code": "24566"
+  }
+]

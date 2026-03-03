@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206222003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920622,
+    "value": "Istiwkem (Istikem)",
+    "postal_code": "98154"
+  },
+  {
+    "id": 9206222002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920622,
+    "value": "Macok",
+    "postal_code": "98154"
+  },
+  {
+    "id": 9206222004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920622,
+    "value": "Mejnic (Majnic/Majnik)",
+    "postal_code": "98154"
+  },
+  {
+    "id": 9206222001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920622,
+    "value": "Meyerga (Mayerga)",
+    "postal_code": "98154"
+  }
+]

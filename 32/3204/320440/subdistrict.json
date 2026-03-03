@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3204402005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320440,
+    "value": "Alamendah",
+    "postal_code": "40974"
+  },
+  {
+    "id": 3204402004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320440,
+    "value": "Cipelah",
+    "postal_code": "40974"
+  },
+  {
+    "id": 3204402003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320440,
+    "value": "Indragiri",
+    "postal_code": "40974"
+  },
+  {
+    "id": 3204402001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320440,
+    "value": "Patengan",
+    "postal_code": "40974"
+  },
+  {
+    "id": 3204402002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320440,
+    "value": "Sukaresmi",
+    "postal_code": "40974"
+  }
+]

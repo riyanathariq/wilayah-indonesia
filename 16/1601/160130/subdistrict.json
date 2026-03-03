@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1601302007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Battu Winangun",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Batu Marta I (Batumarta I)",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Batu Marta II (Batumarta II)",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Batu Raden",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Lekis Rejo",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Lubuk Banjar",
+    "postal_code": "32152"
+  },
+  {
+    "id": 1601302005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160130,
+    "value": "Marta Jaya",
+    "postal_code": "32152"
+  }
+]

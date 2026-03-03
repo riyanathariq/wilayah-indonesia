@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6104012014,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610401,
+    "value": "Kuala Satong",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104012013,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610401,
+    "value": "Kuala Tolak",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104012015,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610401,
+    "value": "Lamon Satong (Laman Satong)",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104012011,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610401,
+    "value": "Sei/Sungai Putri",
+    "postal_code": "78813"
+  },
+  {
+    "id": 6104012012,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610401,
+    "value": "Tanjung Baik Budi",
+    "postal_code": "78813"
+  }
+]

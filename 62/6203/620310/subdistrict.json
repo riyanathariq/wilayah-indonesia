@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6203102002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Aruk",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Batapah",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Danau Pantau",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Lawang Kajang",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Lawang Kamah",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Lungkuh Layang (Lungku Layang)",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Petak Puti",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Timpah",
+    "postal_code": "73554"
+  },
+  {
+    "id": 6203102007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620310,
+    "value": "Tumbang Randang",
+    "postal_code": "73554"
+  }
+]

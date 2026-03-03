@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1103022032,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Alue Cek Doi",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022033,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Gleum",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Jambee",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Keumahang (Blang Keumuhang)",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Mideun",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022021,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Pauh/Paoh Dua",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022020,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Pauh/Paoh Satu",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022019,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Blang Uyok",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022035,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Buket Makmu (Bukit Makmur)",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Buket Panyang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022030,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Bukit Dindeng",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022024,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Bukit Seroja (Buket Seuraja / Seraja)",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022026,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Gampong Baro",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Julok Tunong",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022023,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Keude Kuta Binjei",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Keumuneng",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022025,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Kuala Geulumpang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Labuhan (Labohan)",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Ladang Baro",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Lhok Rambong",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022036,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Lhok Seuntang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022017,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Mane Rampak",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022018,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Matang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Naleung",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Paya Bakong",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022031,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Paya Pasi",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022028,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Seumatang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Seuneubok Baro",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Seuneubok Rambong",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022037,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Simpang Lhee",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022034,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Tanjong Tok Blang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Teupin Raya",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022027,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Tumpok Teungoh",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022029,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Ujong Tunong",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Ulee Ateung",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Ulee Blang",
+    "postal_code": "24459"
+  },
+  {
+    "id": 1103022022,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110302,
+    "value": "Ulee Tanoh",
+    "postal_code": "24459"
+  }
+]

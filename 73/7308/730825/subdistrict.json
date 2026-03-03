@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7308252011,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Batu Putih",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Bonto Masunggu",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Gaya Baru",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Lagori",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252009,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Pallawa",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252010,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Polewali",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Sadar",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Samaenre",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Tapong",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Tellang Kere (Tellangkere)",
+    "postal_code": "92771"
+  },
+  {
+    "id": 7308252006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730825,
+    "value": "Tondong",
+    "postal_code": "92771"
+  }
+]

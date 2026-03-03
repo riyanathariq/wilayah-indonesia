@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1807132010,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Bumi Jawa",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Cempaka Nuban",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132009,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Gedung Dalem (Gedung Dalam)",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132011,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Gunung Tiga",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Kedaton (Kedaton Induk)",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Kedaton I (Satu)",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Kedaton II (Dua)",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132012,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Negara Ratu",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Purwosari",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132013,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Sukacari",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Sukaraja Nuban",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Trisnomulyo (Trisno Mulyo)",
+    "postal_code": "34372"
+  },
+  {
+    "id": 1807132003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180713,
+    "value": "Tulung Balak",
+    "postal_code": "34372"
+  }
+]

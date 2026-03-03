@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9502182001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950218,
+    "value": "Awinbon",
+    "postal_code": "99431"
+  },
+  {
+    "id": 9502182004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950218,
+    "value": "Kawe",
+    "postal_code": "99431"
+  },
+  {
+    "id": 9502182003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950218,
+    "value": "Mikir",
+    "postal_code": "99431"
+  },
+  {
+    "id": 9502182002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950218,
+    "value": "Nanum Anaip",
+    "postal_code": "99431"
+  },
+  {
+    "id": 9502182005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950218,
+    "value": "Yelobib",
+    "postal_code": "99431"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1112072005,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Alue Dama",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072009,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Cinta Makmur",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072010,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Kuta Murni",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072001,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Lhang",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072008,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Mon Mameh (Pesisir Mon Mameh)",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072003,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Pisang",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072002,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Rambong",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072007,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Tangan Tangan Cut",
+    "postal_code": "23763"
+  },
+  {
+    "id": 1112072004,
+    "province_id": 11,
+    "regency_id": 1112,
+    "district_id": 111207,
+    "value": "Ujong Tanoh (Ujung Tanah)",
+    "postal_code": "23763"
+  }
+]

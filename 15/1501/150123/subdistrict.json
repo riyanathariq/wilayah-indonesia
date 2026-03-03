@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1501232003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Bukit Pulai (Bukitpulai)",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Koto Baru Semerap",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Koto Patah",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Koto Tengah",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Pancuran Tiga",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Pasar Semerap",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Permai Baru",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Pondok Siguang",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Punai Merindu",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Semerap",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Serumpun Pauh",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Sumur Jauh",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Tanjungpauh Hilir (Tanjung Pauh Hilir)",
+    "postal_code": "37173"
+  },
+  {
+    "id": 1501232002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150123,
+    "value": "Tanjungpauh Mudik (Tanjung Pauh Mudik)",
+    "postal_code": "37173"
+  }
+]

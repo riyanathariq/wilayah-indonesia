@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1811012009,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Mulya Sari",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012004,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Nipah Kuning",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012005,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Sido Mulyo",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012011,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Suka Maju",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012008,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Sumber Makmur",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012003,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Sungai Badak",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012007,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Tanjung Serayan (Tanjung Seraya)",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012006,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Tirta Laga (Tirtalaga)",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012001,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Wiralaga I",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012002,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Wiralaga II",
+    "postal_code": "34697"
+  },
+  {
+    "id": 1811012010,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181101,
+    "value": "Wiralaga Mulya",
+    "postal_code": "34697"
+  }
+]

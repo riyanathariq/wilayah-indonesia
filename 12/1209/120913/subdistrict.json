@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1209132013,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Air Genting",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Air Teluk Hessa",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Danau Sijabut",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132014,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Hessa Air Genting",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Hessa Perlompongan",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Perkebunan Air Batu I/II",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Perkebunan Air Batu III/IX",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Perkebunan Pulahan",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Pinanggiripan",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132019,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Pulau Pule",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Sei/Sungai Alim Ulu",
+    "postal_code": "21272"
+  },
+  {
+    "id": 1209132018,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120913,
+    "value": "Sijabut Teratai",
+    "postal_code": "21272"
+  }
+]

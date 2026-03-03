@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9501372004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Esiak",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Heraewa",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Husewa",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Kepi",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Maima",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Menagaima",
+    "postal_code": "99504"
+  },
+  {
+    "id": 9501372002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950137,
+    "value": "Minimo",
+    "postal_code": "99504"
+  }
+]

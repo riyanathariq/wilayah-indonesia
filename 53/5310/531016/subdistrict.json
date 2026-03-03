@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5310162001,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Kajong (Wae Kajong)",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162002,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Lante",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162007,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Lemarang",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162006,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Loce",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162005,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Nggalak",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162009,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Para Lando",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162010,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Rura",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162004,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Sambi",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162003,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Toe",
+    "postal_code": "86593"
+  },
+  {
+    "id": 5310162008,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531016,
+    "value": "Torong Koe",
+    "postal_code": "86593"
+  }
+]

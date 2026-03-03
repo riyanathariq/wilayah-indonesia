@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9508102003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Bambi",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Gilpid",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Ininkwaning",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Kagayem",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Kumbuklema",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102011,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Kumbun",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102010,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Kusit",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102013,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Narugu",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Osama",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102012,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Peya-Peya",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102009,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Sanwaruk",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Sigimbut",
+    "postal_code": "99906"
+  },
+  {
+    "id": 9508102002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950810,
+    "value": "Wipdumu",
+    "postal_code": "99906"
+  }
+]

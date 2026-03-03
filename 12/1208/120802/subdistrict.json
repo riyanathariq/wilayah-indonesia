@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1208022008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Bandar Siantar",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Bangun",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Bukit Maraja",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Dolok Malela",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022016,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Lingga",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Margo Mulyo (Margo Muliyo)",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022014,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Marihat Bukit",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Nagori Malela",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Pamatang Gajing (Pematang Gajing)",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Pamatang Syahkuda (Pematang Syahkuda / Sah Kuda)",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Pematang Asilum",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Senio",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Serapuh",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Silau Malela",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Silulu",
+    "postal_code": "21175"
+  },
+  {
+    "id": 1208022015,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120802,
+    "value": "Syahkuda Bayu (Sah Kuda Bayu)",
+    "postal_code": "21175"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1214342008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Damai",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Dao-Dao Zanuwo Idano Tae",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Fanedanu",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Fanedanu Sibohou",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Hilialo'oa",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Lawa-lawa Luo Idanotae",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Lolozukhu",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Silima Banua Umbunasi",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Sindrolo",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Sisarahili Ewo",
+    "postal_code": "22877"
+  },
+  {
+    "id": 1214342005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121434,
+    "value": "Sisiwa Ewali",
+    "postal_code": "22877"
+  }
+]

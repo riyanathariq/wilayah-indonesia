@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5304232001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530423,
+    "value": "Dubesi",
+    "postal_code": "85751"
+  },
+  {
+    "id": 5304232003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530423,
+    "value": "Fohoeka",
+    "postal_code": "85751"
+  },
+  {
+    "id": 5304232004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530423,
+    "value": "Nanaenoe",
+    "postal_code": "85751"
+  },
+  {
+    "id": 5304232002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530423,
+    "value": "Nanaet",
+    "postal_code": "85751"
+  }
+]

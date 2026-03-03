@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8204152004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Arumamang",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Bisori",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Doko (Doku)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152010,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Imbu Imbu",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152009,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Kukupang (Kakupang)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Lata Lata",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Marikapal",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Palamea",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Sengga Baru",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204152001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820415,
+    "value": "Sidanga",
+    "postal_code": "97790"
+  }
+]

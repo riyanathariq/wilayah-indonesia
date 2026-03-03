@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3314152004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Cepoko",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Hadiluwih",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Jati",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Kacangan",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Mojopuro",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Ngandul",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152010,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Ngargosari",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152011,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Ngargotirto",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Pagak",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Pendem",
+    "postal_code": "57272"
+  },
+  {
+    "id": 3314152009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331415,
+    "value": "Tlogotirto (Tlogo Tirto)",
+    "postal_code": "57272"
+  }
+]

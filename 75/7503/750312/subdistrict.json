@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7503122008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Bondaraya (Bonda Raya)",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Bondawuna",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Bonedaa",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Bulontala",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Bulontala Timur",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Libungo",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Molintogupo",
+    "postal_code": "96563"
+  },
+  {
+    "id": 7503122007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750312,
+    "value": "Pancuran",
+    "postal_code": "96563"
+  }
+]

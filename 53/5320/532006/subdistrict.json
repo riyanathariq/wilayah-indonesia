@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5320062005,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532006,
+    "value": "Ballu",
+    "postal_code": "85393"
+  },
+  {
+    "id": 5320062003,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532006,
+    "value": "Bolua",
+    "postal_code": "85393"
+  },
+  {
+    "id": 5320062004,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532006,
+    "value": "Kolorae",
+    "postal_code": "85393"
+  },
+  {
+    "id": 5320061001,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532006,
+    "value": "Ledeke",
+    "postal_code": "85393"
+  },
+  {
+    "id": 5320061002,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532006,
+    "value": "Ledeunu",
+    "postal_code": "85393"
+  }
+]

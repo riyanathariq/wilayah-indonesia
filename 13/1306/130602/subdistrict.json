@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1306022002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130602,
+    "value": "Garagahan (Geragahan)",
+    "postal_code": "26451"
+  },
+  {
+    "id": 1306022003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130602,
+    "value": "Kampung Pinang",
+    "postal_code": "26451"
+  },
+  {
+    "id": 1306022004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130602,
+    "value": "Kampung Tangah",
+    "postal_code": "26451"
+  },
+  {
+    "id": 1306022001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130602,
+    "value": "Lubuk Basung",
+    "postal_code": "26451"
+  },
+  {
+    "id": 1306022005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130602,
+    "value": "Manggopoh",
+    "postal_code": "26451"
+  }
+]

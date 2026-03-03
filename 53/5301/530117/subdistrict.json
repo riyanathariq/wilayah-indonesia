@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5301172008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Erbaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Merbaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Nekbaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Niukbaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Soba",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301171001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Teunbaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Toobaun",
+    "postal_code": "85376"
+  },
+  {
+    "id": 5301172005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530117,
+    "value": "Tunbaun",
+    "postal_code": "85376"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 6409042009,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Argo Mulyo",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042014,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Binuang",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042002,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Bukit Raya (Sepaku I)",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042004,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Bumi Harapan",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042013,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Karang Jinawi",
+    "postal_code": "76148"
+  },
+  {
+    "id": 6409041007,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Maridan",
+    "postal_code": "76146"
+  },
+  {
+    "id": 6409041008,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Mentawir",
+    "postal_code": "76149"
+  },
+  {
+    "id": 6409041006,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Pemaluan",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042010,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Semoi Dua (Semoi II)",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409041005,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Sepaku",
+    "postal_code": "76148"
+  },
+  {
+    "id": 6409042003,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Suka Raja (Sukaraja / Sepaku II)",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042011,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Suko Mulyo",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042015,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Telemow",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042001,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Tengin Baru (Sepaku III)",
+    "postal_code": "76147"
+  },
+  {
+    "id": 6409042012,
+    "province_id": 64,
+    "regency_id": 6409,
+    "district_id": 640904,
+    "value": "Wono Sari (Wonosari)",
+    "postal_code": "76147"
+  }
+]

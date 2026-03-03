@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3206192007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Ciwarak",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Jatiwaras",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Kaputihan",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Kersagalih",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Kertarahayu",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192011,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Mandalahurip",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Mandalamekar",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Neglasari",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Papayan",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Setiawangi",
+    "postal_code": "46180"
+  },
+  {
+    "id": 3206192003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320619,
+    "value": "Sukakerta",
+    "postal_code": "46180"
+  }
+]

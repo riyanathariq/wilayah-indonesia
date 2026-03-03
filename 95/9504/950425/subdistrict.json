@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504252001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Egiam",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252029,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Kaliundi",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252028,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Kurba",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252023,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Murni",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252027,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Pinde",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Tabonakme",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252025,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Wayongga",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252026,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Weri",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252024,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Yoka",
+    "postal_code": "99053"
+  },
+  {
+    "id": 9504252014,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950425,
+    "value": "Yonira",
+    "postal_code": "99053"
+  }
+]

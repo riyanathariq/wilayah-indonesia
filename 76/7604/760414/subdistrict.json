@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7604142003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Barumbung",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604142007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Bunga-Bunga",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604142006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Indomakkombong (Indo Makkombong / Indomakkondang)",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604141001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Matakali",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604142004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Pasiang",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604142002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Petampanua (Patampanua)",
+    "postal_code": "91352"
+  },
+  {
+    "id": 7604142005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760414,
+    "value": "Tonrolima (Tonro Lima)",
+    "postal_code": "91352"
+  }
+]

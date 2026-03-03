@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1809092004,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Bayas Jaya",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092007,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Gunung Sari (Gunungsari)",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092006,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Kota Jawa",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092009,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Kubu Batu",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092008,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Mada Jaya",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092003,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Padang Cermin",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092001,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Penengahan",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092002,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Suka Jaya (Sukajaya)",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092005,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Tanjung Kerta",
+    "postal_code": "35369"
+  },
+  {
+    "id": 1809092010,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180909,
+    "value": "Tanjung Rejo",
+    "postal_code": "35368"
+  }
+]

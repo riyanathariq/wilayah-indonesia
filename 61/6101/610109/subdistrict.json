@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6101092001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610109,
+    "value": "Kaliau' (Kaliau)",
+    "postal_code": "79467"
+  },
+  {
+    "id": 6101092003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610109,
+    "value": "Santaban",
+    "postal_code": "79467"
+  },
+  {
+    "id": 6101092002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610109,
+    "value": "Sebunga",
+    "postal_code": "79467"
+  },
+  {
+    "id": 6101092004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610109,
+    "value": "Senatab (Sanatab)",
+    "postal_code": "79467"
+  },
+  {
+    "id": 6101092005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610109,
+    "value": "Sungai Bening",
+    "postal_code": "79467"
+  }
+]

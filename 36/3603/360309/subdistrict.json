@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3603092002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Karang Anyar",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Kemiri",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Klebet (Kjlebet / Kelebet)",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Legok Suka Maju (Legok Sula Maju)",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Lontar",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Patramanggala (Patra Manggala)",
+    "postal_code": "15530"
+  },
+  {
+    "id": 3603092005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360309,
+    "value": "Ranca Labuh",
+    "postal_code": "15530"
+  }
+]

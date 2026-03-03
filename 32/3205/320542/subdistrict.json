@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3205422005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Cigadog",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Linggamukti",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Sadang",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Sukalaksana",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Sukaratu",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Tegalpanjang",
+    "postal_code": "44115"
+  },
+  {
+    "id": 3205422003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320542,
+    "value": "Tenjonagara",
+    "postal_code": "44115"
+  }
+]

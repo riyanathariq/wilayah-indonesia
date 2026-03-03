@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9204122006,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Bagraga (Bagaraga)",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122003,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Baldon (Boldon)",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122004,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Sesor",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122001,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Sungguer",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122002,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Unggi (Ungi)",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122005,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Waigo",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122007,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Wardik",
+    "postal_code": "98215"
+  },
+  {
+    "id": 9204122008,
+    "province_id": 92,
+    "regency_id": 9204,
+    "district_id": 920412,
+    "value": "Wayer",
+    "postal_code": "98215"
+  }
+]

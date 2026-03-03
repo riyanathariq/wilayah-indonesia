@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3510052005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Blambangan",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Kedungrejo",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Kedungringin",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052010,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Kumendung",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Sumberberas",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Sumbersewu",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Tambakrejo",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Tapanrejo",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Tembokrejo",
+    "postal_code": "68472"
+  },
+  {
+    "id": 3510052007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351005,
+    "value": "Wringinputih (Wringin Putih)",
+    "postal_code": "68472"
+  }
+]

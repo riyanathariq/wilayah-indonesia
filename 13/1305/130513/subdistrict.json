@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1305132002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130513,
+    "value": "Gasan Gadang",
+    "postal_code": "25563"
+  },
+  {
+    "id": 1305132001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130513,
+    "value": "Malai V Suku",
+    "postal_code": "25563"
+  },
+  {
+    "id": 1305132003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130513,
+    "value": "Malai V Suku Timur",
+    "postal_code": "25563"
+  }
+]

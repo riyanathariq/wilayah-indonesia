@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1509022012,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Betung Bedarah Barat",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022011,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Betung Bedarah Timur",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022018,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Kemantan",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022014,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Kunangan",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022015,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Muara Ketalo",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Sungai Aro",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509021001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Sungai Bengkal",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022017,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Sungai Bengkal Barat",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Teluk Rendah Ilir",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Teluk Rendah Pasar",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Teluk Rendah Ulu",
+    "postal_code": "37572"
+  },
+  {
+    "id": 1509022008,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150902,
+    "value": "Tuo Ilir (Desa Tuo Ilir)",
+    "postal_code": "37572"
+  }
+]

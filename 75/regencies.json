@@ -1,0 +1,38 @@
+[
+  {
+    "id": 7502,
+    "province_id": 75,
+    "type": "Kabupaten",
+    "value": "Boalemo"
+  },
+  {
+    "id": 7503,
+    "province_id": 75,
+    "type": "Kabupaten",
+    "value": "Bone Bolango"
+  },
+  {
+    "id": 7501,
+    "province_id": 75,
+    "type": "Kabupaten",
+    "value": "Gorontalo"
+  },
+  {
+    "id": 7571,
+    "province_id": 75,
+    "type": "Kota",
+    "value": "Kota Gorontalo"
+  },
+  {
+    "id": 7505,
+    "province_id": 75,
+    "type": "Kabupaten",
+    "value": "Gorontalo Utara"
+  },
+  {
+    "id": 7504,
+    "province_id": 75,
+    "type": "Kabupaten",
+    "value": "Pahuwato"
+  }
+]

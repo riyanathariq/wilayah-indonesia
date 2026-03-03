@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8203142002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Dokulamo",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Duma",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Gotalamo",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142009,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Kira",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Makete",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Ngidiho",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142007,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Roko",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142008,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Samuda (Samudra)",
+    "postal_code": "97761"
+  },
+  {
+    "id": 8203142001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820314,
+    "value": "Soatobaru",
+    "postal_code": "97761"
+  }
+]

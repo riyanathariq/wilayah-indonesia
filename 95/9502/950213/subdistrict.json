@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9502132004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950213,
+    "value": "Arinkop",
+    "postal_code": "99412"
+  },
+  {
+    "id": 9502132001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950213,
+    "value": "Dabolding",
+    "postal_code": "99412"
+  },
+  {
+    "id": 9502132005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950213,
+    "value": "Imik",
+    "postal_code": "99412"
+  },
+  {
+    "id": 9502132002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950213,
+    "value": "Kalomdol (Kalondoi)",
+    "postal_code": "99412"
+  },
+  {
+    "id": 9502132003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950213,
+    "value": "Tulo",
+    "postal_code": "99412"
+  }
+]

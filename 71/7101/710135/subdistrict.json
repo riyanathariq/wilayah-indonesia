@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7101352001,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Ibolian",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352002,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Ibolian Satu / I",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352006,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Kasio Barat",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352003,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Kinomaligan (Kinomalingan)",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352004,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Kosio",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352005,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Kosio Timur",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352007,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Werdhi Agung",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352008,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Werdhi Agung Selatan",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352010,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Werdhi Agung Timur",
+    "postal_code": "95732"
+  },
+  {
+    "id": 7101352009,
+    "province_id": 71,
+    "regency_id": 7101,
+    "district_id": 710135,
+    "value": "Werdhi Agung Utara",
+    "postal_code": "95732"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1803142002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Bandar Abung (Bandar Agung)",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Bandar Sakti",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Bangun Sari",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Bumi Raharja",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Bumi Restu",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Karya Sakti",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Purba Sakti",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Sukoharjo",
+    "postal_code": "34585"
+  },
+  {
+    "id": 1803142001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180314,
+    "value": "Tatakarya (Tata Karya)",
+    "postal_code": "34585"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507392003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Gilo",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Kewagi",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Mbu (Mbu Pemekaran)",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Nombome",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Numbokawi",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Wabiragi",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Wunabunggu",
+    "postal_code": "99588"
+  },
+  {
+    "id": 9507392002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950739,
+    "value": "Yigemili",
+    "postal_code": "99588"
+  }
+]

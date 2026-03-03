@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5321122001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532112,
+    "value": "Babotin",
+    "postal_code": "85765"
+  },
+  {
+    "id": 5321122003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532112,
+    "value": "Babotin Maemina",
+    "postal_code": "85765"
+  },
+  {
+    "id": 5321122004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532112,
+    "value": "Babotin Selatan",
+    "postal_code": "85765"
+  },
+  {
+    "id": 5321122002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532112,
+    "value": "Kereana",
+    "postal_code": "85765"
+  },
+  {
+    "id": 5321122005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532112,
+    "value": "Takarai",
+    "postal_code": "85765"
+  }
+]

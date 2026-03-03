@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1224072003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Anaoma",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072008,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Banua Sibohou I",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072010,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Banua Sibohou II",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Bitaya",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072011,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Dahana Alasa",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Dahana Tugala Oyo",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Fulolo",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Hiligawoni",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072014,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Hilisebua Siwalubanua (Siwabanua)",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Lahemboho",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072013,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Loloana'a",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072009,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Ombolata",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072012,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Ononamolo Alasa",
+    "postal_code": "22861"
+  },
+  {
+    "id": 1224072007,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122407,
+    "value": "Ononamolo Tumula",
+    "postal_code": "22861"
+  }
+]

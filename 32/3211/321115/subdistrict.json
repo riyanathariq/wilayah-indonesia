@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3211152003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cibeusi",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cikeruh",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cilayung",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cileles",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cintamulya (Cinta Mulya)",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cipacing",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Cisempur",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Hegarmanah",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Jatimukti",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Jatiroke",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Mekargalih",
+    "postal_code": "45360"
+  },
+  {
+    "id": 3211152005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321115,
+    "value": "Sayang",
+    "postal_code": "45360"
+  }
+]

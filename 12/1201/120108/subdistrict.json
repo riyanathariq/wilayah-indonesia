@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1201082006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Anggoli",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201082011,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Hutagur-gur (Hutagurgur)",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201082005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Mombang Boru",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201082007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Muara Sibuntuon",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201081002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Sibabangun",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201082008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Sibio Bio",
+    "postal_code": "22655"
+  },
+  {
+    "id": 1201082010,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120108,
+    "value": "Simanosor",
+    "postal_code": "22655"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1116112002,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Rimba Sawang",
+    "postal_code": "24477"
+  },
+  {
+    "id": 1116112004,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Selamat",
+    "postal_code": "24477"
+  },
+  {
+    "id": 1116112005,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Simpang Kiri",
+    "postal_code": "24477"
+  },
+  {
+    "id": 1116112006,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Sumber Makmur",
+    "postal_code": "24477"
+  },
+  {
+    "id": 1116112001,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Tebing Tinggi",
+    "postal_code": "24477"
+  },
+  {
+    "id": 1116112003,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111611,
+    "value": "Tenggulun",
+    "postal_code": "24477"
+  }
+]

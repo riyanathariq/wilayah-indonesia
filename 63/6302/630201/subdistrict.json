@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6302012001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630201,
+    "value": "Labuan Barat",
+    "postal_code": "72181"
+  },
+  {
+    "id": 6302012003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630201,
+    "value": "Maradapan",
+    "postal_code": "72181"
+  },
+  {
+    "id": 6302012005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630201,
+    "value": "Tanjung Nyiur (Tanjungnyiur)",
+    "postal_code": "72181"
+  },
+  {
+    "id": 6302012002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630201,
+    "value": "Teluk Sungai",
+    "postal_code": "72181"
+  },
+  {
+    "id": 6302012004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630201,
+    "value": "Tengah",
+    "postal_code": "72181"
+  }
+]

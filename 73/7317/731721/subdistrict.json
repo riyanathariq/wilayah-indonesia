@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7317212002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Bakti",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Bassiang",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212011,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Bassiang Timur",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Buntu Karya",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Jenne/Je'ne Maeja",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Lampuara",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Olang",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Paccerakkang (Paccerakang)",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317211005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Pattedong",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212012,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Pattedong Selatan",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212013,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "Tarramatekkeng",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212009,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "To'balo (To Balo)",
+    "postal_code": "91989"
+  },
+  {
+    "id": 7317212010,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731721,
+    "value": "To'bia",
+    "postal_code": "91989"
+  }
+]

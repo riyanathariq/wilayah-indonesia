@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3216061001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Jatimulya",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Lambangjaya",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Lambangsari",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Mangunjaya",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Mekarsari",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Setiadarma",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Setiamekar",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062010,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Sumberjaya (Sumber Jaya)",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Tambun",
+    "postal_code": "17510"
+  },
+  {
+    "id": 3216062008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321606,
+    "value": "Tridaya Sakti",
+    "postal_code": "17510"
+  }
+]

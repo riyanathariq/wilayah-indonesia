@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6303102011,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Belimbing Baru",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102006,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Belimbing Lama",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102015,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Hakim Makmur",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102003,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Kahelaan",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102001,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Kupang Rejo",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102012,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Pakutik",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102005,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Rantau Bakula",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102004,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Rantau Nangka",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102002,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Sei/Sungai Pinang",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102010,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Sumber Baru",
+    "postal_code": "70678"
+  },
+  {
+    "id": 6303102013,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630310,
+    "value": "Sumber Harapan",
+    "postal_code": "70678"
+  }
+]

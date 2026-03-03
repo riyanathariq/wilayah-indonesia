@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1803102013,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Alam Jaya",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Bandar Putih",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Curup Guruh (Curup Guruh Kagungan)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Jerangkang",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Karang Agung",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803101001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Kelapa Tujuh",
+    "postal_code": "34513"
+  },
+  {
+    "id": 1803101003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Kota Alam",
+    "postal_code": "34519"
+  },
+  {
+    "id": 1803102004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Mulang Maya",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102014,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Sinar Mas Alam",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Taman Jaya",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803101002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Tanjungaman (Tanjung Aman)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803101011,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Tanjungharapan (Tanjung Harapan)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803101012,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Tanjungsenang (Tanjung Senang)",
+    "postal_code": "34511"
+  },
+  {
+    "id": 1803102009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180310,
+    "value": "Way Melan",
+    "postal_code": "34511"
+  }
+]

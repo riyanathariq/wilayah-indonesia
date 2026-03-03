@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3209202005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Kalikoa",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Kedawung",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Kedungdawa",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Kedungjaya",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Kertawinangun",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Pilangsari",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Sutawinangun",
+    "postal_code": "45153"
+  },
+  {
+    "id": 3209202006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320920,
+    "value": "Tuk",
+    "postal_code": "45153"
+  }
+]

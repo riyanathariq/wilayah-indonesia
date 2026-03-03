@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106092007,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Buano Hatuputih",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Kelang Asaude",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092001,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Luhutuban",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Masawoy (Masawoi)",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Tomalehu Barat (Tumalehu Barat)",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092006,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Tomalehu Timur (Tumalehu Timur)",
+    "postal_code": "97569"
+  },
+  {
+    "id": 8106092003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810609,
+    "value": "Tuniwara",
+    "postal_code": "97569"
+  }
+]

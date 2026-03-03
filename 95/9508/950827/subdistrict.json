@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9508272005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950827,
+    "value": "Murupbaye",
+    "postal_code": "99928"
+  },
+  {
+    "id": 9508272001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950827,
+    "value": "Nganai",
+    "postal_code": "99928"
+  },
+  {
+    "id": 9508272002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950827,
+    "value": "Pija",
+    "postal_code": "99928"
+  },
+  {
+    "id": 9508272004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950827,
+    "value": "Siat",
+    "postal_code": "99928"
+  },
+  {
+    "id": 9508272003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950827,
+    "value": "Sitgama",
+    "postal_code": "99928"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1110162002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111016,
+    "value": "Asantola",
+    "postal_code": "24790"
+  },
+  {
+    "id": 1110162001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111016,
+    "value": "Haloban",
+    "postal_code": "24790"
+  },
+  {
+    "id": 1110162004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111016,
+    "value": "Suka Makmur",
+    "postal_code": "24790"
+  },
+  {
+    "id": 1110162003,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111016,
+    "value": "Ujung Sialit",
+    "postal_code": "24790"
+  }
+]

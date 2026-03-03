@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7373011003,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Amasangan (Amassangan)",
+    "postal_code": "91922"
+  },
+  {
+    "id": 7373011002,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Boting",
+    "postal_code": "91923"
+  },
+  {
+    "id": 7373011011,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Dangerekko",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373011005,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Lagaligo",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373011012,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Pajalesang (Panjelesang)",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373011001,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737301,
+    "value": "Tompotikka",
+    "postal_code": "91921"
+  }
+]

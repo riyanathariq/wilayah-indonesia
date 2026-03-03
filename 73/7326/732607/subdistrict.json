@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7326072002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "Buntu La'bo'",
+    "postal_code": "91851"
+  },
+  {
+    "id": 7326072001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "La'bo'",
+    "postal_code": "91851"
+  },
+  {
+    "id": 7326071006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "Paepalean",
+    "postal_code": "91851"
+  },
+  {
+    "id": 7326072004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "Pata'padang (Pata' Padang)",
+    "postal_code": "91851"
+  },
+  {
+    "id": 7326072003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "Tallung Penanian",
+    "postal_code": "91851"
+  },
+  {
+    "id": 7326072005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732607,
+    "value": "Tandung Labo' (Tandung La'bo')",
+    "postal_code": "91851"
+  }
+]

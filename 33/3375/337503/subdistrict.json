@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3375031009,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Bandengan",
+    "postal_code": "51143"
+  },
+  {
+    "id": 3375031007,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Degayu",
+    "postal_code": "51148"
+  },
+  {
+    "id": 3375031003,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Kandang Panjang",
+    "postal_code": "51149"
+  },
+  {
+    "id": 3375031002,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Krapyak",
+    "postal_code": "51147"
+  },
+  {
+    "id": 3375031006,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Padukuhan Kraton",
+    "postal_code": "51146"
+  },
+  {
+    "id": 3375031010,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Panjang Baru",
+    "postal_code": "51141"
+  },
+  {
+    "id": 3375031004,
+    "province_id": 33,
+    "regency_id": 3375,
+    "district_id": 337503,
+    "value": "Panjang Wetan",
+    "postal_code": "51141"
+  }
+]

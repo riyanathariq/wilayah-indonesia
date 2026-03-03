@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1208232006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Bah Lias",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Bandar Jawa",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Bandar Pulo",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Bandar Rakyat",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232016,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Landbouw",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Marihat Bandar",
+    "postal_code": "21162"
+  },
+  {
+    "id": 1208232003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Nagori Bandar",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Pardagangan II (Perdagangan II)",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Pem.Kerasaan Rejo (Pematang Kerasaan Rejo)",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Pematang Kerasaan",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208231014,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Perdagangan I",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208231015,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Perdagangan III",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Perlanaan",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Sidotani",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Sugarang Bayu",
+    "postal_code": "21184"
+  },
+  {
+    "id": 1208232011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120823,
+    "value": "Timbaan",
+    "postal_code": "21184"
+  }
+]

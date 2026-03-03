@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3506262008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Badas",
+    "postal_code": "64221"
+  },
+  {
+    "id": 3506262007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Blaru",
+    "postal_code": "64219"
+  },
+  {
+    "id": 3506262003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Bringin",
+    "postal_code": "64224"
+  },
+  {
+    "id": 3506262001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Canggu",
+    "postal_code": "64217"
+  },
+  {
+    "id": 3506262006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Krecek",
+    "postal_code": "64218"
+  },
+  {
+    "id": 3506262002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Lamong",
+    "postal_code": "64216"
+  },
+  {
+    "id": 3506262004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Sekoto",
+    "postal_code": "64223"
+  },
+  {
+    "id": 3506262005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350626,
+    "value": "Tunglur",
+    "postal_code": "64222"
+  }
+]

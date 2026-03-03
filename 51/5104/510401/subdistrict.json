@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5104012007,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Batuan",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012012,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Batuan Kaler",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012001,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Batubulan",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012009,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Batubulan Kangin",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012005,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Celuk",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012003,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Guwang",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012008,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Kemenuh",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012002,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Ketewel",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012006,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Singapadu",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012011,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Singapadu Kaler",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012010,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Singapadu Tengah",
+    "postal_code": "80582"
+  },
+  {
+    "id": 5104012004,
+    "province_id": 51,
+    "regency_id": 5104,
+    "district_id": 510401,
+    "value": "Sukawati",
+    "postal_code": "80582"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 9302042007,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930204,
+    "value": "Jair",
+    "postal_code": "99655"
+  },
+  {
+    "id": 9302042001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930204,
+    "value": "Kouh",
+    "postal_code": "99655"
+  },
+  {
+    "id": 9302042008,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930204,
+    "value": "Mandobo",
+    "postal_code": "99655"
+  }
+]

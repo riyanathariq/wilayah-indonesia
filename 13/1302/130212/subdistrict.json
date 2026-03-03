@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1302122007,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Bukit Kanduang",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Katialo",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Kuncir",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122009,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Labuh Panjang",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Paninjauan",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122006,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Pasilihan",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122008,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Sibarambang",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Sulit Air",
+    "postal_code": "27355"
+  },
+  {
+    "id": 1302122002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130212,
+    "value": "Tanjung Balik",
+    "postal_code": "27355"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3604122009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Domas",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122011,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Kaserangan (Keserangan)",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Kelapian (Kalapian)",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Kubang Puji",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Linduk",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Pontang",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Pulokencana (Pulo Kencana)",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Singarajan",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122013,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Suka Jaya (Sukajaya)",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Sukanegara",
+    "postal_code": "42192"
+  },
+  {
+    "id": 3604122012,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360412,
+    "value": "Wanayasa",
+    "postal_code": "42192"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3520032005,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Dukuh",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032001,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Kediren",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032006,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Kedungpanji",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032010,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Krowe",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520031002,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Lembeyan Kulon",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032003,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Lembeyan Wetan",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032007,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Nguri",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032008,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Pupus",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032009,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Tapen",
+    "postal_code": "63372"
+  },
+  {
+    "id": 3520032004,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352003,
+    "value": "Tunggur",
+    "postal_code": "63372"
+  }
+]

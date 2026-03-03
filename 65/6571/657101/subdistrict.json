@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6571011001,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657101,
+    "value": "Karang Anyar",
+    "postal_code": "77111"
+  },
+  {
+    "id": 6571011003,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657101,
+    "value": "Karang Anyar Pantai",
+    "postal_code": "77111"
+  },
+  {
+    "id": 6571011004,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657101,
+    "value": "Karang Balik",
+    "postal_code": "77112"
+  },
+  {
+    "id": 6571011005,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657101,
+    "value": "Karang Harapan",
+    "postal_code": "77111"
+  },
+  {
+    "id": 6571011002,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657101,
+    "value": "Karang Rejo",
+    "postal_code": "77112"
+  }
+]

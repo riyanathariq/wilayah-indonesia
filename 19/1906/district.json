@@ -1,0 +1,44 @@
+[
+  {
+    "id": 190605,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Damar"
+  },
+  {
+    "id": 190603,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Dendang"
+  },
+  {
+    "id": 190602,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Gantung"
+  },
+  {
+    "id": 190604,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Kelapa Kampit"
+  },
+  {
+    "id": 190601,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Manggar"
+  },
+  {
+    "id": 190607,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Simpang Pesak"
+  },
+  {
+    "id": 190606,
+    "province_id": 19,
+    "regency_id": 1906,
+    "value": "Simpang Renggiang"
+  }
+]

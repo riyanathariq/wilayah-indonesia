@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1706152009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Banjar Sari",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Gading Jaya",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Gajah Mati",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Mekar Sari",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Padang Gading",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Retak Mudik",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Sido Dadi (Sidodadi)",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Sumber Makmur",
+    "postal_code": "38761"
+  },
+  {
+    "id": 1706152007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170615,
+    "value": "Talang Gading",
+    "postal_code": "38761"
+  }
+]

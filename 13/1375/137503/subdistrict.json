@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1375031001,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Aur Kuning",
+    "postal_code": "26131"
+  },
+  {
+    "id": 1375031003,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Belakang Balok",
+    "postal_code": "26136"
+  },
+  {
+    "id": 1375031002,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Birugo",
+    "postal_code": "26138"
+  },
+  {
+    "id": 1375031005,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Kubu Tanjung",
+    "postal_code": "26133"
+  },
+  {
+    "id": 1375031008,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Ladang Cakiah",
+    "postal_code": "26135"
+  },
+  {
+    "id": 1375031006,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Pakan Labuh/Labuah",
+    "postal_code": "26134"
+  },
+  {
+    "id": 1375031007,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Parit Rantang (Parit Antang)",
+    "postal_code": "26132"
+  },
+  {
+    "id": 1375031004,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137503,
+    "value": "Sapiran",
+    "postal_code": "26137"
+  }
+]

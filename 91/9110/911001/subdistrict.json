@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9110012014,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Armo",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012007,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Bagaiserwar",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012018,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Bagaisewar II",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012020,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Lembah Neidam",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Liki",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110011001,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Mararena",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012019,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Pulau Armo",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110011002,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Sarmi Kota (Sarmi)",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012003,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Sarmo",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012006,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Sawar",
+    "postal_code": "99373"
+  },
+  {
+    "id": 9110012021,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911001,
+    "value": "Tefarewar",
+    "postal_code": "99373"
+  }
+]

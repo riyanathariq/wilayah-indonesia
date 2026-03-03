@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9206182006,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Eniba",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Ibori",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Jahabra",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Laudoho",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Menyembrui (Menyembru)",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Meyorga",
+    "postal_code": "98161"
+  },
+  {
+    "id": 9206182007,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920618,
+    "value": "Mowitka",
+    "postal_code": "98161"
+  }
+]

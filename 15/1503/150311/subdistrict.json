@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1503112004,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Butang Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112001,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Guruh Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112006,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Jati Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112007,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Jati Baru Mudo",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112010,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Jernang Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112008,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Meranti Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112009,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Meranti Jaya",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112002,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Petiduran Baru",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112005,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Suka Maju",
+    "postal_code": "37492"
+  },
+  {
+    "id": 1503112003,
+    "province_id": 15,
+    "regency_id": 1503,
+    "district_id": 150311,
+    "value": "Sungai Butang",
+    "postal_code": "37492"
+  }
+]

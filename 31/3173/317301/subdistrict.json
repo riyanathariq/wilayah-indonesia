@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3173011001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Cengkareng Barat",
+    "postal_code": "11730"
+  },
+  {
+    "id": 3173011006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Cengkareng Timur",
+    "postal_code": "11730"
+  },
+  {
+    "id": 3173011002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Duri Kosambi",
+    "postal_code": "11750"
+  },
+  {
+    "id": 3173011005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Kapuk",
+    "postal_code": "11720"
+  },
+  {
+    "id": 3173011004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Kedaung Kali Angke",
+    "postal_code": "11710"
+  },
+  {
+    "id": 3173011003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317301,
+    "value": "Rawa Buaya",
+    "postal_code": "11740"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7311012002,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Harapan",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311012004,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Kading",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311012007,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Lempang",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311012005,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Libureng",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311011001,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Lompo Riaja",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311012003,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Lompo Tengah",
+    "postal_code": "90763"
+  },
+  {
+    "id": 7311012006,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731101,
+    "value": "Mattirowalie",
+    "postal_code": "90763"
+  }
+]

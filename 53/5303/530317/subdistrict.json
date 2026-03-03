@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5303172009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Baas",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Banain A",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Banain B",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Banain C",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Faenake (Faennake)",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172008,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Haumeni",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Napan",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Sainoni",
+    "postal_code": "85653"
+  },
+  {
+    "id": 5303172006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530317,
+    "value": "Tes",
+    "postal_code": "85653"
+  }
+]

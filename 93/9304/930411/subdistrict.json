@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304112004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Jufri",
+    "postal_code": "99784"
+  },
+  {
+    "id": 9304112003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Omor",
+    "postal_code": "99784"
+  },
+  {
+    "id": 9304112006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Onavai",
+    "postal_code": "99784"
+  },
+  {
+    "id": 9304112001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Yamas",
+    "postal_code": "99784"
+  },
+  {
+    "id": 9304112005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Yaun",
+    "postal_code": "99784"
+  },
+  {
+    "id": 9304112002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930411,
+    "value": "Yeni",
+    "postal_code": "99784"
+  }
+]

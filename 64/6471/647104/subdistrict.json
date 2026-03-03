@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6471041002,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Gunungsari Ilir (Gunung Sari Ilir)",
+    "postal_code": "76121"
+  },
+  {
+    "id": 6471041001,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Gunungsari Ulu (Gunung Sari Ulu)",
+    "postal_code": "76122"
+  },
+  {
+    "id": 6471041004,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Karang Jati",
+    "postal_code": "76123"
+  },
+  {
+    "id": 6471041003,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Karang Rejo",
+    "postal_code": "76124"
+  },
+  {
+    "id": 6471041005,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Mekar Sari",
+    "postal_code": "76122"
+  },
+  {
+    "id": 6471041006,
+    "province_id": 64,
+    "regency_id": 6471,
+    "district_id": 647104,
+    "value": "Sumber Rejo",
+    "postal_code": "76124"
+  }
+]

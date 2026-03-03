@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3218022001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Batukaras",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Ciakar",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Cibanten",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Cijulang",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Kertayasa",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Kondangjajar",
+    "postal_code": "46394"
+  },
+  {
+    "id": 3218022007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321802,
+    "value": "Margacinta",
+    "postal_code": "46394"
+  }
+]

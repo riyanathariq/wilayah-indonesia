@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9120052003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Bagusa",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Baudi",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052004,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Kapeso",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Suaseso",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052008,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Taya",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120052002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Trimuris",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Warembori",
+    "postal_code": "98691"
+  },
+  {
+    "id": 9120052007,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912005,
+    "value": "Yoke",
+    "postal_code": "98691"
+  }
+]

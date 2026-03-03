@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9110122001,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Amsira",
+    "postal_code": "99376"
+  },
+  {
+    "id": 9110122008,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Angkasa Dua",
+    "postal_code": "99376"
+  },
+  {
+    "id": 9110122004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Kasukwe",
+    "postal_code": "99376"
+  },
+  {
+    "id": 9110122003,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Munukania (Manukania)",
+    "postal_code": "99376"
+  },
+  {
+    "id": 9110122002,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Siaratesa",
+    "postal_code": "99376"
+  },
+  {
+    "id": 9110122005,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911012,
+    "value": "Wapo",
+    "postal_code": "99376"
+  }
+]

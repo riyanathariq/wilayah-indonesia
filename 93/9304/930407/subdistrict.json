@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9304072001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Binam",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Bubis",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072011,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Bumu",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Burbis",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072014,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Emnam",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Jinak",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072013,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Kapayap Dua",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072012,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Kapayap Satu",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Karbis",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Soray",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Wagabus",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Waganu Dua",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Waijens",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304072007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930407,
+    "value": "Wowi",
+    "postal_code": "99792"
+  }
+]

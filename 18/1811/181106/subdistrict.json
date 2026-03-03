@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1811062007,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Adi Karya Mulya",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062001,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Adi Luhur",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062004,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Adi Mulya / Mulyo",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062005,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Fajar Asri",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062003,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Fajar Baru",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062006,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Fajar Indah",
+    "postal_code": "34698"
+  },
+  {
+    "id": 1811062002,
+    "province_id": 18,
+    "regency_id": 1811,
+    "district_id": 181106,
+    "value": "Mukti Karya",
+    "postal_code": "34698"
+  }
+]

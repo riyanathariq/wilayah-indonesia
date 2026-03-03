@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578181001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Bangkingan",
+    "postal_code": "60214"
+  },
+  {
+    "id": 3578181002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Jeruk",
+    "postal_code": "60212"
+  },
+  {
+    "id": 3578181003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Lakarsantri (Lakar Santri)",
+    "postal_code": "60211"
+  },
+  {
+    "id": 3578181004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Lidah Kulon",
+    "postal_code": "60213"
+  },
+  {
+    "id": 3578181005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Lidah Wetan",
+    "postal_code": "60213"
+  },
+  {
+    "id": 3578181006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357818,
+    "value": "Sumur Welut",
+    "postal_code": "60215"
+  }
+]

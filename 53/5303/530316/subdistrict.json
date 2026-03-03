@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5303162004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Haumeni Ana",
+    "postal_code": "85651"
+  },
+  {
+    "id": 5303162001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Inbate",
+    "postal_code": "85651"
+  },
+  {
+    "id": 5303162003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Nainaban",
+    "postal_code": "85651"
+  },
+  {
+    "id": 5303162005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Nilulat",
+    "postal_code": "85651"
+  },
+  {
+    "id": 5303162002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Sunkaen",
+    "postal_code": "85651"
+  },
+  {
+    "id": 5303162006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530316,
+    "value": "Tubu",
+    "postal_code": "85651"
+  }
+]

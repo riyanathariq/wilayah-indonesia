@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3274021003,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327402,
+    "value": "Kesepuhan",
+    "postal_code": "45114"
+  },
+  {
+    "id": 3274021002,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327402,
+    "value": "Lemahwungkuk",
+    "postal_code": "45111"
+  },
+  {
+    "id": 3274021004,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327402,
+    "value": "Panjunan",
+    "postal_code": "45112"
+  },
+  {
+    "id": 3274021001,
+    "province_id": 32,
+    "regency_id": 3274,
+    "district_id": 327402,
+    "value": "Pegambiran",
+    "postal_code": "45113"
+  }
+]

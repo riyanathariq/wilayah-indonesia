@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503352003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Bunde",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Denema",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Dinggila",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Esalek",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Lolat",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Serahak",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Wanim",
+    "postal_code": "99739"
+  },
+  {
+    "id": 9503352005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950335,
+    "value": "Webile",
+    "postal_code": "99739"
+  }
+]

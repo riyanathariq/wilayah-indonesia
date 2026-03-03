@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7201232001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Koyoan",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201232002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Koyoan Permai",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Lontio",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Lontio Baru",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201232011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Lumbe",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Nambo Bosaa",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Nambo Lempek",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Nambo Lempek Baru",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201231003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Nambo Padang",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201232009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Padungnyo",
+    "postal_code": "94760"
+  },
+  {
+    "id": 7201232010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720123,
+    "value": "Sayambongin (Sayangbongin)",
+    "postal_code": "94760"
+  }
+]

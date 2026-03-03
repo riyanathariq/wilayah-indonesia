@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9403032003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Abatadi",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Agapo",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Baguwo",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032009,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Dinubutu",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032013,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Duwadide",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032008,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Emai",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Makidini",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Tagiya",
+    "postal_code": "98731"
+  },
+  {
+    "id": 9403032001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940303,
+    "value": "Toyaimoti",
+    "postal_code": "98731"
+  }
+]

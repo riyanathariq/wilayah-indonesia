@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209222017,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Bungko",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222018,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Bungko Lor",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Dukuh",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222015,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Grogol",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222016,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Kapetakan",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222014,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Karangkendal",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Kertasura",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Pegaan Lor (Pegagan Lor)",
+    "postal_code": "45152"
+  },
+  {
+    "id": 3209222011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320922,
+    "value": "Pegagan Kidul",
+    "postal_code": "45152"
+  }
+]

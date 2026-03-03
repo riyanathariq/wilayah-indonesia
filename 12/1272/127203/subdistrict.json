@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1272031007,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Bane",
+    "postal_code": "21142"
+  },
+  {
+    "id": 1272031003,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Baru",
+    "postal_code": "21145"
+  },
+  {
+    "id": 1272031005,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Kahean",
+    "postal_code": "21147"
+  },
+  {
+    "id": 1272031002,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Martoba",
+    "postal_code": "21143"
+  },
+  {
+    "id": 1272031001,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Melayu",
+    "postal_code": "21144"
+  },
+  {
+    "id": 1272031006,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Sigulanggulang (Sigulang Gulang I)",
+    "postal_code": "21141"
+  },
+  {
+    "id": 1272031004,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127203,
+    "value": "Sukadame",
+    "postal_code": "21146"
+  }
+]

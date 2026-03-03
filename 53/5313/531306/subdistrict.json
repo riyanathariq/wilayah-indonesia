@@ -1,0 +1,178 @@
+[
+  {
+    "id": 5313062006,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Aramengi",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062001,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Balauring",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062009,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Dolulolong",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062008,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Hingalamamengi",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062010,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Hoelea I",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062016,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Hoelea II",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062017,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Lebewala",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062003,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Leubatang",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062013,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Leudanung",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062012,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Leuwayang",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062005,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Mahal I",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062018,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Mahal II",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062007,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Meluwiting",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062022,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Meluwiting I",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062002,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Nilanapo",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062014,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Normal",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062021,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Normal I",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062019,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Peusawa",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062011,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Roma",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062015,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Wailolong",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062004,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Walang Sawah",
+    "postal_code": "86691"
+  },
+  {
+    "id": 5313062020,
+    "province_id": 53,
+    "regency_id": 5313,
+    "district_id": 531306,
+    "value": "Wowong",
+    "postal_code": "86691"
+  }
+]

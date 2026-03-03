@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3303162006,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Bedagas",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162005,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Karangjoho",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162002,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Larangan",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162001,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Panunggalan",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162003,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Pasunggingan",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162004,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Pengadegan (Pangadegan)",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162008,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Tegalpingen",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162009,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Tetel",
+    "postal_code": "53393"
+  },
+  {
+    "id": 3303162007,
+    "province_id": 33,
+    "regency_id": 3303,
+    "district_id": 330316,
+    "value": "Tumanggal",
+    "postal_code": "53393"
+  }
+]

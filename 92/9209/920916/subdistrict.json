@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209162003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Ayamane",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Hewi",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Mawor",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Ruf",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Ruvewes",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209162005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Sahae",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Sisu",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Whismer",
+    "postal_code": "98372"
+  },
+  {
+    "id": 9209162009,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920916,
+    "value": "Yabuow",
+    "postal_code": "98371"
+  }
+]

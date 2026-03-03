@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1276011007,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Bandar Sono (Bandarsono)",
+    "postal_code": "20625"
+  },
+  {
+    "id": 1276011002,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Lubuk Baru",
+    "postal_code": "20622"
+  },
+  {
+    "id": 1276011012,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Lubuk Raya",
+    "postal_code": "20624"
+  },
+  {
+    "id": 1276011001,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Pabatu",
+    "postal_code": "20623"
+  },
+  {
+    "id": 1276011011,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Padang Merbau",
+    "postal_code": "20624"
+  },
+  {
+    "id": 1276011006,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Persiakan",
+    "postal_code": "20624"
+  },
+  {
+    "id": 1276011010,
+    "province_id": 12,
+    "regency_id": 1276,
+    "district_id": 127601,
+    "value": "Tualang",
+    "postal_code": "20624"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206142004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920614,
+    "value": "Forada",
+    "postal_code": "98136"
+  },
+  {
+    "id": 9206142005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920614,
+    "value": "Materabu Jaya",
+    "postal_code": "98136"
+  },
+  {
+    "id": 9206142003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920614,
+    "value": "Saengga",
+    "postal_code": "98136"
+  },
+  {
+    "id": 9206142002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920614,
+    "value": "Tanah Merah",
+    "postal_code": "98136"
+  },
+  {
+    "id": 9206142001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920614,
+    "value": "Tofoi",
+    "postal_code": "98136"
+  }
+]

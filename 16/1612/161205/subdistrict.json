@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1612052001,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Bumi Ayu",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052006,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Curup",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052011,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Harapan Jaya",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052013,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Lunas Jaya",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052009,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Modong",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052016,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Muara Dua",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052002,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Muara Sungai",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052008,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Pandan",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052007,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Raja",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052014,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Raja Barat",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052004,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Sedupi",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052017,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Sukamanis",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052005,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Sukaraja",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052015,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Tanah Abang Jaya",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052010,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Tanah Abang Selatan",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052003,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Tanah Abang Utara",
+    "postal_code": "31314"
+  },
+  {
+    "id": 1612052012,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161205,
+    "value": "Tanjung Dalam",
+    "postal_code": "31314"
+  }
+]

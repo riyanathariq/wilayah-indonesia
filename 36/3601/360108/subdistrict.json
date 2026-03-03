@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601082009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Cibitung",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Curuglanglang",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Gunungbatu",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082011,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Kotadukuh",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082018,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Lebak",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Munjul",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Panacaran",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Pasanggrahan",
+    "postal_code": "42275"
+  },
+  {
+    "id": 3601082002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360108,
+    "value": "Sukasaba",
+    "postal_code": "42275"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5102032009,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Angkah",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032004,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Antosari",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032011,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Bengkel Sari",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032003,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Lalanglinggah (Lalang Linggah)",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032005,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Lumbung",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032006,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Lumbung Kauh",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032001,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Mundeh",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032002,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Mundeh Kangin",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032008,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Mundeh Kauh",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032010,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Selabih",
+    "postal_code": "82162"
+  },
+  {
+    "id": 5102032007,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510203,
+    "value": "Tiing Gading (Tiying Gading)",
+    "postal_code": "82162"
+  }
+]

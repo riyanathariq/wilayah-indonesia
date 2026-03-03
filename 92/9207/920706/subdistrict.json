@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9207062002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Isenebuay (Isenebuai / Senebuay / Senebuai)",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062005,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Iseren (Isren)",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062011,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Wetitindau",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062009,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Yariari",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062008,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Yembekiri II",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062003,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Yomakan",
+    "postal_code": "98333"
+  },
+  {
+    "id": 9207062001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920706,
+    "value": "Yombekiri I (Yembe Kiri)",
+    "postal_code": "98333"
+  }
+]

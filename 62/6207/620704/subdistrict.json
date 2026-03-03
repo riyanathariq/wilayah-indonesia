@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6207042003,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Bahaur",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042006,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Derangga",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042002,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Parang Batang",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042011,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Paring Raya",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042004,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Pembuang Hulu I",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042005,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Pembuang Hulu II",
+    "postal_code": "74270"
+  },
+  {
+    "id": 6207042001,
+    "province_id": 62,
+    "regency_id": 6207,
+    "district_id": 620704,
+    "value": "Tanjung Hanau/Hana",
+    "postal_code": "74270"
+  }
+]

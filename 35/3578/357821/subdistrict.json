@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578211002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357821,
+    "value": "Dukuh Kupang",
+    "postal_code": "60225"
+  },
+  {
+    "id": 3578211001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357821,
+    "value": "Dukuh Pakis",
+    "postal_code": "60225"
+  },
+  {
+    "id": 3578211003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357821,
+    "value": "Gunung Sari (Gunungsari)",
+    "postal_code": "60224"
+  },
+  {
+    "id": 3578211004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357821,
+    "value": "Pradah Kali Kendal",
+    "postal_code": "60226"
+  }
+]

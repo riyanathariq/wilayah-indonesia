@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1808142005,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Bumi Agung",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142010,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Bumi Say Agung",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142006,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Karangan",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142004,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Mulyoharjo (Mulyo Harjo)",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142001,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Pisang Baru",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142002,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Pisang Indah",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142003,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Srinumpi (Sri Numpi)",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142008,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142009,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Tanjung Dalam (Tanjung Dalom)",
+    "postal_code": "34760"
+  },
+  {
+    "id": 1808142007,
+    "province_id": 18,
+    "regency_id": 1808,
+    "district_id": 180814,
+    "value": "Wonoharjo (Wono Harjo)",
+    "postal_code": "34760"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3310232007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Gemblegan",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Jimbung",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Jogosetran",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Kalikotes",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Krajan",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Ngemplak",
+    "postal_code": "57451"
+  },
+  {
+    "id": 3310232005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331023,
+    "value": "Tambongwetan",
+    "postal_code": "57451"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9502122003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Akmer",
+    "postal_code": "99414"
+  },
+  {
+    "id": 9502122001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Bape",
+    "postal_code": "99414"
+  },
+  {
+    "id": 9502122006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Ibot",
+    "postal_code": "99414"
+  },
+  {
+    "id": 9502122004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Kasawi",
+    "postal_code": "99414"
+  },
+  {
+    "id": 9502122002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Masim",
+    "postal_code": "99414"
+  },
+  {
+    "id": 9502122005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950212,
+    "value": "Tapasik Dua Bapenka (Tapasik Dua)",
+    "postal_code": "99414"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7408102010,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Kalahunde",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102003,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Labipi",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102001,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Lanipa",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102004,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Latali",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102002,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Majapahit",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102005,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Pasampang",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102009,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Powalaa",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102008,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Salulotong (Salutotong)",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102006,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "Tarengga",
+    "postal_code": "93953"
+  },
+  {
+    "id": 7408102007,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740810,
+    "value": "To'lemo",
+    "postal_code": "93953"
+  }
+]

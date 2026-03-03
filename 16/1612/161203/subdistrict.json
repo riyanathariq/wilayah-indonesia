@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1612032005,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Air Itam",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032007,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Air Itam Timur",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032010,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Babat",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032002,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Gunung Menang",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032006,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Gunung Raja",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032003,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Mangkunegara",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032013,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Mangkunegara Timur",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032001,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Purun",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032012,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Purun Timur",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032004,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Raja Jaya",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032009,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Spantan Jaya",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032011,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Suka Raja",
+    "postal_code": "31316"
+  },
+  {
+    "id": 1612032008,
+    "province_id": 16,
+    "regency_id": 1612,
+    "district_id": 161203,
+    "value": "Sungai Langan",
+    "postal_code": "31316"
+  }
+]

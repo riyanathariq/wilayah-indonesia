@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7205112001,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Bodi",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112003,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Harmoni",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112007,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Hulubalang",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112004,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Lunguto",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112006,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Oyak",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112002,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Tayokan",
+    "postal_code": "94574"
+  },
+  {
+    "id": 7205112005,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720511,
+    "value": "Timbulon",
+    "postal_code": "94574"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9210222011,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Asnaif",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Awit",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Erokwero",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Eway",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222013,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Framboh",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222012,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Iroh Sohser",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Itigah",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Sabun",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Sira",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Sira Tee",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222014,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Tohmri",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222010,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Way 'U' (Way U)",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222009,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Wrait 'U' (Wrait U)",
+    "postal_code": "98264"
+  },
+  {
+    "id": 9210222001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921022,
+    "value": "Yaksoro",
+    "postal_code": "98264"
+  }
+]

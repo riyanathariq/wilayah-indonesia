@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6271041001,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Bereng Bengkel",
+    "postal_code": "73114"
+  },
+  {
+    "id": 6271041005,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Danau Tundai",
+    "postal_code": "73114"
+  },
+  {
+    "id": 6271041002,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Kalampangan",
+    "postal_code": "73114"
+  },
+  {
+    "id": 6271041004,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Kameloh Baru",
+    "postal_code": "73114"
+  },
+  {
+    "id": 6271041003,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Kereng Bangkirai",
+    "postal_code": "73113"
+  },
+  {
+    "id": 6271041006,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627104,
+    "value": "Sabaru",
+    "postal_code": "73113"
+  }
+]

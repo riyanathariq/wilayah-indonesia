@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7602082001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Bunde",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Kalonding",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082007,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Losso",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082006,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Salubarana",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082004,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Sampaga",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Tanambuah (Tanam Buah / Tanambua)",
+    "postal_code": "91563"
+  },
+  {
+    "id": 7602082003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760208,
+    "value": "Tarailu",
+    "postal_code": "91563"
+  }
+]

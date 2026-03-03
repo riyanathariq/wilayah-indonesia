@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1905042013,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Air Bulin",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042008,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Beruas",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042005,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Dendang",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042006,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Kacung",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042003,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Kayu Arang (Kayuarang)",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905041001,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Kelapa",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042002,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Mancung",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042014,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Pangkal Beras",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042004,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Pusuk",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042007,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Sinar Sari",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042009,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Tebing",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042010,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Terentang",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042012,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Tugang",
+    "postal_code": "33364"
+  },
+  {
+    "id": 1905042011,
+    "province_id": 19,
+    "regency_id": 1905,
+    "district_id": 190504,
+    "value": "Tuik",
+    "postal_code": "33364"
+  }
+]

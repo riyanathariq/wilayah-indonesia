@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2102051008,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Harjosari",
+    "postal_code": "29668"
+  },
+  {
+    "id": 2102051003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Kapling",
+    "postal_code": "29668"
+  },
+  {
+    "id": 2102051004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Pamak",
+    "postal_code": "29668"
+  },
+  {
+    "id": 2102052007,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Pongkar",
+    "postal_code": "29668"
+  },
+  {
+    "id": 2102051001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Tebing",
+    "postal_code": "29668"
+  },
+  {
+    "id": 2102051002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210205,
+    "value": "Teluk Uma",
+    "postal_code": "29668"
+  }
+]

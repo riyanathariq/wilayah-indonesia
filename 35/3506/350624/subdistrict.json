@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3506242002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Bangsongan",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Baye",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Jambu",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Kayen Kidul",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Mukuh",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Nanggungan",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Padangan",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Sambirobyong",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Sekaran",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Semambung",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Senden",
+    "postal_code": "64183"
+  },
+  {
+    "id": 3506242006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350624,
+    "value": "Sukoharjo",
+    "postal_code": "64183"
+  }
+]

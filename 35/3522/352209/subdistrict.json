@@ -1,0 +1,202 @@
+[
+  {
+    "id": 3522092010,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Balongdowo",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092014,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Bayemgede",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092019,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Betet",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092008,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Brangkal",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092018,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Bumirejo",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Cengkir",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092020,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Jipo",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092023,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Karangan",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Kepoh",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Krangkong",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092009,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Mojosari",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092022,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Mudung",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092007,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Nglumber",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092021,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Ngranggonanyar (Ngranggon Anyar)",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Pejok",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092012,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Pohwates",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Sidomukti",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Simorejo",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092011,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Suberoto (Sumberoto)",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092024,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Sugihwaras",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092016,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Sumberagung",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092025,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Sumbergede",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092015,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Tlogorejo",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092013,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Turigede",
+    "postal_code": "62194"
+  },
+  {
+    "id": 3522092017,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352209,
+    "value": "Woro",
+    "postal_code": "62194"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1812082004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Bujung Dewa",
+    "postal_code": "34792"
+  },
+  {
+    "id": 1812082005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Bujung Sari Marga",
+    "postal_code": "34792"
+  },
+  {
+    "id": 1812082003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Cahyou/Cahyow Randu",
+    "postal_code": "34792"
+  },
+  {
+    "id": 1812082006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Marga Jaya Indah",
+    "postal_code": "34792"
+  },
+  {
+    "id": 1812082001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Pagar Dewa",
+    "postal_code": "34792"
+  },
+  {
+    "id": 1812082002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181208,
+    "value": "Pagar Dewa Suka Mulya",
+    "postal_code": "34792"
+  }
+]

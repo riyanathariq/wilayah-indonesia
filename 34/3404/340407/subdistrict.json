@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3404072001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340407,
+    "value": "Caturtunggal (Catur Tunggal)",
+    "postal_code": "55281"
+  },
+  {
+    "id": 3404072003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340407,
+    "value": "Condongcatur (Condong Catur)",
+    "postal_code": "55283"
+  },
+  {
+    "id": 3404072002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340407,
+    "value": "Maguwoharjo",
+    "postal_code": "55282"
+  }
+]

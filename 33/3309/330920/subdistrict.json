@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3309202006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Candisari",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Gladagsari",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202010,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Jlarem",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Kaligentong",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Kembang",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202009,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Ngadirojo",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Ngagrong",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202007,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Ngargoloka",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202008,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Sampetan",
+    "postal_code": "57352"
+  },
+  {
+    "id": 3309202001,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330920,
+    "value": "Seboto",
+    "postal_code": "57352"
+  }
+]

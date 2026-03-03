@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213072010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Gambarsari",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Gembor",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072015,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Gunungsari",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Gunungsembung",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072019,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Jabong",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Kamarung",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072013,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Neglasari",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Pagedan (Pagaden)",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072012,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Sukamulya",
+    "postal_code": "41251"
+  },
+  {
+    "id": 3213072014,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321307,
+    "value": "Sumbersari",
+    "postal_code": "41251"
+  }
+]

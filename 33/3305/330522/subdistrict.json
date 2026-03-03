@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3305222005,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Cangkring",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222007,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Kedunggong",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222001,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Pucangan",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222004,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Sadangkulon",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222006,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Sadangwetan",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222002,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Seboro",
+    "postal_code": "54354"
+  },
+  {
+    "id": 3305222003,
+    "province_id": 33,
+    "regency_id": 3305,
+    "district_id": 330522,
+    "value": "Wonosari",
+    "postal_code": "54354"
+  }
+]

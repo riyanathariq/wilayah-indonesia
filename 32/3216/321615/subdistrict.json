@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216152006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Banjarsari (Banjar Sari)",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukaasih (Suka Asih)",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukadarma",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukahurip",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukamanah",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukamulya",
+    "postal_code": "17631"
+  },
+  {
+    "id": 3216152005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321615,
+    "value": "Sukarukun",
+    "postal_code": "17631"
+  }
+]

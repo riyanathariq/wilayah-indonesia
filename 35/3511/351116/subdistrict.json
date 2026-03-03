@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3511162001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Bandilan",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Cangkring",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Prajekan Kidul",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Prajekan Lor",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Sempol",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Tarum",
+    "postal_code": "68285"
+  },
+  {
+    "id": 3511162008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351116,
+    "value": "Walidono",
+    "postal_code": "68285"
+  }
+]

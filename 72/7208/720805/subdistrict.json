@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7208052008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ambesia",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052027,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ambesia Barat",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052022,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ambesia Selatan",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052023,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Biga",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ogotumubu",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052030,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ogotumubu Barat",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052028,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Sipontan",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052026,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Supilopong",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052029,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Ta'aniuge",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Tilung",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Tingkulang",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Tomini",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052025,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Tomini Barat",
+    "postal_code": "94478"
+  },
+  {
+    "id": 7208052024,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720805,
+    "value": "Tomini Utara",
+    "postal_code": "94478"
+  }
+]

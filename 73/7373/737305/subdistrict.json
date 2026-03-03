@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7373051002,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Benteng",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051004,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Malatuntung (Malatunrung)",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051007,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Ponjalae",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051003,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Pontap",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051005,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Salekoe",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051006,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Salotellue",
+    "postal_code": "91921"
+  },
+  {
+    "id": 7373051001,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737305,
+    "value": "Surutanga (Sarutanga)",
+    "postal_code": "91921"
+  }
+]

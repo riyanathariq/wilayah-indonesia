@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7501142002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Helumo",
+    "postal_code": "96150"
+  },
+  {
+    "id": 7501142010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Huyula",
+    "postal_code": "96151"
+  },
+  {
+    "id": 7501142005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Karyamukti (Karya Mukti)",
+    "postal_code": "96152"
+  },
+  {
+    "id": 7501142001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Paris",
+    "postal_code": "96153"
+  },
+  {
+    "id": 7501142008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Payu",
+    "postal_code": "96154"
+  },
+  {
+    "id": 7501142003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Pilomonu",
+    "postal_code": "96155"
+  },
+  {
+    "id": 7501142004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Satria",
+    "postal_code": "96156"
+  },
+  {
+    "id": 7501142007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Sidomukti (Sido Mukti)",
+    "postal_code": "96157"
+  },
+  {
+    "id": 7501142009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "96158"
+  },
+  {
+    "id": 7501142006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750114,
+    "value": "Talumopatu",
+    "postal_code": "96159"
+  }
+]

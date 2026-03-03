@@ -1,0 +1,178 @@
+[
+  {
+    "id": 3525132001,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Beton",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132009,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Boboh",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132005,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Boteng",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132004,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Bringkang",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132007,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Domas",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132017,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Drancang",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132003,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Gadingwatu",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132016,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Gempolkurung",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132011,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Hendrosari",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132014,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Hulaan",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132015,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Kepatihan",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132022,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Laban",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132013,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Menganti",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132008,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Mojotengah",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132012,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Pelemwatu",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132021,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Pengalangan",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132002,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Pranti",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132006,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Putatlor (Putat Lor)",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132019,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Randupadangan",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132020,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Setro",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132010,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Sidojangkung",
+    "postal_code": "61174"
+  },
+  {
+    "id": 3525132018,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352513,
+    "value": "Sidowungu",
+    "postal_code": "61174"
+  }
+]

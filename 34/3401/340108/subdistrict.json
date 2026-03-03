@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3401082001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340108,
+    "value": "Hargomulyo",
+    "postal_code": "55653"
+  },
+  {
+    "id": 3401082002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340108,
+    "value": "Hargorejo",
+    "postal_code": "55653"
+  },
+  {
+    "id": 3401082005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340108,
+    "value": "Hargotirto",
+    "postal_code": "55653"
+  },
+  {
+    "id": 3401082003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340108,
+    "value": "Hargowilis",
+    "postal_code": "55653"
+  },
+  {
+    "id": 3401082004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340108,
+    "value": "Kalirejo",
+    "postal_code": "55653"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9503202012,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Bineluk",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Homtonggo (Homtongo)",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Kemumanggen",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Kolu",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Kuni",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202013,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Masahan",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Panggema",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Potenikma (Pontenikma)",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Susek",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Tonggoi",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Tukam",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Weresili",
+    "postal_code": "99759"
+  },
+  {
+    "id": 9503202007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950320,
+    "value": "Yangkali",
+    "postal_code": "99759"
+  }
+]

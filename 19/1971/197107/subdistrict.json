@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1971071003,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197107,
+    "value": "Bukitbesar (Bukit Besar)",
+    "postal_code": "33145"
+  },
+  {
+    "id": 1971071002,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197107,
+    "value": "Bukitintan (Batu Intan)",
+    "postal_code": "33141"
+  },
+  {
+    "id": 1971071001,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197107,
+    "value": "Pasar Padi",
+    "postal_code": "33142"
+  },
+  {
+    "id": 1971071005,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197107,
+    "value": "Semabung Baru",
+    "postal_code": "33146"
+  },
+  {
+    "id": 1971071004,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197107,
+    "value": "Sriwijaya",
+    "postal_code": "33143"
+  }
+]

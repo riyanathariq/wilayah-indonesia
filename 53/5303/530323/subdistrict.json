@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5303232005,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Kaubele",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232002,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Luniup",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232003,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Matabesi",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232004,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Oepuah",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Oepuah Selatan",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Oepuah Utara",
+    "postal_code": "85681"
+  },
+  {
+    "id": 5303232001,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530323,
+    "value": "Tunbes",
+    "postal_code": "85681"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7202192006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Betalemba",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Dewua",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Malitu",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192008,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Padalembara",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Pantangolemba",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Patiwunga",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Sangginora",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Tangkura",
+    "postal_code": "94650"
+  },
+  {
+    "id": 7202192009,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720219,
+    "value": "Taunca",
+    "postal_code": "94650"
+  }
+]

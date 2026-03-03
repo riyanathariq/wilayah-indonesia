@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5302052004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Baki",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Bone",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Maunum Niki Niki",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Nakfunu",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302051010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Niki Niki",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Nobi Nobi",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Noebesa",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Oe'ekam (Oeekam)",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Sopo",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Taebesa",
+    "postal_code": "85571"
+  },
+  {
+    "id": 5302052005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530205,
+    "value": "Tumu",
+    "postal_code": "85571"
+  }
+]

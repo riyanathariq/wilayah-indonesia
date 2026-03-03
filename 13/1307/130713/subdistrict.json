@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1307132003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Batuhampar (Batu Hampa)",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132007,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Durian Gadang",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Koto Tangah Batu Ampa (Koto Tangah Batu Hampa)",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Pauh Sangik",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Sariak Laweh",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Suayan",
+    "postal_code": "26252"
+  },
+  {
+    "id": 1307132005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130713,
+    "value": "Sungai Balantiak (Sei / Sungai Balantik)",
+    "postal_code": "26252"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3402032003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340203,
+    "value": "Donotirto",
+    "postal_code": "55772"
+  },
+  {
+    "id": 3402032002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340203,
+    "value": "Parangtritis",
+    "postal_code": "55772"
+  },
+  {
+    "id": 3402032005,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340203,
+    "value": "Tirtohargo",
+    "postal_code": "55772"
+  },
+  {
+    "id": 3402032001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340203,
+    "value": "Tirtomulyo",
+    "postal_code": "55772"
+  },
+  {
+    "id": 3402032004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340203,
+    "value": "Tirtosari",
+    "postal_code": "55772"
+  }
+]

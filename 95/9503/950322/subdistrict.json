@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503222006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Biu",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Ikmu",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Ilukdamon",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Nipsan",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Serengan",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Tapla",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Walmak",
+    "postal_code": "99758"
+  },
+  {
+    "id": 9503222008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950322,
+    "value": "Yalmun",
+    "postal_code": "99758"
+  }
+]

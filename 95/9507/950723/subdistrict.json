@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9507232003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Andugume",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Dugu-dugu",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Kobanu",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232011,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Mingga",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Mume",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Nabei",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Nenggeya",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Piragi",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Tenawi",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Tinime",
+    "postal_code": "99596"
+  },
+  {
+    "id": 9507232001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950723,
+    "value": "Wamiru",
+    "postal_code": "99596"
+  }
+]

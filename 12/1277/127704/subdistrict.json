@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1277042008,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Huta Padang",
+    "postal_code": "22700"
+  },
+  {
+    "id": 1277041001,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Hutaimbaru",
+    "postal_code": "22701"
+  },
+  {
+    "id": 1277041004,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Lembah Lubuk Manik",
+    "postal_code": "22702"
+  },
+  {
+    "id": 1277041002,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Lubuk Raya",
+    "postal_code": "22703"
+  },
+  {
+    "id": 1277041005,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Palopat Maria",
+    "postal_code": "22704"
+  },
+  {
+    "id": 1277042009,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Partihaman Saroha",
+    "postal_code": "22705"
+  },
+  {
+    "id": 1277041003,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Sabungan Jae",
+    "postal_code": "22706"
+  },
+  {
+    "id": 1277042006,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Sabungan Sipabangun",
+    "postal_code": "22707"
+  },
+  {
+    "id": 1277042007,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Singali",
+    "postal_code": "22708"
+  },
+  {
+    "id": 1277042010,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127704,
+    "value": "Tinjoman Lama",
+    "postal_code": "22709"
+  }
+]

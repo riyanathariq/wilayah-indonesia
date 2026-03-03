@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1302102005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Gantuang Ciri",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Gaung",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Koto Baru",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102007,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Koto Hilalang",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Panyakalan",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102006,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Saok Laweh",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Selayo",
+    "postal_code": "27361"
+  },
+  {
+    "id": 1302102008,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130210,
+    "value": "Tanjung Bingkung",
+    "postal_code": "27361"
+  }
+]

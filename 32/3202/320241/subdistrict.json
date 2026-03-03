@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3202412003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Cibaregbeg",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Cibitung",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Curugluhur",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Datarnangka",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Gunungbentang (Gunung Bentang)",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Hegarmanah",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412011,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Margaluyu",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412012,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Mekarsari",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Pasanggrahan",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Puncakmanggis",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Sagaranten",
+    "postal_code": "43181"
+  },
+  {
+    "id": 3202412009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320241,
+    "value": "Sinarbentang (Sinar Bentang)",
+    "postal_code": "43181"
+  }
+]

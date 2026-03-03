@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1606022001,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Danau Cala",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Epil",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022016,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Epil Barat",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022005,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Lais",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022015,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Lais Utara",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Petaling",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Purwosari",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Rantau Keroya",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022013,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Tanjung Agung Barat",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Tanjung Agung Selatan",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Tanjung Agung Timur",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022012,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Tanjung Agung Utara",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Teluk",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Teluk Kijing I",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Teluk Kijing II",
+    "postal_code": "30757"
+  },
+  {
+    "id": 1606022011,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160602,
+    "value": "Teluk Kijing III",
+    "postal_code": "30757"
+  }
+]

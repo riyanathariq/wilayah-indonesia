@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1404132002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Pekan Kamis",
+    "postal_code": "29213"
+  },
+  {
+    "id": 1404132003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Pulaupalas (Pulau Palas)",
+    "postal_code": "29213"
+  },
+  {
+    "id": 1404132004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Sialang Panjang",
+    "postal_code": "29213"
+  },
+  {
+    "id": 1404132006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Sungaiintan (Sungai Intan)",
+    "postal_code": "29213"
+  },
+  {
+    "id": 1404131005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Tembilahan Barat",
+    "postal_code": "29213"
+  },
+  {
+    "id": 1404131001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140413,
+    "value": "Tembilahan Hulu",
+    "postal_code": "29213"
+  }
+]

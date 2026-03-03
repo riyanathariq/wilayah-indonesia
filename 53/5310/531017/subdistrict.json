@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5310172008,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Bangka Ara",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172001,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Bere",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172009,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Compang Cibal",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172004,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Golo Lanak",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172003,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Golo Woi",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172005,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Latung",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172010,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Lenda",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172007,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Timbu",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172002,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Wae Codi",
+    "postal_code": "86590"
+  },
+  {
+    "id": 5310172006,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531017,
+    "value": "Wae Renca",
+    "postal_code": "86590"
+  }
+]

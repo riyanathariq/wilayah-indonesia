@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2171111004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Sagulung Kota",
+    "postal_code": "29439"
+  },
+  {
+    "id": 2171111002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Sungai Binti",
+    "postal_code": "29439"
+  },
+  {
+    "id": 2171111005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Sungai Langkai",
+    "postal_code": "29439"
+  },
+  {
+    "id": 2171111003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Sungai Lekop",
+    "postal_code": "29439"
+  },
+  {
+    "id": 2171111006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Sungai Pelenggut/Pelunggut",
+    "postal_code": "29439"
+  },
+  {
+    "id": 2171111001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217111,
+    "value": "Tembesi",
+    "postal_code": "29439"
+  }
+]

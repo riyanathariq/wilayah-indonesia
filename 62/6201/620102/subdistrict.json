@@ -1,0 +1,162 @@
+[
+  {
+    "id": 6201021009,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Baru",
+    "postal_code": "74113"
+  },
+  {
+    "id": 6201022011,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Kenambui",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022015,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Kumpai Batu Atas",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022014,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Kumpai Batu Bawah",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201021005,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Madurejo",
+    "postal_code": "74112"
+  },
+  {
+    "id": 6201022017,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Medang Sari (Medangsari)",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201021003,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Mendawai",
+    "postal_code": "74115"
+  },
+  {
+    "id": 6201021002,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Mendawai Seberang",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022018,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Natai Baru",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022016,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Natai Raya",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022004,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Pasir Panjang",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201021007,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Raja",
+    "postal_code": "74114"
+  },
+  {
+    "id": 6201021008,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Raja Seberang",
+    "postal_code": "74116"
+  },
+  {
+    "id": 6201022010,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Rangda",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022012,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Runtu",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201021006,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Sidorejo",
+    "postal_code": "74111"
+  },
+  {
+    "id": 6201022020,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Sulung (Sulung Kenambui / Kanam Bui)",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022001,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Tanjung Putri",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022019,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Tanjung Terantang",
+    "postal_code": "74117"
+  },
+  {
+    "id": 6201022013,
+    "province_id": 62,
+    "regency_id": 6201,
+    "district_id": 620102,
+    "value": "Umpang",
+    "postal_code": "74117"
+  }
+]

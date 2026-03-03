@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7304082002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Bonto Mate'ne (Bontomatene)",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Bululoe",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Bungungloe",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082009,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Jombe",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Kayuloe Barat",
+    "postal_code": "92312"
+  },
+  {
+    "id": 7304082008,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Kayuloe Timur",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Langkura",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Mangepong",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Paitana",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082011,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Parasanganberu (Parasangang Beru)",
+    "postal_code": "92313"
+  },
+  {
+    "id": 7304082010,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730408,
+    "value": "Tanjonga",
+    "postal_code": "92313"
+  }
+]

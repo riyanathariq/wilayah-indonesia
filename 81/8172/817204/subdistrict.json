@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8172042005,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817204,
+    "value": "Finualen",
+    "postal_code": "97615"
+  },
+  {
+    "id": 8172042002,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817204,
+    "value": "Kaimear",
+    "postal_code": "97615"
+  },
+  {
+    "id": 8172042004,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817204,
+    "value": "Lokwirin",
+    "postal_code": "97615"
+  },
+  {
+    "id": 8172042012,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817204,
+    "value": "Sermaf",
+    "postal_code": "97615"
+  },
+  {
+    "id": 8172042001,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817204,
+    "value": "Tubyal",
+    "postal_code": "97615"
+  }
+]

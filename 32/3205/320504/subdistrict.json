@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3205042002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Cimanganten",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Jati",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Langensari",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Mekarjaya",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Mekarwangi",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205041012,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Pananjung",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042013,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Panjiwangi",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Pasawahan",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Rancabango",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Sirnajaya",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Sukajadi",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Sukawangi",
+    "postal_code": "44151"
+  },
+  {
+    "id": 3205042007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320504,
+    "value": "Tanjung Kamuning (Tanjungkamuning)",
+    "postal_code": "44151"
+  }
+]

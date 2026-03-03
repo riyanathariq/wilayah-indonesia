@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1203322003,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Basilam Baru",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203321001,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Bintuju",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322005,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Huta Holbung",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203321002,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Huta Tonga",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322009,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Janji Mauli MT",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322014,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Muara Purba Nauli",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322006,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Muara Tais I",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322007,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Muara Tais II",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322008,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Muara Tais III",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322011,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Pangaribuan",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322010,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Pargumbangan",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322012,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Pasir Matogu",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322004,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Sipangko",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322013,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Sori Manoan",
+    "postal_code": "22773"
+  },
+  {
+    "id": 1203322015,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120332,
+    "value": "Tatengger",
+    "postal_code": "22773"
+  }
+]

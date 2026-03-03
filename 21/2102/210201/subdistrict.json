@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2102012009,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210201,
+    "value": "Jang (Pulau Jang)",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102011003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210201,
+    "value": "Moro",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102011010,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210201,
+    "value": "Moro Timur",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102012004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210201,
+    "value": "Pauh",
+    "postal_code": "29663"
+  },
+  {
+    "id": 2102012014,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210201,
+    "value": "Pulau Moro (Pulaumoro)",
+    "postal_code": "29663"
+  }
+]

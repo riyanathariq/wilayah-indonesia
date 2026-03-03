@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6202132008,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Bukit Batu",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132009,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Bukit Raya",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Keruing",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Pantai Harapan",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Parit",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Pelantaran",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Pundu",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132010,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Selucing",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132007,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Sudan",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132011,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Sungai Ubar Mandiri",
+    "postal_code": "74359"
+  },
+  {
+    "id": 6202132006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620213,
+    "value": "Tumbang Koling/Kuling",
+    "postal_code": "74359"
+  }
+]

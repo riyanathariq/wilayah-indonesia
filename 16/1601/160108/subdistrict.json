@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1601082006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Belambangan",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082019,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Gunung Kuripan",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082008,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Gunung Liwat",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Gunung Meraksa",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Kesambirata (Kesambi Rata)",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082015,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Pengandonan",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082016,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Semanding",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Tangsi Lontar",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Tanjung Pura",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Tanjung Sari",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082017,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Tanjungan",
+    "postal_code": "32154"
+  },
+  {
+    "id": 1601082018,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160108,
+    "value": "Ujanmas (Ujan Mas)",
+    "postal_code": "32154"
+  }
+]

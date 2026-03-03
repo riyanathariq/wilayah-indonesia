@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5208052003,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520805,
+    "value": "Gili Indah",
+    "postal_code": "83352"
+  },
+  {
+    "id": 5208052004,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520805,
+    "value": "Malaka",
+    "postal_code": "83352"
+  },
+  {
+    "id": 5208052005,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520805,
+    "value": "Menggala",
+    "postal_code": "83352"
+  },
+  {
+    "id": 5208052002,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520805,
+    "value": "Pemenang Barat",
+    "postal_code": "83352"
+  },
+  {
+    "id": 5208052001,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520805,
+    "value": "Pemenang Timur",
+    "postal_code": "83352"
+  }
+]

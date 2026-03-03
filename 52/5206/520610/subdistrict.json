@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5206102006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Kole",
+    "postal_code": "84153"
+  },
+  {
+    "id": 5206102004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Mawu",
+    "postal_code": "84153"
+  },
+  {
+    "id": 5206102001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Nipa",
+    "postal_code": "84153"
+  },
+  {
+    "id": 5206102003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Rite",
+    "postal_code": "84153"
+  },
+  {
+    "id": 5206102005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Talapiti",
+    "postal_code": "84153"
+  },
+  {
+    "id": 5206102002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520610,
+    "value": "Tolowata",
+    "postal_code": "84153"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3671091001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Cibodas",
+    "postal_code": "15138"
+  },
+  {
+    "id": 3671091003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Cibodas Baru",
+    "postal_code": "15138"
+  },
+  {
+    "id": 3671091002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Cibodasari (Cibodas Sari)",
+    "postal_code": "15138"
+  },
+  {
+    "id": 3671091006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Jatiuwung",
+    "postal_code": "15134"
+  },
+  {
+    "id": 3671091004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Panunggangan Barat",
+    "postal_code": "15139"
+  },
+  {
+    "id": 3671091005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367109,
+    "value": "Uwung Jaya",
+    "postal_code": "15138"
+  }
+]

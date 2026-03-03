@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7306161009,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Bontoramba",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Bontosunggu",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Jipang",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Pa'bundukang",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Salajengki (Salajangki)",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Salajo",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Sengka",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Tanrara",
+    "postal_code": "92154"
+  },
+  {
+    "id": 7306162003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730616,
+    "value": "Tindang",
+    "postal_code": "92154"
+  }
+]

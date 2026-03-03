@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7203212005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Bambakaenu",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Bambakanini",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Dangara'a (Dangaraa)",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Gimpubia",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212007,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Kanagalongga",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212008,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Karavia",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Palintuma",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212009,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Tavanggeli",
+    "postal_code": "94345"
+  },
+  {
+    "id": 7203212006,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720321,
+    "value": "Tomodo (Tamodo)",
+    "postal_code": "94345"
+  }
+]

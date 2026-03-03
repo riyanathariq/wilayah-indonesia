@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1410012006,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Alah Air",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410012007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Alah Air Timur",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410012005,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Banglas",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410012016,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Banglas Barat",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410011002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Selatpanjang Barat",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410011001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Selatpanjang Kota",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410011003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Selatpanjang Selatan",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410011004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Selatpanjang Timur",
+    "postal_code": "28753"
+  },
+  {
+    "id": 1410012008,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141001,
+    "value": "Sesap",
+    "postal_code": "28753"
+  }
+]

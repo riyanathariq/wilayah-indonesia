@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3208052007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Bantarpanjang",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Ciangir",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Cibingbin",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Cipondoh (Cipondok)",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052010,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Cisaat",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Citenjo",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Dukuhbadag",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Sindangjawa",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Sukaharja",
+    "postal_code": "45587"
+  },
+  {
+    "id": 3208052008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320805,
+    "value": "Sukamaju",
+    "postal_code": "45587"
+  }
+]

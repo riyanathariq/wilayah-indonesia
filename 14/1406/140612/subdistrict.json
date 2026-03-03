@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1406122002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Aliantan",
+    "postal_code": "28554"
+  },
+  {
+    "id": 1406122005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Batu Langkah Besar",
+    "postal_code": "28554"
+  },
+  {
+    "id": 1406122004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Bencah/Boncah Kesuma",
+    "postal_code": "28554"
+  },
+  {
+    "id": 1406122006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Giti",
+    "postal_code": "28554"
+  },
+  {
+    "id": 1406122001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Kabun",
+    "postal_code": "28554"
+  },
+  {
+    "id": 1406122003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140612,
+    "value": "Kota/Koto Ranah",
+    "postal_code": "28554"
+  }
+]

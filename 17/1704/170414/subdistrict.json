@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1704142005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Air Kering",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Air Kering II",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Gunung Kaya",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Pulau Panggung",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Talang Besar",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Talang Jawi I",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Talang Jawi II",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Talang Padang",
+    "postal_code": "38958"
+  },
+  {
+    "id": 1704142007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170414,
+    "value": "Ulak Agung",
+    "postal_code": "38958"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871011003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Kedaton",
+    "postal_code": "35141"
+  },
+  {
+    "id": 1871011010,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Penengahan",
+    "postal_code": "35112"
+  },
+  {
+    "id": 1871011012,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Penengahan Raya",
+    "postal_code": "35112"
+  },
+  {
+    "id": 1871011006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Sidodadi",
+    "postal_code": "35147"
+  },
+  {
+    "id": 1871011005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Sukamenanti",
+    "postal_code": "35146"
+  },
+  {
+    "id": 1871011009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Sukamenanti Baru",
+    "postal_code": "35146"
+  },
+  {
+    "id": 1871011004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187101,
+    "value": "Surabaya",
+    "postal_code": "35148"
+  }
+]

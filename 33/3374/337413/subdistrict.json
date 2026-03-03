@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3374131009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Bojongsalaman",
+    "postal_code": "50141"
+  },
+  {
+    "id": 3374131008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Bongsari",
+    "postal_code": "50148"
+  },
+  {
+    "id": 3374131011,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Cabean",
+    "postal_code": "50141"
+  },
+  {
+    "id": 3374131007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Gisikdrono",
+    "postal_code": "50149"
+  },
+  {
+    "id": 3374131006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Kalibanteng Kidul",
+    "postal_code": "50149"
+  },
+  {
+    "id": 3374131005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Kalibanteng Kulon",
+    "postal_code": "50145"
+  },
+  {
+    "id": 3374131012,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Karangayu (Karang Ayu)",
+    "postal_code": "50149"
+  },
+  {
+    "id": 3374131016,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Kembangarum",
+    "postal_code": "50183"
+  },
+  {
+    "id": 3374131003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Krapyak",
+    "postal_code": "50146"
+  },
+  {
+    "id": 3374131013,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Krobokan",
+    "postal_code": "50141"
+  },
+  {
+    "id": 3374131002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Manyaran",
+    "postal_code": "50147"
+  },
+  {
+    "id": 3374131001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Ngemplak Simongan",
+    "postal_code": "50148"
+  },
+  {
+    "id": 3374131010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Salamanmloyo",
+    "postal_code": "50149"
+  },
+  {
+    "id": 3374131004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Tambakharjo (Tambak Harjo)",
+    "postal_code": "50149"
+  },
+  {
+    "id": 3374131015,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Tawangmas",
+    "postal_code": "50144"
+  },
+  {
+    "id": 3374131014,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337413,
+    "value": "Tawangsari",
+    "postal_code": "50144"
+  }
+]

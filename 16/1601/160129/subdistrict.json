@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1601292001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Karya Jaya",
+    "postal_code": "32159"
+  },
+  {
+    "id": 1601292002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Karya Mukti",
+    "postal_code": "32159"
+  },
+  {
+    "id": 1601292003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Marga Bakti",
+    "postal_code": "32159"
+  },
+  {
+    "id": 1601292005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Marga Mulya",
+    "postal_code": "32159"
+  },
+  {
+    "id": 1601292004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Sri Mulya",
+    "postal_code": "32159"
+  },
+  {
+    "id": 1601292006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160129,
+    "value": "Tanjung Makmur",
+    "postal_code": "32159"
+  }
+]

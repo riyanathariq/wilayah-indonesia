@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9502282001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950228,
+    "value": "Bias",
+    "postal_code": "99444"
+  },
+  {
+    "id": 9502282002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950228,
+    "value": "Bumi",
+    "postal_code": "99444"
+  },
+  {
+    "id": 9502282004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950228,
+    "value": "Delemo",
+    "postal_code": "99444"
+  },
+  {
+    "id": 9502282003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950228,
+    "value": "Tero",
+    "postal_code": "99444"
+  }
+]

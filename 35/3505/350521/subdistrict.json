@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3505212007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Ampelgading",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Banjarsari",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Boro",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Ngreco",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Ngrendeng",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Olak Alen",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Pohgajih",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Selorejo",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Sidomulyo",
+    "postal_code": "66192"
+  },
+  {
+    "id": 3505212004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350521,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "66192"
+  }
+]

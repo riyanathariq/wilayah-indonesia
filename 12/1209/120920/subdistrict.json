@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1209201012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Gambir Baru",
+    "postal_code": "21221"
+  },
+  {
+    "id": 1209201011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Karang Anyer",
+    "postal_code": "21229"
+  },
+  {
+    "id": 1209201010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Kedai Ledang",
+    "postal_code": "21227"
+  },
+  {
+    "id": 1209201009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Kisaran Naga",
+    "postal_code": "21219"
+  },
+  {
+    "id": 1209201008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Kisaran Timur",
+    "postal_code": "21222"
+  },
+  {
+    "id": 1209201007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Lestari",
+    "postal_code": "21221"
+  },
+  {
+    "id": 1209201006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Mutiara",
+    "postal_code": "21223"
+  },
+  {
+    "id": 1209201005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Selawan",
+    "postal_code": "21228"
+  },
+  {
+    "id": 1209201004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Sentang",
+    "postal_code": "21224"
+  },
+  {
+    "id": 1209201003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Siumbut Baru",
+    "postal_code": "21226"
+  },
+  {
+    "id": 1209201002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Siumbut-Umbut",
+    "postal_code": "21225"
+  },
+  {
+    "id": 1209201001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120920,
+    "value": "Teladan",
+    "postal_code": "21222"
+  }
+]

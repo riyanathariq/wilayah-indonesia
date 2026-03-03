@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5206132009,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Bolo",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Campa",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Dena",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132010,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Madawau (Mandawau)",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Monggo",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Mpuri",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132011,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Ncandi",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Ndano",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Rade",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Tonda",
+    "postal_code": "84111"
+  },
+  {
+    "id": 5206132001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520613,
+    "value": "Woro",
+    "postal_code": "84111"
+  }
+]

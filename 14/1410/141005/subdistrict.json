@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1410052004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Bagan Melibur",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Lukit",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052023,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Mayang Sari",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052021,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Mekar Sari",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Meranti Bunting",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052018,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Pelantai",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052026,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Sungai Anak Kamal",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052027,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Sungai Tengah",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410052019,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Tanjung Kulim",
+    "postal_code": "28752"
+  },
+  {
+    "id": 1410051001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141005,
+    "value": "Teluk Belitung",
+    "postal_code": "28752"
+  }
+]

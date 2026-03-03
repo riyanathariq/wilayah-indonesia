@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1672011007,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Alun Dua",
+    "postal_code": "31513"
+  },
+  {
+    "id": 1672011020,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Bangun Jaya",
+    "postal_code": "31512"
+  },
+  {
+    "id": 1672011002,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Bangun Rejo",
+    "postal_code": "31517"
+  },
+  {
+    "id": 1672011016,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Beringin Jaya",
+    "postal_code": "31511"
+  },
+  {
+    "id": 1672011021,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Curup Jare",
+    "postal_code": "31516"
+  },
+  {
+    "id": 1672011018,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Dempio Makmur (Dempo Makmur)",
+    "postal_code": "31519"
+  },
+  {
+    "id": 1672011019,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Kusipan Babas (Kuripan Babas)",
+    "postal_code": "31514"
+  },
+  {
+    "id": 1672011005,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Pagar Alam",
+    "postal_code": "31512"
+  },
+  {
+    "id": 1672011014,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Selibar",
+    "postal_code": "31515"
+  },
+  {
+    "id": 1672011001,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167201,
+    "value": "Sukorejo",
+    "postal_code": "31551"
+  }
+]

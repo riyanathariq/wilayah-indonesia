@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1804152003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180415,
+    "value": "Cipta Waras",
+    "postal_code": "34871"
+  },
+  {
+    "id": 1804152001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180415,
+    "value": "Gedung Surian",
+    "postal_code": "34871"
+  },
+  {
+    "id": 1804152005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180415,
+    "value": "Mekar Jaya (Mekarjaya)",
+    "postal_code": "34871"
+  },
+  {
+    "id": 1804152002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180415,
+    "value": "Pura Mekar (Puramekar)",
+    "postal_code": "34871"
+  },
+  {
+    "id": 1804152004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180415,
+    "value": "Tri Mulyo (Trimulyo)",
+    "postal_code": "34871"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7171021001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Bitung Karangria (Bitungkarangria)",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Islam (Kampung Islam)",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Maasing",
+    "postal_code": "95238"
+  },
+  {
+    "id": 7171021010,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Mahawu",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Sindulang Dua",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Sindulang Satu",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Sumompo",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Tuminting",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Tumumpa Dua",
+    "postal_code": "95239"
+  },
+  {
+    "id": 7171021003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717102,
+    "value": "Tumumpa Satu",
+    "postal_code": "95239"
+  }
+]

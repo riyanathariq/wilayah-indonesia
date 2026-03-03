@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1116022002,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Alur Cantik (Alur Cantek)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022015,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Balai",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022006,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Bandar Baru",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022009,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Bandar Khalifah",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022007,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Cinta Raja",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022008,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Kuala Genting",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022043,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Kuala Penaga",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022017,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Lambung Blang",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022016,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Lubuk Batil (Lubok Bathil)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022014,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Marlempang",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022031,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Matang Tepah (Matang Teupah)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022036,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Mesjid Bendahara",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022001,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Mesjid Sungai Iyu",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022013,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Perkebunan Sungai Iyu",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022030,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Perkebunan Upah",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022020,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Raja",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022040,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Rantau Pakam",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022011,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Seuneubok Aceh",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022005,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Seuneubok Dalam (Seuneubok Dalam Mesjid)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022035,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Seuneubok Dalam Upah",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022010,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Suka Mulia Bendahara",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022019,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung (Tanjong)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022041,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung Binjai (Tanjong Binjei)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022003,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung Lipat I (Tanjong Lipat I)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022004,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung Lipat II (Tanjong Lipat II)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022042,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung Mulia (Tanjong Mulia)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022018,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tanjung Parit (Tanjong Parit)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022039,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Teluk Halban",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022037,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Teluk Kemiri",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022038,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Teluk Kepayang",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022012,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tengku Tinggi",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022021,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Tumpok Tengoh (Tumpok Teungoh)",
+    "postal_code": "24470"
+  },
+  {
+    "id": 1116022029,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111602,
+    "value": "Upah",
+    "postal_code": "24470"
+  }
+]

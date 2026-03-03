@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507042001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Gamelia",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042013,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Gawiwarak",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042016,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Gunagewak",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042014,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Meyagale",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Pirawun",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042015,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Wulaipas",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042017,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Wunume",
+    "postal_code": "99566"
+  },
+  {
+    "id": 9507042011,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950704,
+    "value": "Wupi",
+    "postal_code": "99566"
+  }
+]

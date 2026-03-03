@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1610072002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Bakung",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Lorok",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072015,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Palem Raya",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Parit",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Payakabung",
+    "postal_code": "30812"
+  },
+  {
+    "id": 1610072011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Permata Baru",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Pulau Kabai",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072014,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Pulau Semambu",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Purna Jaya (Purnajaya)",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Suak/Soak Batok",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Suka Mulia",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Sungai Rambutan",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Tanjung Baru",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610072001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Tanjung Pering",
+    "postal_code": "30813"
+  },
+  {
+    "id": 1610072010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Tanjung Pule",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610071016,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161007,
+    "value": "Timbangan",
+    "postal_code": "30862"
+  }
+]

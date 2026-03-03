@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3324102006,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Dawungsari",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102008,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Gubugsari",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102012,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Karangmulyo",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102001,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Margomulyo",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102009,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Pegandon",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Pekuncen",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102010,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Penanggulan",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Pesawahan",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102007,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Pucangrejo (Pucang Rejo)",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102005,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Puguh",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102002,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Tegorejo",
+    "postal_code": "51358"
+  },
+  {
+    "id": 3324102011,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332410,
+    "value": "Wonosari",
+    "postal_code": "51358"
+  }
+]

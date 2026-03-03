@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1904052006,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Baskara Bakti/Bhakti",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052005,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Belilik",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052008,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Bukit Kijang",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052002,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Cambai",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052009,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Cambai Selatan",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052004,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Jelutung",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052003,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Kayu Besi",
+    "postal_code": "33683"
+  },
+  {
+    "id": 1904052001,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190405,
+    "value": "Namang",
+    "postal_code": "33683"
+  }
+]

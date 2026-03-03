@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3524152009,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Banyubang",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152010,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Bluri",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152001,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Dadapan",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152008,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Dagan",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152005,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Payaman",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152006,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Solokuro",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152003,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Sugihan",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152007,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Takerharjo",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152002,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Tebluru",
+    "postal_code": "62265"
+  },
+  {
+    "id": 3524152004,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352415,
+    "value": "Tenggulun",
+    "postal_code": "62265"
+  }
+]

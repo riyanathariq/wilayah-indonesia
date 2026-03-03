@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9402162002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940216,
+    "value": "Belabaga",
+    "postal_code": "98946"
+  },
+  {
+    "id": 9402162004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940216,
+    "value": "Maloinggen",
+    "postal_code": "98946"
+  },
+  {
+    "id": 9402162003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940216,
+    "value": "Mewut",
+    "postal_code": "98946"
+  },
+  {
+    "id": 9402162001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940216,
+    "value": "Tiolome",
+    "postal_code": "98946"
+  },
+  {
+    "id": 9402162005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940216,
+    "value": "Wanume",
+    "postal_code": "98946"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9206172003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920617,
+    "value": "Kalibiru",
+    "postal_code": "98162"
+  },
+  {
+    "id": 9206172002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920617,
+    "value": "Maestofu (Mestofu)",
+    "postal_code": "98162"
+  },
+  {
+    "id": 9206172001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920617,
+    "value": "Masyeta",
+    "postal_code": "98162"
+  },
+  {
+    "id": 9206172004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920617,
+    "value": "Mesomda",
+    "postal_code": "98162"
+  }
+]

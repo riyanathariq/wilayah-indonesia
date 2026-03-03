@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9207082003,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Isey (Isei)",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082008,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Nggatum",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Rasiey (Rasiei)",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082005,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Sasirey (Sasirei)",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082009,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Senderawoy / Senderawoi (Sindrawoi)",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082006,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Tandia",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Torey",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082004,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Uryemi (Uriyem/Uriemi)",
+    "postal_code": "98343"
+  },
+  {
+    "id": 9207082007,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920708,
+    "value": "Webi",
+    "postal_code": "98343"
+  }
+]

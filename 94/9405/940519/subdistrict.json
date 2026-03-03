@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9405192002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Bologobak",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Bubet",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Kabuki",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Kalemogom",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Ko'eao",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Mabuga",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Ogongki",
+    "postal_code": "98967"
+  },
+  {
+    "id": 9405192007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940519,
+    "value": "Oknanim",
+    "postal_code": "98967"
+  }
+]

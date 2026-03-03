@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3214032007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Bunder",
+    "postal_code": "41161"
+  },
+  {
+    "id": 3214032006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Cibinong",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Cikaobandung",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Cilegong",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Cisalada",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Jatiluhur",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Jatimekar",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Kembangkuning",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Mekargalih",
+    "postal_code": "41152"
+  },
+  {
+    "id": 3214032010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321403,
+    "value": "Parakanlima",
+    "postal_code": "41152"
+  }
+]

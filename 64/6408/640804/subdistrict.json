@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6408042001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640804,
+    "value": "Sangatta Utara",
+    "postal_code": "75681"
+  },
+  {
+    "id": 6408042011,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640804,
+    "value": "Singa Gembara",
+    "postal_code": "75681"
+  },
+  {
+    "id": 6408042012,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640804,
+    "value": "Swarga Bara",
+    "postal_code": "75681"
+  },
+  {
+    "id": 6408041010,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640804,
+    "value": "Teluk Lingga",
+    "postal_code": "75681"
+  }
+]

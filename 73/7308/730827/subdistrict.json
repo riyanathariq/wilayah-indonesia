@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7308272005,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Batu Lappa (Batulappa)",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272010,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Bulu Ulaweng",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272002,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Latellang",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272003,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Maddenreng Pulu",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272004,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Masago",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272007,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Massila",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272006,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Paccing",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272001,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Patimpeng",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272009,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Pationgi",
+    "postal_code": "92768"
+  },
+  {
+    "id": 7308272008,
+    "province_id": 73,
+    "regency_id": 7308,
+    "district_id": 730827,
+    "value": "Talabangi",
+    "postal_code": "92768"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209192001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Karangsari",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Kertasari",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Megu Cilik (Megucilik)",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Megu Gede (Megugede)",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Setu Kulon",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Setu Wetan",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Tegalwangi",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Weru Kidul",
+    "postal_code": "45159"
+  },
+  {
+    "id": 3209192008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320919,
+    "value": "Weru Lor",
+    "postal_code": "45159"
+  }
+]

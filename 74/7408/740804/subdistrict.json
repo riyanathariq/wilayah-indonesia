@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7408042014,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Landolia",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408042015,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Lawekara",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408042013,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Maroko",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408042005,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Pohu",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408041004,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Rante Angin",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408042003,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Rante Baru",
+    "postal_code": "93961"
+  },
+  {
+    "id": 7408042011,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740804,
+    "value": "Torotuo (Torotua)",
+    "postal_code": "93961"
+  }
+]

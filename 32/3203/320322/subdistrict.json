@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3203222005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Bojongkaso",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Bunisari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222016,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Karangsari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222019,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Mekarsari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222017,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Mulyasari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222014,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Neglasari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Sinarlaut",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Sukamanah",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222018,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Tanjung Sari (Tanjungsari)",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Wanasari",
+    "postal_code": "43276"
+  },
+  {
+    "id": 3203222022,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320322,
+    "value": "Wangunjaya",
+    "postal_code": "43276"
+  }
+]

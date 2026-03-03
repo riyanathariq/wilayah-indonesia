@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3320072011,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Jambu",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072015,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Jambu Timur",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072014,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Karanggondang",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072001,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Mororejo",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072013,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Sekuro",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072010,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Sinanggul",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072012,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Srobyong",
+    "postal_code": "59452"
+  },
+  {
+    "id": 3320072009,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332007,
+    "value": "Suwawal",
+    "postal_code": "59452"
+  }
+]

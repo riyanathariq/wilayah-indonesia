@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7315091003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Fakkie (Pakkie)",
+    "postal_code": "91256"
+  },
+  {
+    "id": 7315091002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Marawi",
+    "postal_code": "91256"
+  },
+  {
+    "id": 7315091005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Mattiro Deceng",
+    "postal_code": "91256"
+  },
+  {
+    "id": 7315091001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Pammase",
+    "postal_code": "91256"
+  },
+  {
+    "id": 7315091006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Samaturue",
+    "postal_code": "91256"
+  },
+  {
+    "id": 7315091004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731509,
+    "value": "Tiroang",
+    "postal_code": "91256"
+  }
+]

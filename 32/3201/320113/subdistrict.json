@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3201132001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Bojongbaru (Bojong Baru)",
+    "postal_code": "16920"
+  },
+  {
+    "id": 3201132009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Bojonggede (Bojong Gede)",
+    "postal_code": "16922"
+  },
+  {
+    "id": 3201132002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Cimanggis",
+    "postal_code": "16920"
+  },
+  {
+    "id": 3201132005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Kedungwaringin (Kedung Waringin)",
+    "postal_code": "16923"
+  },
+  {
+    "id": 3201131007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Pabuaran",
+    "postal_code": "16921"
+  },
+  {
+    "id": 3201132004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Ragajaya",
+    "postal_code": "16920"
+  },
+  {
+    "id": 3201132008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Rawapanjang (Rawa Panjang)",
+    "postal_code": "16920"
+  },
+  {
+    "id": 3201132003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Susukan",
+    "postal_code": "16920"
+  },
+  {
+    "id": 3201132006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320113,
+    "value": "Waringinjaya (Waringin Jaya)",
+    "postal_code": "16920"
+  }
+]

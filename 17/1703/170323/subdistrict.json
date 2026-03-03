@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1703232001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Air Lelangi",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Bangun Karya",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Bukit Berlian",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Bukit Sari",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Pagardin (Pagar Din)",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Pondok Bakil",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Talang Berantai",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Tanjung Dalam",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Tanjung Harapan",
+    "postal_code": "38364"
+  },
+  {
+    "id": 1703232007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170323,
+    "value": "Tanjung Sari",
+    "postal_code": "38364"
+  }
+]

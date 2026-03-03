@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7503082007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Biluango",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Bintalahe",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Botubarani",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Botutonuo (Botutonua)",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Huangobotu",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Modelomo",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Molotabu (Molutabu)",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Olele",
+    "postal_code": "96553"
+  },
+  {
+    "id": 7503082003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750308,
+    "value": "Oluhuta",
+    "postal_code": "96553"
+  }
+]

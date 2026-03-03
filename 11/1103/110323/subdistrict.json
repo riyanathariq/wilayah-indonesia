@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1103232001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Keutapang Dua",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Lhok Asahan",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Matang Bungong",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Matang Rayeuk (SMK)",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Matang Reyeuk PP",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Meunasah Jeumpa",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Seuneubok Barat",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Seuneubok Dalam",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Seuneubok Kuyun",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Seuneubok Teungoh",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Seuneubok Timu (Seuneubok Timur)",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Tualang Dalam",
+    "postal_code": "24456"
+  },
+  {
+    "id": 1103232007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110323,
+    "value": "Ulee Glee",
+    "postal_code": "24456"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6402012005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Batuq",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Jantur",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012013,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Jantur Baru",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Jantur Selatan",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Kayu Batu",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Muara Aloh",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Muara Leka",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Muara Muntai Ilir",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Muara Muntai Ulu",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Perian",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012012,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Pulau Harapan",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Rebaq Rinding",
+    "postal_code": "75562"
+  },
+  {
+    "id": 6402012011,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640201,
+    "value": "Tanjung Batuq (Tanjung Batuq Harapan)",
+    "postal_code": "75562"
+  }
+]

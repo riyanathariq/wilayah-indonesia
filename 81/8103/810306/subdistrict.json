@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8103062006,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Adodo Fordata",
+    "postal_code": "97466"
+  },
+  {
+    "id": 8103062003,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Awear",
+    "postal_code": "97466"
+  },
+  {
+    "id": 8103062001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Romean",
+    "postal_code": "97466"
+  },
+  {
+    "id": 8103062002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Rumngeur",
+    "postal_code": "97466"
+  },
+  {
+    "id": 8103062004,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Sofyanin",
+    "postal_code": "97466"
+  },
+  {
+    "id": 8103062005,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810306,
+    "value": "Walerang",
+    "postal_code": "97466"
+  }
+]

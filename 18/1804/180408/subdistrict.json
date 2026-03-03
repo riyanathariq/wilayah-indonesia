@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1804082008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180408,
+    "value": "Giham Sukamaju",
+    "postal_code": "34886"
+  },
+  {
+    "id": 1804082001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180408,
+    "value": "Pampangan",
+    "postal_code": "34886"
+  },
+  {
+    "id": 1804081005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180408,
+    "value": "Sekincau",
+    "postal_code": "34886"
+  },
+  {
+    "id": 1804082007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180408,
+    "value": "Tiga Jaya",
+    "postal_code": "34886"
+  },
+  {
+    "id": 1804082006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180408,
+    "value": "Waspada",
+    "postal_code": "34886"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1671141004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Bagus Kuning",
+    "postal_code": "30268"
+  },
+  {
+    "id": 1671141005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Komperta",
+    "postal_code": "30268"
+  },
+  {
+    "id": 1671141002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Plaju Darat",
+    "postal_code": "30267"
+  },
+  {
+    "id": 1671141003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Plaju Ilir",
+    "postal_code": "30268"
+  },
+  {
+    "id": 1671141001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Plaju Ulu",
+    "postal_code": "30266"
+  },
+  {
+    "id": 1671141007,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Talang Bubuk",
+    "postal_code": "30268"
+  },
+  {
+    "id": 1671141006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167114,
+    "value": "Talang Putri",
+    "postal_code": "30268"
+  }
+]

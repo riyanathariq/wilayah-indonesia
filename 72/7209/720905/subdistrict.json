@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7209051004,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Ampana",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209051003,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Bailo",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209051013,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Bailo Baru",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209051012,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Bone Rato",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209052019,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Buntongi",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209051014,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Labiabae",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209051002,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Malotong",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209052011,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Padang Tumbuo",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209052018,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Saluaba",
+    "postal_code": "94683"
+  },
+  {
+    "id": 7209052001,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720905,
+    "value": "Sansarino",
+    "postal_code": "94683"
+  }
+]

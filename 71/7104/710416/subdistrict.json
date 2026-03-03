@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7104162004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Bowombaru (Bawombaru)",
+    "postal_code": "95886"
+  },
+  {
+    "id": 7104162005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Bowombaru Tengah",
+    "postal_code": "95886"
+  },
+  {
+    "id": 7104162006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Bowombaru Utara",
+    "postal_code": "95886"
+  },
+  {
+    "id": 7104162001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Tule",
+    "postal_code": "95886"
+  },
+  {
+    "id": 7104162002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Tule Tengah",
+    "postal_code": "95886"
+  },
+  {
+    "id": 7104162003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710416,
+    "value": "Tule Utara",
+    "postal_code": "95886"
+  }
+]

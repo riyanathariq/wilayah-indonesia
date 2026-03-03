@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3518102003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Baron",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Garu",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Gebangkerep (Gebang Kerep)",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102011,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Jambi",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Jekek",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Katerban",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Kemaduh",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Kemlokolegi",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102010,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Mabung",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Sambiroto",
+    "postal_code": "64394"
+  },
+  {
+    "id": 3518102004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351810,
+    "value": "Waung",
+    "postal_code": "64394"
+  }
+]

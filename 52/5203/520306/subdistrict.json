@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5203062004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Dasan Lekong",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Jantuk",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Nyiur Tebel",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Padamara",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Paok Pampang",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Setanggor",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Setanggor Selatan",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Sukamulia",
+    "postal_code": "83652"
+  },
+  {
+    "id": 5203062007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520306,
+    "value": "Sukamulia Timur",
+    "postal_code": "83652"
+  }
+]

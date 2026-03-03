@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3203052004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Cibiuk",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Ciranjang",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Gunungsari",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Karangwangi",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Kertajaya",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052012,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Mekargalih",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Nanggalamekar",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Sindangjaya",
+    "postal_code": "43282"
+  },
+  {
+    "id": 3203052009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320305,
+    "value": "Sindangsari",
+    "postal_code": "43282"
+  }
+]

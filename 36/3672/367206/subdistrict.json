@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3672061004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367206,
+    "value": "Gerem",
+    "postal_code": "42438"
+  },
+  {
+    "id": 3672061002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367206,
+    "value": "Grogol (Gerogol)",
+    "postal_code": "42436"
+  },
+  {
+    "id": 3672061001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367206,
+    "value": "Kotasari",
+    "postal_code": "42436"
+  },
+  {
+    "id": 3672061003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367206,
+    "value": "Rawa Arum",
+    "postal_code": "42436"
+  }
+]

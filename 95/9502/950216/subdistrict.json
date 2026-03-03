@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9502162005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Aplim",
+    "postal_code": "99413"
+  },
+  {
+    "id": 9502162002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Bulangkop",
+    "postal_code": "99413"
+  },
+  {
+    "id": 9502162001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Kungulding",
+    "postal_code": "99413"
+  },
+  {
+    "id": 9502162003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Limarum",
+    "postal_code": "99413"
+  },
+  {
+    "id": 9502162006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Okdo",
+    "postal_code": "99413"
+  },
+  {
+    "id": 9502162004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950216,
+    "value": "Yumakot",
+    "postal_code": "99413"
+  }
+]

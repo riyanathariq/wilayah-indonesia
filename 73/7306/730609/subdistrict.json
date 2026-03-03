@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7306092004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Bissoloro",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306092002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Bontomanai",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306092003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Buakkang",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306091010,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Je'nebatu (Jenebatu)",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306092012,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Mangempang",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306092011,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Rannaloe",
+    "postal_code": "92177"
+  },
+  {
+    "id": 7306091001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730609,
+    "value": "Sapaya",
+    "postal_code": "92177"
+  }
+]

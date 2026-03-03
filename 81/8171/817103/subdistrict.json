@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8171032002,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Halong",
+    "postal_code": "97231"
+  },
+  {
+    "id": 8171031018,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Lateri",
+    "postal_code": "97231"
+  },
+  {
+    "id": 8171032003,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Latta",
+    "postal_code": "97231"
+  },
+  {
+    "id": 8171032005,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Nania",
+    "postal_code": "97232"
+  },
+  {
+    "id": 8171032004,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Negeri Lama",
+    "postal_code": "97232"
+  },
+  {
+    "id": 8171032001,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Passo",
+    "postal_code": "97232"
+  },
+  {
+    "id": 8171032006,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817103,
+    "value": "Waiheru",
+    "postal_code": "97233"
+  }
+]

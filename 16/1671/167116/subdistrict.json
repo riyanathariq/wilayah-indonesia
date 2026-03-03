@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1671161005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167116,
+    "value": "Karya Mulia (Karya Mulya)",
+    "postal_code": "30161"
+  },
+  {
+    "id": 1671161003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167116,
+    "value": "Lebong/Lebung Gajah",
+    "postal_code": "30161"
+  },
+  {
+    "id": 1671161001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167116,
+    "value": "Sri Mulya (Srimulyo)",
+    "postal_code": "30162"
+  },
+  {
+    "id": 1671161002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167116,
+    "value": "Sukamulya (Suka Mulya)",
+    "postal_code": "30161"
+  }
+]

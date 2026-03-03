@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3511012005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Gambangan",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012012,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Maesan",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012011,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Pakuniran",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Penanggungan",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Pujer Baru (Pujerbaru)",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Sucolor",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Suger Lor",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Sumber Anyar",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Sumber Pakem (Sumberpakem)",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Sumbersari",
+    "postal_code": "68262"
+  },
+  {
+    "id": 3511012003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351101,
+    "value": "Tanahwulan",
+    "postal_code": "68262"
+  }
+]

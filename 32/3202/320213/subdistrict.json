@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3202132008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Babakanjaya",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Bojongkokosan (Bojong Kokosan)",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Kompa",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Langensari",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Palasari Hilir",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Parungkuda (Parung Kuda)",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Pondokkaso Landeuh (Pondok Kaso Landeuh)",
+    "postal_code": "43357"
+  },
+  {
+    "id": 3202132005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320213,
+    "value": "Sundawenang",
+    "postal_code": "43357"
+  }
+]

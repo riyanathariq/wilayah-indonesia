@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7501052005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Biluhu Timur",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Bongo",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052014,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Buhudaa",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Kayubulan",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Lamu",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052015,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Langgula",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Lopo",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052012,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Olimoo'o (Olimoo)",
+    "postal_code": "96244"
+  },
+  {
+    "id": 7501052004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750105,
+    "value": "Tontayuo",
+    "postal_code": "96244"
+  }
+]

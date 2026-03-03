@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1210072008,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Aek Buru Selatan (Perkebunan Aek Buru Selatan)",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072006,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "AFD.I Rantauprapat",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072007,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "AFD.II Rantauprapat",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072002,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Bandar Kumbul",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072004,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Janji",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072009,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Kampung Baru",
+    "postal_code": "21415"
+  },
+  {
+    "id": 1210072001,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Sibargot",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072003,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Tanjung Medan",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072005,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Tebing Linggahara",
+    "postal_code": "21411"
+  },
+  {
+    "id": 1210072010,
+    "province_id": 12,
+    "regency_id": 1210,
+    "district_id": 121007,
+    "value": "Tebing Linggahara Baru",
+    "postal_code": "21411"
+  }
+]

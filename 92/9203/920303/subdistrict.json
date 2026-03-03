@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9203032012,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Kiria Bisa",
+    "postal_code": "98027"
+  },
+  {
+    "id": 9203032013,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Saharei",
+    "postal_code": "98027"
+  },
+  {
+    "id": 9203032004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Sanggram",
+    "postal_code": "98027"
+  },
+  {
+    "id": 9203032001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Tunas Gain",
+    "postal_code": "98027"
+  },
+  {
+    "id": 9203032003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Urat",
+    "postal_code": "98027"
+  },
+  {
+    "id": 9203032010,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920303,
+    "value": "Weri",
+    "postal_code": "98027"
+  }
+]

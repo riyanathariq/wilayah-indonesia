@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1603042016,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Bangun Sari",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Gunung Megang Dalam",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Gunung Megang Luar",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042020,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Kayu Ara Sakti",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Lubuk Mumpo",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042019,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Pajar Indah (Fajar Indah)",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042021,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Panang Jaya",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Penanggiran",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Perjito",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042018,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Sidomulyo",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042017,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Sumaja Makmur",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Tanjung Muning",
+    "postal_code": "31353"
+  },
+  {
+    "id": 1603042007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160304,
+    "value": "Tanjung Terang",
+    "postal_code": "31353"
+  }
+]

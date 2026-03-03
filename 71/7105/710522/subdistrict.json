@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7105222001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Karimbow",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Karimbow Talikuran",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Picuan",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Picuan Satu",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Tokin",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Tokin Baru",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Wanga",
+    "postal_code": "95943"
+  },
+  {
+    "id": 7105222005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710522,
+    "value": "Wanga Amongena",
+    "postal_code": "95943"
+  }
+]

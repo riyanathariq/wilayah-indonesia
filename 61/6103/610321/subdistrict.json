@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6103212003,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610321,
+    "value": "Entikong",
+    "postal_code": "78557"
+  },
+  {
+    "id": 6103212001,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610321,
+    "value": "Nekan",
+    "postal_code": "78557"
+  },
+  {
+    "id": 6103212004,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610321,
+    "value": "Pala Pasang (Pala Asang / Palapasang)",
+    "postal_code": "78557"
+  },
+  {
+    "id": 6103212002,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610321,
+    "value": "Semangit (Semanget)",
+    "postal_code": "78557"
+  },
+  {
+    "id": 6103212005,
+    "province_id": 61,
+    "regency_id": 6103,
+    "district_id": 610321,
+    "value": "Suruh Tembawang",
+    "postal_code": "78557"
+  }
+]

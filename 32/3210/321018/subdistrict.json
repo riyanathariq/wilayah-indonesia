@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3210182004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Bantrangsana",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Bonang",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Cijurey",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Jatipamor",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Jatiserang",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Karyamukti",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Leuwiseeng",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Panyingkiran",
+    "postal_code": "45459"
+  },
+  {
+    "id": 3210182002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321018,
+    "value": "Pasirmuncang",
+    "postal_code": "45459"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7309032003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Alatengae",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309032008,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Baruga",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309031001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Kalabbirang",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309031002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Leang Leang (Leang-Leang)",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309032007,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Mangeloreng",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309032006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Mattoanging (Mattoangin)",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309032004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Minasa Baji",
+    "postal_code": "90561"
+  },
+  {
+    "id": 7309032005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730903,
+    "value": "Tukamasea",
+    "postal_code": "90561"
+  }
+]

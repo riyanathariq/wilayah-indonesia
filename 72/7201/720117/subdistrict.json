@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7201172001,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Beringin Jaya",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Doda Bunta",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Dowiwi",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Dwipa Karya",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172004,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Gonohop",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Koninis",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172012,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Lokait",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Mantan A",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Rantau Jaya",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Simpang Dua",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Simpang Satu",
+    "postal_code": "94755"
+  },
+  {
+    "id": 7201172005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720117,
+    "value": "Sumber Mulia",
+    "postal_code": "94755"
+  }
+]

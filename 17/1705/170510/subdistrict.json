@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1705102008,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Lubuk Resam",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102004,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Pandan",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705101003,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Puguk",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102007,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Sekalak",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102005,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Selingsingan",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102006,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Simpang",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102009,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Sinar Pagi",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102002,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Talang Beringin",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102010,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Talang Empat",
+    "postal_code": "38884"
+  },
+  {
+    "id": 1705102001,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170510,
+    "value": "Talang Rami",
+    "postal_code": "38884"
+  }
+]

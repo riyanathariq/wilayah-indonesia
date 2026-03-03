@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9403172003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Aweubutu",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172008,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Detauwo",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Ipuwa",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Kebo I",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Munaiyepa (Muniyepa)",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Panibagata",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Payogei",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Pugaida",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172010,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Woyouto",
+    "postal_code": "98718"
+  },
+  {
+    "id": 9403172009,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940317,
+    "value": "Yaibu",
+    "postal_code": "98718"
+  }
+]

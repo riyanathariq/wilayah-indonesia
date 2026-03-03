@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1803212006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Cahaya Mas",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Comok Sinar Jaya",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212009,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Gunung Maknibai",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Gunung Raja",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Kubu Hitu (Kubuhitu)",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212010,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Negeri Batin Jaya",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Negeri Sakti",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Sinar Harapan",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Tanjung Jaya",
+    "postal_code": "34552"
+  },
+  {
+    "id": 1803212008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180321,
+    "value": "Way Isem",
+    "postal_code": "34552"
+  }
+]

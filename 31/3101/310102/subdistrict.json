@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3101021003,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310102,
+    "value": "Pulau Pari",
+    "postal_code": "14520"
+  },
+  {
+    "id": 3101021002,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310102,
+    "value": "Pulau Tidung",
+    "postal_code": "14520"
+  },
+  {
+    "id": 3101021001,
+    "province_id": 31,
+    "regency_id": 3101,
+    "district_id": 310102,
+    "value": "Pulau Untung Jawa",
+    "postal_code": "14510"
+  }
+]

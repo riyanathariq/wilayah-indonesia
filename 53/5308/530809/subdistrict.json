@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5308092006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Nggela",
+    "postal_code": "86382"
+  },
+  {
+    "id": 5308092005,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Nuamulu",
+    "postal_code": "86382"
+  },
+  {
+    "id": 5308092004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Pora",
+    "postal_code": "86382"
+  },
+  {
+    "id": 5308092002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Tenda",
+    "postal_code": "86382"
+  },
+  {
+    "id": 5308092003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Wiwipemo",
+    "postal_code": "86382"
+  },
+  {
+    "id": 5308091001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530809,
+    "value": "Wolojita",
+    "postal_code": "86382"
+  }
+]

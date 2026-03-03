@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213142001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Buniara",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Cibuluh",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Cikawung",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Cimeuhmal",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142010,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Gandasoli",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Kawungluwuk",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Rancamanggung",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Sindanglaya",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Sirap",
+    "postal_code": "41284"
+  },
+  {
+    "id": 3213142002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321314,
+    "value": "Tanjungsiang",
+    "postal_code": "41284"
+  }
+]

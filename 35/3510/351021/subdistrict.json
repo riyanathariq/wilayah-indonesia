@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3510211007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Bulusan",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510212009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Bulusari",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510211006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Gombengsari",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510211001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Kalipuro",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510212005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Kelir",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510212003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Ketapang",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510211002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Klatak",
+    "postal_code": "68421"
+  },
+  {
+    "id": 3510212004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Pesucen",
+    "postal_code": "68455"
+  },
+  {
+    "id": 3510212008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351021,
+    "value": "Telemung",
+    "postal_code": "68455"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3315152008,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Jenengan",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152001,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Kandangrejo",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152005,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Klambu",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152006,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Menawan",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152004,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Penganten",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152002,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Selojari",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152003,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Taruman",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152007,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Terkesi",
+    "postal_code": "58154"
+  },
+  {
+    "id": 3315152009,
+    "province_id": 33,
+    "regency_id": 3315,
+    "district_id": 331515,
+    "value": "Wandan Kemiri (Wandankemiri)",
+    "postal_code": "58154"
+  }
+]

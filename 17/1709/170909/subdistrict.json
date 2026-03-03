@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1709092002,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Batu Raja",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092003,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Dusun Anyar",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092009,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Dusun Baru I",
+    "postal_code": "38376"
+  },
+  {
+    "id": 1709092010,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Harapan Makmur",
+    "postal_code": "38376"
+  },
+  {
+    "id": 1709092008,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Linggar Galing",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092011,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Margo Mulyo (Margo Mulya)",
+    "postal_code": "38377"
+  },
+  {
+    "id": 1709092006,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Paku Haji",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092001,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Pondok Kubang",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092012,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Taba Jambu",
+    "postal_code": "38378"
+  },
+  {
+    "id": 1709092005,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Talang Tengah I (Talang Tengah)",
+    "postal_code": "38375"
+  },
+  {
+    "id": 1709092004,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Tanjung Dalam",
+    "postal_code": "38378"
+  },
+  {
+    "id": 1709092007,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170909,
+    "value": "Tanjung terdana",
+    "postal_code": "38375"
+  }
+]

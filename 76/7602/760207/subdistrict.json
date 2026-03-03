@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7602072009,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Batu Ampa",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072007,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Boda-Boda",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072003,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Bonda",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Papalang",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072005,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Salukayu (Salokayu)",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072008,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Sisango",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072006,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Sukadamai",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Toabo",
+    "postal_code": "91565"
+  },
+  {
+    "id": 7602072004,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760207,
+    "value": "Topore (Topare / Tapore)",
+    "postal_code": "91565"
+  }
+]

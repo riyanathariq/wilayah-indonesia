@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7601042003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760104,
+    "value": "Bulu Mario",
+    "postal_code": "91576"
+  },
+  {
+    "id": 7601042012,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760104,
+    "value": "Doda",
+    "postal_code": "91576"
+  },
+  {
+    "id": 7601042005,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760104,
+    "value": "Kumasari",
+    "postal_code": "91576"
+  },
+  {
+    "id": 7601042011,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760104,
+    "value": "Patika",
+    "postal_code": "91576"
+  },
+  {
+    "id": 7601042001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760104,
+    "value": "Sarudu",
+    "postal_code": "91576"
+  }
+]

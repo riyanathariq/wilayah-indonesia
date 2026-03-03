@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6111022007,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Batu Barat",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022012,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Lubuk Batu",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022010,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Matan Jaya",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022011,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Medan Jaya",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022002,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Nipah Kuning",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022004,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Padu Banjar",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022003,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Pemangkat",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022005,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Penjalaan (Penjalaan Hilir)",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022008,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Pulaukumbang (Pulau Kumbang)",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022009,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Rantau Panjang",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022006,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Sei/Sungai Mata Mata",
+    "postal_code": "78853"
+  },
+  {
+    "id": 6111022001,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611102,
+    "value": "Telukmelano (Teluk Melano)",
+    "postal_code": "78853"
+  }
+]

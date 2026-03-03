@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9120012002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Anggreso",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012010,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Babija",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Burmeso",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Danau Bira",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Kasonaweja",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012008,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Kwerba",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012011,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Marina Valen",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012004,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Metaweja",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012007,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Muru Mare",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Namunaweja",
+    "postal_code": "98692"
+  },
+  {
+    "id": 9120012009,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912001,
+    "value": "Sosawakwesar",
+    "postal_code": "98692"
+  }
+]

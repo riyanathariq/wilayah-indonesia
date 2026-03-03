@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7405031002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Alangga",
+    "postal_code": "93811"
+  },
+  {
+    "id": 7405032004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Alengge Agung",
+    "postal_code": "93811"
+  },
+  {
+    "id": 7405032001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Andoolo",
+    "postal_code": "93810"
+  },
+  {
+    "id": 7405032033,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Ataku",
+    "postal_code": "93819"
+  },
+  {
+    "id": 7405032010,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Bumi Raya",
+    "postal_code": "93819"
+  },
+  {
+    "id": 7405032014,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Lalobao",
+    "postal_code": "93819"
+  },
+  {
+    "id": 7405032015,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Lalonggombu",
+    "postal_code": "93813"
+  },
+  {
+    "id": 7405031018,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Potoro",
+    "postal_code": "93811"
+  },
+  {
+    "id": 7405032031,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Punggapu",
+    "postal_code": "93819"
+  },
+  {
+    "id": 7405032026,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740503,
+    "value": "Wunduwatu",
+    "postal_code": "93819"
+  }
+]

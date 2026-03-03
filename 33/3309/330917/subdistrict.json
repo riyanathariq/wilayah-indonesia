@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3309172005,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Bawu",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172011,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Genengsari",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172012,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Kedungmulyo",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172002,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Kedungrejo",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172010,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Kemusu",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172006,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Kendel",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172004,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Klewor",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172003,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Sarimulyo",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172001,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Watugede",
+    "postal_code": "57383"
+  },
+  {
+    "id": 3309172013,
+    "province_id": 33,
+    "regency_id": 3309,
+    "district_id": 330917,
+    "value": "Wonoharjo (Wanoharjo)",
+    "postal_code": "57383"
+  }
+]

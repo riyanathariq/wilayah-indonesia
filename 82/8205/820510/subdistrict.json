@@ -1,0 +1,34 @@
+[
+  {
+    "id": 8205102001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820510,
+    "value": "Kawata",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205102003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820510,
+    "value": "Pelita Jaya",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205102002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820510,
+    "value": "Waisakai",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205102004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820510,
+    "value": "Waisum",
+    "postal_code": "97793"
+  }
+]

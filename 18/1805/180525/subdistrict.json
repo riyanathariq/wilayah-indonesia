@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1805252007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Bratasena Adiwarna",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Bratasena Mandiri",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252010,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Dente Makmur",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Kekatung",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Kuala Teladas",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Mahabang",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Pasiran Jaya",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252011,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Pendowo Asri",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252012,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Sungai Burung",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Sungai Nibung",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Teladas",
+    "postal_code": "34596"
+  },
+  {
+    "id": 1805252009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180525,
+    "value": "Way Dente",
+    "postal_code": "34596"
+  }
+]

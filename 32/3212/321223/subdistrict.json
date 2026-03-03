@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3212232001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Anjatan",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Anjatan Baru",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Anjatan Utara",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Bugis",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Bugis Tua (Bugistua)",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Cilandak",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Cilandak Lor",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Kedungwungu",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Kopyah",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Lempuyang",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Mangunjaya",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Salamdarma",
+    "postal_code": "45256"
+  },
+  {
+    "id": 3212232007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321223,
+    "value": "Wanguk",
+    "postal_code": "45256"
+  }
+]

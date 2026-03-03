@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9302102002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Bangun",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Domo",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102006,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Hamkhu",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102007,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Hello",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Makmur",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102008,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Navini",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Sadar",
+    "postal_code": "99673"
+  },
+  {
+    "id": 9302102004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930210,
+    "value": "Sohokanggo",
+    "postal_code": "99673"
+  }
+]

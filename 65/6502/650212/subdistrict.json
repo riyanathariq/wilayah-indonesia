@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6502122008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Long Gafid",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502122010,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Long Liku",
+    "postal_code": "77555"
+  },
+  {
+    "id": 6502122005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Barang (Long Berang)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Fala (Long Pala)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Kebinu (Long Kebinu)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Mekatip (Long Mekatif)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Semamu (Long Semamu)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Simau (Long Simau)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Lung Sulit (Long Sulit)",
+    "postal_code": "77155"
+  },
+  {
+    "id": 6502122009,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650212,
+    "value": "Temalang",
+    "postal_code": "77555"
+  }
+]

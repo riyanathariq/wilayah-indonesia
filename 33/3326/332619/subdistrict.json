@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3326192012,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Api-Api",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192003,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Bebel",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192013,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Pecakaran",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192001,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Pesanggrahan",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192007,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Rowoyoso",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192008,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Semut",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192002,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Sijambe",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192009,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Tratebang",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192006,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Werdi",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192010,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Wonokertokulon (Wonokerto Kulon)",
+    "postal_code": "51153"
+  },
+  {
+    "id": 3326192011,
+    "province_id": 33,
+    "regency_id": 3326,
+    "district_id": 332619,
+    "value": "Wonokertowetan (Wonokerto Wetan)",
+    "postal_code": "51153"
+  }
+]

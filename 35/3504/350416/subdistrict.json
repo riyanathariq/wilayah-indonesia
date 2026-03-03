@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3504162005,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Campurdarat",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162004,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Gamping",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162002,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Gedangan",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162001,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Ngentrong",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162007,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Pelem",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162008,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Pojok",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162003,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Sawo",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162009,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Tanggung",
+    "postal_code": "66272"
+  },
+  {
+    "id": 3504162006,
+    "province_id": 35,
+    "regency_id": 3504,
+    "district_id": 350416,
+    "value": "Wates",
+    "postal_code": "66272"
+  }
+]

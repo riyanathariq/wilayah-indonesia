@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3314182003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Blangu",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Gesi",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Pilangsari",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Poleng",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Slendro",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Srawung",
+    "postal_code": "57262"
+  },
+  {
+    "id": 3314182001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331418,
+    "value": "Tanggan",
+    "postal_code": "57262"
+  }
+]

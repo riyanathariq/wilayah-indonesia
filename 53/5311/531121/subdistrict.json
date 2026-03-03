@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5311212003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531121,
+    "value": "Hambawutang (Hambautang / Hamba Wutang)",
+    "postal_code": "87172"
+  },
+  {
+    "id": 5311212004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531121,
+    "value": "Kabanda",
+    "postal_code": "87172"
+  },
+  {
+    "id": 5311212002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531121,
+    "value": "Kakaha",
+    "postal_code": "87172"
+  },
+  {
+    "id": 5311212001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531121,
+    "value": "Praiwitu (Prai Witu)",
+    "postal_code": "87172"
+  },
+  {
+    "id": 5311212005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531121,
+    "value": "Prauraming",
+    "postal_code": "87172"
+  }
+]

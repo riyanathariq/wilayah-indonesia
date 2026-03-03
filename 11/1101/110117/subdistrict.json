@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1101172010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Alurduamas (Alur Dua Mas)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Beutong",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Buket Gadeng (Bukit Gading / Buket Gedeng)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Jambo Keupok/Keuphok",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Rambong",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Seuneubok Alur Buloh (Seneubok Alur Bulah)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Seuneubok Keuranji (Seunebok Keranji)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Ujong Gunong Cut (Ujung Gunung Cut)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Ujong Gunung Rayeuk (Ujung Gunong Rayek)",
+    "postal_code": "23778"
+  },
+  {
+    "id": 1101172005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110117,
+    "value": "Ujong Tanoh (Ujung Tanoh)",
+    "postal_code": "23778"
+  }
+]

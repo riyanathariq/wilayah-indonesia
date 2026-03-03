@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7503172005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Bukit Hijau",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Dunggilata",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Kaidundu",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Kaidundu Barat",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Mamungaa",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Mamungaa Timur",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Mopuya",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Patoa",
+    "postal_code": "96574"
+  },
+  {
+    "id": 7503172008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750317,
+    "value": "Pinomotiga",
+    "postal_code": "96574"
+  }
+]

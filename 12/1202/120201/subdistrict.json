@@ -1,0 +1,250 @@
+[
+  {
+    "id": 1202012015,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Aek Siansimun / Siamsimun",
+    "postal_code": "22413"
+  },
+  {
+    "id": 1202012013,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hapoltahan",
+    "postal_code": "22416"
+  },
+  {
+    "id": 1202012016,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Htgalung Siwaluompo (Hutagalung Siwaluompu)",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012010,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutapea Banuarea",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012030,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan I",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012031,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan III",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012018,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan IV",
+    "postal_code": "22415"
+  },
+  {
+    "id": 1202011005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan IX",
+    "postal_code": "22412"
+  },
+  {
+    "id": 1202011002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan V",
+    "postal_code": "22413"
+  },
+  {
+    "id": 1202011003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan VI",
+    "postal_code": "22413"
+  },
+  {
+    "id": 1202011004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan VII",
+    "postal_code": "22413"
+  },
+  {
+    "id": 1202012020,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan VIII",
+    "postal_code": "22413"
+  },
+  {
+    "id": 1202011006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan X",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202011007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutatoruan XI",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012012,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Hutauruk",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012027,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Jambur Nauli",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202012023,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbaju Julu",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012024,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbaju Tonga (Parbajutonga)",
+    "postal_code": "22416"
+  },
+  {
+    "id": 1202012022,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbaju Toruan (Parbajutoruan)",
+    "postal_code": "22416"
+  },
+  {
+    "id": 1202012014,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbubu Dolok",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbubu I",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012009,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbubu II",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012017,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Parbubu Pea",
+    "postal_code": "22414"
+  },
+  {
+    "id": 1202012029,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Partali Julu",
+    "postal_code": "22416"
+  },
+  {
+    "id": 1202011001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Partoli Toruan (Partali Toruan)",
+    "postal_code": "22416"
+  },
+  {
+    "id": 1202012011,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Siandor Andor",
+    "postal_code": "22417"
+  },
+  {
+    "id": 1202012028,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Sihujur",
+    "postal_code": "22452"
+  },
+  {
+    "id": 1202012021,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Simamora",
+    "postal_code": "22411"
+  },
+  {
+    "id": 1202012026,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Siraja Oloan",
+    "postal_code": "22415"
+  },
+  {
+    "id": 1202012025,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Sitampurung",
+    "postal_code": "22415"
+  },
+  {
+    "id": 1202012019,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120201,
+    "value": "Sosunggulon",
+    "postal_code": "22411"
+  }
+]

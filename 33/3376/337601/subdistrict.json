@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3376011002,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Debong Lor",
+    "postal_code": "52115"
+  },
+  {
+    "id": 3376011003,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Kemandungan",
+    "postal_code": "52114"
+  },
+  {
+    "id": 3376011005,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Kraton",
+    "postal_code": "52112"
+  },
+  {
+    "id": 3376011007,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Muarareja",
+    "postal_code": "52117"
+  },
+  {
+    "id": 3376011004,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Pekauman",
+    "postal_code": "52125"
+  },
+  {
+    "id": 3376011001,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Pesurungan Kidul",
+    "postal_code": "52117"
+  },
+  {
+    "id": 3376011006,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337601,
+    "value": "Tegalsari",
+    "postal_code": "52111"
+  }
+]

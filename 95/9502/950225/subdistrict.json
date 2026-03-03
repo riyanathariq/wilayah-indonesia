@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9502252009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Atembabol",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Borban",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Dumpasi",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Kirimu",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Maksum",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252012,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Markom",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Omliom",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Pedam",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Peneli",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Sabin",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Tupoplyom",
+    "postal_code": "99403"
+  },
+  {
+    "id": 9502252008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950225,
+    "value": "Yapil",
+    "postal_code": "99403"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8205022002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Fagudu",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Falahu",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Fatcei",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022006,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Fogi",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Mangon",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022010,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Pastina",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022009,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Umaloya",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022008,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Wai Ipa",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Waibau",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022007,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Waihama",
+    "postal_code": "97795"
+  },
+  {
+    "id": 8205022011,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820502,
+    "value": "Wailau",
+    "postal_code": "97795"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3578101008,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Dukuh Setro",
+    "postal_code": "60138"
+  },
+  {
+    "id": 3578101003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Gading",
+    "postal_code": "60134"
+  },
+  {
+    "id": 3578101007,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Kapas Madya Baru (Kapasmadya Baru)",
+    "postal_code": "60137"
+  },
+  {
+    "id": 3578101006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Pacarkeling (Pacar Keling)",
+    "postal_code": "60131"
+  },
+  {
+    "id": 3578101004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Pacarkembang (Pacar Kembang)",
+    "postal_code": "60132"
+  },
+  {
+    "id": 3578101002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Ploso",
+    "postal_code": "60133"
+  },
+  {
+    "id": 3578101005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Rangkah",
+    "postal_code": "60135"
+  },
+  {
+    "id": 3578101001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357810,
+    "value": "Tambaksari",
+    "postal_code": "60136"
+  }
+]

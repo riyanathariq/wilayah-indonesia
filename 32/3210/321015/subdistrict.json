@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3210152008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Babajurang",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Biyawak",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Jatiraga",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Jatitengah",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Jatitujuh",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Pangkalanpari",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Panongan",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Panyingkiran",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152015,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Pasindangan",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Pilangsari",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Putridalem",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Randegan Kulon",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Randegan Wetan",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152014,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Sumber Kulon",
+    "postal_code": "45458"
+  },
+  {
+    "id": 3210152011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321015,
+    "value": "Sumber Wetan",
+    "postal_code": "45458"
+  }
+]

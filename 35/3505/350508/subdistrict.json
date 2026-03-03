@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3505082005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Gununggede (Gunung Gede)",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Kaligrenjeng",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Ngadipuro",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Ngeni",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Pasiraman",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Sumberboto",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Tambakrejo",
+    "postal_code": "66173"
+  },
+  {
+    "id": 3505082006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350508,
+    "value": "Wonotirto",
+    "postal_code": "66173"
+  }
+]

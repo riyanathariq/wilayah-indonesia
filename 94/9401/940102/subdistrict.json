@@ -1,0 +1,26 @@
+[
+  {
+    "id": 9401022004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940102,
+    "value": "Masipawa",
+    "postal_code": "98862"
+  },
+  {
+    "id": 9401022001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940102,
+    "value": "Napan",
+    "postal_code": "98862"
+  },
+  {
+    "id": 9401022005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940102,
+    "value": "Weinami",
+    "postal_code": "98862"
+  }
+]

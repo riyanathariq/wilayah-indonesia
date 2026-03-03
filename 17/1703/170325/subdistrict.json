@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1703252001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Air Putih",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252008,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Karya Bakti",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252009,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Karya Jaya",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Karya Pelita",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Baru",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Maju",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Makmur",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252007,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Medan",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Merindu",
+    "postal_code": "38325"
+  },
+  {
+    "id": 1703252010,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170325,
+    "value": "Suka Negara",
+    "postal_code": "38325"
+  }
+]

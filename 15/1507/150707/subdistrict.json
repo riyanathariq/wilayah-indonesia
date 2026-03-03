@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1507071001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Kampung Singkep",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Nibung Putih",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Parit Culum I",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Parit Culum II",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071003,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Rano",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Talang Babat",
+    "postal_code": "36761"
+  },
+  {
+    "id": 1507071007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150707,
+    "value": "Telukdawan (Teluk Dawan)",
+    "postal_code": "36761"
+  }
+]

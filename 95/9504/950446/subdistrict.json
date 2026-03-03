@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9504462011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Ambirik",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Giko",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Gwak Dugunik",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Karu",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Kotorambur",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Kungge",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Minegimen",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Miyanagame",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Pekaleme",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Tabuh",
+    "postal_code": "99064"
+  },
+  {
+    "id": 9504462002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950446,
+    "value": "Teleme",
+    "postal_code": "99064"
+  }
+]

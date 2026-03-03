@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3574021001,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Jrebeng Kidul",
+    "postal_code": "67233"
+  },
+  {
+    "id": 3574021005,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Kedung Asem (Kedungasem)",
+    "postal_code": "67236"
+  },
+  {
+    "id": 3574021003,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Kedunggaleng",
+    "postal_code": "67239"
+  },
+  {
+    "id": 3574021002,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Pakistaji",
+    "postal_code": "67239"
+  },
+  {
+    "id": 3574021006,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Sumber Taman",
+    "postal_code": "67237"
+  },
+  {
+    "id": 3574021007,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357402,
+    "value": "Wonoasih",
+    "postal_code": "67232"
+  }
+]

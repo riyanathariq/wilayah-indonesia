@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1706072002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Air Rami",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Arga Jaya",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Bukit Harapan",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072012,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Bukit Mulya",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072011,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Cinta Asih",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Dusun Pulau",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Makmur Jaya",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Marga Mulia",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Mekar Jaya",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Rami Mulya (Rami Mulia)",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Talang Rio",
+    "postal_code": "38764"
+  },
+  {
+    "id": 1706072010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170607,
+    "value": "Tirta Kencana",
+    "postal_code": "38764"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7318012017,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Batu Tiakka",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318011009,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Pattan Ulusalu",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012014,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Ra'bung",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012012,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Ratte Talonge",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012011,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Rea Tulak Langi",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012013,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Sa'tandung",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012015,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Salu",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012016,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Salu Boronan",
+    "postal_code": "91864"
+  },
+  {
+    "id": 7318012010,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731801,
+    "value": "Salutandung",
+    "postal_code": "91864"
+  }
+]

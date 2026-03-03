@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1806212003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Banjar Agung",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Banjar Negeri",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212007,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Ciherang",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212012,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Darussalam",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Kedaloman",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212008,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Pariaman",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212011,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Penanggungan",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Suka Banjar (Sukabanjar)",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Sukadamai",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Sukamernah (Sukamarnah)",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Sukaraja",
+    "postal_code": "35379"
+  },
+  {
+    "id": 1806212010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180621,
+    "value": "Way Halom",
+    "postal_code": "35379"
+  }
+]

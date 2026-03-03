@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1604101046,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Bandar Agung",
+    "postal_code": "31414"
+  },
+  {
+    "id": 1604101059,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Bandar Jaya",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102055,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Giri Mulya",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101032,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Gunung Gajah",
+    "postal_code": "31418"
+  },
+  {
+    "id": 1604102035,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Keban",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101040,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Kota Baru",
+    "postal_code": "31415"
+  },
+  {
+    "id": 1604101052,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Kota Jaya",
+    "postal_code": "31412"
+  },
+  {
+    "id": 1604101051,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Kota Negara",
+    "postal_code": "31414"
+  },
+  {
+    "id": 1604102034,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Kota Raya",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101031,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Lahat Tengah",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102056,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Makarti Tama",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102050,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Manggul",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102012,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Padang Lengkuas",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101033,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pagar Agung",
+    "postal_code": "31417"
+  },
+  {
+    "id": 1604102039,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pagar Negara",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102036,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pagar Sari",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101038,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pasar Baru",
+    "postal_code": "31411"
+  },
+  {
+    "id": 1604101042,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pasar Bawah",
+    "postal_code": "31412"
+  },
+  {
+    "id": 1604101041,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Pasar Lama",
+    "postal_code": "31413"
+  },
+  {
+    "id": 1604101043,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "RD. PJKA",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101054,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "RD. PJKA Bandar Agung",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101058,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Sari Bunga Mas",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102027,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Selawi",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102049,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Senabing",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102030,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Sukanegara",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604101037,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Talang Jawa (Talang Jawa PMD)",
+    "postal_code": "31416"
+  },
+  {
+    "id": 1604101060,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Talang Jawa Selatan",
+    "postal_code": "31416"
+  },
+  {
+    "id": 1604101061,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Talang Jawa Utara",
+    "postal_code": "31416"
+  },
+  {
+    "id": 1604102053,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Ulak Lebar",
+    "postal_code": "31419"
+  },
+  {
+    "id": 1604102057,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160410,
+    "value": "Ulak Mas",
+    "postal_code": "31419"
+  }
+]

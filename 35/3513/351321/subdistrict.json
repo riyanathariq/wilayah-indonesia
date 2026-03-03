@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3513212009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Ambulu",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Banjarsari",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212013,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Giliketapang (Gili Ketapang)",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Jangur",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Laweyan",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212011,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Lemahkembar",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Mentor",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Muneng",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Munengkidul (Muneng Kidul)",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212012,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Pesisir",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Pohsangitleres (Pohsangit Leres)",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Sumberbendo",
+    "postal_code": "67251"
+  },
+  {
+    "id": 3513212007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351321,
+    "value": "Sumurmati",
+    "postal_code": "67251"
+  }
+]

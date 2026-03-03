@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601232004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Cibarani",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Ciherangjaya",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Cisereh",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Kaduronyok",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Kondangjaya",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Kubangkondang",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Palembang",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Pasireurih",
+    "postal_code": "42273"
+  },
+  {
+    "id": 3601232001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360123,
+    "value": "Rawasari",
+    "postal_code": "42273"
+  }
+]

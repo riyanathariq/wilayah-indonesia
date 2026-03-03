@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1272011004,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Asuhan",
+    "postal_code": "21136"
+  },
+  {
+    "id": 1272011001,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Kebun Sayur",
+    "postal_code": "21134"
+  },
+  {
+    "id": 1272011005,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Merdeka",
+    "postal_code": "21135"
+  },
+  {
+    "id": 1272011003,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Pahlawan",
+    "postal_code": "21132"
+  },
+  {
+    "id": 1272011006,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Pardomuan",
+    "postal_code": "21131"
+  },
+  {
+    "id": 1272011007,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Siopat Suhu",
+    "postal_code": "21139"
+  },
+  {
+    "id": 1272011002,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127201,
+    "value": "Tomuan",
+    "postal_code": "21133"
+  }
+]

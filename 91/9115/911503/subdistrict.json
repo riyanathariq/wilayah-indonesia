@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9115032015,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Bunggu",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032017,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Emauri",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032013,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Kali Baru",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032016,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Kowogi",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032018,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Obutay",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032006,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Saurisirami",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032009,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Sinonde",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032014,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Sirami",
+    "postal_code": "98671"
+  },
+  {
+    "id": 9115032019,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911503,
+    "value": "Wairo",
+    "postal_code": "98671"
+  }
+]

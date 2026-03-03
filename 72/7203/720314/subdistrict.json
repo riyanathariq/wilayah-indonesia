@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7203142001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Balukang",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142014,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Balukang II",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Bou",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142012,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Bukit Harapan",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142013,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Pangalasiang (Panggalasiang / Pangalaseang)",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142011,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Samalili",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Siboalong (Siboang)",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Siwalempu",
+    "postal_code": "94357"
+  },
+  {
+    "id": 7203142004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720314,
+    "value": "Tonggolobibi",
+    "postal_code": "94357"
+  }
+]

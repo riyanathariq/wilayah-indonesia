@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8201102010,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Aruku",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102003,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Baja",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102009,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Bakun Pantai",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102005,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Barataku",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102008,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Bilote",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102004,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Gam Kahe (Gamkahe)",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102002,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Jangailulu (Jange Lili)",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102001,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Jano",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102006,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Pumadada (Puma Dada)",
+    "postal_code": "97755"
+  },
+  {
+    "id": 8201102007,
+    "province_id": 82,
+    "regency_id": 8201,
+    "district_id": 820110,
+    "value": "Tosomolo",
+    "postal_code": "97755"
+  }
+]

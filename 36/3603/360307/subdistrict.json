@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3603072013,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Bakung",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072015,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Blukbuk",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072017,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Cirumpak",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Kronjo",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Muncung",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Pagedangan Ilir",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Pagedangan Udik",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Pagenjahan",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Pasilian",
+    "postal_code": "15550"
+  },
+  {
+    "id": 3603072006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360307,
+    "value": "Pasir",
+    "postal_code": "15550"
+  }
+]

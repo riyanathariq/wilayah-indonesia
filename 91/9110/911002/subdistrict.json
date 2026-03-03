@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9110022001,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Bota-Bora",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022010,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Denander",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022007,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Denender",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Kanderjan",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022005,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Omte",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022006,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Safrom Tane",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022009,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Safron Tane",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022003,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Samanente",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022002,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Toganto",
+    "postal_code": "99372"
+  },
+  {
+    "id": 9110022011,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911002,
+    "value": "Waaf",
+    "postal_code": "99372"
+  }
+]

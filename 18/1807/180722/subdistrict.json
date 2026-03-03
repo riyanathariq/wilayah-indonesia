@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1807222002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Gemilang",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Harjosari",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Indah",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Kencana",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Luhur",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Mulya",
+    "postal_code": "34196"
+  },
+  {
+    "id": 1807222004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180722,
+    "value": "Braja Yekti",
+    "postal_code": "34196"
+  }
+]

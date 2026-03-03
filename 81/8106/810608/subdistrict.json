@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8106082001,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810608,
+    "value": "Ariate",
+    "postal_code": "97560"
+  },
+  {
+    "id": 8106082004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810608,
+    "value": "Iha",
+    "postal_code": "97560"
+  },
+  {
+    "id": 8106082005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810608,
+    "value": "Kulur",
+    "postal_code": "97560"
+  },
+  {
+    "id": 8106082002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810608,
+    "value": "Lokki",
+    "postal_code": "97560"
+  },
+  {
+    "id": 8106082003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810608,
+    "value": "Luhu",
+    "postal_code": "97560"
+  }
+]

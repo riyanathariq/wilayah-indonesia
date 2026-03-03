@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1806282004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Batu Patah",
+    "postal_code": "35389"
+  },
+  {
+    "id": 1806282001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Lengkukai",
+    "postal_code": "35389"
+  },
+  {
+    "id": 1806282006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Marga Mulya",
+    "postal_code": "35389"
+  },
+  {
+    "id": 1806282003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Merbau",
+    "postal_code": "35389"
+  },
+  {
+    "id": 1806282005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Purwosari",
+    "postal_code": "35389"
+  },
+  {
+    "id": 1806282002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180628,
+    "value": "Sidoharjo",
+    "postal_code": "35389"
+  }
+]

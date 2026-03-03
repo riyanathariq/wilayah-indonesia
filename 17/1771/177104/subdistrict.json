@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1771041002,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Bentiring",
+    "postal_code": "38126"
+  },
+  {
+    "id": 1771041006,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Bentiring Permai",
+    "postal_code": "38121"
+  },
+  {
+    "id": 1771041005,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Beringin Raya",
+    "postal_code": "38121"
+  },
+  {
+    "id": 1771041001,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Kandang Limun",
+    "postal_code": "38122"
+  },
+  {
+    "id": 1771041003,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Pematang Gubernur",
+    "postal_code": "38125"
+  },
+  {
+    "id": 1771041004,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Rawa Makmur",
+    "postal_code": "38121"
+  },
+  {
+    "id": 1771041007,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177104,
+    "value": "Rawa Makmur Permai",
+    "postal_code": "38121"
+  }
+]

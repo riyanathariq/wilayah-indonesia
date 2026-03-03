@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1507032016,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Bhakti/Bakti Idaman",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Lagan Ilir",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507031002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Mendahara Ilir",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032003,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Mendahara Tengah",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032017,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Merbau",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032018,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Pangkal Duri Ilir",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Pangkalan/Pangkal Duri",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032014,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Sinar Kalimantan",
+    "postal_code": "36765"
+  },
+  {
+    "id": 1507032015,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150703,
+    "value": "Sungai Tawar",
+    "postal_code": "36765"
+  }
+]

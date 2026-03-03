@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3215212008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Bangle (Bengle)",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Ciranggon",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Lemahmulya",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Majalaya",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Pasirjengkol",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Pasirmulya",
+    "postal_code": "41370"
+  },
+  {
+    "id": 3215212005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321521,
+    "value": "Sarijaya",
+    "postal_code": "41370"
+  }
+]

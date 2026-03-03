@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3211192007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Cikondang",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Cikoneng",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Cikonengkulon (Cikoneng Kulon)",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Dayeuhluhur",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Ganeas",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Sukaluyu",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Sukawening",
+    "postal_code": "45356"
+  },
+  {
+    "id": 3211192006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321119,
+    "value": "Tanjunghurip",
+    "postal_code": "45356"
+  }
+]

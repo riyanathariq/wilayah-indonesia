@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7322092004,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Dodolo",
+    "postal_code": "92964"
+  },
+  {
+    "id": 7322092003,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Leboni",
+    "postal_code": "92964"
+  },
+  {
+    "id": 7322092002,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Onondowa (Onondoa)",
+    "postal_code": "92964"
+  },
+  {
+    "id": 7322092001,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Rampi",
+    "postal_code": "92964"
+  },
+  {
+    "id": 7322092005,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Sulaku",
+    "postal_code": "92964"
+  },
+  {
+    "id": 7322092006,
+    "province_id": 73,
+    "regency_id": 7322,
+    "district_id": 732209,
+    "value": "Tedeboe",
+    "postal_code": "92964"
+  }
+]

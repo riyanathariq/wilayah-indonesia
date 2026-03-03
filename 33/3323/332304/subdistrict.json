@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3323042006,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Gowak",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042005,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Karangwuni",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042002,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Kebumen",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042010,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Klepu",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042004,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Kupen",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042008,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Ngipik",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042012,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Nglorog",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042013,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Pagergunung",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042009,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Pingit",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042001,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Pringsurat",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042007,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Rejosari",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042011,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Soborejo",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042003,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Soropadan",
+    "postal_code": "56272"
+  },
+  {
+    "id": 3323042014,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332304,
+    "value": "Wonokerso",
+    "postal_code": "56272"
+  }
+]

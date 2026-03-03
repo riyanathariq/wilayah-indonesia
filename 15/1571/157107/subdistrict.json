@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1571071012,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Kenali Asam",
+    "postal_code": "36128"
+  },
+  {
+    "id": 1571071006,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Kenali Asam Atas",
+    "postal_code": "36128"
+  },
+  {
+    "id": 1571071005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Kenali Asam Bawah",
+    "postal_code": "36128"
+  },
+  {
+    "id": 1571071004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Paal Lima",
+    "postal_code": "36128"
+  },
+  {
+    "id": 1571071002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Simpang III Sipin (Simpang Tiga Sipin)",
+    "postal_code": "36126"
+  },
+  {
+    "id": 1571071001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Suka Karya",
+    "postal_code": "36127"
+  },
+  {
+    "id": 1571071011,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157107,
+    "value": "Talang Gulo",
+    "postal_code": "36128"
+  }
+]

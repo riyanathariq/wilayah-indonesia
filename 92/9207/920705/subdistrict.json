@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9207052002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920705,
+    "value": "Ambuar",
+    "postal_code": "98335"
+  },
+  {
+    "id": 9207052003,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920705,
+    "value": "Karuan",
+    "postal_code": "98335"
+  },
+  {
+    "id": 9207052009,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920705,
+    "value": "Nordiwar",
+    "postal_code": "98335"
+  },
+  {
+    "id": 9207052001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920705,
+    "value": "Sabubar",
+    "postal_code": "98335"
+  },
+  {
+    "id": 9207052007,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920705,
+    "value": "Yarpate",
+    "postal_code": "98335"
+  }
+]

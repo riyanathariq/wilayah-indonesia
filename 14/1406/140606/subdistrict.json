@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1406062018,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Bagan Tujuh",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062017,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Bukit Intan Makmur",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Kota Baru",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Kota Intan",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406061001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Kota Lama",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Kota Raya",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Muara Dilam",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062011,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Pasir Indah",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062012,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Pasir Luhur",
+    "postal_code": "28556"
+  },
+  {
+    "id": 1406062010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140606,
+    "value": "Sungai Kuti",
+    "postal_code": "28556"
+  }
+]

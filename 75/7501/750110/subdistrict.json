@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7501102001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Dulamayo Utara",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Dumati",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Lupoyo",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102011,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Modelidu (Modellidu)",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Pantungo",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Pentadio Barat",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Pentadio Timur",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Talumelito",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102014,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Tapaluluo",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102013,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Timuato",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102012,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Tinelo",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102015,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Tonala",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Tuladenggi",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Ulapato A",
+    "postal_code": "96183"
+  },
+  {
+    "id": 7501102003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750110,
+    "value": "Ulapato B",
+    "postal_code": "96183"
+  }
+]

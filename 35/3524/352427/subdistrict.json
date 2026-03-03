@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3524272006,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Beru",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272005,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Canggah",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272002,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Dermolemahbang (Dermo Lemahbang)",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272008,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Gempoltukmloko (Gempol Tukmloko)",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272001,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Kedungkumpul",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272009,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Sarirejo",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272003,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Simbatan",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272004,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Sumberjo",
+    "postal_code": "62281"
+  },
+  {
+    "id": 3524272007,
+    "province_id": 35,
+    "regency_id": 3524,
+    "district_id": 352427,
+    "value": "Tambakmenjangan",
+    "postal_code": "62281"
+  }
+]

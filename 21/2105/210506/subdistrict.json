@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2105062006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Air Biru",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105062008,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Batu Berapit",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105062009,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Landak",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105061005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Letung",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105062001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Mampok",
+    "postal_code": "29792"
+  },
+  {
+    "id": 2105062002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210506,
+    "value": "Rewak",
+    "postal_code": "29792"
+  }
+]

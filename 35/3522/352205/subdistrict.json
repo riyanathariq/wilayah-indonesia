@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3522052001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352205,
+    "value": "Bubulan",
+    "postal_code": "62172"
+  },
+  {
+    "id": 3522052002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352205,
+    "value": "Cancung",
+    "postal_code": "62172"
+  },
+  {
+    "id": 3522052003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352205,
+    "value": "Clebung",
+    "postal_code": "62172"
+  },
+  {
+    "id": 3522052005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352205,
+    "value": "Ngorogunung",
+    "postal_code": "62172"
+  },
+  {
+    "id": 3522052004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352205,
+    "value": "Sumberbendo (Sumber Bendo)",
+    "postal_code": "62172"
+  }
+]

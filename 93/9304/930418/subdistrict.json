@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304182001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Comoro",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304182006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Ero Airo",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304182002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Kawet",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304182003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Mausi",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304182004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Sato Yod",
+    "postal_code": "99776"
+  },
+  {
+    "id": 9304182005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930418,
+    "value": "Tamor",
+    "postal_code": "99776"
+  }
+]

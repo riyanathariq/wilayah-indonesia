@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3672071003,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Kebon Dalem (Kebondalem)",
+    "postal_code": "42433"
+  },
+  {
+    "id": 3672071002,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Kotabumi",
+    "postal_code": "42434"
+  },
+  {
+    "id": 3672071006,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Pabean",
+    "postal_code": "42437"
+  },
+  {
+    "id": 3672071004,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Purwakarta",
+    "postal_code": "42437"
+  },
+  {
+    "id": 3672071001,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Ramanuju",
+    "postal_code": "42431"
+  },
+  {
+    "id": 3672071005,
+    "province_id": 36,
+    "regency_id": 3672,
+    "district_id": 367207,
+    "value": "Tegal Bunder",
+    "postal_code": "42437"
+  }
+]

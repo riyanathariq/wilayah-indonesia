@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1508082004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Baru Pusat Jalo",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Bedaro",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Datar",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Mangun Jayo",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Pekan Jum'at",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Suka Jaya",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Tanjung Agung",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Tebat",
+    "postal_code": "37216"
+  },
+  {
+    "id": 1508082006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150808,
+    "value": "Tebing Tinggi",
+    "postal_code": "37216"
+  }
+]

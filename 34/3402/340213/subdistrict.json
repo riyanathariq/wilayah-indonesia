@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3402132004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340213,
+    "value": "Bawuran",
+    "postal_code": "55791"
+  },
+  {
+    "id": 3402132002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340213,
+    "value": "Pleret",
+    "postal_code": "55791"
+  },
+  {
+    "id": 3402132003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340213,
+    "value": "Segoroyoso",
+    "postal_code": "55791"
+  },
+  {
+    "id": 3402132001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340213,
+    "value": "Wonokromo",
+    "postal_code": "55791"
+  },
+  {
+    "id": 3402132005,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340213,
+    "value": "Wonolelo",
+    "postal_code": "55791"
+  }
+]

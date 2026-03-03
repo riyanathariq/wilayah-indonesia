@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1401122003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Bukit Kemuning",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Danau Lancang",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Intan Jaya",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Kasikan",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122013,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Kusau Makmur",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Muara Intan",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122010,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Rimba Beringin",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Rimba Jaya",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122009,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Rimba Makmur",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Senama Nenek (Sinama Nenek)",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122011,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Sukaramai",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122012,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Sumber Sari",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122014,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Talang Danto",
+    "postal_code": "28466"
+  },
+  {
+    "id": 1401122007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140112,
+    "value": "Tanah Datar",
+    "postal_code": "28466"
+  }
+]

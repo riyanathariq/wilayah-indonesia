@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7504072004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Kalimas",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Makarti Jaya",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Malango",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072006,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Marisa IV",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Pancakarsa I (Panca Karsa I)",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Pancakarsa II (Panca Karsa II)",
+    "postal_code": "96464"
+  },
+  {
+    "id": 7504072007,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750407,
+    "value": "Tirto Asri",
+    "postal_code": "96464"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1572072004,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Dujung Sakti",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572072003,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Kampung Tengah",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572072001,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Koto Baru (Kota Baru)",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572072002,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Koto Limau Manis",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572072005,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Permai Indah",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572072006,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157207,
+    "value": "Srimenanti (Baru Sri Menanti)",
+    "postal_code": "37152"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1116052004,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111605,
+    "value": "Bukit Tempurung",
+    "postal_code": "24475"
+  },
+  {
+    "id": 1116052001,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111605,
+    "value": "Kota Kualasimpang (Kota Kuala Simpang)",
+    "postal_code": "24475"
+  },
+  {
+    "id": 1116052005,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111605,
+    "value": "Kota Lintang",
+    "postal_code": "24475"
+  },
+  {
+    "id": 1116052002,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111605,
+    "value": "Perdamaian",
+    "postal_code": "24475"
+  },
+  {
+    "id": 1116052003,
+    "province_id": 11,
+    "regency_id": 1116,
+    "district_id": 111605,
+    "value": "Sriwijaya",
+    "postal_code": "24475"
+  }
+]

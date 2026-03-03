@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7306081003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Batangkaluku",
+    "postal_code": "92117"
+  },
+  {
+    "id": 7306081002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Bonto Bontoa",
+    "postal_code": "92111"
+  },
+  {
+    "id": 7306081013,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Bontoramba",
+    "postal_code": "92119"
+  },
+  {
+    "id": 7306081009,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Kalegowa",
+    "postal_code": "92116"
+  },
+  {
+    "id": 7306081006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Katangka",
+    "postal_code": "92114"
+  },
+  {
+    "id": 7306081014,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Mawang",
+    "postal_code": "92119"
+  },
+  {
+    "id": 7306081011,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Paccinongang (Paccinongan)",
+    "postal_code": "92113"
+  },
+  {
+    "id": 7306081007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Pandang Pandang",
+    "postal_code": "92115"
+  },
+  {
+    "id": 7306081010,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Romangpolong",
+    "postal_code": "92118"
+  },
+  {
+    "id": 7306081005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Samata",
+    "postal_code": "92113"
+  },
+  {
+    "id": 7306081001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Sungguminasa",
+    "postal_code": "92111"
+  },
+  {
+    "id": 7306081012,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Tamarunang",
+    "postal_code": "92112"
+  },
+  {
+    "id": 7306081008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Tombolo",
+    "postal_code": "92114"
+  },
+  {
+    "id": 7306081004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730608,
+    "value": "Tompobalang",
+    "postal_code": "92112"
+  }
+]

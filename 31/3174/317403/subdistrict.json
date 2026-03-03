@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3174031002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317403,
+    "value": "Bangka",
+    "postal_code": "12730"
+  },
+  {
+    "id": 3174031005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317403,
+    "value": "Kuningan Barat",
+    "postal_code": "12710"
+  },
+  {
+    "id": 3174031001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317403,
+    "value": "Mampang Prapatan",
+    "postal_code": "12790"
+  },
+  {
+    "id": 3174031003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317403,
+    "value": "Pela Mampang",
+    "postal_code": "12720"
+  },
+  {
+    "id": 3174031004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317403,
+    "value": "Tegal Parang",
+    "postal_code": "12790"
+  }
+]

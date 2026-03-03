@@ -1,0 +1,138 @@
+[
+  {
+    "id": 7404222001,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Barangka",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222003,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Boneatiro",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222017,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Boneatiro Barat",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222010,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Bukit Asri",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222011,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Kamelanta",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222004,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Lambusango",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222012,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Lambusango Timur",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222014,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Mabulugo (Mambulugo)",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222007,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Todanga",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222008,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Tuangila",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222016,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Tumada",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222002,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Wakalambe",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404221006,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Wakangka",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222013,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Wakuli",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222015,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Wambulu",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404222009,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Waondo Wolio",
+    "postal_code": "93755"
+  },
+  {
+    "id": 7404221005,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740422,
+    "value": "Watumotobe",
+    "postal_code": "93755"
+  }
+]

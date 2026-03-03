@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7326032007,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Basokan",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032005,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Karre Limbong",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032009,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Karre Pananian (Karre Penanian)",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Lili'kira' (Lilikira)",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Nanggala",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326031004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Nanggala Sanpiak Salu (Nanggala Sangpiak Salu)",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032008,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Nanna' Nanggala (Nanna Nanggala)",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032006,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Rante",
+    "postal_code": "91856"
+  },
+  {
+    "id": 7326032002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732603,
+    "value": "Tandung Nanggala",
+    "postal_code": "91856"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8105032001,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Batuasa",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Bemo",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032021,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Bemo Perak",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032022,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Funa Naibaya",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032016,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Gusalaut",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032002,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Hatuimeten",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032017,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Osong",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032018,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Tobo",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032015,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Tum",
+    "postal_code": "97525"
+  },
+  {
+    "id": 8105032003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810503,
+    "value": "Werinama",
+    "postal_code": "97525"
+  }
+]

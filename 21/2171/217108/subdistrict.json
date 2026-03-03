@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2171081008,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Air Raja",
+    "postal_code": "29483"
+  },
+  {
+    "id": 2171081003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Galang Baru (Pulau)",
+    "postal_code": "29484"
+  },
+  {
+    "id": 2171081002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Karas (Pulau Karas)",
+    "postal_code": "29486"
+  },
+  {
+    "id": 2171081007,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Pulau Abang",
+    "postal_code": "29487"
+  },
+  {
+    "id": 2171081005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Rempang Cate",
+    "postal_code": "29482"
+  },
+  {
+    "id": 2171081004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Sembulang (Pulau Rempang)",
+    "postal_code": "29481"
+  },
+  {
+    "id": 2171081001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Sijantung",
+    "postal_code": "29485"
+  },
+  {
+    "id": 2171081006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217108,
+    "value": "Subang Mas",
+    "postal_code": "29483"
+  }
+]

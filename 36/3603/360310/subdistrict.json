@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603102002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Buaran Jati",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Gintung",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Karang Serang",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Kosambi",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Mekar Kondang",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Pekayon",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Rawa Kidang",
+    "postal_code": "15532"
+  },
+  {
+    "id": 3603102001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360310,
+    "value": "Sukadiri",
+    "postal_code": "15532"
+  }
+]

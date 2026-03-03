@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3205342002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320534,
+    "value": "Garumukti",
+    "postal_code": "44168"
+  },
+  {
+    "id": 3205342005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320534,
+    "value": "Linggarjati",
+    "postal_code": "44168"
+  },
+  {
+    "id": 3205342001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320534,
+    "value": "Pakenjeng",
+    "postal_code": "44168"
+  },
+  {
+    "id": 3205342004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320534,
+    "value": "Pananjung",
+    "postal_code": "44168"
+  },
+  {
+    "id": 3205342003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320534,
+    "value": "Panawa",
+    "postal_code": "44168"
+  }
+]

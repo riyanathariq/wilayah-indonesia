@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1110132003,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Lae Pinang",
+    "postal_code": "24788"
+  },
+  {
+    "id": 1110132002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Lae Sipola",
+    "postal_code": "24788"
+  },
+  {
+    "id": 1110132004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Mukti Jaya (Mukti Harapan)",
+    "postal_code": "24788"
+  },
+  {
+    "id": 1110132007,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Pea Jambu",
+    "postal_code": "24788"
+  },
+  {
+    "id": 1110132001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Singkohor",
+    "postal_code": "24788"
+  },
+  {
+    "id": 1110132006,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111013,
+    "value": "Sri Kayu",
+    "postal_code": "24788"
+  }
+]

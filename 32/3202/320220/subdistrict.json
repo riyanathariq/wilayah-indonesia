@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202202003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Caringinnunggal (Caringin Nunggal)",
+    "postal_code": "43175"
+  },
+  {
+    "id": 3202202005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Mangunjaya",
+    "postal_code": "43175"
+  },
+  {
+    "id": 3202202004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Mekarmukti (Mekar Mukti)",
+    "postal_code": "43175"
+  },
+  {
+    "id": 3202202002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Sukamukti",
+    "postal_code": "43175"
+  },
+  {
+    "id": 3202202001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Waluran",
+    "postal_code": "43175"
+  },
+  {
+    "id": 3202202006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320220,
+    "value": "Waluran Mandiri",
+    "postal_code": "43175"
+  }
+]

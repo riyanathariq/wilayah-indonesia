@@ -1,0 +1,218 @@
+[
+  {
+    "id": 3306091015,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Bandung",
+    "postal_code": "54211"
+  },
+  {
+    "id": 3306091009,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Bayem",
+    "postal_code": "54215"
+  },
+  {
+    "id": 3306092023,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kaligesing",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092026,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Karangrejo",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092005,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Karangwuluh",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306091017,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Katerban",
+    "postal_code": "54214"
+  },
+  {
+    "id": 3306092001,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kebondalem",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092022,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kemadu Lor",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092007,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kepuh",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092003,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kiyangkongrejo",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306091016,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kutoarjo",
+    "postal_code": "54251"
+  },
+  {
+    "id": 3306092011,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Kuwurejo",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092008,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Majir",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092018,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Pacor",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092012,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Pringgowijayan",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092006,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Purwosari",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306091014,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Semawung Daleman",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306091010,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Semawung Kembaran",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092013,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Sidarum",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092021,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Sokoharjo",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092004,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Suren",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092020,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Tepus Kulon",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092024,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Tepus Wetan",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092019,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Tunggorono",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092002,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Tuntungpait (Tuntungpahit)",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092027,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Tursino",
+    "postal_code": "54212"
+  },
+  {
+    "id": 3306092025,
+    "province_id": 33,
+    "regency_id": 3306,
+    "district_id": 330609,
+    "value": "Wirun",
+    "postal_code": "54212"
+  }
+]

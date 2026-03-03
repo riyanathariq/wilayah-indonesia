@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3325152009,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Banaran",
+    "postal_code": "51281"
+  },
+  {
+    "id": 3325152001,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Banyuputih",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152011,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Bulu",
+    "postal_code": "51281"
+  },
+  {
+    "id": 3325152005,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Dlimas",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152012,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Kalangsono",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152002,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Kalibalik",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152004,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Kedawung",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152006,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Luwung",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152008,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Penundan",
+    "postal_code": "51281"
+  },
+  {
+    "id": 3325152003,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Sembung",
+    "postal_code": "51271"
+  },
+  {
+    "id": 3325152010,
+    "province_id": 33,
+    "regency_id": 3325,
+    "district_id": 332515,
+    "value": "Timbang",
+    "postal_code": "51281"
+  }
+]

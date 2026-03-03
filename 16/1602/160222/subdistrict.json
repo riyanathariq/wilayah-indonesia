@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1602222005,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Lempuing Indah",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222015,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Lubuk Makmur",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222002,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Lubuk Seberuk",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222014,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Muara Burnai I",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222009,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Muara Burnai II",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222006,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Muktisari (Mukti Sari)",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222013,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Purwo Asri",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222016,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Rantau Durian Asli",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222003,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Rantau Durian I",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222011,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Rantau Durian II",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222010,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Suka Jaya",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222008,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222004,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Sungai Belida",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222007,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Tania Makmur",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222001,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Tanjung Sari I",
+    "postal_code": "30657"
+  },
+  {
+    "id": 1602222012,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160222,
+    "value": "Tanjung Sari II",
+    "postal_code": "30657"
+  }
+]

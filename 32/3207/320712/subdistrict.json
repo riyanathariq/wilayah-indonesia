@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3207122006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Bayasari",
+    "postal_code": "46273"
+  },
+  {
+    "id": 3207122003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Cintanagara",
+    "postal_code": "46273"
+  },
+  {
+    "id": 3207122004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Dayeuhluhur",
+    "postal_code": "46273"
+  },
+  {
+    "id": 3207122001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Jatinagara",
+    "postal_code": "46273"
+  },
+  {
+    "id": 3207122005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Mulyasari",
+    "postal_code": "46273"
+  },
+  {
+    "id": 3207122002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320712,
+    "value": "Sukanagara",
+    "postal_code": "46273"
+  }
+]

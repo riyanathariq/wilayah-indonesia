@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1805272005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Batu Ampar",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Makartitama (Makarti Tama)",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Mekar Asri",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Mesir Dwi Jaya",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Setia Tama",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Sidomekar (Sido Mekar)",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Sidomukti (Sido Mukti)",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Suka Bhakti",
+    "postal_code": "34595"
+  },
+  {
+    "id": 1805272007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180527,
+    "value": "Sumber Jaya",
+    "postal_code": "34595"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1671021002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167102,
+    "value": "1 Ulu",
+    "postal_code": "30257"
+  },
+  {
+    "id": 1671021003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167102,
+    "value": "2 Ulu",
+    "postal_code": "30257"
+  },
+  {
+    "id": 1671021004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167102,
+    "value": "3 / 4 Ulu (3-4 Ulu)",
+    "postal_code": "30255"
+  },
+  {
+    "id": 1671021005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167102,
+    "value": "5 Ulu",
+    "postal_code": "30254"
+  },
+  {
+    "id": 1671021006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167102,
+    "value": "7 Ulu",
+    "postal_code": "30253"
+  }
+]

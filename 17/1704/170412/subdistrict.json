@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1704122006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Babat",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Cucupan",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122010,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Kasuk Baru",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Kepahyang",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Muara Tetap",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122011,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Padang Binjai",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Pagar Dewa",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Suka Banjar",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122012,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Suka Raja",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Tanjung Agung",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Tanjung Bunga",
+    "postal_code": "38968"
+  },
+  {
+    "id": 1704122008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170412,
+    "value": "Tanjung Dalam",
+    "postal_code": "38968"
+  }
+]

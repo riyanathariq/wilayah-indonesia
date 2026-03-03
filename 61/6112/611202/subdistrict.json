@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6112022003,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Kuala Mandor A",
+    "postal_code": "78355"
+  },
+  {
+    "id": 6112022001,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Kuala Mandor-B",
+    "postal_code": "78355"
+  },
+  {
+    "id": 6112022002,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Kubu Padi",
+    "postal_code": "78355"
+  },
+  {
+    "id": 6112022006,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Padi Jaya",
+    "postal_code": "78355"
+  },
+  {
+    "id": 6112022004,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Retok",
+    "postal_code": "78355"
+  },
+  {
+    "id": 6112022005,
+    "province_id": 61,
+    "regency_id": 6112,
+    "district_id": 611202,
+    "value": "Sungai Enau",
+    "postal_code": "78355"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1508012007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Bukit Kemang (Bukit Kemang Baru)",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012016,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Koto Jayo",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Lubuk Niur",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Panjang",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Pedukun",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Perenti Lueh/Luweh",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Rambah",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012015,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Renah Jelmu",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Tanah Tumbuh",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Tebing Tinggi Uleh",
+    "postal_code": "37255"
+  },
+  {
+    "id": 1508012003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150801,
+    "value": "Teluk Kecimbung",
+    "postal_code": "37255"
+  }
+]

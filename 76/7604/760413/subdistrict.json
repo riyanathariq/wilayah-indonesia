@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7604131001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760413,
+    "value": "Anreapi",
+    "postal_code": "91315"
+  },
+  {
+    "id": 7604132002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760413,
+    "value": "Duampanua",
+    "postal_code": "91315"
+  },
+  {
+    "id": 7604132003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760413,
+    "value": "Kelapa Dua",
+    "postal_code": "91315"
+  },
+  {
+    "id": 7604132005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760413,
+    "value": "Kunyi",
+    "postal_code": "91315"
+  },
+  {
+    "id": 7604132004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760413,
+    "value": "Papandangan (Pappandangan)",
+    "postal_code": "91315"
+  }
+]

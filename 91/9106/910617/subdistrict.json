@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9106172009,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Manwor Indah",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Masyarah (Masyara)",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172006,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Pakreki",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Rawar",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Saribi",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Sub Mander (Supmander)",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Wansra",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Yenbeba",
+    "postal_code": "98565"
+  },
+  {
+    "id": 9106172002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910617,
+    "value": "Yenbebon (Yenbepon)",
+    "postal_code": "98565"
+  }
+]

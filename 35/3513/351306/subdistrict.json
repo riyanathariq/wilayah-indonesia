@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3513062005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Alassapi",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062012,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Banyuanyar Kidul",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062011,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Banyuanyar Tengah",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062014,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Blado Wetan",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Gadingkulon (Gading Kulon)",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062013,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Gununggeni (Gunung Geni)",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Klenangkidul (Klenang Kidul)",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Klenanglor (Klenang Lor)",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Liprak Kidul",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Liprak Kulon",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Liprak Wetan",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Pendil",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Sentulan",
+    "postal_code": "67275"
+  },
+  {
+    "id": 3513062007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351306,
+    "value": "Tarokan",
+    "postal_code": "67275"
+  }
+]

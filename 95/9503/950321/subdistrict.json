@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9503212005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Hombuka",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Illion",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Konosa",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Kosarek",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Mine",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Nahomas",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Silkom",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Tiple",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Uldam",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Wahe",
+    "postal_code": "99756"
+  },
+  {
+    "id": 9503212009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950321,
+    "value": "Wesaltek",
+    "postal_code": "99756"
+  }
+]

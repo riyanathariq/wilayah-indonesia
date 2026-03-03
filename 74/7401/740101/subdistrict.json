@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7401011001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "19 Nopember",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401012007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Bende",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401011004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Kowioha",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401011003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Lamekongga",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401011011,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Ngapa",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401012010,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Sabiona (Sabiano)",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401011005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Silea",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401012009,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Tikonu",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401012006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Towua (Towua I)",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401012008,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Unamendaa (Una Mendaa)",
+    "postal_code": "93560"
+  },
+  {
+    "id": 7401011002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740101,
+    "value": "Wundulako",
+    "postal_code": "93560"
+  }
+]

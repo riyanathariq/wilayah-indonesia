@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7104182007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Matahit",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Niampak",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Niampak Utara",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Pampalu (Papmpalu)",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Rusoh (Russoh/Ruso)",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Tarohan",
+    "postal_code": "95877"
+  },
+  {
+    "id": 7104182006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710418,
+    "value": "Tarohan Selatan",
+    "postal_code": "95877"
+  }
+]

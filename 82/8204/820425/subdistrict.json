@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204252001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Gonone",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Kakupang (Kukupang)",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Kurunga",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Liboba Hijrah",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Pulau Gala",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Tawabi",
+    "postal_code": "97786"
+  },
+  {
+    "id": 8204252007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820425,
+    "value": "Yomen",
+    "postal_code": "97786"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1371041002,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Air Tawar Barat",
+    "postal_code": "25132"
+  },
+  {
+    "id": 1371041001,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Air Tawar Timur",
+    "postal_code": "25132"
+  },
+  {
+    "id": 1371041006,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Alai Parak Kopi",
+    "postal_code": "25139"
+  },
+  {
+    "id": 1371041007,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Gunung Pangilun",
+    "postal_code": "25137"
+  },
+  {
+    "id": 1371041005,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Lolong Belanti",
+    "postal_code": "25136"
+  },
+  {
+    "id": 1371041004,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Ulak Karang Selatan",
+    "postal_code": "25134"
+  },
+  {
+    "id": 1371041003,
+    "province_id": 13,
+    "regency_id": 1371,
+    "district_id": 137104,
+    "value": "Ulak Karang Utara",
+    "postal_code": "25133"
+  }
+]

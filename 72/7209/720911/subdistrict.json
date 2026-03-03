@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7209112001,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Bomba",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112007,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Kambutu",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112004,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Kulingkinari",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112008,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Lindo",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209112003,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Malino",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112002,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Molowagu",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112009,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Patoyan",
+    "postal_code": "94690"
+  },
+  {
+    "id": 7209112006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Siatu",
+    "postal_code": "94691"
+  },
+  {
+    "id": 7209112005,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720911,
+    "value": "Tumbulawa",
+    "postal_code": "94691"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6107112004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Aris",
+    "postal_code": "79271"
+  },
+  {
+    "id": 6107112001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Capkala",
+    "postal_code": "79271"
+  },
+  {
+    "id": 6107112002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Mandor",
+    "postal_code": "79271"
+  },
+  {
+    "id": 6107112006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Pawangi",
+    "postal_code": "79271"
+  },
+  {
+    "id": 6107112005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Sebandut (Sabandut)",
+    "postal_code": "79271"
+  },
+  {
+    "id": 6107112003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610711,
+    "value": "Setanduk",
+    "postal_code": "79271"
+  }
+]

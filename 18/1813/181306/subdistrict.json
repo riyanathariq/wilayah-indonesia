@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1813062003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Bandar Dalam",
+    "postal_code": "34896"
+  },
+  {
+    "id": 1813062002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Labuhan",
+    "postal_code": "34896"
+  },
+  {
+    "id": 1813062001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Pasar Pulaupisang (Pasar Pulau Pisang)",
+    "postal_code": "34896"
+  },
+  {
+    "id": 1813062004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Pekon Lok",
+    "postal_code": "34896"
+  },
+  {
+    "id": 1813062006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Suka Marga (Sukamarga)",
+    "postal_code": "34896"
+  },
+  {
+    "id": 1813062005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181306,
+    "value": "Sukadana",
+    "postal_code": "34896"
+  }
+]

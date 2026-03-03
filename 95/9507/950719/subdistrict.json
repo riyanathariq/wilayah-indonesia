@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507192010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Giruwi",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Golo",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Golomi",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Kiludo",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Milidi",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Uniwani",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Wiringgambut",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Wuluwebur",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Yiwili",
+    "postal_code": "99582"
+  },
+  {
+    "id": 9507192004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950719,
+    "value": "Yugumobur",
+    "postal_code": "99582"
+  }
+]

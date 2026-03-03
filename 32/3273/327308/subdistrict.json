@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3273081002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327308,
+    "value": "Ciumbuleuit",
+    "postal_code": "40142"
+  },
+  {
+    "id": 3273081001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327308,
+    "value": "Hegarmanah",
+    "postal_code": "40141"
+  },
+  {
+    "id": 3273081003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327308,
+    "value": "Ledeng",
+    "postal_code": "40143"
+  }
+]

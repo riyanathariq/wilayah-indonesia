@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9171011007,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Angkasapura",
+    "postal_code": "99113"
+  },
+  {
+    "id": 9171011002,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Bayangkara (Bhayangkara)",
+    "postal_code": "99112"
+  },
+  {
+    "id": 9171011001,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Gurabesi",
+    "postal_code": "99111"
+  },
+  {
+    "id": 9171011004,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Imbi",
+    "postal_code": "99116"
+  },
+  {
+    "id": 9171012008,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Kayo Batu",
+    "postal_code": "99118"
+  },
+  {
+    "id": 9171011006,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Mandala",
+    "postal_code": "99115"
+  },
+  {
+    "id": 9171011005,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Tanjung Ria",
+    "postal_code": "99117"
+  },
+  {
+    "id": 9171011003,
+    "province_id": 91,
+    "regency_id": 9171,
+    "district_id": 917101,
+    "value": "Trikora",
+    "postal_code": "99114"
+  }
+]

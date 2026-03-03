@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7102192003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Karumenga",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Taraitak",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Taraitak Satu",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Tempang (Tempang I)",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Tempang II",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Tempang III",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Toraget",
+    "postal_code": "95697"
+  },
+  {
+    "id": 7102192001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710219,
+    "value": "Walantakan",
+    "postal_code": "95697"
+  }
+]

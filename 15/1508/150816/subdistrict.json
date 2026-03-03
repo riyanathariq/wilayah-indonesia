@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1508162002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Aur Gading",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Bukit Sari",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Kuamang",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Lubuk Tenam",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Pulau Batu",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Sari Mulya",
+    "postal_code": "37257"
+  },
+  {
+    "id": 1508162001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150816,
+    "value": "Tepian Danto",
+    "postal_code": "37257"
+  }
+]

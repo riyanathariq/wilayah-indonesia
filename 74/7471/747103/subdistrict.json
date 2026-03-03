@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7471031001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747103,
+    "value": "Baruga",
+    "postal_code": "93116"
+  },
+  {
+    "id": 7471031002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747103,
+    "value": "Lepo Lepo",
+    "postal_code": "93116"
+  },
+  {
+    "id": 7471031007,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747103,
+    "value": "Watubangga",
+    "postal_code": "93116"
+  },
+  {
+    "id": 7471031008,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747103,
+    "value": "Wundudopi",
+    "postal_code": "93116"
+  }
+]

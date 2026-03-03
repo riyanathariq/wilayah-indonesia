@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3312162003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Bugelan",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Gambiranom",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Gedawung",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312161008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Gesing",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312161005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Kismantoro",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Lemahbang",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Miri",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Ngroto",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Plosorejo",
+    "postal_code": "57696"
+  },
+  {
+    "id": 3312162001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331216,
+    "value": "Pucung",
+    "postal_code": "57696"
+  }
+]

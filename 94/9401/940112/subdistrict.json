@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9401122001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940112,
+    "value": "Bumi Raya",
+    "postal_code": "98856"
+  },
+  {
+    "id": 9401122003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940112,
+    "value": "Gerbang Sadu",
+    "postal_code": "98856"
+  },
+  {
+    "id": 9401122004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940112,
+    "value": "Kali Semen (Kalisemen)",
+    "postal_code": "98856"
+  },
+  {
+    "id": 9401122005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940112,
+    "value": "Wadio",
+    "postal_code": "98856"
+  },
+  {
+    "id": 9401122002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940112,
+    "value": "Waroki",
+    "postal_code": "98856"
+  }
+]

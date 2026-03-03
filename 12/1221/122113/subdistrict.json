@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1221132013,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Binabo Jae",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Binabo Julu",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Hasahatan Jae",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Hasahatan Julu",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Limbong",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Mompang",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Saba Rimba/Riba",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Sabahotang",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Sigorbus Jae",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Sigorbus Julu",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Simaninggir",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Siolip",
+    "postal_code": "22763"
+  },
+  {
+    "id": 1221132007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122113,
+    "value": "Sitarolo Julu",
+    "postal_code": "22763"
+  }
+]

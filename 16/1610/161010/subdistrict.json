@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1610102011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Arisan Jaya",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Kamal",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Pulau Negara",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Sarang Elang (Saranglang)",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Seribanding (Seri Bandung)",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Suka Merindu",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Talang Pangeran Ilir",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Talang Pangeran Ulu",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Ulak Kembahang I",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Ulak Kembahang II",
+    "postal_code": "30653"
+  },
+  {
+    "id": 1610102007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161010,
+    "value": "Ulak Petangisan",
+    "postal_code": "30653"
+  }
+]

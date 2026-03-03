@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3174061001,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317406,
+    "value": "Cilandak Barat",
+    "postal_code": "12430"
+  },
+  {
+    "id": 3174061005,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317406,
+    "value": "Cipete Selatan",
+    "postal_code": "12410"
+  },
+  {
+    "id": 3174061004,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317406,
+    "value": "Gandaria Selatan",
+    "postal_code": "12420"
+  },
+  {
+    "id": 3174061002,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317406,
+    "value": "Lebak Bulus",
+    "postal_code": "12440"
+  },
+  {
+    "id": 3174061003,
+    "province_id": 31,
+    "regency_id": 3174,
+    "district_id": 317406,
+    "value": "Pondok Labu",
+    "postal_code": "12450"
+  }
+]

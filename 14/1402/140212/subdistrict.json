@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1402122009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Air Putih",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122005,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Kulim Jaya",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122003,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Lubuk Batu Tinggal",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122002,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Pondok Gelugur",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Pontian Mekar",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122001,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Rimpian",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122004,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Sei Beberas Hilir (Sei Beras Hilir)",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122006,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Sei Beras-Beras",
+    "postal_code": "29350"
+  },
+  {
+    "id": 1402122007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140212,
+    "value": "Tasik Juang",
+    "postal_code": "29350"
+  }
+]

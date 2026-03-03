@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1407162006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Akar Belingkar",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Perkebunan Tanjung Medan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Pondok Kresek",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Sei Meranti",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Sei Meranti Darussalam",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Sri Kayangan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Sungai Tapah",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Tangga Batu",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Tanjung Medan",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Tanjung Medan Barat",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Tanjung Medan Utara",
+    "postal_code": "28983"
+  },
+  {
+    "id": 1407162012,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140716,
+    "value": "Tanjung Sari",
+    "postal_code": "28983"
+  }
+]

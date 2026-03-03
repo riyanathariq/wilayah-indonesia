@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3508132005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Dadapan",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Gucialit",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Jeruk",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Kenongo",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Kertowono",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Pakel",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Sombo",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Tunjung",
+    "postal_code": "67353"
+  },
+  {
+    "id": 3508132001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350813,
+    "value": "Wonokerto",
+    "postal_code": "67353"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6407132006,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Bakung",
+    "postal_code": "75763"
+  },
+  {
+    "id": 6407132001,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Loa Deras",
+    "postal_code": "75763"
+  },
+  {
+    "id": 6407132002,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Minta",
+    "postal_code": "75763"
+  },
+  {
+    "id": 6407132004,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Penyinggahan Ilir",
+    "postal_code": "75763"
+  },
+  {
+    "id": 6407132005,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Penyinggahan Ulu",
+    "postal_code": "75763"
+  },
+  {
+    "id": 6407132003,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640713,
+    "value": "Tanjung Haur",
+    "postal_code": "75763"
+  }
+]

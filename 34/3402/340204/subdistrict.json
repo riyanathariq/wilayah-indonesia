@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3402042002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340204,
+    "value": "Panjangrejo",
+    "postal_code": "55771"
+  },
+  {
+    "id": 3402042001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340204,
+    "value": "Seloharjo",
+    "postal_code": "55771"
+  },
+  {
+    "id": 3402042003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340204,
+    "value": "Srihardono",
+    "postal_code": "55771"
+  }
+]

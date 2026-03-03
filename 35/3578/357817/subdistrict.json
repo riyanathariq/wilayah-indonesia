@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578171003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357817,
+    "value": "Bulak Banteng",
+    "postal_code": "60127"
+  },
+  {
+    "id": 3578171002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357817,
+    "value": "Sidotopo/Sidoropo Wetan",
+    "postal_code": "60128"
+  },
+  {
+    "id": 3578171004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357817,
+    "value": "Tambak Wedi",
+    "postal_code": "60126"
+  },
+  {
+    "id": 3578171001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357817,
+    "value": "Tanah Kali Kedinding",
+    "postal_code": "60129"
+  }
+]

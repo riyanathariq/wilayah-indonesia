@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3512102002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Curah Cotok (Corak Cotok)",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102009,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Gebangan",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Kandang",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Kapongan",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Kesambirampak (Kesambi Rampak)",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Landangan",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Peleyan",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102010,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Pokaan (Poka'an)",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Seletreng",
+    "postal_code": "68362"
+  },
+  {
+    "id": 3512102004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351210,
+    "value": "Wonokoyo",
+    "postal_code": "68362"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7315022003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Lero",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022008,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Lotang Salo",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Maritengngae",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022010,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Polewali",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Tasiwalie",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315021002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Tellumpanua",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022009,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Ujung Labuang",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Watang Pulu",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315021001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Watang Suppa",
+    "postal_code": "91273"
+  },
+  {
+    "id": 7315022007,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731502,
+    "value": "Wiring Tasi (Wiringtasi)",
+    "postal_code": "91273"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1805232002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Gedung Asri",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Gedung Harapan",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Gedung Rejo Sakti",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Karya Makmur",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Panca Tunggal Jaya",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Pasar Batang",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Suka Makmur",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Sumber Sari",
+    "postal_code": "34592"
+  },
+  {
+    "id": 1805232007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180523,
+    "value": "Wono Rejo",
+    "postal_code": "34592"
+  }
+]

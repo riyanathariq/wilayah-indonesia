@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201442002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Bagun",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442007,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Bratmawe",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Disfra",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Klakwonrit",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Klamomis",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Klawom",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442008,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Klawon",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442009,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Mlamli",
+    "postal_code": "98431"
+  },
+  {
+    "id": 9201442006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920144,
+    "value": "Mode",
+    "postal_code": "98431"
+  }
+]

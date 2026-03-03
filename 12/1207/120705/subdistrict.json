@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1207052024,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Baru (Desa Baru)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Bintang Meriah",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Dorin Tonggal (Durin Tunggal)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052019,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Durin Jangak (Durian Jangak)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Durin Simbelang (Durin Simbelang A)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052017,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Gunung Tinggi",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Hulu (Kampung Hulu)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052014,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Lama",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Namo Bintang",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Namo Riam",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Namo Simpur",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Namorih (Namo Rih)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Pertampilan (Pertampilen)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052025,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Perumnas Simalingkar",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Salam Tani",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052022,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Sei Glugur (Gelugur)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052020,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Sembahe Baru",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Simalingkar A",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Sugou (Sugau)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052023,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Suka Raya",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052021,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Tanjung Anom",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Tengah (Kampung Tengah)",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Tiang Layar",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052016,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Tuntungan I",
+    "postal_code": "20353"
+  },
+  {
+    "id": 1207052018,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120705,
+    "value": "Tuntungan II",
+    "postal_code": "20353"
+  }
+]

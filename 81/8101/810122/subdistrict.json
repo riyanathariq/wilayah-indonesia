@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8101222003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810122,
+    "value": "Allang",
+    "postal_code": "97581"
+  },
+  {
+    "id": 8101222005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810122,
+    "value": "Hatu",
+    "postal_code": "97581"
+  },
+  {
+    "id": 8101222001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810122,
+    "value": "Larike",
+    "postal_code": "97581"
+  },
+  {
+    "id": 8101222004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810122,
+    "value": "Liliboy (Liliboi)",
+    "postal_code": "97581"
+  },
+  {
+    "id": 8101222002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810122,
+    "value": "Wakasihu",
+    "postal_code": "97581"
+  }
+]

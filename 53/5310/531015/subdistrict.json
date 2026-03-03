@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5310152006,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Bangka Dese",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152001,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Bangka Lelak",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152009,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Bangka Tonggur",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152002,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Gelong",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152004,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Ketang",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152010,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Lentang",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152007,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Nati",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152008,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Ndiwar",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152005,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Pong Umpu (Pong Ompu)",
+    "postal_code": "86521"
+  },
+  {
+    "id": 5310152003,
+    "province_id": 53,
+    "regency_id": 5310,
+    "district_id": 531015,
+    "value": "Urang",
+    "postal_code": "86521"
+  }
+]

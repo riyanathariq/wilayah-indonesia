@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7171031004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Karame",
+    "postal_code": "95231"
+  },
+  {
+    "id": 7171031005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Ketang Baru",
+    "postal_code": "95232"
+  },
+  {
+    "id": 7171031007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Kombos Barat",
+    "postal_code": "95234"
+  },
+  {
+    "id": 7171031008,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Kombos Timur",
+    "postal_code": "95234"
+  },
+  {
+    "id": 7171031002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Singkil Dua",
+    "postal_code": "95234"
+  },
+  {
+    "id": 7171031001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Singkil Satu",
+    "postal_code": "95234"
+  },
+  {
+    "id": 7171031006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Ternate Baru",
+    "postal_code": "95232"
+  },
+  {
+    "id": 7171031009,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Ternate Tanjung",
+    "postal_code": "95234"
+  },
+  {
+    "id": 7171031003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717103,
+    "value": "Wawonasa",
+    "postal_code": "95231"
+  }
+]

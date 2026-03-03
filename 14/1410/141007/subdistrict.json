@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1410072010,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Batin Suir",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072007,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Kepau Baru",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072001,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Lukun",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072003,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Nipah Sendanu",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072009,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Sendanu Darul Ihsan",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072002,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Sungai Tohor",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072008,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Sungai Tohor Barat",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072005,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Tanjung Gadai",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072004,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Tanjung Sari",
+    "postal_code": "28754"
+  },
+  {
+    "id": 1410072006,
+    "province_id": 14,
+    "regency_id": 1410,
+    "district_id": 141007,
+    "value": "Teluk Buntal",
+    "postal_code": "28754"
+  }
+]

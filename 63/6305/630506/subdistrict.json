@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6305062005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Batalas",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Buas Buas",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062012,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Buas Buas Hilir",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Keladan (Kaladan)",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Margasari Hilir (Margasari Ilir)",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Pariok",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Rawana",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062013,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Rawana Hulu",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062010,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Sawaja",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062009,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Sei/Sungai Puting",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Sungai Selai (Sei / Sungai Salai)",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062011,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Sungai Selai Hilir (Sei / Sungai Salai Hilir)",
+    "postal_code": "71171"
+  },
+  {
+    "id": 6305062008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630506,
+    "value": "Teluk Haur",
+    "postal_code": "71171"
+  }
+]

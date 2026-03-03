@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1706112006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Dusun Baru Pelokan",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Lubuk Sanai",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Lubuk Sanai II",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Lubuk Sanai III",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Pauh Tarenja (Pauh Terenjah)",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Rawa Bangun",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Rawa Mulya",
+    "postal_code": "38755"
+  },
+  {
+    "id": 1706112004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170611,
+    "value": "Tanjung Mulya",
+    "postal_code": "38755"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9502212005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Autpahik",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Bomding",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Honkuding",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Okdilam",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Okdunam",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Okhaka",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Okma",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Okpa",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Oktae",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212012,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Paune",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Tinibil",
+    "postal_code": "99426"
+  },
+  {
+    "id": 9502212006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950221,
+    "value": "Tomka",
+    "postal_code": "99426"
+  }
+]

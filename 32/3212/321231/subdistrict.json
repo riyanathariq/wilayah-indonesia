@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3212312007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Arjasari",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Bugel",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Limpas",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Mekarsari",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Patrol",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Patrol Baru",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Patrol Lor (Patrollor)",
+    "postal_code": "45257"
+  },
+  {
+    "id": 3212312008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321231,
+    "value": "Sukahaji",
+    "postal_code": "45257"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8204092001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Indari",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092030,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Kokotu",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092017,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Kusubibi",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092018,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Nang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092016,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Nondang",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092014,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Tawabi",
+    "postal_code": "97791"
+  },
+  {
+    "id": 8204092015,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820409,
+    "value": "Wiring",
+    "postal_code": "97791"
+  }
+]

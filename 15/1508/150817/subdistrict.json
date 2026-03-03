@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1508172006,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Embacang Gedang",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172003,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Lubuk Landai",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172008,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Paku Aji",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172009,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Pematang Panjang",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172004,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Rantau Embacang",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172012,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Rantau Makmur",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172010,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Sungai Lilin",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172001,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Sungai Mancur",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172007,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Sungai Puri",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172011,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Sungai Tembang",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172002,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Tanah Periuk",
+    "postal_code": "37264"
+  },
+  {
+    "id": 1508172005,
+    "province_id": 15,
+    "regency_id": 1508,
+    "district_id": 150817,
+    "value": "Tebing Tinggi",
+    "postal_code": "37264"
+  }
+]

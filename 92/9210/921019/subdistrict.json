@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9210192004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Frabo",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Karfa",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Kona",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Kosah",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Mapura",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Suwiam",
+    "postal_code": "98249"
+  },
+  {
+    "id": 9210192003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921019,
+    "value": "Tomase",
+    "postal_code": "98249"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1106222006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Dayah Mamplam (Deah Mamplam)",
+    "postal_code": "23353"
+  },
+  {
+    "id": 1106222003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Lamsenia (Lamseunia)",
+    "postal_code": "23353"
+  },
+  {
+    "id": 1106222001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Layeun",
+    "postal_code": "23353"
+  },
+  {
+    "id": 1106222005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Meunasah Bak U (Meunasah Bak Ue)",
+    "postal_code": "23353"
+  },
+  {
+    "id": 1106222004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Meunasah Mesjid (Mesjid Leupung)",
+    "postal_code": "23353"
+  },
+  {
+    "id": 1106222002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110622,
+    "value": "Pulot",
+    "postal_code": "23353"
+  }
+]

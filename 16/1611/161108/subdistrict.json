@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1611082002,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Bandaraji (Bandar Aji)",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082011,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Karang Anyar",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082005,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Karang Dapo Baru",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082006,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Karang Dapo Lama",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082004,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Karang Gede",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082010,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Martapura (Marta Pura)",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082003,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Paduraksa",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082001,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Puntang",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082007,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Tanggarasa (Tangga Rasa)",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082008,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Tapa Baru",
+    "postal_code": "31594"
+  },
+  {
+    "id": 1611082009,
+    "province_id": 16,
+    "regency_id": 1611,
+    "district_id": 161108,
+    "value": "Tapa Lama",
+    "postal_code": "31594"
+  }
+]

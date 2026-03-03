@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3510171002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Boyolangu",
+    "postal_code": "68424"
+  },
+  {
+    "id": 3510171005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Giri",
+    "postal_code": "68423"
+  },
+  {
+    "id": 3510172006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Grogol",
+    "postal_code": "68425"
+  },
+  {
+    "id": 3510172001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Jambesari",
+    "postal_code": "68425"
+  },
+  {
+    "id": 3510171003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Mojopanggung",
+    "postal_code": "68425"
+  },
+  {
+    "id": 3510171004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351017,
+    "value": "Penataban",
+    "postal_code": "68422"
+  }
+]

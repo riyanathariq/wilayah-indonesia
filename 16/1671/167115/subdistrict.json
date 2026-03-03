@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1671151001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167115,
+    "value": "Alang Alang Lebar",
+    "postal_code": "30154"
+  },
+  {
+    "id": 1671151004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167115,
+    "value": "Karya Baru",
+    "postal_code": "30151"
+  },
+  {
+    "id": 1671151002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167115,
+    "value": "Sri Jaya (Srijaya)",
+    "postal_code": "30153"
+  },
+  {
+    "id": 1671151003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167115,
+    "value": "Talang Kelapa",
+    "postal_code": "30151"
+  }
+]

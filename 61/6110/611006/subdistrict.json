@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6110062016,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Bata Luar",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062001,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Batu Begigi",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062004,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Bina Jaya",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062005,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Bina Karya",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062022,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Keranjik",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062002,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Loka Jaya",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062006,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Madong Jaya (Madong Raya)",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062017,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Maris Permai",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062019,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Pelita Kenaya (Pelita Kanaya)",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062003,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Suka Maju",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062020,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Tanjung Beringin Raya",
+    "postal_code": "79674"
+  },
+  {
+    "id": 6110062021,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611006,
+    "value": "Tanjung Gunung",
+    "postal_code": "79674"
+  }
+]

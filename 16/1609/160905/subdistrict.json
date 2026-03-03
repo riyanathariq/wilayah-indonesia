@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1609052010,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Bungin Campang",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052001,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Karang Agung",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052007,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Lubar",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052029,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Simpang Agung",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052009,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Simpangan",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052030,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Sinar Mulyo",
+    "postal_code": "32263"
+  },
+  {
+    "id": 1609052008,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160905,
+    "value": "Tanjung Sari",
+    "postal_code": "32263"
+  }
+]

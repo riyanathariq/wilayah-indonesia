@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9508132002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950813,
+    "value": "Maima",
+    "postal_code": "99918"
+  },
+  {
+    "id": 9508132003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950813,
+    "value": "Nolo",
+    "postal_code": "99918"
+  },
+  {
+    "id": 9508132004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950813,
+    "value": "Wuarem",
+    "postal_code": "99918"
+  },
+  {
+    "id": 9508132001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950813,
+    "value": "Yenggelo",
+    "postal_code": "99918"
+  }
+]

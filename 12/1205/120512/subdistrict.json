@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1205122011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Banjar Jaya",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Besilam",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122012,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Bukit Sari",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Buluh Telang",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Jati Sari",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Kwala Besilam (Kwala Pesilam / Kuala Besilam)",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Padang Tualang",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Serapuh Abc",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Suka Ramai",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Tanjung Putus",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205121006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Tanjung Selamat",
+    "postal_code": "20850"
+  },
+  {
+    "id": 1205122007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120512,
+    "value": "Tebing Tanjung Selamat",
+    "postal_code": "20850"
+  }
+]

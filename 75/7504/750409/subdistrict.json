@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7504092005,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Buntulia Tengah",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092004,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Buntulia Utara",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092001,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Hulawa",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092002,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Karya Indah",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092007,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Sipatana",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092003,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Taluduyunu",
+    "postal_code": "96363"
+  },
+  {
+    "id": 7504092006,
+    "province_id": 75,
+    "regency_id": 7504,
+    "district_id": 750409,
+    "value": "Taluduyunu Utara",
+    "postal_code": "96363"
+  }
+]

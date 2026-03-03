@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1103042006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Afeling II Bukit (Afdeling II Bukit / Buket)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Buloh/Baloh",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Canang",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Drien",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042023,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Gadeng",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042024,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Gadeng Dua",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042012,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Gadeng Sa (Alue Gadeng Satu)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042027,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Nyamoek (Alue Nyamuk)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042025,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Sentang",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Alue Teh",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042019,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Aramiyah",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042018,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Bayeun",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Benteng",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042022,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Birem Rayeuk",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042020,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Blang Tualang",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042021,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Buket Seuleumak",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Buket Tiga",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Jambo Labu",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042017,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Keude Birem",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Keumuneng Hulu (Kemuning Hulu)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042026,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Merbau II (Merbou Dua)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042014,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Paya Bili II (Dua)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042015,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Paya Bili Sa (Paya Bili I / Satu)",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042016,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Paya Peulawi",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Paya Rambong",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042013,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Paya Tampah",
+    "postal_code": "24452"
+  },
+  {
+    "id": 1103042008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110304,
+    "value": "Peutow",
+    "postal_code": "24452"
+  }
+]

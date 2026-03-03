@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3403152003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Jetis",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Kanigoro",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Kepek",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Krambilsawit (Krambil Sawit)",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Monggol",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Ngloro (Nglora)",
+    "postal_code": "55870"
+  },
+  {
+    "id": 3403152007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340315,
+    "value": "Planjan",
+    "postal_code": "55870"
+  }
+]

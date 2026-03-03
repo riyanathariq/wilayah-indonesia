@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9502312010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Bautme",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Maigame",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Murme",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Sinami / Sinani (Yuaban)",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Teiraplu",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Terapdei",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Teriame",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Yitarget",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Yuaban Dua",
+    "postal_code": "99405"
+  },
+  {
+    "id": 9502312005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950231,
+    "value": "Yuaban Satu",
+    "postal_code": "99405"
+  }
+]

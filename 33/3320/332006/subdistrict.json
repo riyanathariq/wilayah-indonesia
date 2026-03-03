@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3320062016,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Bandengan",
+    "postal_code": "59432"
+  },
+  {
+    "id": 3320061004,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Bapangan",
+    "postal_code": "59413"
+  },
+  {
+    "id": 3320061008,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Bulu",
+    "postal_code": "59418"
+  },
+  {
+    "id": 3320061002,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Demaan",
+    "postal_code": "59419"
+  },
+  {
+    "id": 3320061009,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Jobokuto",
+    "postal_code": "59416"
+  },
+  {
+    "id": 3320061001,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Karangkebagusan",
+    "postal_code": "59411"
+  },
+  {
+    "id": 3320061007,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Kauman",
+    "postal_code": "59417"
+  },
+  {
+    "id": 3320062014,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Kedungcino",
+    "postal_code": "59432"
+  },
+  {
+    "id": 3320062015,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Kuwasen",
+    "postal_code": "59431"
+  },
+  {
+    "id": 3320062012,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Mulyoharjo",
+    "postal_code": "59431"
+  },
+  {
+    "id": 3320061006,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Panggang",
+    "postal_code": "59411"
+  },
+  {
+    "id": 3320061011,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Pengkol",
+    "postal_code": "59415"
+  },
+  {
+    "id": 3320061003,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Potroyudan",
+    "postal_code": "59412"
+  },
+  {
+    "id": 3320061005,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Saripan",
+    "postal_code": "59414"
+  },
+  {
+    "id": 3320061010,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Ujungbatu",
+    "postal_code": "59416"
+  },
+  {
+    "id": 3320062013,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332006,
+    "value": "Wonorejo",
+    "postal_code": "59431"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3404142001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Banyurejo (Banyu Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142007,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Lumbungrejo (Lumbung Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142006,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Margorejo (Margo Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142008,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Merdikorejo (Merdiko Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142005,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Mororejo (Moro Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Pondokrejo (Pondok Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Sumberrejo (Sumber Rejo)",
+    "postal_code": "55552"
+  },
+  {
+    "id": 3404142002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340414,
+    "value": "Tambakrejo (Tambak Rejo)",
+    "postal_code": "55552"
+  }
+]

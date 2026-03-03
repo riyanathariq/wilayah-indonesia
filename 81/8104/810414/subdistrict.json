@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8104142001,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810414,
+    "value": "Kaiely (Kayeli)",
+    "postal_code": "97577"
+  },
+  {
+    "id": 8104142004,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810414,
+    "value": "Kaki Air",
+    "postal_code": "97577"
+  },
+  {
+    "id": 8104142002,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810414,
+    "value": "Masarete",
+    "postal_code": "97577"
+  },
+  {
+    "id": 8104142005,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810414,
+    "value": "Seith",
+    "postal_code": "97577"
+  },
+  {
+    "id": 8104142003,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810414,
+    "value": "Waelapia",
+    "postal_code": "97577"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1273041004,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127304,
+    "value": "Pancuran Bambu",
+    "postal_code": "22535"
+  },
+  {
+    "id": 1273041002,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127304,
+    "value": "Pancuran Dewa",
+    "postal_code": "22532"
+  },
+  {
+    "id": 1273041001,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127304,
+    "value": "Pancuran Kerambil",
+    "postal_code": "22531"
+  },
+  {
+    "id": 1273041003,
+    "province_id": 12,
+    "regency_id": 1273,
+    "district_id": 127304,
+    "value": "Pancuran Pinang",
+    "postal_code": "22534"
+  }
+]

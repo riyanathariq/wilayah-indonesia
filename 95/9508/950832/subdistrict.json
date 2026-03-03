@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9508322003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950832,
+    "value": "Benggem",
+    "postal_code": "99927"
+  },
+  {
+    "id": 9508322001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950832,
+    "value": "Mandala",
+    "postal_code": "99927"
+  },
+  {
+    "id": 9508322004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950832,
+    "value": "Pasir Putih",
+    "postal_code": "99927"
+  },
+  {
+    "id": 9508322002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950832,
+    "value": "Trim",
+    "postal_code": "99927"
+  }
+]

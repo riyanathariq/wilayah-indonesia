@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5202102006,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Batunyala",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102005,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Beraim",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102011,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Dakung",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202101001,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Gerantung",
+    "postal_code": "83523"
+  },
+  {
+    "id": 5202101002,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Jontlak",
+    "postal_code": "83513"
+  },
+  {
+    "id": 5202102004,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Jurang Jaler",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102009,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Kelebuh",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102007,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Lajut",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102013,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Lelong",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102010,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Pejanggik",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102008,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Pengadang",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202102012,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Prai Meke",
+    "postal_code": "83582"
+  },
+  {
+    "id": 5202101003,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520210,
+    "value": "Sasake",
+    "postal_code": "83582"
+  }
+]

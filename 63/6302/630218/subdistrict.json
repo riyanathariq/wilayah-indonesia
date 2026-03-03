@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6302182003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Batang Kulur",
+    "postal_code": "72164"
+  },
+  {
+    "id": 6302182002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Bungkukan",
+    "postal_code": "72164"
+  },
+  {
+    "id": 6302182005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Magalau Hilir",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302182006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Magalau Hulu",
+    "postal_code": "72167"
+  },
+  {
+    "id": 6302182001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Siayuh (Si Ayuh)",
+    "postal_code": "72164"
+  },
+  {
+    "id": 6302182004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630218,
+    "value": "Tanjung Sari",
+    "postal_code": "72164"
+  }
+]

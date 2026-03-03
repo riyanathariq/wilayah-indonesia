@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7601052002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760105,
+    "value": "Benggaulu",
+    "postal_code": "91581"
+  },
+  {
+    "id": 7601052004,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760105,
+    "value": "Bulu Bonggu",
+    "postal_code": "91581"
+  },
+  {
+    "id": 7601052001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760105,
+    "value": "Dapurang",
+    "postal_code": "91581"
+  },
+  {
+    "id": 7601052005,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760105,
+    "value": "Sarasa (Serasa)",
+    "postal_code": "91581"
+  },
+  {
+    "id": 7601052003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760105,
+    "value": "Tirtabuana (Tirta Buana)",
+    "postal_code": "91581"
+  }
+]

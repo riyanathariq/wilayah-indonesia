@@ -1,0 +1,122 @@
+[
+  {
+    "id": 7302102013,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Anrang",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102006,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Baji Minasa (Bajiminasa)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102009,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Batukaroppa",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102003,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bonto Bangun (Bontobangun)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102010,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bonto Haru (Bontoharu)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102005,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bonto Lohe (Bontolohe)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102001,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bonto Manai (Bontomanai)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102007,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bonto Matene",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102012,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Bulo Lohe (Bulolohe)",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102004,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Karama",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302101002,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Palampang",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102014,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Pangalloang",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102011,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Swatani",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102008,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Tanah Harapan",
+    "postal_code": "92553"
+  },
+  {
+    "id": 7302102015,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730210,
+    "value": "Topanda",
+    "postal_code": "92553"
+  }
+]

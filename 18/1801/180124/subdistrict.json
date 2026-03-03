@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1801242004,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180124,
+    "value": "Bali Nuraga",
+    "postal_code": "35354"
+  },
+  {
+    "id": 1801242001,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180124,
+    "value": "Sidoharjo (Sido Harjo)",
+    "postal_code": "35354"
+  },
+  {
+    "id": 1801242002,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180124,
+    "value": "Sidomakmur (Sido Makmur)",
+    "postal_code": "35354"
+  },
+  {
+    "id": 1801242003,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180124,
+    "value": "Sidoreno (Sido Reno)",
+    "postal_code": "35354"
+  }
+]

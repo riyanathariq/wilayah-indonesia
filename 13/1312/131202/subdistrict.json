@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1312022002,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Brastagi Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022005,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Koto Gunung Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Koto Sawah Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022008,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Kuamang Alai Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Salido Saroha Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022009,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Situak Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Taluak Ambun Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Tampus Damai Ujung Gading",
+    "postal_code": "26570"
+  },
+  {
+    "id": 1312022001,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131202,
+    "value": "Ujung Gading",
+    "postal_code": "26570"
+  }
+]

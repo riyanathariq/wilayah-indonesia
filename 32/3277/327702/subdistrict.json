@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3277021001,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Baros",
+    "postal_code": "40521"
+  },
+  {
+    "id": 3277021002,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Cigugur Tengah",
+    "postal_code": "40522"
+  },
+  {
+    "id": 3277021006,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Cimahi",
+    "postal_code": "40525"
+  },
+  {
+    "id": 3277021003,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Karangmekar",
+    "postal_code": "40523"
+  },
+  {
+    "id": 3277021005,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Padasuka",
+    "postal_code": "40526"
+  },
+  {
+    "id": 3277021004,
+    "province_id": 32,
+    "regency_id": 3277,
+    "district_id": 327702,
+    "value": "Setiamanah",
+    "postal_code": "40524"
+  }
+]

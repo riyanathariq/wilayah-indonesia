@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1709112010,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Bukit",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709112004,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Gajah Mati",
+    "postal_code": "38382"
+  },
+  {
+    "id": 1709112002,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Karang Nanding",
+    "postal_code": "38382"
+  },
+  {
+    "id": 1709112011,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Kota Niur",
+    "postal_code": "38388"
+  },
+  {
+    "id": 1709112009,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Lagan",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709112006,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Lagan Bungin",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709112005,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Padang Siring",
+    "postal_code": "38382"
+  },
+  {
+    "id": 1709112001,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Pagar Gunung",
+    "postal_code": "38382"
+  },
+  {
+    "id": 1709112007,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Pagar Jati",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709112003,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Semidang",
+    "postal_code": "38382"
+  },
+  {
+    "id": 1709112008,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170911,
+    "value": "Taba Lagan",
+    "postal_code": "38385"
+  }
+]

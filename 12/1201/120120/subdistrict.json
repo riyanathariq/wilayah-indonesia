@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1201201004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120120,
+    "value": "Pasir Bidang",
+    "postal_code": "22611"
+  },
+  {
+    "id": 1201201005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120120,
+    "value": "Pondok Batu",
+    "postal_code": "22616"
+  },
+  {
+    "id": 1201201002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120120,
+    "value": "Sarudik",
+    "postal_code": "22616"
+  },
+  {
+    "id": 1201201001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120120,
+    "value": "Sibuluan Nalambok",
+    "postal_code": "22616"
+  },
+  {
+    "id": 1201202003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120120,
+    "value": "Sipan",
+    "postal_code": "22616"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1304042001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130404,
+    "value": "Baringin",
+    "postal_code": "27213"
+  },
+  {
+    "id": 1304042004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130404,
+    "value": "Cubadak",
+    "postal_code": "27216"
+  },
+  {
+    "id": 1304042005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130404,
+    "value": "Labuah/Labuh",
+    "postal_code": "27211"
+  },
+  {
+    "id": 1304042002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130404,
+    "value": "Lima Kaum (Limo Kaum)",
+    "postal_code": "27211"
+  },
+  {
+    "id": 1304042003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130404,
+    "value": "Parambahan",
+    "postal_code": "27211"
+  }
+]

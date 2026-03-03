@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9507342002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Gukopi",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Guna",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Keyagalo",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Kori",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Nondinime",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Piwugun",
+    "postal_code": "99567"
+  },
+  {
+    "id": 9507342006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950734,
+    "value": "Wigume",
+    "postal_code": "99567"
+  }
+]

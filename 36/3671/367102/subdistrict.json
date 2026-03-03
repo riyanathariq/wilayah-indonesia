@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3671021006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Alam Jaya",
+    "postal_code": "15133"
+  },
+  {
+    "id": 3671021004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Gandasari",
+    "postal_code": "15137"
+  },
+  {
+    "id": 3671021002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Jatake",
+    "postal_code": "15136"
+  },
+  {
+    "id": 3671021001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Keroncong",
+    "postal_code": "15134"
+  },
+  {
+    "id": 3671021005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Manis Jaya",
+    "postal_code": "15136"
+  },
+  {
+    "id": 3671021003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367102,
+    "value": "Pasir Jaya",
+    "postal_code": "15135"
+  }
+]

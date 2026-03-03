@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2171091001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217109,
+    "value": "Bengkong Indah",
+    "postal_code": "29458"
+  },
+  {
+    "id": 2171091002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217109,
+    "value": "Bengkong Laut",
+    "postal_code": "29458"
+  },
+  {
+    "id": 2171091003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217109,
+    "value": "Sadai",
+    "postal_code": "29432"
+  },
+  {
+    "id": 2171091004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217109,
+    "value": "Tanjung Buntung",
+    "postal_code": "29432"
+  }
+]

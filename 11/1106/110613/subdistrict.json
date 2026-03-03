@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1106132002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Alue Raya",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132016,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Alue Reuyeueng (Riyeung)",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Blang Situngkoh",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132017,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Deudap",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Gugop (Gugob)",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Lampuyang",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Lamteng",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Lapeng",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Lhok (Lhoh)",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Melingge",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Paloh",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132014,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Pasi Janeng",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132015,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Rabo",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Rinon",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Seurapong",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Teunom",
+    "postal_code": "23391"
+  },
+  {
+    "id": 1106132005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110613,
+    "value": "Ulee Paya",
+    "postal_code": "23391"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3207322001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Baregbeg",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Jelat",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Karangampel",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Mekarjaya",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Petirhilir",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Pusakanagara",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Saguling",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Sukamaju",
+    "postal_code": "46274"
+  },
+  {
+    "id": 3207322009,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320732,
+    "value": "Sukamulya",
+    "postal_code": "46274"
+  }
+]

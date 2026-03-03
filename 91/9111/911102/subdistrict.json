@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9111022001,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Arso Kota",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022011,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Asyaman",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022016,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Bagia",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022031,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Bibiosi",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022003,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Kwimi",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022030,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Sawabuun",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022006,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Sawanawa",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022004,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Ubiyau",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022002,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Workwana",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022012,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Yamta",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022010,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Yanamaa",
+    "postal_code": "99471"
+  },
+  {
+    "id": 9111022009,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911102,
+    "value": "Yuwanain",
+    "postal_code": "99471"
+  }
+]

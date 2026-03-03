@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1608172012,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Argomulyo (Argo Mulyo)",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172003,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Banjar Rejo",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172010,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Giri Mulyo",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172007,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Karsa Jaya",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172009,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Karya Makmur",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172011,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Magugondo (Madu Gondo)",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172005,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Margo Koyo",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172004,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Panca Tunggal",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Rejosari",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172013,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Rejosari Jaya",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172002,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Sido Rejo (Sidorejo)",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172006,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Sumber Agung",
+    "postal_code": "32380"
+  },
+  {
+    "id": 1608172008,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160817,
+    "value": "Windusari",
+    "postal_code": "32380"
+  }
+]

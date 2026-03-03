@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1813092009,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Bumi Ratu",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Gedung Cahya Kuningan",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092008,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Muara Tembulih (Mauara Tembulih)",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Negeri Ratu Ngambur",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Pekon Mon",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Suka Banjar",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092007,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Suka Negara (Negara)",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Sumber Agung",
+    "postal_code": "34883"
+  },
+  {
+    "id": 1813092002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181309,
+    "value": "Ulok Mukti",
+    "postal_code": "34883"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578221003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357822,
+    "value": "Dukuh Menanggal",
+    "postal_code": "60234"
+  },
+  {
+    "id": 3578221001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357822,
+    "value": "Gayungan",
+    "postal_code": "60235"
+  },
+  {
+    "id": 3578221004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357822,
+    "value": "Ketintang",
+    "postal_code": "60231"
+  },
+  {
+    "id": 3578221002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357822,
+    "value": "Menanggal",
+    "postal_code": "60234"
+  }
+]

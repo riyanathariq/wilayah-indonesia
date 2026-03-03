@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5203172010,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Banjarsari",
+    "postal_code": "83614"
+  },
+  {
+    "id": 5203171012,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Geres",
+    "postal_code": "83615"
+  },
+  {
+    "id": 5203171007,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Ijobalit",
+    "postal_code": "83615"
+  },
+  {
+    "id": 5203172008,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Kertasari",
+    "postal_code": "83617"
+  },
+  {
+    "id": 5203172006,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Korleko",
+    "postal_code": "83615"
+  },
+  {
+    "id": 5203172011,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Korleko Selatan",
+    "postal_code": "83615"
+  },
+  {
+    "id": 5203172001,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Labuhan Haji",
+    "postal_code": "83616"
+  },
+  {
+    "id": 5203172002,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Peneda Gandor (Penedagandor)",
+    "postal_code": "83617"
+  },
+  {
+    "id": 5203171005,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Suryawangi (Surya Wangi)",
+    "postal_code": "83616"
+  },
+  {
+    "id": 5203171004,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Tanjung",
+    "postal_code": "83614"
+  },
+  {
+    "id": 5203172003,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Teros",
+    "postal_code": "83614"
+  },
+  {
+    "id": 5203172009,
+    "province_id": 52,
+    "regency_id": 5203,
+    "district_id": 520317,
+    "value": "Tirtanadi",
+    "postal_code": "83615"
+  }
+]

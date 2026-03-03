@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9302192001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930219,
+    "value": "Metto",
+    "postal_code": "99652"
+  },
+  {
+    "id": 9302192002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930219,
+    "value": "Obinangge",
+    "postal_code": "99652"
+  },
+  {
+    "id": 9302192004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930219,
+    "value": "Ujungkia",
+    "postal_code": "99652"
+  },
+  {
+    "id": 9302192003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930219,
+    "value": "Watemu",
+    "postal_code": "99652"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1605192004,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Jamburejo",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192008,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Madang",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192006,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Suka Mulya (Sukamulya)",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192007,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sukajaya",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sukamaju",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192009,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sukarami Jaya",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192010,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sumber Asri",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605191002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sumber Harta",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sumber Jaya",
+    "postal_code": "30772"
+  },
+  {
+    "id": 1605192005,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160519,
+    "value": "Sumber Sari",
+    "postal_code": "30772"
+  }
+]

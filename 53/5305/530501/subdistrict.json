@@ -1,0 +1,130 @@
+[
+  {
+    "id": 5305012019,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Adang Buom",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305012015,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Air Kenari",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305011005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Binongko",
+    "postal_code": "85815"
+  },
+  {
+    "id": 5305012013,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Fanating",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305011001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Kalabahi Barat",
+    "postal_code": "85814"
+  },
+  {
+    "id": 5305011002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Kalabahi Kota",
+    "postal_code": "85813"
+  },
+  {
+    "id": 5305011003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Kalabahi Tengah",
+    "postal_code": "85812"
+  },
+  {
+    "id": 5305011004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Kalabahi Timur",
+    "postal_code": "85811"
+  },
+  {
+    "id": 5305012012,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Lendola",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305012014,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Motongbang",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305011010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Mutiara",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305011006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Nusa Kenari",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305012018,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Teluk Kenari",
+    "postal_code": "85819"
+  },
+  {
+    "id": 5305011008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Welai Barat",
+    "postal_code": "85816"
+  },
+  {
+    "id": 5305011009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Welai Timur",
+    "postal_code": "85817"
+  },
+  {
+    "id": 5305011011,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530501,
+    "value": "Wetabua",
+    "postal_code": "85819"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9303152004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Basman",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Kumaban",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Merokima",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Mu",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152007,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Pier",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Sagis",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152008,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Tarwa",
+    "postal_code": "99878"
+  },
+  {
+    "id": 9303152003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930315,
+    "value": "Tugumau",
+    "postal_code": "99878"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1103222011,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Alue Siwah",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Buket Teumpeun",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Buket Tufah",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Cempeudak",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Keude Blang",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Keudondong",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222009,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Paya Kruep",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Seuneubok Panton",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Tunong Bugeng",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222010,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Tunong Paya Kruep",
+    "postal_code": "24454"
+  },
+  {
+    "id": 1103222004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110322,
+    "value": "Tunong Ulee Gajah",
+    "postal_code": "24454"
+  }
+]

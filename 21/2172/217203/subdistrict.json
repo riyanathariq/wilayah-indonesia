@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2172031005,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217203,
+    "value": "Kampung Bugis",
+    "postal_code": "29115"
+  },
+  {
+    "id": 2172031004,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217203,
+    "value": "Penyengat",
+    "postal_code": "29114"
+  },
+  {
+    "id": 2172031003,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217203,
+    "value": "Senggarang",
+    "postal_code": "29111"
+  },
+  {
+    "id": 2172031001,
+    "province_id": 21,
+    "regency_id": 2172,
+    "district_id": 217203,
+    "value": "Tanjung Pinang Kota",
+    "postal_code": "29111"
+  }
+]

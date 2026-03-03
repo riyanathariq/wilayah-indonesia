@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8103092001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810309,
+    "value": "Arma",
+    "postal_code": "97463"
+  },
+  {
+    "id": 8103092003,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810309,
+    "value": "Manglusi",
+    "postal_code": "97463"
+  },
+  {
+    "id": 8103092004,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810309,
+    "value": "Tutukembong",
+    "postal_code": "97463"
+  },
+  {
+    "id": 8103092002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810309,
+    "value": "Watmuri",
+    "postal_code": "97463"
+  },
+  {
+    "id": 8103092005,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810309,
+    "value": "Waturu",
+    "postal_code": "97463"
+  }
+]

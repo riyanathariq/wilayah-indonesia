@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9502202002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950220,
+    "value": "Kotyobakon",
+    "postal_code": "99424"
+  },
+  {
+    "id": 9502202001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950220,
+    "value": "Okelwel",
+    "postal_code": "99424"
+  },
+  {
+    "id": 9502202003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950220,
+    "value": "Okteneng",
+    "postal_code": "99424"
+  },
+  {
+    "id": 9502202004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950220,
+    "value": "Tengnong",
+    "postal_code": "99424"
+  }
+]

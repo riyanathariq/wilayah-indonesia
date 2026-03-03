@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3510032006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Bulurejo",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Glagahagung",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Grajagan",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Karetan",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Kradenan",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Purwoharjo",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Sidorejo",
+    "postal_code": "68483"
+  },
+  {
+    "id": 3510032002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351003,
+    "value": "Sumbersari",
+    "postal_code": "68483"
+  }
+]

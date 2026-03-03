@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1902052002,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Air Batu Buding (Air Batu)",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052001,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Badau",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052005,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Cerucuk",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052007,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Ibul",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052004,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Kacang Butor (Kacang Botor)",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052006,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Pegantungan",
+    "postal_code": "33451"
+  },
+  {
+    "id": 1902052003,
+    "province_id": 19,
+    "regency_id": 1902,
+    "district_id": 190205,
+    "value": "Sungai Samak",
+    "postal_code": "33451"
+  }
+]

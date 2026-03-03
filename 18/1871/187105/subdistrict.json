@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1871051004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187105,
+    "value": "Kebon Jeruk (Kebonjeruk)",
+    "postal_code": "35121"
+  },
+  {
+    "id": 1871051002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187105,
+    "value": "Kota Baru",
+    "postal_code": "35121"
+  },
+  {
+    "id": 1871051006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187105,
+    "value": "Sawah Brebes",
+    "postal_code": "35124"
+  },
+  {
+    "id": 1871051005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187105,
+    "value": "Sawah Lama",
+    "postal_code": "35125"
+  },
+  {
+    "id": 1871051003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187105,
+    "value": "Tanjung Agung",
+    "postal_code": "35126"
+  }
+]

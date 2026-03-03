@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1401202008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Gunung Mulya",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Gunung Sahilan",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Gunung Sari",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Kebun Durian",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202009,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Makmur Sejahtera",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Sahilan Darussalam",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Subarak",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Suka Makmur",
+    "postal_code": "28471"
+  },
+  {
+    "id": 1401202006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140120,
+    "value": "Sungai Lipai",
+    "postal_code": "28471"
+  }
+]

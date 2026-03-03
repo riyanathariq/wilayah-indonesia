@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9105042010,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Aitiri",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042009,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Kainui I",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042021,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Kainui II",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042028,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Mananayam",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042003,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Menawi",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042016,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Ransarnoni",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042015,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Roipi",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042030,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Roipi Dua",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042004,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Wadapi",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042024,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Wanampompi",
+    "postal_code": "98655"
+  },
+  {
+    "id": 9105042011,
+    "province_id": 91,
+    "regency_id": 9105,
+    "district_id": 910504,
+    "value": "Wawuti",
+    "postal_code": "98655"
+  }
+]

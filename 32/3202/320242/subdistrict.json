@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202422007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Bojong Tugu (Bojongtugu)",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Cimenteng",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Curugkembar",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Mekartanjung",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Nagrakjaya",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Sindangraja",
+    "postal_code": "43182"
+  },
+  {
+    "id": 3202422003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320242,
+    "value": "Tanjungsari",
+    "postal_code": "43182"
+  }
+]

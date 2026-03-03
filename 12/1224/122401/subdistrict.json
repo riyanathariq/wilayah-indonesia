@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1224012008,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Baho",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012011,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Dahadano",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Fadoro Fulolo",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Hilidundra",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012013,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Hiligeo Afia",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Hiligodu",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lawira I",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012010,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lawira II",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lawira Satua",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012009,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lolofaoso",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012012,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lolomboli",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Lombuza'ua (Lombuzaua)",
+    "postal_code": "22856"
+  },
+  {
+    "id": 1224012007,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122401,
+    "value": "Maziaya",
+    "postal_code": "22856"
+  }
+]

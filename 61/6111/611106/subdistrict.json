@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6111062002,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611106,
+    "value": "Betok Jaya",
+    "postal_code": "78855"
+  },
+  {
+    "id": 6111062003,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611106,
+    "value": "Padang",
+    "postal_code": "78855"
+  },
+  {
+    "id": 6111062001,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611106,
+    "value": "Pelapis",
+    "postal_code": "78855"
+  }
+]

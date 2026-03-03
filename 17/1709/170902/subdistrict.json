@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1709022017,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Air Putih",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022001,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Air Sebakul",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022007,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Jayakarta (Jaya Karta)",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022014,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Jum'at (Jumat)",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022005,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Kembang Seri",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022008,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Nakau",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022015,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Padang Ulak Tanjung (Padang UlakTanjung)",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022009,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Pulau Panggung",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022004,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Taba Pasema (Pasmah)",
+    "postal_code": "38385"
+  },
+  {
+    "id": 1709022006,
+    "province_id": 17,
+    "regency_id": 1709,
+    "district_id": 170902,
+    "value": "Tengah Padang",
+    "postal_code": "38385"
+  }
+]

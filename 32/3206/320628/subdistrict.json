@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3206282001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Arjasari",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Ciawang",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Cigadog",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Jayamukti",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Linggamulya",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Linggawangi",
+    "postal_code": "46464"
+  },
+  {
+    "id": 3206282006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320628,
+    "value": "Mandalagiri",
+    "postal_code": "46464"
+  }
+]

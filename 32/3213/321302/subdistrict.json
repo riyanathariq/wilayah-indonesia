@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213022011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Cigadog",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Cimanggu",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Cisalak",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Cupunagara",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Darmaga",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Gardusayang",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Mayang",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022014,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Pakuhaji",
+    "postal_code": "41283"
+  },
+  {
+    "id": 3213022005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321302,
+    "value": "Sukakerti",
+    "postal_code": "41283"
+  }
+]

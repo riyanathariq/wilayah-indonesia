@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206152007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Cimanggu",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Luyubakti",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Mandalasari",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Puspahiang",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Puspajaya",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Pusparahayu",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Puspasari",
+    "postal_code": "46471"
+  },
+  {
+    "id": 3206152002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320615,
+    "value": "Sukasari",
+    "postal_code": "46471"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9302162005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930216,
+    "value": "Dema",
+    "postal_code": "99682"
+  },
+  {
+    "id": 9302162002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930216,
+    "value": "Sinimburu",
+    "postal_code": "99682"
+  },
+  {
+    "id": 9302162004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930216,
+    "value": "Ugo",
+    "postal_code": "99682"
+  },
+  {
+    "id": 9302162001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930216,
+    "value": "Wanggemalo",
+    "postal_code": "99682"
+  },
+  {
+    "id": 9302162003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930216,
+    "value": "Yafufla",
+    "postal_code": "99682"
+  }
+]

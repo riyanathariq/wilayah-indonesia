@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3273031002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Babakan",
+    "postal_code": "40222"
+  },
+  {
+    "id": 3273031001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Babakan Ciparay",
+    "postal_code": "40223"
+  },
+  {
+    "id": 3273031006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Cirangrang",
+    "postal_code": "40227"
+  },
+  {
+    "id": 3273031004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Margahayu Utara",
+    "postal_code": "40224"
+  },
+  {
+    "id": 3273031005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Margasuka",
+    "postal_code": "40225"
+  },
+  {
+    "id": 3273031003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327303,
+    "value": "Sukahaji",
+    "postal_code": "40221"
+  }
+]

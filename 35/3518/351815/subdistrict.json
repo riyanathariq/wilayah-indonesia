@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3518152004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Mancon",
+    "postal_code": "64462"
+  },
+  {
+    "id": 3518152003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Ngadipiro",
+    "postal_code": "64462"
+  },
+  {
+    "id": 3518152005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Ngudikan",
+    "postal_code": "64462"
+  },
+  {
+    "id": 3518152006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Sokoharjo (Sukoharjo)",
+    "postal_code": "64462"
+  },
+  {
+    "id": 3518152001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Sudimoroharjo",
+    "postal_code": "64462"
+  },
+  {
+    "id": 3518152002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351815,
+    "value": "Wilangan",
+    "postal_code": "64462"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7306032008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Bontobuddung",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306031002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Cikoro",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306032004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Datara",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306032003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Garing",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306031001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Malakaji",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306032006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Rappoala",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306032005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Rappolemba",
+    "postal_code": "92175"
+  },
+  {
+    "id": 7306032007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730603,
+    "value": "Tanete",
+    "postal_code": "92175"
+  }
+]

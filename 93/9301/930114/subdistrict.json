@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9301142006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Domande",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Kaiburse",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Kumbe",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Onggari",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Padang Raharja",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Rawa Sari (Rawasari)",
+    "postal_code": "99647"
+  },
+  {
+    "id": 9301142007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930114,
+    "value": "Suka Maju",
+    "postal_code": "99647"
+  }
+]

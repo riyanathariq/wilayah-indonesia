@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9402102004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Gwenggu",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102011,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Lulame",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Nalime",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Pilia",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Tiru",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Tukwi",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Urgele",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102010,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Yagonik",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Yaniruk",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Yarmukum",
+    "postal_code": "98911"
+  },
+  {
+    "id": 9402102007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940210,
+    "value": "Yogorini",
+    "postal_code": "98911"
+  }
+]

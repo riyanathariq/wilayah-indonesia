@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5311142001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Kamanggih",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Kambatabundung (Kambata Bundung)",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Kataka",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Kota Kawau (Kotak Kawau)",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Laimbonga (Lai Mbonga)",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Matawai Katingga",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142008,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Matawai Maringgu (Matawai Maringu)",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142009,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Mauramba (Mau Ramba)",
+    "postal_code": "87171"
+  },
+  {
+    "id": 5311142003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531114,
+    "value": "Meurumba (Meorumba)",
+    "postal_code": "87171"
+  }
+]

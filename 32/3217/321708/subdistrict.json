@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3217082004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Campaka Mekar (Cempakamekar)",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Ciburuy",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Cimerang",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Cipeundeuy",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Jayamekar",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Kertajaya",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Kertamulya",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Laksanamekar",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Padalarang",
+    "postal_code": "40553"
+  },
+  {
+    "id": 3217082005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321708,
+    "value": "Tagogapu",
+    "postal_code": "40553"
+  }
+]

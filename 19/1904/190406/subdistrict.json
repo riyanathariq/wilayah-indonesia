@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1904062002,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Batu Beriga",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062009,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Belimbing",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062004,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Kulur",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062008,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Kulur Ilir (Kulur Hilir)",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062003,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Lubuk Besar",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062005,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Lubuk Lingkuk",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062006,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Lubuk Pabrik",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062001,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Perlang",
+    "postal_code": "33682"
+  },
+  {
+    "id": 1904062007,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190406,
+    "value": "Trubus",
+    "postal_code": "33682"
+  }
+]

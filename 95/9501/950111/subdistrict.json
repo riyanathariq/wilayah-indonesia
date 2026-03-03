@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9501112010,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Aipakma",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Akorek",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112016,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Bitti",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Manili",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Pilimo",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Taganik",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Tumun",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112017,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Wamanuk Dua",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Wananuk",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112015,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Wugurima",
+    "postal_code": "99549"
+  },
+  {
+    "id": 9501112001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950111,
+    "value": "Yalengga (Yelengga)",
+    "postal_code": "99549"
+  }
+]

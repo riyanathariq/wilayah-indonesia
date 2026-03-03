@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5204192005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520419,
+    "value": "Jaya Makmur",
+    "postal_code": "84383"
+  },
+  {
+    "id": 5204192001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520419,
+    "value": "Labangka",
+    "postal_code": "84383"
+  },
+  {
+    "id": 5204192002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520419,
+    "value": "Sekokat",
+    "postal_code": "84383"
+  },
+  {
+    "id": 5204192004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520419,
+    "value": "Suka Damai",
+    "postal_code": "84383"
+  },
+  {
+    "id": 5204192003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520419,
+    "value": "Suka Mulya",
+    "postal_code": "84383"
+  }
+]

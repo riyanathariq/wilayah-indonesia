@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8205062001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Dofa",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062017,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Johor (Johor Perda)",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Lekokadai",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Lekosula",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062018,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Lelyaba",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062009,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Pas Ipa",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205062014,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820506,
+    "value": "Pelita",
+    "postal_code": "97793"
+  }
+]

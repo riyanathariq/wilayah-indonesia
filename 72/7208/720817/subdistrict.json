@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7208172001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Marantale",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Silanga",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Silanga Barat",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Siniu",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Siniu Sayogindano",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Tandaigi",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Toraranga",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Towera",
+    "postal_code": "94467"
+  },
+  {
+    "id": 7208172007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720817,
+    "value": "Uevolo",
+    "postal_code": "94467"
+  }
+]

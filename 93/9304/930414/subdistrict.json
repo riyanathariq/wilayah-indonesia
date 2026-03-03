@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304142005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Amagais",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304142003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Amaru",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304142004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Amkai",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304142002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Amkum",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304142006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Erosaman (Ero Saman)",
+    "postal_code": "99771"
+  },
+  {
+    "id": 9304142001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930414,
+    "value": "Yamkap",
+    "postal_code": "99771"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8108132002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Elsulith",
+    "postal_code": "97449"
+  },
+  {
+    "id": 8108132006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Eray",
+    "postal_code": "97449"
+  },
+  {
+    "id": 8108132004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Lurang",
+    "postal_code": "97449"
+  },
+  {
+    "id": 8108132001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Nabar",
+    "postal_code": "97449"
+  },
+  {
+    "id": 8108132003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Naumatang",
+    "postal_code": "97449"
+  },
+  {
+    "id": 8108132005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810813,
+    "value": "Uhak",
+    "postal_code": "97449"
+  }
+]

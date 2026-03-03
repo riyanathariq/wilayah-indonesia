@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1303062004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Aia Amo",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Kamang",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062006,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Kunangan Parik Rantang",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062010,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Lubuk Tarantang",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062011,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Maloro",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Muaro Takuang",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062008,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Padang Tarok",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062009,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Siaur",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Sungai Batuang",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Sungai Lansek",
+    "postal_code": "27572"
+  },
+  {
+    "id": 1303062007,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130306,
+    "value": "Tanjung Kaliang",
+    "postal_code": "27572"
+  }
+]

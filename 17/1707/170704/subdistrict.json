@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1707042001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Kutai Donok",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707042019,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Manai Blau",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707042016,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Mangkurajo",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707041004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Mubai",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707042014,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Suka Sari",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707041003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Taba Anyar",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707041002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Tes",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707042018,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Tik Jeniak",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707041005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Turan Lalang",
+    "postal_code": "39258"
+  },
+  {
+    "id": 1707042013,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170704,
+    "value": "Turan Tiging",
+    "postal_code": "39258"
+  }
+]

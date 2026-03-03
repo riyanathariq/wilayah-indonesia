@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1610152009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Betung I",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Betung II",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Embecang (Embacang)",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Kasi Raja (Kasih Raja)",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Ketiau",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Lubuk Keliat",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Payalengkang (Payalingkung)",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Talang Tengah Darat",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Talang Tengah Laut",
+    "postal_code": "30868"
+  },
+  {
+    "id": 1610152001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161015,
+    "value": "Ulak Kembahang",
+    "postal_code": "30868"
+  }
+]

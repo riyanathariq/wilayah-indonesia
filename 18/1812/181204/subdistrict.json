@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1812042008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Gunung Agung",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Gunung Terang",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042011,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Kagungan Jaya",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042017,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Mulyo Jadi",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042015,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Setia Agung",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Setia Bumi",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042013,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Terang Bumi Agung",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042020,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Terang Makmur",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042012,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Terang Mulya",
+    "postal_code": "34784"
+  },
+  {
+    "id": 1812042002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181204,
+    "value": "Toto Mulyo",
+    "postal_code": "34784"
+  }
+]

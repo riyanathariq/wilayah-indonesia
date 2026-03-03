@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2102122006,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Degong",
+    "postal_code": "29660"
+  },
+  {
+    "id": 2102122002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Lebuh",
+    "postal_code": "29660"
+  },
+  {
+    "id": 2102122003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Penarah",
+    "postal_code": "29660"
+  },
+  {
+    "id": 2102122001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Sebele",
+    "postal_code": "29660"
+  },
+  {
+    "id": 2102122004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Sungai Asam",
+    "postal_code": "29660"
+  },
+  {
+    "id": 2102122005,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210212,
+    "value": "Tebias",
+    "postal_code": "29660"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1706042006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Air Berau",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Air Bikuk",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042010,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Air Hitam",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042022,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Bumi Mekar Jaya",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042030,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Karya Mulya",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042027,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Lubuk Bento",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042014,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Pondok Kandang",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Pondok Suguh",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042029,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Sinar Laut",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042031,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Teluk Bakung",
+    "postal_code": "38766"
+  },
+  {
+    "id": 1706042004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170604,
+    "value": "Tunggang (Dusun Tunggang)",
+    "postal_code": "38766"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3404082004,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340408,
+    "value": "Jogotirto (Jogo Tirto)",
+    "postal_code": "55573"
+  },
+  {
+    "id": 3404082003,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340408,
+    "value": "Kalitirto (Kali Tirto)",
+    "postal_code": "55573"
+  },
+  {
+    "id": 3404082001,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340408,
+    "value": "Sendangtirto (Sendang Tirto)",
+    "postal_code": "55573"
+  },
+  {
+    "id": 3404082002,
+    "province_id": 34,
+    "regency_id": 3404,
+    "district_id": 340408,
+    "value": "Tegaltirto (Tegal Tirto)",
+    "postal_code": "55573"
+  }
+]

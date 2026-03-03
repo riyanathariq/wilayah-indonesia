@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5301262002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530126,
+    "value": "Kifu",
+    "postal_code": "85375"
+  },
+  {
+    "id": 5301262005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530126,
+    "value": "Netemnanu (Natemnanu / Natummanu)",
+    "postal_code": "85375"
+  },
+  {
+    "id": 5301262003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530126,
+    "value": "Netemnanu Selatan",
+    "postal_code": "85375"
+  },
+  {
+    "id": 5301262004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530126,
+    "value": "Netemnanu Utara",
+    "postal_code": "85375"
+  },
+  {
+    "id": 5301262001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530126,
+    "value": "Nunuanah",
+    "postal_code": "85375"
+  }
+]

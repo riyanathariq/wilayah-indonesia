@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3604062003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Binangun",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Cokopsulanjana",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062011,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Kemuning",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Melati",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Sambilawang",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Sampir",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Sasahan",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Suka Dalem (Sukadalem)",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Sukabares",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Talaga Luhur (Telaga Luhur)",
+    "postal_code": "42453"
+  },
+  {
+    "id": 3604062001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360406,
+    "value": "Waringinkurung",
+    "postal_code": "42453"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6306062004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Amparaya",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Garunggang",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062011,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Kapuh",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Panjampang Bahagia",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Pantai Ulin",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Simpur",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Tebing Tinggi",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Ulin",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062010,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Wasah Hilir",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062008,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Wasah Hulu",
+    "postal_code": "71261"
+  },
+  {
+    "id": 6306062009,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630606,
+    "value": "Wasah Tengah",
+    "postal_code": "71261"
+  }
+]

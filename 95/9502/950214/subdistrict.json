@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9502142005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950214,
+    "value": "Alutbakon",
+    "postal_code": "99416"
+  },
+  {
+    "id": 9502142003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950214,
+    "value": "Atenor / Atenar",
+    "postal_code": "99416"
+  },
+  {
+    "id": 9502142002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950214,
+    "value": "Mimin",
+    "postal_code": "99416"
+  },
+  {
+    "id": 9502142001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950214,
+    "value": "Oksop",
+    "postal_code": "99416"
+  },
+  {
+    "id": 9502142004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950214,
+    "value": "Oktumi",
+    "postal_code": "99416"
+  }
+]

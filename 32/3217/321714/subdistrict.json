@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3217142003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Buninagara",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Cicangkanggirang (Cicangkang Girang)",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Cikadu",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Cintakarya",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Mekarwangi",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Pasirpogor",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Puncaksari",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Rancasenggang (Ranca Senggang)",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Sindangkerta",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142011,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Wangunsari",
+    "postal_code": "40563"
+  },
+  {
+    "id": 3217142010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321714,
+    "value": "Weninggalih",
+    "postal_code": "40563"
+  }
+]

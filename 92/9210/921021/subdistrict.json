@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9210212003,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Chaliat",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212002,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Fanse",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212005,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Sehu",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212004,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Sfacko",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212008,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Sfaraka (Sfakraka)",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212007,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Sien",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212001,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Soroan (Sorowan)",
+    "postal_code": "98241"
+  },
+  {
+    "id": 9210212006,
+    "province_id": 92,
+    "regency_id": 9210,
+    "district_id": 921021,
+    "value": "Tbo",
+    "postal_code": "98241"
+  }
+]

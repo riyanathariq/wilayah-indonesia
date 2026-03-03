@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5204242004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520424,
+    "value": "Labuhan Sangoro",
+    "postal_code": "84387"
+  },
+  {
+    "id": 5204242002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520424,
+    "value": "Maronge",
+    "postal_code": "84387"
+  },
+  {
+    "id": 5204242003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520424,
+    "value": "Pamasar (Pemasar)",
+    "postal_code": "84387"
+  },
+  {
+    "id": 5204242001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520424,
+    "value": "Simu",
+    "postal_code": "84387"
+  }
+]

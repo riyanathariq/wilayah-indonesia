@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1407021016,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Barat",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407021015,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Hulu",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022013,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Jawa",
+    "postal_code": "28913"
+  },
+  {
+    "id": 1407022021,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Jawa Pesisir",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407021012,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Kota",
+    "postal_code": "28911"
+  },
+  {
+    "id": 1407021011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Punak",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022024,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Punak Meranti",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022025,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Punak Pesisir",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407021017,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Bagan Timur",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022019,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Labuhan Tangga Baru",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Labuhan Tangga Besar",
+    "postal_code": "28913"
+  },
+  {
+    "id": 1407022023,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Labuhan Tangga Hilir",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Labuhan Tangga Kecil",
+    "postal_code": "28912"
+  },
+  {
+    "id": 1407022014,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Parit Aman",
+    "postal_code": "28914"
+  },
+  {
+    "id": 1407022022,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140702,
+    "value": "Serusa",
+    "postal_code": "28912"
+  }
+]

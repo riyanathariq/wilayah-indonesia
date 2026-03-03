@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3372021002,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Danukusuman",
+    "postal_code": "57156"
+  },
+  {
+    "id": 3372021006,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Jayengan",
+    "postal_code": "57152"
+  },
+  {
+    "id": 3372021001,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Joyotakan",
+    "postal_code": "57157"
+  },
+  {
+    "id": 3372021007,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Kemlayan",
+    "postal_code": "57151"
+  },
+  {
+    "id": 3372021005,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Kratonan",
+    "postal_code": "57153"
+  },
+  {
+    "id": 3372021003,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Serengan",
+    "postal_code": "57155"
+  },
+  {
+    "id": 3372021004,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337202,
+    "value": "Tipes",
+    "postal_code": "57154"
+  }
+]

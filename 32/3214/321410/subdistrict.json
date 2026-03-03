@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3214102005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Cidahu",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Ciherang",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102012,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Cihuni",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Kertajaya",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Lebakanyar (Lebak Anyar)",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Margasari",
+    "postal_code": "41171"
+  },
+  {
+    "id": 3214102002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Pasawahan",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Pasawahananyar",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Pasawahankidul (Pasawahan Kidul)",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Sawahkulon (Sawah Kulon)",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Selaawi",
+    "postal_code": "41172"
+  },
+  {
+    "id": 3214102011,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321410,
+    "value": "Warungkadu (Warung Kadu)",
+    "postal_code": "41172"
+  }
+]

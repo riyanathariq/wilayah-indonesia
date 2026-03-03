@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3207342005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Awiluar",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Cikupa",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Darmaraja",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Lumbung",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Lumbungsari",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Rawa",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Sadewata",
+    "postal_code": "46258"
+  },
+  {
+    "id": 3207342002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320734,
+    "value": "Sukaraharja",
+    "postal_code": "46258"
+  }
+]

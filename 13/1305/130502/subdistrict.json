@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1305022004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Buayan Lubuk Alung",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Kasang",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Katapiang",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Sungai Buluah",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022006,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Sungai Buluah Barat",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022008,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Sungai Buluah Selatan",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Sungai Buluah Timur",
+    "postal_code": "25586"
+  },
+  {
+    "id": 1305022007,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130502,
+    "value": "Sungai Buluah Utara",
+    "postal_code": "25586"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6109072005,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Belitang Dua",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072004,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Belitang Satu",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072007,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Maboh Permai",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072006,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Menua Prama",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072001,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Nanga Ansar",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072002,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Padak",
+    "postal_code": "79588"
+  },
+  {
+    "id": 6109072003,
+    "province_id": 61,
+    "regency_id": 6109,
+    "district_id": 610907,
+    "value": "Setuntung",
+    "postal_code": "79588"
+  }
+]

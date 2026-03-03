@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1406052003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Barat",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Barat Mulya",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Barat Sei Rokan Jaya",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Baru",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Hilir",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Raya",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhan Timur",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406051001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Kepenuhantengah (Kepenuhan Tengah)",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052012,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Rantau Binuang Sakti",
+    "postal_code": "28563"
+  },
+  {
+    "id": 1406052010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140605,
+    "value": "Ulak Patian",
+    "postal_code": "28563"
+  }
+]

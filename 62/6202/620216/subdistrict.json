@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6202162006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Bukit Makmur",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162010,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Cempaka Putih",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162009,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Damar Makmur",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162011,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Jati Waringin",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Luwuk Sampun",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162008,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Mekar Sari",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Merah",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Sebungsu",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Tanjung Jorong",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Tumbang Mujam",
+    "postal_code": "74358"
+  },
+  {
+    "id": 6202162007,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620216,
+    "value": "Wonosari",
+    "postal_code": "74358"
+  }
+]

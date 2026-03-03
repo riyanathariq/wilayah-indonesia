@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7604162001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Bulo",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Daala Timur",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162009,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Ihing",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Karombang",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Lenggo",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Pulliwa",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Sabura",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Sepporraki",
+    "postal_code": "91353"
+  },
+  {
+    "id": 7604162003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760416,
+    "value": "Tapambanua (Patambanua)",
+    "postal_code": "91353"
+  }
+]

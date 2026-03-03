@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2101132004,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210113,
+    "value": "Dendun",
+    "postal_code": "29156"
+  },
+  {
+    "id": 2101132001,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210113,
+    "value": "Mantang Baru",
+    "postal_code": "29156"
+  },
+  {
+    "id": 2101132002,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210113,
+    "value": "Mantang Besar",
+    "postal_code": "29156"
+  },
+  {
+    "id": 2101132003,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210113,
+    "value": "Mantang Lama",
+    "postal_code": "29156"
+  }
+]

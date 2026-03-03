@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3508142002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Babakan",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Barat",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Bodang",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Kalisemut",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Kedawung",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Merakan",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Mojo",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Padang",
+    "postal_code": "67352"
+  },
+  {
+    "id": 3508142009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350814,
+    "value": "Tanggung",
+    "postal_code": "67352"
+  }
+]

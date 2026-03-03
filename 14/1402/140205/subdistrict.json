@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1402052019,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Batu Rijal Barat",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402051008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Baturijal Hilir",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Baturijal Hulu",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052004,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Gumanti",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052017,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Katipo Pura (Ketipopura)",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052013,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Pandan Wangi",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052010,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Pauh Ranap (Pauh Peranap)",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402051005,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Peranap",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Semelinang Darat (Semilinang Darat)",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052003,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Semelinang Tebing",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052012,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Serai Wangi",
+    "postal_code": "29357"
+  },
+  {
+    "id": 1402052020,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140205,
+    "value": "Setako Jaya (Raya)",
+    "postal_code": "29357"
+  }
+]

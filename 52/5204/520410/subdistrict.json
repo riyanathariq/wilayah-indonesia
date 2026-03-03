@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5204102005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Batu Bulan (Batubulan)",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Batu Tering (Batutering)",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102012,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Brang Rea (Berang Rea)",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102008,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Leseng",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102009,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Lito",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102011,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Maman",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102010,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Marga Karya",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Mokong",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Pernek",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Sebasang",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Semamung",
+    "postal_code": "84371"
+  },
+  {
+    "id": 5204102001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520410,
+    "value": "Sempe",
+    "postal_code": "84371"
+  }
+]

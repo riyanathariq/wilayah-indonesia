@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3601352004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Bojen",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Bojenwetan",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Cimanis",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Kertaraharja",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Kutamekar",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Pangkalan",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Sobang",
+    "postal_code": "42280"
+  },
+  {
+    "id": 3601352002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360135,
+    "value": "Teluklada",
+    "postal_code": "42280"
+  }
+]

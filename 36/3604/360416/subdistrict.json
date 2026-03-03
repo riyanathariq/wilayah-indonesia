@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3604162006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Barengkok",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Ciagel",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Cijeruk",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Ketos",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Kibin",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Nagara",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Nambo Ilir",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Sukamaju",
+    "postal_code": "42185"
+  },
+  {
+    "id": 3604162008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360416,
+    "value": "Tambak",
+    "postal_code": "42185"
+  }
+]

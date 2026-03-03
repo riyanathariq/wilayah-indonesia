@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3313072002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Berjo",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Dukuh",
+    "postal_code": "57731"
+  },
+  {
+    "id": 3313072003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Girimulyo",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Jatirejo",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Kemuning",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Ngargoyoso",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Nglegok",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Puntukrejo",
+    "postal_code": "57793"
+  },
+  {
+    "id": 3313072004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331307,
+    "value": "Segorogunung",
+    "postal_code": "57793"
+  }
+]

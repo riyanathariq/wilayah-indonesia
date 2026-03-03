@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5301112002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Benu",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112009,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Fatukona",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Hueknutu",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Kauniki",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Noelmina",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Oelnaineno",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112010,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Oesusu",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301111007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Takari",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Tanini",
+    "postal_code": "85369"
+  },
+  {
+    "id": 5301112008,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530111,
+    "value": "Tuapanaf",
+    "postal_code": "85369"
+  }
+]

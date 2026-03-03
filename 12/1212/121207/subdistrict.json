@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1212072004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Amborgang",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072022,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Gala Gala Pangkailan",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Lumban Gurning",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Nalela",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072031,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Parparean I",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072033,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Parparean II",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212071039,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Parparean III",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072030,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Parparean IV",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212071037,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Pasar Porsea",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072036,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Patane I",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Patane II",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212071038,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Patane III",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Patane IV",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072040,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Patane V",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072042,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Raut Bosi",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072023,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Silamosik I",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212072041,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121207,
+    "value": "Simpang Sigura-Gura",
+    "postal_code": "22384"
+  }
+]

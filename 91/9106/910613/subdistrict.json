@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9106132001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Asur",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Bosnabraidi",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Indawi",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Karmon",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Madirai",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Syor (Soor / Sor)",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Wasori",
+    "postal_code": "98552"
+  },
+  {
+    "id": 9106132006,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910613,
+    "value": "Yawosi (Fanindi)",
+    "postal_code": "98552"
+  }
+]

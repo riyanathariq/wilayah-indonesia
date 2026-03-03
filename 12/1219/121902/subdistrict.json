@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219022020,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Brohol",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022011,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Kwala/Kuala Indah",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022012,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Kwala/Kuala Tanjung",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022009,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Pematang Jering",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022010,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Pematang Kuning",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219021001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Perkebunan Sipare-Pare",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022007,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Sei Suka Deras",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022008,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Simodong",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022019,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Simpang Kopi",
+    "postal_code": "21257"
+  },
+  {
+    "id": 1219022018,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121902,
+    "value": "Tanjunggading",
+    "postal_code": "21257"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1704152002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Bungin Tambun (Bungin Tambun I)",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Bungin Tambun II",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Bungin Tambun III",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Coko Betung",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152011,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Jati Mulyo",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Manau IX (Manau Sembilan I)",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Manau IX Dua (Manau Sembilan II)",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152010,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Marga Mulyo",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Naga Rantai",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Pagar Alam",
+    "postal_code": "38959"
+  },
+  {
+    "id": 1704152008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170415,
+    "value": "Pagar Gunung",
+    "postal_code": "38959"
+  }
+]

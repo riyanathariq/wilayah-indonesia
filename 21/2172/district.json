@@ -1,0 +1,26 @@
+[
+  {
+    "id": 217204,
+    "province_id": 21,
+    "regency_id": 2172,
+    "value": "Bukit Bestari"
+  },
+  {
+    "id": 217201,
+    "province_id": 21,
+    "regency_id": 2172,
+    "value": "Tanjung Pinang Barat"
+  },
+  {
+    "id": 217203,
+    "province_id": 21,
+    "regency_id": 2172,
+    "value": "Tanjung Pinang Kota"
+  },
+  {
+    "id": 217202,
+    "province_id": 21,
+    "regency_id": 2172,
+    "value": "Tanjung Pinang Timur"
+  }
+]

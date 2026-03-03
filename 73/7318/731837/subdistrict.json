@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7318372001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731837,
+    "value": "Rano",
+    "postal_code": "91875"
+  },
+  {
+    "id": 7318372004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731837,
+    "value": "Rano Tengah",
+    "postal_code": "91875"
+  },
+  {
+    "id": 7318372005,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731837,
+    "value": "Rano Timur",
+    "postal_code": "91875"
+  },
+  {
+    "id": 7318372002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731837,
+    "value": "Rano Utara",
+    "postal_code": "91875"
+  },
+  {
+    "id": 7318372003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731837,
+    "value": "Rumandan",
+    "postal_code": "91875"
+  }
+]

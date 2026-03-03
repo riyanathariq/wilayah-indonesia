@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1309092003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130909,
+    "value": "Matobe (Matobek)",
+    "postal_code": "25399"
+  },
+  {
+    "id": 1309092001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130909,
+    "value": "Sikakap",
+    "postal_code": "25399"
+  },
+  {
+    "id": 1309092002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130909,
+    "value": "Taikako",
+    "postal_code": "25399"
+  }
+]

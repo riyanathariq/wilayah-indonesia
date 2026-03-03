@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318032001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Bau",
+    "postal_code": "91872"
+  },
+  {
+    "id": 7318032008,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Bau Selatan",
+    "postal_code": "91872"
+  },
+  {
+    "id": 7318032002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Buakayu (Bua Kayu)",
+    "postal_code": "91872"
+  },
+  {
+    "id": 7318032004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Mappa'",
+    "postal_code": "91872"
+  },
+  {
+    "id": 7318032006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Poton",
+    "postal_code": "91872"
+  },
+  {
+    "id": 7318031007,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731803,
+    "value": "Ratte Buttu",
+    "postal_code": "91872"
+  }
+]

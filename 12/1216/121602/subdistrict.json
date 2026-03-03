@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1216022008,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Aek Nauli I",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022009,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Aek Nauli II",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022004,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Hutajulu (Huta Julu)",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022002,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Hutapaung (Huta Paung)",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022013,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Hutapaung Utara (Huta Paung Utara)",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022010,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Pandumaan",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022007,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Pansurbatu (Pansur Batu)",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022012,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Pardomuan",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022001,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Parsingguran I",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022006,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Parsingguran II",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022003,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Pollung",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022005,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Ria-Ria",
+    "postal_code": "22457"
+  },
+  {
+    "id": 1216022011,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121602,
+    "value": "Sipituhuta (Sipitu Huta)",
+    "postal_code": "22457"
+  }
+]

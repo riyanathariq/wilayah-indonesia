@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5204232005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Baru Tahan",
+    "postal_code": "84380"
+  },
+  {
+    "id": 5204232004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Kukin",
+    "postal_code": "84380"
+  },
+  {
+    "id": 5204232003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Penyaring",
+    "postal_code": "84380"
+  },
+  {
+    "id": 5204232001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Pungkit",
+    "postal_code": "84380"
+  },
+  {
+    "id": 5204232002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Sebewe",
+    "postal_code": "84380"
+  },
+  {
+    "id": 5204232006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520423,
+    "value": "Songkar",
+    "postal_code": "84380"
+  }
+]

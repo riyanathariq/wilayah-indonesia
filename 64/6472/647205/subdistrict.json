@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6472051014,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Budaya Pampang",
+    "postal_code": "75118"
+  },
+  {
+    "id": 6472051003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Lempake",
+    "postal_code": "75118"
+  },
+  {
+    "id": 6472051012,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Sempaja Barat",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472051002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Sempaja Selatan",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472051013,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Sempaja Timur",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472051010,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Sempaja Utara",
+    "postal_code": "75119"
+  },
+  {
+    "id": 6472051004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Sungai Siring",
+    "postal_code": "75118"
+  },
+  {
+    "id": 6472051011,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647205,
+    "value": "Tanah Merah",
+    "postal_code": "75119"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3172051003,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317205,
+    "value": "Ancol",
+    "postal_code": "14430"
+  },
+  {
+    "id": 3172051002,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317205,
+    "value": "Pademangan Barat",
+    "postal_code": "14420"
+  },
+  {
+    "id": 3172051001,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317205,
+    "value": "Pademangan Timur",
+    "postal_code": "14410"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8271071003,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Dorari Isa",
+    "postal_code": "97745"
+  },
+  {
+    "id": 8271071001,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Faudu",
+    "postal_code": "97745"
+  },
+  {
+    "id": 8271071005,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Mado",
+    "postal_code": "97745"
+  },
+  {
+    "id": 8271071006,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Tafraka",
+    "postal_code": "97745"
+  },
+  {
+    "id": 8271071004,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Togolobe",
+    "postal_code": "97745"
+  },
+  {
+    "id": 8271071002,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827107,
+    "value": "Tomajiko",
+    "postal_code": "97745"
+  }
+]

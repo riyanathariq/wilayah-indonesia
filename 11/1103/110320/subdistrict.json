@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1103202002,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Batu Sumbang",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202008,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Hti Ranto Naro",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202005,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Melidi",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202003,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Pante Kera",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202004,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Rantau Panjang",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202001,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Simpang Jernih",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202007,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Tampor/Tampur Boor",
+    "postal_code": "24464"
+  },
+  {
+    "id": 1103202006,
+    "province_id": 11,
+    "regency_id": 1103,
+    "district_id": 110320,
+    "value": "Tampor/Tampur Paloh",
+    "postal_code": "24464"
+  }
+]

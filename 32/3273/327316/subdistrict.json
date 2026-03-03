@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3273161003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Babakan Surabaya",
+    "postal_code": "40281"
+  },
+  {
+    "id": 3273161005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Babakansari (Babakan Sari)",
+    "postal_code": "40283"
+  },
+  {
+    "id": 3273161004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Cicaheum",
+    "postal_code": "40282"
+  },
+  {
+    "id": 3273161006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Kebon Kangkung",
+    "postal_code": "40284"
+  },
+  {
+    "id": 3273161002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Kebun Jayanti",
+    "postal_code": "40281"
+  },
+  {
+    "id": 3273161001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327316,
+    "value": "Sukapura",
+    "postal_code": "40285"
+  }
+]

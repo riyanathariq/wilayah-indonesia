@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1225072003,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Ambukha",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072002,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Duria",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072004,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Hilimbowo Mau",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072005,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Hilimbuasi",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072007,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Hiliuso",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072006,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Lolofitu",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072001,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Sisobawino II",
+    "postal_code": "22875"
+  },
+  {
+    "id": 1225072008,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122507,
+    "value": "Wango",
+    "postal_code": "22875"
+  }
+]

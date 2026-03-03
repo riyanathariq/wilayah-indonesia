@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9501142002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950114,
+    "value": "Elarek",
+    "postal_code": "99509"
+  },
+  {
+    "id": 9501142003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950114,
+    "value": "Holima",
+    "postal_code": "99509"
+  },
+  {
+    "id": 9501142001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950114,
+    "value": "Walaik",
+    "postal_code": "99509"
+  },
+  {
+    "id": 9501142005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950114,
+    "value": "Welekama",
+    "postal_code": "99509"
+  },
+  {
+    "id": 9501142004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950114,
+    "value": "Yelai",
+    "postal_code": "99509"
+  }
+]

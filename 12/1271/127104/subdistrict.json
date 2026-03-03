@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271041005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Binjai",
+    "postal_code": "20228"
+  },
+  {
+    "id": 1271041004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Denai",
+    "postal_code": "20227"
+  },
+  {
+    "id": 1271041006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Medan Tenggara",
+    "postal_code": "20228"
+  },
+  {
+    "id": 1271041001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Tegal Sari Mandala I",
+    "postal_code": "20226"
+  },
+  {
+    "id": 1271041002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Tegal Sari Mandala II",
+    "postal_code": "20226"
+  },
+  {
+    "id": 1271041003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127104,
+    "value": "Tegal Sari Mandala III",
+    "postal_code": "20226"
+  }
+]

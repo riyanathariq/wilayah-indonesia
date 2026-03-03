@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6102072008,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Galang (Jalan Galang)",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072007,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Nusapati",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Peniraman",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sei/Sungai Bakau Besar Laut",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sei/Sungai Batang",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102071011,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sei/Sungai Pinyuh",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sei/Sungai Purun Kecil",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sei/Sungai Rasau",
+    "postal_code": "78354"
+  },
+  {
+    "id": 6102072002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610207,
+    "value": "Sungai Rasau Besar Darat (Sei Bakau Besar Darat)",
+    "postal_code": "78354"
+  }
+]

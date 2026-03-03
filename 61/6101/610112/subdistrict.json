@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6101122003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Cepala",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122007,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Matang Segarau",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Merubung (Merubong)",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122005,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Rambayan",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Sari Makmur",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122006,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Sempadian",
+    "postal_code": "79468"
+  },
+  {
+    "id": 6101122001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610112,
+    "value": "Tekarang",
+    "postal_code": "79468"
+  }
+]

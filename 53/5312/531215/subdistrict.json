@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5312152007,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Kalembu Kuni",
+    "postal_code": "87217"
+  },
+  {
+    "id": 5312151003,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Kampung Baru",
+    "postal_code": "87214"
+  },
+  {
+    "id": 5312151004,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Kampung Sawah",
+    "postal_code": "87213"
+  },
+  {
+    "id": 5312152005,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Kodaka",
+    "postal_code": "87215"
+  },
+  {
+    "id": 5312151002,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Komerda",
+    "postal_code": "87211"
+  },
+  {
+    "id": 5312152011,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Lapale",
+    "postal_code": "87217"
+  },
+  {
+    "id": 5312151009,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Maliti",
+    "postal_code": "87217"
+  },
+  {
+    "id": 5312152012,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Modu Waimaringu",
+    "postal_code": "87212"
+  },
+  {
+    "id": 5312151008,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Pada Eweta",
+    "postal_code": "87217"
+  },
+  {
+    "id": 5312152013,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Puu Mawo",
+    "postal_code": "87212"
+  },
+  {
+    "id": 5312152010,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Soba Rade",
+    "postal_code": "87217"
+  },
+  {
+    "id": 5312152006,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Tebara",
+    "postal_code": "87216"
+  },
+  {
+    "id": 5312151001,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531215,
+    "value": "Wailiang",
+    "postal_code": "87212"
+  }
+]

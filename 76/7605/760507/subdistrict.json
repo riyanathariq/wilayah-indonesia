@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7605072005,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Bonde Bonde",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072001,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Onang (Onang Selatan)",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072003,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Onang Utara",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072002,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Tubo",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072007,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Tubo Poang",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072004,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Tubo Selatan",
+    "postal_code": "91455"
+  },
+  {
+    "id": 7605072006,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760507,
+    "value": "Tubo Tengah",
+    "postal_code": "91455"
+  }
+]

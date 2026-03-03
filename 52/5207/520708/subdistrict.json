@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5207082002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520708,
+    "value": "Benete",
+    "postal_code": "84459"
+  },
+  {
+    "id": 5207082003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520708,
+    "value": "Bukit Damai",
+    "postal_code": "84459"
+  },
+  {
+    "id": 5207082001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520708,
+    "value": "Maluk",
+    "postal_code": "84459"
+  },
+  {
+    "id": 5207082004,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520708,
+    "value": "Mantun",
+    "postal_code": "84459"
+  },
+  {
+    "id": 5207082005,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520708,
+    "value": "Pasir Putih",
+    "postal_code": "84459"
+  }
+]

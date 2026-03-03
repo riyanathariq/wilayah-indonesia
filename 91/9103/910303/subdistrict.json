@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9103032012,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Doromena",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Entiyebo",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Kendate",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Tablasupa",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Waiya",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Wambena",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Yefase (Yepase)",
+    "postal_code": "99353"
+  },
+  {
+    "id": 9103032007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910303,
+    "value": "Yewena",
+    "postal_code": "99353"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1274041005,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127404,
+    "value": "Beting Kwala/Kuala Kapias",
+    "postal_code": "21335"
+  },
+  {
+    "id": 1274041004,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127404,
+    "value": "Kapias Pulau Buaya",
+    "postal_code": "21331"
+  },
+  {
+    "id": 1274041002,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127404,
+    "value": "Pematang Pasir",
+    "postal_code": "21333"
+  },
+  {
+    "id": 1274041003,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127404,
+    "value": "Perjuangan",
+    "postal_code": "21332"
+  },
+  {
+    "id": 1274041001,
+    "province_id": 12,
+    "regency_id": 1274,
+    "district_id": 127404,
+    "value": "Sei Merbau",
+    "postal_code": "21334"
+  }
+]

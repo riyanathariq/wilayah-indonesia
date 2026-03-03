@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3510222005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351022,
+    "value": "Barurejo",
+    "postal_code": "68489"
+  },
+  {
+    "id": 3510222001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351022,
+    "value": "Buluagung",
+    "postal_code": "68489"
+  },
+  {
+    "id": 3510222003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351022,
+    "value": "Kesilir",
+    "postal_code": "68489"
+  },
+  {
+    "id": 3510222002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351022,
+    "value": "Siliragung",
+    "postal_code": "68489"
+  },
+  {
+    "id": 3510222004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351022,
+    "value": "Sineporejo (Seneporejo)",
+    "postal_code": "68489"
+  }
+]

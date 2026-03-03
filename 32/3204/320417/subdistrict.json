@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3204172004,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Campakamulya",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Cikalong",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Cimaung",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Cipinang",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Jagabaya",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172009,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Malasari",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Mekarsari",
+    "postal_code": "40375"
+  },
+  {
+    "id": 3204172003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Pasirhuni",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Sukamaju",
+    "postal_code": "40374"
+  },
+  {
+    "id": 3204172010,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320417,
+    "value": "Warjabakti",
+    "postal_code": "40374"
+  }
+]

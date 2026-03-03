@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1406022018,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Alahan",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Cipang Kanan",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Cipang Kiri Hilir",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Cipang Kiri Hulu",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Lubuk Bendahara",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Lubuk Bendahara Timur",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022016,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Lubuk Betung",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022017,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Pemandang",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406021001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Rokan",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022013,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Rokan Koto Ruang",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022014,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Rokan Timur",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Sikebau Jaya",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Tanjung Medan",
+    "postal_code": "28551"
+  },
+  {
+    "id": 1406022019,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140602,
+    "value": "Tibawan",
+    "postal_code": "28551"
+  }
+]

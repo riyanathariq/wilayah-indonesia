@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1202072004,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Aek Nabara",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072002,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Dolok Sanggul",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072005,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Dolok Saut",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072007,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Lobu Sihim",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072008,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Pardomuan",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072001,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Silosung",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072003,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Simangumban Jae",
+    "postal_code": "22466"
+  },
+  {
+    "id": 1202072006,
+    "province_id": 12,
+    "regency_id": 1202,
+    "district_id": 120207,
+    "value": "Simangumban Julu",
+    "postal_code": "22466"
+  }
+]

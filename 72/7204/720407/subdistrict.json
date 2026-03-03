@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7204071005,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Baru",
+    "postal_code": "94514"
+  },
+  {
+    "id": 7204072008,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Buntuna",
+    "postal_code": "94517"
+  },
+  {
+    "id": 7204072002,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Dadakitan",
+    "postal_code": "94517"
+  },
+  {
+    "id": 7204072009,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Lelean Nono",
+    "postal_code": "94515"
+  },
+  {
+    "id": 7204071004,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Nalu",
+    "postal_code": "94513"
+  },
+  {
+    "id": 7204071006,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Panasakan",
+    "postal_code": "94511"
+  },
+  {
+    "id": 7204072010,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Pangi",
+    "postal_code": "94517"
+  },
+  {
+    "id": 7204071007,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Sidoarjo",
+    "postal_code": "94512"
+  },
+  {
+    "id": 7204071001,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Tambun",
+    "postal_code": "94516"
+  },
+  {
+    "id": 7204071003,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720407,
+    "value": "Tuweley",
+    "postal_code": "94515"
+  }
+]

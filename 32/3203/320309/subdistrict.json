@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3203092009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Babakansari",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Hegarmanah",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Mekarjaya",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Panyusuhan",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Selajambe",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Sidangraja (Sindangraja)",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Sukaluyu",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Sukamulya",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Sukasirna",
+    "postal_code": "43287"
+  },
+  {
+    "id": 3203092004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320309,
+    "value": "Tanjungsari",
+    "postal_code": "43287"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1408132003,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Benteng Hilir",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132004,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Benteng Hulu",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132005,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Kampung Tengah",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132001,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Kota Ringin",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132007,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Merempan Hilir",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132002,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Paluh",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408131006,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Sungaimempura (Sungai Mempura)",
+    "postal_code": "28773"
+  },
+  {
+    "id": 1408132008,
+    "province_id": 14,
+    "regency_id": 1408,
+    "district_id": 140813,
+    "value": "Telukmerempan (Teluk Merempan)",
+    "postal_code": "28773"
+  }
+]

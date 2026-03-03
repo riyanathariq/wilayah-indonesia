@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5306042007,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Halakodanuan",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042006,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Lewohala",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042002,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Lewoloba",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042008,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Mudakaputu (Mudakeputu)",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042005,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Riangkemie (Riang Kemie)",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042003,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Tiwatobi",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042001,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Wailolong",
+    "postal_code": "86211"
+  },
+  {
+    "id": 5306042004,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530604,
+    "value": "Watotutu",
+    "postal_code": "86211"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1812092006,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Marga Sari",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092005,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Margo Dadi",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092004,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Margo Mulya",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092007,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Mulyo Sari",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092001,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Panca Marga",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092003,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Sakti Jaya",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092002,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Sido Makmur",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092008,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Toto Katon",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092009,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Toto Makmur",
+    "postal_code": "34785"
+  },
+  {
+    "id": 1812092010,
+    "province_id": 18,
+    "regency_id": 1812,
+    "district_id": 181209,
+    "value": "Toto Wonodadi",
+    "postal_code": "34785"
+  }
+]

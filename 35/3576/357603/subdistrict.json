@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3576031004,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Jagalan",
+    "postal_code": "61313"
+  },
+  {
+    "id": 3576031001,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Kranggan",
+    "postal_code": "61321"
+  },
+  {
+    "id": 3576031003,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Meri",
+    "postal_code": "61315"
+  },
+  {
+    "id": 3576031002,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Miji",
+    "postal_code": "61322"
+  },
+  {
+    "id": 3576031006,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Purwotengah",
+    "postal_code": "61311"
+  },
+  {
+    "id": 3576031005,
+    "province_id": 35,
+    "regency_id": 3576,
+    "district_id": 357603,
+    "value": "Sentanan",
+    "postal_code": "61312"
+  }
+]

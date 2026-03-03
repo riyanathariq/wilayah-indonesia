@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6502092005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Agung Baru",
+    "postal_code": "77574"
+  },
+  {
+    "id": 6502092006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Data Baru",
+    "postal_code": "77574"
+  },
+  {
+    "id": 6502092001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Dumu Mahak",
+    "postal_code": "77574"
+  },
+  {
+    "id": 6502092002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Long Lebusan",
+    "postal_code": "77574"
+  },
+  {
+    "id": 6502092004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Long Top",
+    "postal_code": "77574"
+  },
+  {
+    "id": 6502092003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650209,
+    "value": "Mahak Baru",
+    "postal_code": "77574"
+  }
+]

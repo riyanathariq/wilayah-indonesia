@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3601302001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Kadubelang",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Kadujangkung",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Medong",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Mekarjaya",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Pareang",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Rancabugel",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Sukamulya",
+    "postal_code": "42279"
+  },
+  {
+    "id": 3601302003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360130,
+    "value": "Warasinga (Wirasinga)",
+    "postal_code": "42279"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6205072010,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Gandring",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205072005,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Hajak",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205071002,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Jambu",
+    "postal_code": "73813"
+  },
+  {
+    "id": 6205071001,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Jingah",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205072009,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Liang Buah (Liangbuah)",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205072003,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Liang Naga",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205072006,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Malawaken",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205072008,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Panaen",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205072004,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Sabuh",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205072007,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620507,
+    "value": "Sikui",
+    "postal_code": "73814"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3674021006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Jelupang",
+    "postal_code": "15323"
+  },
+  {
+    "id": 3674021007,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Lengkong Karya",
+    "postal_code": "15320"
+  },
+  {
+    "id": 3674021002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Pakualam",
+    "postal_code": "15320"
+  },
+  {
+    "id": 3674021003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Pakujaya (Paku Jaya)",
+    "postal_code": "15324"
+  },
+  {
+    "id": 3674021001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Pakulonan",
+    "postal_code": "15325"
+  },
+  {
+    "id": 3674021004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Pondok Jagung",
+    "postal_code": "15326"
+  },
+  {
+    "id": 3674021005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367402,
+    "value": "Pondok Jagung Timur",
+    "postal_code": "15326"
+  }
+]

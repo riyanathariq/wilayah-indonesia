@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1113052003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Ekan",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Gajah",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052009,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Lesten",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Pasir Putih",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Pepelah",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Pertik",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Pining (Pinding)",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Pintu Rime",
+    "postal_code": "24659"
+  },
+  {
+    "id": 1113052004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111305,
+    "value": "Uring",
+    "postal_code": "24659"
+  }
+]

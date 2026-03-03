@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9201392008,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Fafi",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391011,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Jamaimo",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201392012,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Kasih",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201392005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klaben",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klamalu",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klamasen",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391010,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klaru",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201392007,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klasan",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Klasuluk (Klasukuk)",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391009,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Maklalut",
+    "postal_code": "98445"
+  },
+  {
+    "id": 9201391002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920139,
+    "value": "Mariyai",
+    "postal_code": "98445"
+  }
+]

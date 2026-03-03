@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6402172006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Bunga Putih",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Kersik",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Makarti",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Prangat Baru (Perangat Baru)",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Prangat Selatan (Perangat Selatan)",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172011,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Sambera Baru",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Santan Ilir",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Santan Tengah",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Santan Ulu",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Sebuntal",
+    "postal_code": "75385"
+  },
+  {
+    "id": 6402172010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640217,
+    "value": "Semangko (Semangkok)",
+    "postal_code": "75385"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1402102002,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Kuala Cenaku",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102004,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Kuala Mulia",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102003,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Pulau Gelang",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102010,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Pulau Jum'at (Pulau Jumat)",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102007,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Rawa Asri",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102006,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Rawa Sekip",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102008,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Suka Jadi",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102001,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Tambak",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102005,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Tanjung Sari",
+    "postal_code": "29335"
+  },
+  {
+    "id": 1402102009,
+    "province_id": 14,
+    "regency_id": 1402,
+    "district_id": 140210,
+    "value": "Teluk Sungkai",
+    "postal_code": "29335"
+  }
+]

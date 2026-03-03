@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3203292003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Bojonglarang",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Caringin",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Cibodas",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Cijati",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Padaasih",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Parakantugu",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292009,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Sinarbakti",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Sukaluyu",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Sukamahi",
+    "postal_code": "43284"
+  },
+  {
+    "id": 3203292010,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320329,
+    "value": "Sukamaju",
+    "postal_code": "43284"
+  }
+]

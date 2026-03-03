@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3509072002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Pondokdalem (Pondok Dalem)",
+    "postal_code": "68157"
+  },
+  {
+    "id": 3509072001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Pondokjoyo (Pondok Joyo)",
+    "postal_code": "68157"
+  },
+  {
+    "id": 3509072003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Rejoagung (Rejo Agung)",
+    "postal_code": "68157"
+  },
+  {
+    "id": 3509072004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Semboro",
+    "postal_code": "68157"
+  },
+  {
+    "id": 3509072005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Sidomekar",
+    "postal_code": "68157"
+  },
+  {
+    "id": 3509072006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350907,
+    "value": "Sidomulyo",
+    "postal_code": "68157"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7503132005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Alale (Alele)",
+    "postal_code": "96564"
+  },
+  {
+    "id": 7503132003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Duano",
+    "postal_code": "96564"
+  },
+  {
+    "id": 7503132002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Lombongo",
+    "postal_code": "96564"
+  },
+  {
+    "id": 7503132001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Lompotoo",
+    "postal_code": "96564"
+  },
+  {
+    "id": 7503132006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Tapadaa",
+    "postal_code": "96564"
+  },
+  {
+    "id": 7503132004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750313,
+    "value": "Tolomato",
+    "postal_code": "96564"
+  }
+]

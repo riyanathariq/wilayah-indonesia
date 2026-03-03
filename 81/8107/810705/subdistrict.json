@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8107052003,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Batulei (Batuley)",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052002,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Benjuring",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052007,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Jursiang",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052001,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Kabalsiang",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052009,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Kobamar",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052008,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Kompane",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052004,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Kumul",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052006,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Sewer",
+    "postal_code": "97663"
+  },
+  {
+    "id": 8107052005,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810705,
+    "value": "Waria",
+    "postal_code": "97663"
+  }
+]

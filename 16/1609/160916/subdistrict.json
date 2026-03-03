@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1609162002,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Muara Sindang Ilir",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162003,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Muara Sindang Tengah",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162004,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Pematang Danau",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162001,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Tanjung Harapan",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162006,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Tebat Layang",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162005,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Ulu Danau",
+    "postal_code": "32266"
+  },
+  {
+    "id": 1609162007,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160916,
+    "value": "Watas (Wates)",
+    "postal_code": "32266"
+  }
+]

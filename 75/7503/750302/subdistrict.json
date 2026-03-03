@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7503022006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Dutohe",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022029,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Dutohe Barat",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503021009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Olohuta (Oluhuta)",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503021028,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Olohuta Utara (Oluhuta Utara)",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503021008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Padengo",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503021011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Pauwo",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022013,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Poowo",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022026,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Poowo Barat",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022024,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Talango",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Tanggilingo",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503022012,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Toto Selatan",
+    "postal_code": "96552"
+  },
+  {
+    "id": 7503021010,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750302,
+    "value": "Tumbihe",
+    "postal_code": "96552"
+  }
+]

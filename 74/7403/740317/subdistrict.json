@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7403172007,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Banggai",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403172004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Ghone Bhalano",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403172001,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Ghonsuma (Ghonsume)",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403172003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Lagasa",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403172006,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Lasunapa",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403171002,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Palangga",
+    "postal_code": "93618"
+  },
+  {
+    "id": 7403171005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740317,
+    "value": "Wapunto",
+    "postal_code": "93618"
+  }
+]

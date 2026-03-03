@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1306072005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Ampang Gadang",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072008,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Balai Gurah",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Batu Taba",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Biaro Gadang",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Lambah",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Panampuang (Panampung)",
+    "postal_code": "26190"
+  },
+  {
+    "id": 1306072006,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130607,
+    "value": "Pasia",
+    "postal_code": "26190"
+  }
+]

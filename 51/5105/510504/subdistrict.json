@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5105042012,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Besan",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042011,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Dawan Kaler",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042009,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Dawan Kelod (Dawan Klod)",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042005,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Gunaksa",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042007,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Kampung Kusamba",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042006,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Kusamba",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042001,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Paksebali",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042008,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Pesinggahan",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042010,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Pikat",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042003,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Sampalan Kelod (Sampalan Klod)",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042002,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Sampalan Tengah",
+    "postal_code": "80761"
+  },
+  {
+    "id": 5105042004,
+    "province_id": 51,
+    "regency_id": 5105,
+    "district_id": 510504,
+    "value": "Sulang",
+    "postal_code": "80761"
+  }
+]

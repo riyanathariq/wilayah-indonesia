@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3509022001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350902,
+    "value": "Cakru",
+    "postal_code": "68167"
+  },
+  {
+    "id": 3509022004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350902,
+    "value": "Kencong",
+    "postal_code": "68167"
+  },
+  {
+    "id": 3509022003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350902,
+    "value": "Kraton",
+    "postal_code": "68167"
+  },
+  {
+    "id": 3509022002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350902,
+    "value": "Paseban",
+    "postal_code": "68167"
+  },
+  {
+    "id": 3509022005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350902,
+    "value": "Wonorejo",
+    "postal_code": "68167"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7411062002,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741106,
+    "value": "Keisio (Keiso)",
+    "postal_code": "93572"
+  },
+  {
+    "id": 7411061001,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741106,
+    "value": "Lalolae",
+    "postal_code": "93572"
+  },
+  {
+    "id": 7411062004,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741106,
+    "value": "Lalosingi",
+    "postal_code": "93572"
+  },
+  {
+    "id": 7411062003,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741106,
+    "value": "Talodo (Talado)",
+    "postal_code": "93572"
+  },
+  {
+    "id": 7411062005,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741106,
+    "value": "Wesalo",
+    "postal_code": "93572"
+  }
+]

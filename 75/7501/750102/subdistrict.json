@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7501022011,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Bulila",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022019,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Dulamayo Barat",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022018,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Dulamayo Selatan",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022020,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Dulohupa",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022016,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Hulawa",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022015,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Luhu",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022014,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Mongolato",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022017,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Pilohayanga",
+    "postal_code": "96181"
+  },
+  {
+    "id": 7501022021,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750102,
+    "value": "Pilohayanga Barat",
+    "postal_code": "96181"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1305162006,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Kampuang Tanjuang Koto Mambang Sungai",
+    "postal_code": "25574"
+  },
+  {
+    "id": 1305162001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Sungai Durian",
+    "postal_code": "25574"
+  },
+  {
+    "id": 1305162002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Tandikek",
+    "postal_code": "25574"
+  },
+  {
+    "id": 1305162005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Tandikek Barat",
+    "postal_code": "25574"
+  },
+  {
+    "id": 1305162004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Tandikek Selatan",
+    "postal_code": "25574"
+  },
+  {
+    "id": 1305162003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130516,
+    "value": "Tandikek Utara",
+    "postal_code": "25574"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1405122010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Airterjun (Air Terjun)",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Angkasa",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Kuala Semundam",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Lubuk Keranji Timur",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Lubuk Raja",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Lubuk Terap",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405121002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Rawang Empat",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122011,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Sialang Bungkuk",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Sialang Godang",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Tambun",
+    "postal_code": "28384"
+  },
+  {
+    "id": 1405122004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140512,
+    "value": "Terbangiang",
+    "postal_code": "28384"
+  }
+]

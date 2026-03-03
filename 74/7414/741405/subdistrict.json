@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7414052001,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Kokoe",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414052006,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Liwulompona",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414052007,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Pangilia",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414052002,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Talaga Besar",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414052003,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Talaga II (Talaga Dua)",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414051004,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Talaga Satu",
+    "postal_code": "93766"
+  },
+  {
+    "id": 7414052005,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741405,
+    "value": "Wulu",
+    "postal_code": "93766"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7208132004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Pinotu",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Sibalago (Sibolago)",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Sienjo",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Singura",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Tomoli",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Tomoli Selatan (Tomili Selatan)",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Tomoli Utara",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Toribulu",
+    "postal_code": "94466"
+  },
+  {
+    "id": 7208132008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720813,
+    "value": "Toribulu Selatan",
+    "postal_code": "94466"
+  }
+]

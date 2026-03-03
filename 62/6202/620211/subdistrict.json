@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6202112002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Basawang",
+    "postal_code": "74364"
+  },
+  {
+    "id": 6202112006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Kuin Permai",
+    "postal_code": "74364"
+  },
+  {
+    "id": 6202112003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Lampuyang",
+    "postal_code": "74364"
+  },
+  {
+    "id": 6202112001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Parebok",
+    "postal_code": "74364"
+  },
+  {
+    "id": 6202112005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Regei Lestari",
+    "postal_code": "74364"
+  },
+  {
+    "id": 6202112004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620211,
+    "value": "Ujung Pandaran",
+    "postal_code": "74364"
+  }
+]

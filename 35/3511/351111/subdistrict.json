@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3511111008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Badean",
+    "postal_code": "68214"
+  },
+  {
+    "id": 3511111010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Blindungan",
+    "postal_code": "68212"
+  },
+  {
+    "id": 3511111007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Dabasah",
+    "postal_code": "68211"
+  },
+  {
+    "id": 3511111006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Kademangan",
+    "postal_code": "68217"
+  },
+  {
+    "id": 3511112003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Kembang",
+    "postal_code": "68219"
+  },
+  {
+    "id": 3511111009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Kotakulon",
+    "postal_code": "68213"
+  },
+  {
+    "id": 3511111004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Nangkaan",
+    "postal_code": "68215"
+  },
+  {
+    "id": 3511112001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Pancoran",
+    "postal_code": "68219"
+  },
+  {
+    "id": 3511112011,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Pejaten",
+    "postal_code": "68218"
+  },
+  {
+    "id": 3511112002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Sukowiryo",
+    "postal_code": "68219"
+  },
+  {
+    "id": 3511111005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351111,
+    "value": "Tamansari",
+    "postal_code": "68216"
+  }
+]

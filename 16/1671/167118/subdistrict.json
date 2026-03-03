@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1671181003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "10 Ilir",
+    "postal_code": "30111"
+  },
+  {
+    "id": 1671181004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "11 Ilir",
+    "postal_code": "30112"
+  },
+  {
+    "id": 1671181001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "8 Ilir",
+    "postal_code": "30114"
+  },
+  {
+    "id": 1671181002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "9 Ilir",
+    "postal_code": "30113"
+  },
+  {
+    "id": 1671181006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "Duku",
+    "postal_code": "30111"
+  },
+  {
+    "id": 1671181005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167118,
+    "value": "Kuto Batu",
+    "postal_code": "30111"
+  }
+]

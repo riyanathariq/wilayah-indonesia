@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7411102001,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Aere",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102006,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Aladadio",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102005,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Awiu",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102003,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Iwoi Menggura",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102004,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Iwoimea Jaya",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102002,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Pekorea",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102011,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Rubia",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102008,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Taore",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102007,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Tinete",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102009,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Ulundoro",
+    "postal_code": "93573"
+  },
+  {
+    "id": 7411102010,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741110,
+    "value": "Watuwoha (Watuoha)",
+    "postal_code": "93573"
+  }
+]

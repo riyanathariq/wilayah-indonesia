@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9206132002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Cumnaji",
+    "postal_code": "98142"
+  },
+  {
+    "id": 9206132001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Horna (Homa)",
+    "postal_code": "98142"
+  },
+  {
+    "id": 9206132005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Huss",
+    "postal_code": "98142"
+  },
+  {
+    "id": 9206132003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Menci",
+    "postal_code": "98142"
+  },
+  {
+    "id": 9206132004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Sir",
+    "postal_code": "98142"
+  },
+  {
+    "id": 9206132006,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920613,
+    "value": "Ugdohop",
+    "postal_code": "98142"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5206052011,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Kambilo",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052013,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Kombo",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Maria",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052012,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Maria Utara",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Ntori",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Pesa",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Raba",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052014,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Rianmau",
+    "postal_code": "84184"
+  },
+  {
+    "id": 5206052001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520605,
+    "value": "Tarlawi",
+    "postal_code": "84184"
+  }
+]

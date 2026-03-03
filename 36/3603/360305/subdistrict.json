@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3603052006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Bojong Loa (Bojongloa)",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Carenang",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Caringin",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Cempaka",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Cibugel",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Cisoka",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052017,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Jeungjing (Jeung Jing)",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052014,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Karang Harja (Karangharja)",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Selapajang",
+    "postal_code": "15730"
+  },
+  {
+    "id": 3603052004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360305,
+    "value": "Sukatani",
+    "postal_code": "15730"
+  }
+]

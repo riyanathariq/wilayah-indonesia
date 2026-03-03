@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3521122001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Banyubiru (Banyu Biru)",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Gendingan",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Karangbanyu (Karang Banyu)",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Kauman",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Kayutrejo",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Kedunggudel",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Sekaralas (Sekar Alas)",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Sekarputih (Sekar Putih)",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Sidolaju",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122011,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Sidomakmur",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122012,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Walikukun",
+    "postal_code": "63256"
+  },
+  {
+    "id": 3521122008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352112,
+    "value": "Widodaren",
+    "postal_code": "63256"
+  }
+]

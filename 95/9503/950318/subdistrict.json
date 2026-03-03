@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9503182008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Aleleng",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Helo",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Hipela",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Huewi",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Punno",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Simeka",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Tangma",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Wamarek",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Yalimo",
+    "postal_code": "99716"
+  },
+  {
+    "id": 9503182007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950318,
+    "value": "Yeleas",
+    "postal_code": "99716"
+  }
+]

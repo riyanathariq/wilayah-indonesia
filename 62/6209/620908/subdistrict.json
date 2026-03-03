@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6209082001,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Batu Tambun",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082004,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Benakitan",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082003,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Ginih",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082009,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Jamuat (Jemuat)",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082007,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Karang Mas",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082008,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Kina",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082002,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Kinipan",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082005,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Liku",
+    "postal_code": "74664"
+  },
+  {
+    "id": 6209082006,
+    "province_id": 62,
+    "regency_id": 6209,
+    "district_id": 620908,
+    "value": "Mengkalang",
+    "postal_code": "74664"
+  }
+]

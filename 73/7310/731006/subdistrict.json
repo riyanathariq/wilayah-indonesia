@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7310062008,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Biring Ere",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310061001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Boriappaka",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310062004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Bowong Cindea",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310062007,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Bulu Cindea",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310062006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Mangilu",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310061002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Samalewa",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310061003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Sapanang",
+    "postal_code": "90651"
+  },
+  {
+    "id": 7310062005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731006,
+    "value": "Tabo-Tabo",
+    "postal_code": "90651"
+  }
+]

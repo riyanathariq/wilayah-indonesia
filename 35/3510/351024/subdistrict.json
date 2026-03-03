@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3510242004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Banjar",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Gumuk",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Jelun",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Kluncing",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Licin",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Pakel",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Segobang",
+    "postal_code": "68454"
+  },
+  {
+    "id": 3510242008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351024,
+    "value": "Tamansari",
+    "postal_code": "68454"
+  }
+]

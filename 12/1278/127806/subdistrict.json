@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1278062004,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Gada",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062007,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Hilinakhe",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062005,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Lolomoyo Tuhemberua",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062009,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Ononamolo II Lot (Ononamolo II)",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062008,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Onozikho",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062003,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Orahili Tumori",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062006,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Sihare'o Siwahili (Sihareo Siwahili)",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062001,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Tumori",
+    "postal_code": "22811"
+  },
+  {
+    "id": 1278062002,
+    "province_id": 12,
+    "regency_id": 1278,
+    "district_id": 127806,
+    "value": "Tumori Balohili",
+    "postal_code": "22811"
+  }
+]

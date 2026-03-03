@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9508152001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950815,
+    "value": "Alama",
+    "postal_code": "99901"
+  },
+  {
+    "id": 9508152003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950815,
+    "value": "Gin",
+    "postal_code": "99901"
+  },
+  {
+    "id": 9508152004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950815,
+    "value": "Kulesa",
+    "postal_code": "99901"
+  },
+  {
+    "id": 9508152002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950815,
+    "value": "Nolit",
+    "postal_code": "99901"
+  }
+]

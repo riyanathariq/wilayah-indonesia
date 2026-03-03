@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7501011009,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Biyonga",
+    "postal_code": "96212"
+  },
+  {
+    "id": 7501011004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Bolihuangga",
+    "postal_code": "96218"
+  },
+  {
+    "id": 7501011010,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Bongohulawa",
+    "postal_code": "96214"
+  },
+  {
+    "id": 7501011011,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Bulota",
+    "postal_code": "96213"
+  },
+  {
+    "id": 7501011007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Dutulanaa",
+    "postal_code": "96213"
+  },
+  {
+    "id": 7501011005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Hepuhulawa",
+    "postal_code": "96212"
+  },
+  {
+    "id": 7501011003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Hunggaluwa",
+    "postal_code": "96219"
+  },
+  {
+    "id": 7501011006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Hutuo",
+    "postal_code": "96213"
+  },
+  {
+    "id": 7501011001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Kayubulan",
+    "postal_code": "96211"
+  },
+  {
+    "id": 7501011002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Kayumerah",
+    "postal_code": "96214"
+  },
+  {
+    "id": 7501011012,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Malahu",
+    "postal_code": "96211"
+  },
+  {
+    "id": 7501011014,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Polohungo",
+    "postal_code": "96212"
+  },
+  {
+    "id": 7501011008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Tenilo",
+    "postal_code": "96218"
+  },
+  {
+    "id": 7501011013,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750101,
+    "value": "Tilihuwa (Tilihua)",
+    "postal_code": "96214"
+  }
+]

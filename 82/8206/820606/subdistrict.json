@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8206062005,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Bololo",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062007,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Dowongi Jaya",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062006,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Helaitetor",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062002,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Iga",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062001,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Labi Labi",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062008,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Majiko Tongone",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062004,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Marimoi",
+    "postal_code": "97869"
+  },
+  {
+    "id": 8206062003,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820606,
+    "value": "Tatam",
+    "postal_code": "97869"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8205112001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Buruakol",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Capalulu",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112009,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Jere",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Mangoli",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112006,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Paslal",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Urifola",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112008,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Wai U",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Wailoba",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205112007,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820511,
+    "value": "Waitulia",
+    "postal_code": "97793"
+  }
+]

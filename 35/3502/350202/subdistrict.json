@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3502022003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Baosan Kidul",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Baosan Lor",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Binade",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022010,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Cepoko",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022011,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Gedangan",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Mrayan (Merayan)",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022009,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Ngrayun (Ngerayun)",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Selur",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Sendang",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Temon",
+    "postal_code": "63464"
+  },
+  {
+    "id": 3502022001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350202,
+    "value": "Wonodadi",
+    "postal_code": "63464"
+  }
+]

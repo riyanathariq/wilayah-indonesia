@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201202009,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Bousui (Bosi)",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202010,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Kamuyar",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202015,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Klagen",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202011,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Klaka",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Klaos",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Klatim",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Luwelala",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202012,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Safdesa",
+    "postal_code": "98457"
+  },
+  {
+    "id": 9201202006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920120,
+    "value": "Suluh",
+    "postal_code": "98457"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1172032002,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Batee Shok (Batee Shoek)",
+    "postal_code": "23517"
+  },
+  {
+    "id": 1172032006,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Beurawang",
+    "postal_code": "23527"
+  },
+  {
+    "id": 1172032001,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Iboih",
+    "postal_code": "23518"
+  },
+  {
+    "id": 1172032005,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Keunekai (Keuneukai)",
+    "postal_code": "23528"
+  },
+  {
+    "id": 1172032004,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Paya",
+    "postal_code": "23529"
+  },
+  {
+    "id": 1172032003,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117203,
+    "value": "Paya Seunara",
+    "postal_code": "23516"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9402032007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Bakusi",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032013,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Biricare",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032014,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Dorey",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032016,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Evo",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Fawi",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032015,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Fii",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032012,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Kaho",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Turumo",
+    "postal_code": "98942"
+  },
+  {
+    "id": 9402032017,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940203,
+    "value": "Yerei",
+    "postal_code": "98942"
+  }
+]

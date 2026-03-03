@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9503512009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Boor",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Hunisi",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Jibuk",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Kwiriside",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Maku",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Muara Balim",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Obokain",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Sumo",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Uam",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Wenapong",
+    "postal_code": "99714"
+  },
+  {
+    "id": 9503512010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950351,
+    "value": "Wirilu",
+    "postal_code": "99714"
+  }
+]

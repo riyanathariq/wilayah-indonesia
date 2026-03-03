@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1306092003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130609,
+    "value": "Gadut (Gaduk)",
+    "postal_code": "26153"
+  },
+  {
+    "id": 1306092004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130609,
+    "value": "Kapau",
+    "postal_code": "26153"
+  },
+  {
+    "id": 1306092001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130609,
+    "value": "Koto Tangah",
+    "postal_code": "26153"
+  }
+]

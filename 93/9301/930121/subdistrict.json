@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9301212004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930121,
+    "value": "Bamol I",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301212005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930121,
+    "value": "Bamol II",
+    "postal_code": "99642"
+  },
+  {
+    "id": 9301212002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930121,
+    "value": "Padua",
+    "postal_code": "99640"
+  },
+  {
+    "id": 9301212001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930121,
+    "value": "Sabudon",
+    "postal_code": "99641"
+  },
+  {
+    "id": 9301212003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930121,
+    "value": "Sigad",
+    "postal_code": "99640"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1801082002,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Babatan",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082018,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Karya Tunggal",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082009,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Neglasari",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082003,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Pardasuka",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082019,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Rangai Tri Tunggal",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082020,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Sidomekar",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082004,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Sukajaya",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082006,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Tanjung Agung (Tanjungagung)",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082005,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Tanjung Ratu (Tanjungratu)",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082007,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Tanjungan",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082001,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Tarahan",
+    "postal_code": "35452"
+  },
+  {
+    "id": 1801082008,
+    "province_id": 18,
+    "regency_id": 1801,
+    "district_id": 180108,
+    "value": "Trans Tanjungan",
+    "postal_code": "35452"
+  }
+]

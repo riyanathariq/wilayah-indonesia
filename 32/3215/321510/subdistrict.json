@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3215102006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Dongkal",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Jatimulya",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Karangjaya",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102017,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Kendaljaya (Kedaljaya)",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Kertamulya",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Kertaraharja",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Labanjaya",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102018,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Malangsari",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Payungsari",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Puspasari",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102016,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Rangdumulya (Randumulya)",
+    "postal_code": "41353"
+  },
+  {
+    "id": 3215102005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321510,
+    "value": "Sungaibuntu",
+    "postal_code": "41353"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9203132001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920313,
+    "value": "Andamata",
+    "postal_code": "98014"
+  },
+  {
+    "id": 9203132003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920313,
+    "value": "Arguni",
+    "postal_code": "98014"
+  },
+  {
+    "id": 9203132004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920313,
+    "value": "Fior",
+    "postal_code": "98014"
+  },
+  {
+    "id": 9203132005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920313,
+    "value": "Furir",
+    "postal_code": "98014"
+  },
+  {
+    "id": 9203132002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920313,
+    "value": "Taver",
+    "postal_code": "98014"
+  }
+]

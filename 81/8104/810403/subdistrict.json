@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8104032027,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Gogorea",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032001,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Savana Jaya",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032003,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Waekasar",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032016,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Waekerta",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032004,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Waenetat",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032002,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Waetele",
+    "postal_code": "97578"
+  },
+  {
+    "id": 8104032019,
+    "province_id": 81,
+    "regency_id": 8104,
+    "district_id": 810403,
+    "value": "Wanareja",
+    "postal_code": "97578"
+  }
+]

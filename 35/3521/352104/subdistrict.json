@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3521042009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Dadapan",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Gayam",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Karanggupito",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Karangrejo",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Kendal",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Majasem",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Patalan",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Ploso",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Sidorejo",
+    "postal_code": "63261"
+  },
+  {
+    "id": 3521042003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352104,
+    "value": "Simo",
+    "postal_code": "63261"
+  }
+]

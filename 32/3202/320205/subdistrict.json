@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3202052005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Caringin",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Cicadas",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Cikahuripan",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Cikelat",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Cisolok",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Gunungkaramat",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Gunungtanjung",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052008,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Karangpapak",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Pasir Baru",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Sirnaresmi",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052013,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Sukarame",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052011,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Wanajaya",
+    "postal_code": "43366"
+  },
+  {
+    "id": 3202052012,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320205,
+    "value": "Wangunsari",
+    "postal_code": "43366"
+  }
+]

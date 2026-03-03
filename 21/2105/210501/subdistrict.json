@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2105012005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Pesisir Timur",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105012006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Sri Tanjung",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105012007,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Tarempa Barat Daya",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105012003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Tarempa Selatan",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105012004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Tarempa Timur",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105011001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Terempa (Tarempa)",
+    "postal_code": "29791"
+  },
+  {
+    "id": 2105012002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210501,
+    "value": "Terempa Barat (Tarempa Barat)",
+    "postal_code": "29791"
+  }
+]

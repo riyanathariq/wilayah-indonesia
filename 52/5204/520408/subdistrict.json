@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5204081002,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Brang Bara",
+    "postal_code": "84314"
+  },
+  {
+    "id": 5204081007,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Brang Biji",
+    "postal_code": "84318"
+  },
+  {
+    "id": 5204081005,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Bugis",
+    "postal_code": "84313"
+  },
+  {
+    "id": 5204081006,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Lempeh",
+    "postal_code": "84312"
+  },
+  {
+    "id": 5204081003,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Pekat",
+    "postal_code": "84315"
+  },
+  {
+    "id": 5204081001,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Samapuin",
+    "postal_code": "84316"
+  },
+  {
+    "id": 5204081004,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Seketeng",
+    "postal_code": "84311"
+  },
+  {
+    "id": 5204081008,
+    "province_id": 52,
+    "regency_id": 5204,
+    "district_id": 520408,
+    "value": "Uma Sima",
+    "postal_code": "84317"
+  }
+]

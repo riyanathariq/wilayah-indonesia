@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1303052002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130305,
+    "value": "Koto Baru",
+    "postal_code": "27561"
+  },
+  {
+    "id": 1303052005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130305,
+    "value": "Koto Tuo",
+    "postal_code": "27561"
+  },
+  {
+    "id": 1303052003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130305,
+    "value": "Muaro Bodi",
+    "postal_code": "27561"
+  },
+  {
+    "id": 1303052004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130305,
+    "value": "Mundam Sakti",
+    "postal_code": "27561"
+  },
+  {
+    "id": 1303052001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130305,
+    "value": "Palangki",
+    "postal_code": "27561"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7171111006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Dendengan Dalam",
+    "postal_code": "95127"
+  },
+  {
+    "id": 7171111007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Dendengan Luar",
+    "postal_code": "95127"
+  },
+  {
+    "id": 7171111002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Kairagi Weru",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171111005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Malendeng",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171111003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Paal Dua",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171111004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Perkamil",
+    "postal_code": "95129"
+  },
+  {
+    "id": 7171111001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717111,
+    "value": "Ranomuut (Ranomut)",
+    "postal_code": "95128"
+  }
+]

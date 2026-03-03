@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3319072006,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Bacin",
+    "postal_code": "59325"
+  },
+  {
+    "id": 3319072010,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Bae",
+    "postal_code": "59327"
+  },
+  {
+    "id": 3319072001,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Dersalam",
+    "postal_code": "59321"
+  },
+  {
+    "id": 3319072004,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Gondangmanis",
+    "postal_code": "59327"
+  },
+  {
+    "id": 3319072003,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Karangbener",
+    "postal_code": "59323"
+  },
+  {
+    "id": 3319072002,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Ngembalrejo",
+    "postal_code": "59322"
+  },
+  {
+    "id": 3319072007,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Panjang",
+    "postal_code": "59326"
+  },
+  {
+    "id": 3319072005,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Pedawang",
+    "postal_code": "59324"
+  },
+  {
+    "id": 3319072008,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Peganjaran",
+    "postal_code": "59327"
+  },
+  {
+    "id": 3319072009,
+    "province_id": 33,
+    "regency_id": 3319,
+    "district_id": 331907,
+    "value": "Purworejo",
+    "postal_code": "59327"
+  }
+]

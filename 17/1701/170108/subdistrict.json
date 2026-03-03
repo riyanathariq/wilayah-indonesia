@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1701082001,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Keban Jati",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082010,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Maras",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082005,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Palak Bengkerung",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082008,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Penandingan",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082007,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Pino Baru",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082009,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Suka Bandung",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082003,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Suka Negeri",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082006,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082004,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Sukarami",
+    "postal_code": "38571"
+  },
+  {
+    "id": 1701082002,
+    "province_id": 17,
+    "regency_id": 1701,
+    "district_id": 170108,
+    "value": "Tanjung Beringin",
+    "postal_code": "38571"
+  }
+]

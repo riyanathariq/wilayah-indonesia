@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7105122005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Lelema",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Matani",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122017,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Matani Satu",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Munte",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Popontolen",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Tangkunei (Tangkuney)",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Tumpaan",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122016,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Tumpaan Baru",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Tumpaan Satu",
+    "postal_code": "95352"
+  },
+  {
+    "id": 7105122018,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710512,
+    "value": "Tumpan Dua (Tumpaan Dua)",
+    "postal_code": "95352"
+  }
+]

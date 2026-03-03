@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1406112003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Bona Tapung (Bono Tapung)",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Dayo",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Koto Tandun",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Kumain",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Puo Raya",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Sei/Sungai Kuning",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Tandun",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Tandun Barat",
+    "postal_code": "28552"
+  },
+  {
+    "id": 1406112005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140611,
+    "value": "Tapung Jaya",
+    "postal_code": "28552"
+  }
+]

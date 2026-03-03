@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3205322004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320532,
+    "value": "Cijayana",
+    "postal_code": "44155"
+  },
+  {
+    "id": 3205322003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320532,
+    "value": "Jayabaya (Jagabaya)",
+    "postal_code": "44155"
+  },
+  {
+    "id": 3205322002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320532,
+    "value": "Karangwangi",
+    "postal_code": "44155"
+  },
+  {
+    "id": 3205322001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320532,
+    "value": "Mekarmukti",
+    "postal_code": "44155"
+  },
+  {
+    "id": 3205322005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320532,
+    "value": "Mekarsari",
+    "postal_code": "44155"
+  }
+]

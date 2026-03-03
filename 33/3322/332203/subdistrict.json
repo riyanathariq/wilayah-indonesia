@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3322032001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Badran",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Bakalrejo",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Gentan",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032013,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Kemetul",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032012,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Kenteng",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Ketapang",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Koripan",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Muncar",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Ngasinan",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Sidoharjo",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Susukan",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Tawang",
+    "postal_code": "50777"
+  },
+  {
+    "id": 3322032002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332203,
+    "value": "Timpik",
+    "postal_code": "50777"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1505112006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Dusun Mudo (Mudo)",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Kemingking Dalam",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112008,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Kemingking Luar",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112001,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Kunangan",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112010,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Manis Mato",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112009,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Rukam",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112007,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Sekumbung",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112002,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Talang Duku",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112003,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Tebat Patah",
+    "postal_code": "36383"
+  },
+  {
+    "id": 1505112005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150511,
+    "value": "Teluk Jambu",
+    "postal_code": "36383"
+  }
+]

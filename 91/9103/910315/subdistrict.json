@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9103152004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Bumi Sahaja",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152009,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Bundru",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Kwarja (Kwaja)",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Nawa Mukti",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Nawa Mulya",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Ongan Jaya",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152008,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Purnawajati (Purnama Jati)",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Tabbeyan (Tabeyan)",
+    "postal_code": "99365"
+  },
+  {
+    "id": 9103152007,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910315,
+    "value": "Taqwa/Takwa Bangun",
+    "postal_code": "99365"
+  }
+]

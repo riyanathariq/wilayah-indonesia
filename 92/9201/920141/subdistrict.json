@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9201412007,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Klalik",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Klamugun",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412013,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Klasou",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412008,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Malawhili",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Miskum",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Sbaga",
+    "postal_code": "98456"
+  },
+  {
+    "id": 9201412002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920141,
+    "value": "Siwis",
+    "postal_code": "98456"
+  }
+]

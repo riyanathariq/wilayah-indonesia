@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1309062001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130906,
+    "value": "Katurai/Katurei",
+    "postal_code": "25393"
+  },
+  {
+    "id": 1309062003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130906,
+    "value": "Pasakiat Taileleu (Pasakiat Taleleu)",
+    "postal_code": "25393"
+  },
+  {
+    "id": 1309062002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130906,
+    "value": "Sagulubbeg (Sagulubek / Sagalubeg / Sagalubbek)",
+    "postal_code": "25393"
+  }
+]

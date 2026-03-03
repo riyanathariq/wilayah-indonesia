@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1502152004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150215,
+    "value": "Bukit Subur",
+    "postal_code": "37355"
+  },
+  {
+    "id": 1502152003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150215,
+    "value": "Sri Sembilan",
+    "postal_code": "37355"
+  },
+  {
+    "id": 1502152002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150215,
+    "value": "Sungai Bulian",
+    "postal_code": "37355"
+  },
+  {
+    "id": 1502152001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150215,
+    "value": "Sungai Limau",
+    "postal_code": "37355"
+  }
+]

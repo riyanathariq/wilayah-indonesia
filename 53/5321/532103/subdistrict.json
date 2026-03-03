@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5321032008,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Alkani",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Badarai",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032011,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Biris",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Halibasar",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032009,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Lamea",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Lorotolus",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032010,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Rabasa Biris",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032007,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Seserai",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Webriamata",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Weoe",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032012,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Weseben",
+    "postal_code": "85775"
+  },
+  {
+    "id": 5321032002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532103,
+    "value": "Weulun",
+    "postal_code": "85775"
+  }
+]

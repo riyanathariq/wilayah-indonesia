@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7271041003,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727104,
+    "value": "Kayumalue Ngapa",
+    "postal_code": "94146"
+  },
+  {
+    "id": 7271041004,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727104,
+    "value": "Kayumalue Pajeko",
+    "postal_code": "94145"
+  },
+  {
+    "id": 7271041001,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727104,
+    "value": "Mamboro",
+    "postal_code": "94148"
+  },
+  {
+    "id": 7271041010,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727104,
+    "value": "Mamboro Barat",
+    "postal_code": "94148"
+  },
+  {
+    "id": 7271041002,
+    "province_id": 72,
+    "regency_id": 7271,
+    "district_id": 727104,
+    "value": "Taipa",
+    "postal_code": "94147"
+  }
+]

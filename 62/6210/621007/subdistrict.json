@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6210072004,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Dahian Tambuk",
+    "postal_code": "74571"
+  },
+  {
+    "id": 6210071005,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Kampuri",
+    "postal_code": "74571"
+  },
+  {
+    "id": 6210072003,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Rangan Tate",
+    "postal_code": "74571"
+  },
+  {
+    "id": 6210072006,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Tumbang Danau",
+    "postal_code": "74571"
+  },
+  {
+    "id": 6210072002,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Tumbang Empas",
+    "postal_code": "74571"
+  },
+  {
+    "id": 6210072001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621007,
+    "value": "Tuyun",
+    "postal_code": "74571"
+  }
+]

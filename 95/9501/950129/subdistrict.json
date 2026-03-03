@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9501292003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Binibaga",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Gelelame",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Injuta",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Melemei",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Pagaluk",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Taginem (Tagineri)",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Tamokilo (Tamokilu/Tamokulu)",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Wilaloma",
+    "postal_code": "99547"
+  },
+  {
+    "id": 9501292009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950129,
+    "value": "Wuragukme",
+    "postal_code": "99547"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1304032002,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130403,
+    "value": "Balimbing",
+    "postal_code": "27271"
+  },
+  {
+    "id": 1304032003,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130403,
+    "value": "III/Tigo Koto",
+    "postal_code": "27271"
+  },
+  {
+    "id": 1304032004,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130403,
+    "value": "Padang Magek",
+    "postal_code": "27271"
+  },
+  {
+    "id": 1304032005,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130403,
+    "value": "Rambatan",
+    "postal_code": "27271"
+  },
+  {
+    "id": 1304032001,
+    "province_id": 13,
+    "regency_id": 1304,
+    "district_id": 130403,
+    "value": "Simawang",
+    "postal_code": "27271"
+  }
+]

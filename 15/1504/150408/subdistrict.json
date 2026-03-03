@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1504082004,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Bukit Sari",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082001,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Bulian Jaya",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082007,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Danau Embat",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082005,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Karya Mukti",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082003,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Kehidupan Baru",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082006,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Terusan",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504081008,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Terusan (Kelurahan Terusan)",
+    "postal_code": "36655"
+  },
+  {
+    "id": 1504082002,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150408,
+    "value": "Tidar Kuranji",
+    "postal_code": "36655"
+  }
+]

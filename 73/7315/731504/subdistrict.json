@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7315041006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Bentengnge",
+    "postal_code": "91221"
+  },
+  {
+    "id": 7315041001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Jaya",
+    "postal_code": "91213"
+  },
+  {
+    "id": 7315041003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Maccorawalie",
+    "postal_code": "91212"
+  },
+  {
+    "id": 7315041004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Penrang",
+    "postal_code": "91219"
+  },
+  {
+    "id": 7315041005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Salo",
+    "postal_code": "91216"
+  },
+  {
+    "id": 7315041002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Sawito (Sawitto)",
+    "postal_code": "91211"
+  },
+  {
+    "id": 7315041008,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Siparappe",
+    "postal_code": "91217"
+  },
+  {
+    "id": 7315041007,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731504,
+    "value": "Sipatokkong",
+    "postal_code": "91218"
+  }
+]

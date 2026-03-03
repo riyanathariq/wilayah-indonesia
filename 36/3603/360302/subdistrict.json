@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603022008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Cikande",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Dangdeur (Dang Deur)",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Jayanti",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Pabuaran",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Pangkat",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Pasir Gintung",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Pasir Muncang",
+    "postal_code": "15611"
+  },
+  {
+    "id": 3603022005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360302,
+    "value": "Sumur Bandung",
+    "postal_code": "15611"
+  }
+]

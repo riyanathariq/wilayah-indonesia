@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3211042002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Buanamekar",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Cibugel",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Cipasang",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Jayamandiri",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Jayamekar",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Sukaraja",
+    "postal_code": "45375"
+  },
+  {
+    "id": 3211042006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321104,
+    "value": "Tamansari",
+    "postal_code": "45375"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1403142003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Api Api",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Bukitkerikil (Bukit Kerikil)",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Parit I Api Api (Paritsatuapi Api)",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142005,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Sepahat",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Tanjungleban (Tanjung Leban)",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Temiang",
+    "postal_code": "28762"
+  },
+  {
+    "id": 1403142004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140314,
+    "value": "Tenggayun",
+    "postal_code": "28762"
+  }
+]

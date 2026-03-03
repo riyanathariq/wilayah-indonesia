@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5317062001,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Bolu Bokat",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062007,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Bolu Bokat Barat",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062004,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Bolu Bokat Utara",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062010,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Holur Kambata",
+    "postal_code": "87281"
+  },
+  {
+    "id": 5317062002,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Mara Desa",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062006,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Maradesa Selatan",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062005,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Maradesa Timur",
+    "postal_code": "87283"
+  },
+  {
+    "id": 5317062009,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Sambali Loku",
+    "postal_code": "87281"
+  },
+  {
+    "id": 5317062008,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Wangga Waiyengu",
+    "postal_code": "87281"
+  },
+  {
+    "id": 5317062003,
+    "province_id": 53,
+    "regency_id": 5317,
+    "district_id": 531706,
+    "value": "Weluk Praimemang (Weluk Prai Memang)",
+    "postal_code": "87283"
+  }
+]

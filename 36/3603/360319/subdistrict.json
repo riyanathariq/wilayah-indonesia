@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603192007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Ciakar",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603191002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Mekar Bakti",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Mekar Jaya",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Panongan",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Peusar",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Ranca Iyuh",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Ranca Kalapa",
+    "postal_code": "15711"
+  },
+  {
+    "id": 3603192005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360319,
+    "value": "Serdang Kulon",
+    "postal_code": "15711"
+  }
+]

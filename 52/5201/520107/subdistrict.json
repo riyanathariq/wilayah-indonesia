@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5201072006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Batu Putih",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Buwun Mas",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072008,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Cendi Manik",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072007,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Gili Gede Indah",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Kedaro",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Pelangan",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Sekotong Barat",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Sekotong Tengah",
+    "postal_code": "83365"
+  },
+  {
+    "id": 5201072009,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520107,
+    "value": "Taman Baru",
+    "postal_code": "83365"
+  }
+]

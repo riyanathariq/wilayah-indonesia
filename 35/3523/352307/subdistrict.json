@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3523072005,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Binangun",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072012,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Kedungjambe",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072001,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Lajo Kidul",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072002,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Lajo Lor",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072006,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Mergosari",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072007,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Mulyoagung",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072010,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Mulyorejo",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072011,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Saringembat",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072003,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Tanggir",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072004,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Tanjungrejo",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072009,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Tingkis",
+    "postal_code": "62361"
+  },
+  {
+    "id": 3523072008,
+    "province_id": 35,
+    "regency_id": 3523,
+    "district_id": 352307,
+    "value": "Tunggulrejo",
+    "postal_code": "62361"
+  }
+]

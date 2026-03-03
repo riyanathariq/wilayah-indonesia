@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1307092003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Ampalu",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Balai Panjang",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Batu Payuang (Batu Payung)",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Bukik Sikumpa",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Halaban",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Labuah Gunuang",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092008,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Sitanang",
+    "postal_code": "26262"
+  },
+  {
+    "id": 1307092007,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130709,
+    "value": "Tanjung/Tanjuang Gadang",
+    "postal_code": "26262"
+  }
+]

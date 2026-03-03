@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1171052006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Batoh",
+    "postal_code": "23245"
+  },
+  {
+    "id": 1171052004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Blang Cut",
+    "postal_code": "23248"
+  },
+  {
+    "id": 1171052002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Cot Mesjid",
+    "postal_code": "23246"
+  },
+  {
+    "id": 1171052008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Lamdom (Lam Dom / Landom)",
+    "postal_code": "23244"
+  },
+  {
+    "id": 1171052009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Lampaloh",
+    "postal_code": "23248"
+  },
+  {
+    "id": 1171052005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Lamseupeung",
+    "postal_code": "23247"
+  },
+  {
+    "id": 1171052001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Leung Bata (Lueng Bata)",
+    "postal_code": "23247"
+  },
+  {
+    "id": 1171052003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Panteriek",
+    "postal_code": "23247"
+  },
+  {
+    "id": 1171052007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117105,
+    "value": "Sukadamai",
+    "postal_code": "23249"
+  }
+]

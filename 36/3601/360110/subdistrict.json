@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3601102005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Banyumas",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Bojong",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102008,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Cahayamekar",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Cijakan",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Citumenggung",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Geredug",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Manggungjaya",
+    "postal_code": "42274"
+  },
+  {
+    "id": 3601102001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360110,
+    "value": "Mekarsari",
+    "postal_code": "42274"
+  }
+]

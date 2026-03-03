@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2105072001,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Air Asuk",
+    "postal_code": "29795"
+  },
+  {
+    "id": 2105072002,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Air Sena",
+    "postal_code": "29795"
+  },
+  {
+    "id": 2105072004,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Lidi",
+    "postal_code": "29795"
+  },
+  {
+    "id": 2105072005,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Liuk",
+    "postal_code": "29795"
+  },
+  {
+    "id": 2105072003,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Teluk Siantan",
+    "postal_code": "29795"
+  },
+  {
+    "id": 2105072006,
+    "province_id": 21,
+    "regency_id": 2105,
+    "district_id": 210507,
+    "value": "Teluk Sunting",
+    "postal_code": "29795"
+  }
+]

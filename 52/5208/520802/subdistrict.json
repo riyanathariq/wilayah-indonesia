@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5208022002,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Bentek",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022003,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Genggelang",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022001,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Gondang",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022004,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Rempek",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022007,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Rempek Darussalam",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022005,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Sambik Bangkol",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022008,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Segara Katon",
+    "postal_code": "83353"
+  },
+  {
+    "id": 5208022006,
+    "province_id": 52,
+    "regency_id": 5208,
+    "district_id": 520802,
+    "value": "Selelos",
+    "postal_code": "83353"
+  }
+]

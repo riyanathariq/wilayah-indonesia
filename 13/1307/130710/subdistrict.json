@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1307102004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130710,
+    "value": "Situjuah Banda Dalam",
+    "postal_code": "26250"
+  },
+  {
+    "id": 1307102001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130710,
+    "value": "Situjuah Batua",
+    "postal_code": "26250"
+  },
+  {
+    "id": 1307102005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130710,
+    "value": "Situjuah Gadang",
+    "postal_code": "26250"
+  },
+  {
+    "id": 1307102002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130710,
+    "value": "Situjuah Ladang Laweh",
+    "postal_code": "26250"
+  },
+  {
+    "id": 1307102003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130710,
+    "value": "Tungka",
+    "postal_code": "26250"
+  }
+]

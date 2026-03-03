@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7202211002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720221,
+    "value": "Bukit Bambu",
+    "postal_code": "94614"
+  },
+  {
+    "id": 7202211003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720221,
+    "value": "Kawua",
+    "postal_code": "94619"
+  },
+  {
+    "id": 7202211005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720221,
+    "value": "Lembamawo (Lembomawo)",
+    "postal_code": "94617"
+  },
+  {
+    "id": 7202211004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720221,
+    "value": "Ronononcu (Ranononcu)",
+    "postal_code": "94619"
+  },
+  {
+    "id": 7202211001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720221,
+    "value": "Sayo",
+    "postal_code": "94613"
+  }
+]

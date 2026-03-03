@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6102082010,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610208,
+    "value": "Jungkat",
+    "postal_code": "78352"
+  },
+  {
+    "id": 6102082006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610208,
+    "value": "Peniti Luar",
+    "postal_code": "78352"
+  },
+  {
+    "id": 6102082002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610208,
+    "value": "Sei/Sungai Nipah",
+    "postal_code": "78352"
+  },
+  {
+    "id": 6102082001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610208,
+    "value": "Wajok Hilir (Wajo Hilir)",
+    "postal_code": "78352"
+  },
+  {
+    "id": 6102082009,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610208,
+    "value": "Wajok Hulu (Wajo Hulu)",
+    "postal_code": "78352"
+  }
+]

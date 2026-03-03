@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6107152004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610715,
+    "value": "Karimunting",
+    "postal_code": "79273"
+  },
+  {
+    "id": 6107152005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610715,
+    "value": "Pulau Lemukutan",
+    "postal_code": "79273"
+  },
+  {
+    "id": 6107152001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610715,
+    "value": "Rukma Jaya",
+    "postal_code": "79273"
+  },
+  {
+    "id": 6107152002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610715,
+    "value": "Sei/Sungai Keran",
+    "postal_code": "79273"
+  },
+  {
+    "id": 6107152003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610715,
+    "value": "Sei/Sungai Raya",
+    "postal_code": "79273"
+  }
+]

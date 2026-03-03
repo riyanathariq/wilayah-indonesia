@@ -1,0 +1,68 @@
+[
+  {
+    "id": 810605,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Amalatu"
+  },
+  {
+    "id": 810611,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Elpaputih"
+  },
+  {
+    "id": 810608,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Huamual"
+  },
+  {
+    "id": 810604,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Huamual Belakang"
+  },
+  {
+    "id": 810606,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Inamosol"
+  },
+  {
+    "id": 810601,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Kairatu"
+  },
+  {
+    "id": 810607,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Kairatu Barat"
+  },
+  {
+    "id": 810609,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Kepulauan Manipa"
+  },
+  {
+    "id": 810602,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Seram Barat"
+  },
+  {
+    "id": 810603,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Taniwel"
+  },
+  {
+    "id": 810610,
+    "province_id": 81,
+    "regency_id": 8106,
+    "value": "Taniwel Timur"
+  }
+]

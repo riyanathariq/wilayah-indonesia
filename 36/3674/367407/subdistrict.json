@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3674071005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Babakan",
+    "postal_code": "15315"
+  },
+  {
+    "id": 3674071006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Bakti Jaya",
+    "postal_code": "15315"
+  },
+  {
+    "id": 3674071004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Kademangan",
+    "postal_code": "15313"
+  },
+  {
+    "id": 3674071003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Keranggan (Kranggan)",
+    "postal_code": "15312"
+  },
+  {
+    "id": 3674071001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Muncul",
+    "postal_code": "15314"
+  },
+  {
+    "id": 3674071002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367407,
+    "value": "Setu",
+    "postal_code": "15314"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9508112003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950811,
+    "value": "Animarem",
+    "postal_code": "99916"
+  },
+  {
+    "id": 9508112005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950811,
+    "value": "Loaraba",
+    "postal_code": "99916"
+  },
+  {
+    "id": 9508112002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950811,
+    "value": "Lombrik",
+    "postal_code": "99916"
+  },
+  {
+    "id": 9508112001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950811,
+    "value": "Paro",
+    "postal_code": "99916"
+  },
+  {
+    "id": 9508112004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950811,
+    "value": "Tawelma",
+    "postal_code": "99916"
+  }
+]

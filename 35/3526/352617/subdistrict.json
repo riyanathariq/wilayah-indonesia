@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3526172001,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Bandung",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172013,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Batokaban",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172008,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Campor",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172005,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Cangkarman (Cangkareman)",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172011,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Durin Barat",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172012,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Durin Timur",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172009,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Galis Daya/Dajah",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172003,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Genteng",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172010,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Kanegarah (Kanagereh)",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172002,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Konang",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172004,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Pakes",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172007,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Sambiyan",
+    "postal_code": "69175"
+  },
+  {
+    "id": 3526172006,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352617,
+    "value": "Sen Asen",
+    "postal_code": "69175"
+  }
+]

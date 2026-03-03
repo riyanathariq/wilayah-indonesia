@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9508142001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950814,
+    "value": "Gemam",
+    "postal_code": "99907"
+  },
+  {
+    "id": 9508142004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950814,
+    "value": "Kilmid",
+    "postal_code": "99907"
+  },
+  {
+    "id": 9508142002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950814,
+    "value": "Puruwa",
+    "postal_code": "99907"
+  },
+  {
+    "id": 9508142003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950814,
+    "value": "Yutpul",
+    "postal_code": "99907"
+  }
+]

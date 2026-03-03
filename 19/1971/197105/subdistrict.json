@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1971051007,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Air Kepala Tujuh",
+    "postal_code": "33123"
+  },
+  {
+    "id": 1971051002,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Bukitmerapin (Bukit Merapin / Bukit Merapen)",
+    "postal_code": "33123"
+  },
+  {
+    "id": 1971051004,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Bukitsari (Bukit Sari)",
+    "postal_code": "33123"
+  },
+  {
+    "id": 1971051006,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Kacang Pedang",
+    "postal_code": "33125"
+  },
+  {
+    "id": 1971051001,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Taman Bunga",
+    "postal_code": "33123"
+  },
+  {
+    "id": 1971051005,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197105,
+    "value": "Tua Tunu (Tua Tunu indah)",
+    "postal_code": "33124"
+  }
+]

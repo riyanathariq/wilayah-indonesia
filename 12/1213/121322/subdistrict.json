@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1213222008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Airapa",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Banjar Aur Utara",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Bintungan Bejangkar Baru",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Kampung Kapas II",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Pasir Putih",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sido Makmur",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sinunukan I",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sinunukan I Central",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sinunukan II",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sinunukan III",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Sinunukan IV",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Suka Damai",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Wido Daren",
+    "postal_code": "22986"
+  },
+  {
+    "id": 1213222011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121322,
+    "value": "Wono Sari",
+    "postal_code": "22986"
+  }
+]

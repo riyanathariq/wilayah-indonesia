@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3525182011,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Diponggo",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182001,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Gelam",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182008,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Grejeg",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182013,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Kepuhlegundi (Kepuh Legundi)",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182012,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Kepuhteluk (Kepuh Teluk)",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182007,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Klumpanggubug (Kelompang Gubug)",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182004,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Pekalongan",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182010,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Peromaan (Paromaan)",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182003,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Sukalela",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182002,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Sukaoneng",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182005,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Tambak",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182009,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Tanjungori",
+    "postal_code": "61182"
+  },
+  {
+    "id": 3525182006,
+    "province_id": 35,
+    "regency_id": 3525,
+    "district_id": 352518,
+    "value": "Telukjatidawang (Teluk Jatidawang)",
+    "postal_code": "61182"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5205052014,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Baka Jaya",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052008,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Bara",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205051002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Kandai II",
+    "postal_code": "84218"
+  },
+  {
+    "id": 5205052009,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Mada Prama",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Matua",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205051001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Monta Baru",
+    "postal_code": "84219"
+  },
+  {
+    "id": 5205052011,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Mumbu",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052007,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Nowa",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052013,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Raba Baka",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052010,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Riwo",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Saneo",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205052012,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Sera Kapi",
+    "postal_code": "84251"
+  },
+  {
+    "id": 5205051003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Simpasai",
+    "postal_code": "84216"
+  },
+  {
+    "id": 5205052005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520505,
+    "value": "Wawonduru",
+    "postal_code": "84251"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1108122016,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Alue (Gampong Alue)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122037,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Alue Gampong",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Alue Keujruen",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Alue Pangkat",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122044,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Alue Sijuek",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Ampeh (Gampong Ampeh)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122038,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Bayi",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122052,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Blang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122028,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Blang Bidok",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Blang Jruen",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122048,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Blang Pie",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122043,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Blang Trieng (Gampong Blang Trieng)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122057,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Buket Makarti (Bukit Makarti)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122034,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Ceubrek (Cibrek)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122055,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Cot Barat",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122041,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Cot Dam/Dah",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Deng (Gampong Deng)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122045,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Hagu",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Hueng",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Jeumpa Berghang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Keude Blang Jruen",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122035,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Keutapang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122051,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Leuhong (Leu Hong)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122042,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Leupon Siren",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122033,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Manyang SB",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Manyang Tunong",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122056,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Matang Baloy",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Matang Ben",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Matang Ceubrek (Cibrek)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122036,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Matang Mane",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122023,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Pante Berghang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122027,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Paya (Gampong Paya)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Paya Beurandang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122047,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Plu Pakam",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Pulo Blang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Pulo U",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Punti Pulo Agam",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122049,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Punti Seuleumak Barat",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122026,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Rangkaya",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Rawa",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122029,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Rayeuk Kuta",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122030,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Rayeuk Munye (Rayeuk Meunye)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122025,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Rayeuk Naleung",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122024,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Serba Jaman (Gampong Serba Jaman)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122054,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Serba Jaman Baroh",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122050,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Serba Jaman Tunong",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122053,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Tanjong Mesjid",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Teungku Dibalee (Teungku Dibale)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Teungoh Berghang (Gampong Teungoh Berghang)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Teungoh Pulo Agam (Teungoh Pulo Agam)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122046,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Teupin Mee (Gampong Teupin Me)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122032,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Trieng",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122039,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Tumpok Aceh",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Tutong (Meunasah Tutong)",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Ujong Baroh Berghang",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122031,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Ujong Baroh Sb",
+    "postal_code": "24387"
+  },
+  {
+    "id": 1108122040,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110812,
+    "value": "Ulee Buket",
+    "postal_code": "24387"
+  }
+]

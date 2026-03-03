@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1118072003,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Hagu",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072001,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Keude Panteraja (Keudee Pante Raja)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072005,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Lhok Puuk",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072006,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Mesjid (Mesjid Pante Raja)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072004,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Muka Blang",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072009,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Peurade (Peuradeu)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072010,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Reudeup",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072007,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Teungoh (Teungoh Pantee Raja)",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072002,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Tu",
+    "postal_code": "24185"
+  },
+  {
+    "id": 1118072008,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111807,
+    "value": "Tunong (Tunong Pantee Raja)",
+    "postal_code": "24185"
+  }
+]

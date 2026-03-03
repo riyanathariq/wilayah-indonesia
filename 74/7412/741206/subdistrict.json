@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7412062005,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Baku Baku",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062002,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Bobolio",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062011,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Langgara Jaya",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062004,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Lawey",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062009,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Puuwatu",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412061006,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Sawaea",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062007,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Sawapatani (Sawa Patani)",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062010,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Wawoone (Wawo One)",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062003,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Wawosou (Wawouso)",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062008,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Wawouso Baru",
+    "postal_code": "93392"
+  },
+  {
+    "id": 7412062001,
+    "province_id": 74,
+    "regency_id": 7412,
+    "district_id": 741206,
+    "value": "Wungkolo",
+    "postal_code": "93392"
+  }
+]

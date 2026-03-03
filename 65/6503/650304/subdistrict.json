@@ -1,0 +1,226 @@
+[
+  {
+    "id": 6503042025,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Bulan Bulan",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Dabulon (Dubulon)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Deralon",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042026,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Kalampising",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Liang",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042013,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Libang",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042024,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Likos",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042017,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Lintong",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042028,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Mansalong",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042009,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Nainsid",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042027,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Pa'lemumut (Pa Lemumut)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042021,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Pa'loo (Pa Loo)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042006,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Patal I (Satu)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042020,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Patal II (Dua)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042005,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Podong",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042018,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Pulu Bulawan",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042011,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Saludan",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042022,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Sangkub (Sangkup)",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042008,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Sapuyan",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042010,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Sasibu",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042014,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Sedongon",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042012,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Semalat",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042007,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Siawang",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042016,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Sumalumung",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Taluan",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042015,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Tanjung Hilir",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042019,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Tanjung Hulu",
+    "postal_code": "77457"
+  },
+  {
+    "id": 6503042023,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650304,
+    "value": "Tubus",
+    "postal_code": "77457"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5301222006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Faumes",
+    "postal_code": "85372"
+  },
+  {
+    "id": 5301222005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Honuk",
+    "postal_code": "85372"
+  },
+  {
+    "id": 5301222003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Oelfatu",
+    "postal_code": "85372"
+  },
+  {
+    "id": 5301222002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Saukibe",
+    "postal_code": "85372"
+  },
+  {
+    "id": 5301222001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Soliu",
+    "postal_code": "85372"
+  },
+  {
+    "id": 5301222004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530122,
+    "value": "Timau",
+    "postal_code": "85372"
+  }
+]

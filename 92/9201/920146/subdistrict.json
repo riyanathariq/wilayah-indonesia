@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9201462007,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Bouwoi (Bolwi)",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Dasri",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Ketawas",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Masos",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Sulya",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Suus",
+    "postal_code": "98459"
+  },
+  {
+    "id": 9201462004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920146,
+    "value": "Warbo",
+    "postal_code": "98459"
+  }
+]

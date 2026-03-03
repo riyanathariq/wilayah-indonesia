@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3522072005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Alasgung",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072016,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Balongrejo",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Bareng",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072012,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Bulu",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Drenges",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072017,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Genjor",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072007,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Glagahan",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072015,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Glagahwangi (Glagah Wangi)",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072009,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Jatitengah",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072014,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Kedungdowo",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072013,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Nglajang",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072008,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Panemon",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Panunggalan",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Siwalan",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072010,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Sugihwaras",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072011,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Trate",
+    "postal_code": "62183"
+  },
+  {
+    "id": 3522072003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352207,
+    "value": "Wedoro",
+    "postal_code": "62183"
+  }
+]

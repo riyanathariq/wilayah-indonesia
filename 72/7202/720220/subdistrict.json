@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7202202002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Meko",
+    "postal_code": "94662"
+  },
+  {
+    "id": 7202202006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Owini",
+    "postal_code": "94662"
+  },
+  {
+    "id": 7202202004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Salukaia",
+    "postal_code": "94662"
+  },
+  {
+    "id": 7202202001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Taipa",
+    "postal_code": "94662"
+  },
+  {
+    "id": 7202202003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Toinasa",
+    "postal_code": "94662"
+  },
+  {
+    "id": 7202202005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720220,
+    "value": "Uranosari",
+    "postal_code": "94662"
+  }
+]

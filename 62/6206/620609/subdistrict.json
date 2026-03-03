@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6206092003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Kampung Melayu",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Mekar Tani",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Mendawai",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Perigi (Parigi)",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Teluk Sebulu",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Tewang/Tawang Kampung",
+    "postal_code": "74464"
+  },
+  {
+    "id": 6206092007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620609,
+    "value": "Tumbang Bulan",
+    "postal_code": "74464"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3520142010,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Botok",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142009,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Geplak",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142011,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Ginuk",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142006,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Jungke",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142001,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Karas",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142005,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Kuwon",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142002,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Sobontoro",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142003,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Sumursongo",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142004,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Taji",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142007,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Temboro",
+    "postal_code": "63393"
+  },
+  {
+    "id": 3520142008,
+    "province_id": 35,
+    "regency_id": 3520,
+    "district_id": 352014,
+    "value": "Temenggungan",
+    "postal_code": "63393"
+  }
+]

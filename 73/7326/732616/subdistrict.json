@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7326162002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732616,
+    "value": "Tondon",
+    "postal_code": "91857"
+  },
+  {
+    "id": 7326162001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732616,
+    "value": "Tondon Langi' (Tondon Langi)",
+    "postal_code": "91857"
+  },
+  {
+    "id": 7326162004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732616,
+    "value": "Tondon Matalo (Tondon Matallo)",
+    "postal_code": "91857"
+  },
+  {
+    "id": 7326162003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732616,
+    "value": "Tondon Sibata (Tondon Siba Ta)",
+    "postal_code": "91857"
+  }
+]

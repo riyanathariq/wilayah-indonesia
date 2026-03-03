@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1703082004,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Giri Mulya",
+    "postal_code": "38655"
+  },
+  {
+    "id": 1703082005,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Rena Jaya",
+    "postal_code": "38655"
+  },
+  {
+    "id": 1703082002,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Suka Makmur (Sukamakmur)",
+    "postal_code": "38655"
+  },
+  {
+    "id": 1703082006,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Suka Mulya",
+    "postal_code": "38655"
+  },
+  {
+    "id": 1703082001,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Tanjung Anom",
+    "postal_code": "38655"
+  },
+  {
+    "id": 1703082003,
+    "province_id": 17,
+    "regency_id": 1703,
+    "district_id": 170308,
+    "value": "Wono Harjo (Wonoharjo)",
+    "postal_code": "38655"
+  }
+]

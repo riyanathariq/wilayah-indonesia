@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1804042011,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Bahway",
+    "postal_code": "34811"
+  },
+  {
+    "id": 1804042007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Gunung Sugih",
+    "postal_code": "34816"
+  },
+  {
+    "id": 1804042002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Kubu Perahu",
+    "postal_code": "34813"
+  },
+  {
+    "id": 1804042004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Padang Cahya",
+    "postal_code": "34811"
+  },
+  {
+    "id": 1804042009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Padang Dalom",
+    "postal_code": "34818"
+  },
+  {
+    "id": 1804041001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Pasar Liwa",
+    "postal_code": "34814"
+  },
+  {
+    "id": 1804042005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Sebarus",
+    "postal_code": "34815"
+  },
+  {
+    "id": 1804042012,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Sedampah Indah",
+    "postal_code": "34811"
+  },
+  {
+    "id": 1804042010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Sukarame",
+    "postal_code": "34811"
+  },
+  {
+    "id": 1804042008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Wates (Watas)",
+    "postal_code": "34817"
+  },
+  {
+    "id": 1804042006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Way Empulau Ulu",
+    "postal_code": "34811"
+  },
+  {
+    "id": 1804041003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180404,
+    "value": "Way Mengaku",
+    "postal_code": "34812"
+  }
+]

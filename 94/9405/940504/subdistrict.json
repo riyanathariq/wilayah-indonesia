@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9405042001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Doufo",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Iratoi",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042010,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Jirei",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Lani",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042009,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Rawa",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Sibita",
+    "postal_code": "98982"
+  },
+  {
+    "id": 9405042007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940504,
+    "value": "Wahuka",
+    "postal_code": "98982"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1216072001,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Batunajagar (Batu Nagajar)",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072007,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Bonan Dolok I",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072008,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Bonan Dolok II",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072005,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Hutaginjang",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072010,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Nagurguran",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072002,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Sanggaran I",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072006,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Siborboron",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072009,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Sibuntuon",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072004,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Sigulok",
+    "postal_code": "22459"
+  },
+  {
+    "id": 1216072003,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121607,
+    "value": "Sitapongan",
+    "postal_code": "22459"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1272041006,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Aek Nauli",
+    "postal_code": "21126"
+  },
+  {
+    "id": 1272041002,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Karo",
+    "postal_code": "21122"
+  },
+  {
+    "id": 1272041005,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Kristen",
+    "postal_code": "21124"
+  },
+  {
+    "id": 1272041004,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Martimbang",
+    "postal_code": "21125"
+  },
+  {
+    "id": 1272041003,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Simalungun",
+    "postal_code": "21121"
+  },
+  {
+    "id": 1272041001,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127204,
+    "value": "Toba",
+    "postal_code": "21123"
+  }
+]

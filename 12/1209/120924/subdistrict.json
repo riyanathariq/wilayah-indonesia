@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1209242002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Jawi-Jawi",
+    "postal_code": "21382"
+  },
+  {
+    "id": 1209242006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Kepayang Kiri",
+    "postal_code": "21382"
+  },
+  {
+    "id": 1209242005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Lendir",
+    "postal_code": "21382"
+  },
+  {
+    "id": 1209242001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Nangka",
+    "postal_code": "21382"
+  },
+  {
+    "id": 1209242003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Serindan",
+    "postal_code": "21382"
+  },
+  {
+    "id": 1209242004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120924,
+    "value": "Sei Tualang Pandau",
+    "postal_code": "21382"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2102092002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210209,
+    "value": "Sanglar",
+    "postal_code": "29665"
+  },
+  {
+    "id": 2102092004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210209,
+    "value": "Semembang (Simembang)",
+    "postal_code": "29665"
+  },
+  {
+    "id": 2102092003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210209,
+    "value": "Tanjung Kilang",
+    "postal_code": "29665"
+  },
+  {
+    "id": 2102092005,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210209,
+    "value": "Telaga Tujuh",
+    "postal_code": "29665"
+  }
+]

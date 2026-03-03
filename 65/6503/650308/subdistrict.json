@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6503082004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650308,
+    "value": "Bambangan",
+    "postal_code": "77486"
+  },
+  {
+    "id": 6503082002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650308,
+    "value": "Binalawan",
+    "postal_code": "77486"
+  },
+  {
+    "id": 6503082001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650308,
+    "value": "Liang Bunyu",
+    "postal_code": "77486"
+  },
+  {
+    "id": 6503082003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650308,
+    "value": "Setabu",
+    "postal_code": "77486"
+  }
+]

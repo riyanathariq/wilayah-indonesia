@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7209032010,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Dolong A",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032008,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Dolong B",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032018,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Kolami",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032023,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Loe",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032016,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Luok",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032020,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Olilan",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032007,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Popolii",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032006,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Tiga Pulau",
+    "postal_code": "94694"
+  },
+  {
+    "id": 7209032009,
+    "province_id": 72,
+    "regency_id": 7209,
+    "district_id": 720903,
+    "value": "Tutung",
+    "postal_code": "94694"
+  }
+]

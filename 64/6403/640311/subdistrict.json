@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6403112001,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640311,
+    "value": "Bohe Silian (Maratua Bohesilian)",
+    "postal_code": "77381"
+  },
+  {
+    "id": 6403112002,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640311,
+    "value": "Payung-Payung (Maratua Payung-Payung)",
+    "postal_code": "77381"
+  },
+  {
+    "id": 6403112003,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640311,
+    "value": "Teluk Alulu (Maratua Teluk Alulu)",
+    "postal_code": "77381"
+  },
+  {
+    "id": 6403112004,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640311,
+    "value": "Teluk Harapan (Maratua Teluk Harapan)",
+    "postal_code": "77381"
+  }
+]

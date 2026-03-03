@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5202082009,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Arjangka",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082004,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Bagu",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082006,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Bilebante",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082008,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Menemeng",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082003,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Murbaya",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082007,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Pemepek",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082001,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Pringgarata (Pringarata)",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082002,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Sepakek",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082005,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Sintung",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082011,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Sisik",
+    "postal_code": "83562"
+  },
+  {
+    "id": 5202082010,
+    "province_id": 52,
+    "regency_id": 5202,
+    "district_id": 520208,
+    "value": "Taman Indah",
+    "postal_code": "83562"
+  }
+]

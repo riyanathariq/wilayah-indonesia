@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1102122001,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Aunan Sepakat",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122014,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Bener Bepapah (Bener Mepapah)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122011,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Bintang Bener",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122020,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Bukit Mbakhu",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122016,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Datok Pining",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122010,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Deleng Damar",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122004,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Jambur Lak Lak",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122019,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Jati Sara (Jati Rasa)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122006,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Jongar Asli (Jongar)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122017,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Kati Maju",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122021,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Kayu Metangur (Kayu Mentangur)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122007,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Ketambe",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122013,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Aunan",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122023,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Beringin (Lawe Bekhingin)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122024,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Ger Ger",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122003,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Mengkudu",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122002,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Penanggalan",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122022,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Lawe Sembekan",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122018,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Leuser (Louser)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122015,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Penungkunen",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122009,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Penyeberangan Cingkam",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122008,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Rumah Bundar",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122005,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Simpang Tiga Jongar (Simpang III Jongar)",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122025,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Simpur Jaya",
+    "postal_code": "24662"
+  },
+  {
+    "id": 1102122012,
+    "province_id": 11,
+    "regency_id": 1102,
+    "district_id": 110212,
+    "value": "Suka Rimbun",
+    "postal_code": "24662"
+  }
+]

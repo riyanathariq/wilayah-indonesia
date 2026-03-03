@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3302142011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Ajibarang Kulon",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Ajibarang Wetan",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Banjarsari (Banjarsari Kidul)",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142015,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Ciberung",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Darmakradenan",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Jingkang",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Kalibenda",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Karangbawang",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Kracak",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142013,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Lesmana",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Pancasan",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Pancurendang",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142014,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Pandansari",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Sawangan",
+    "postal_code": "53163"
+  },
+  {
+    "id": 3302142002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330214,
+    "value": "Tipar (Tipar Kidul)",
+    "postal_code": "53163"
+  }
+]

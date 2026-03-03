@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9103172004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910317,
+    "value": "Nehibe (Nacha Tawa)",
+    "postal_code": "99350"
+  },
+  {
+    "id": 9103172003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910317,
+    "value": "Ormuwari (Newa)",
+    "postal_code": "99350"
+  },
+  {
+    "id": 9103172002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910317,
+    "value": "Yongsu Besar (Dosoyo)",
+    "postal_code": "99350"
+  },
+  {
+    "id": 9103172001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910317,
+    "value": "Yongsu Sapari",
+    "postal_code": "99350"
+  }
+]

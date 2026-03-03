@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1211112004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Buluduri (Bulu Duri)",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112009,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Kaban Julu",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Kentara",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Lae Parira",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Lumban Sihite",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Lumban Toruan",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Pandiangan",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Sempung Polling",
+    "postal_code": "22281"
+  },
+  {
+    "id": 1211112001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121111,
+    "value": "Sumbul",
+    "postal_code": "22281"
+  }
+]

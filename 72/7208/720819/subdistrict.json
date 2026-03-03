@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7208192001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720819,
+    "value": "Avolua",
+    "postal_code": "94463"
+  },
+  {
+    "id": 7208192004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720819,
+    "value": "Pangi",
+    "postal_code": "94463"
+  },
+  {
+    "id": 7208192005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720819,
+    "value": "Sakinah Jaya (Sakina Jaya)",
+    "postal_code": "94463"
+  },
+  {
+    "id": 7208192002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720819,
+    "value": "Toboli",
+    "postal_code": "94463"
+  },
+  {
+    "id": 7208192003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720819,
+    "value": "Toboli Barat",
+    "postal_code": "94463"
+  }
+]

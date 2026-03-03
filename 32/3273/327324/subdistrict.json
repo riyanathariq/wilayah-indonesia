@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3273241002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327324,
+    "value": "Cisaranten Bina Harapan (Cisarenten Bina Harapan)",
+    "postal_code": "40294"
+  },
+  {
+    "id": 3273241003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327324,
+    "value": "Cisaranten Kulon",
+    "postal_code": "40293"
+  },
+  {
+    "id": 3273241004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327324,
+    "value": "Sindanglaya/Cisantre n Endah",
+    "postal_code": "40293"
+  },
+  {
+    "id": 3273241001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327324,
+    "value": "Sukamiskin",
+    "postal_code": "40293"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871171001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Enggal",
+    "postal_code": "35118"
+  },
+  {
+    "id": 1871171004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "35111"
+  },
+  {
+    "id": 1871171006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Pahoman",
+    "postal_code": "35213"
+  },
+  {
+    "id": 1871171002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Pelita",
+    "postal_code": "35117"
+  },
+  {
+    "id": 1871171005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Rawalaut (Rawa Laut)",
+    "postal_code": "35127"
+  },
+  {
+    "id": 1871171003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187117,
+    "value": "Tanjungkarang (Tanjung Karang)",
+    "postal_code": "35111"
+  }
+]

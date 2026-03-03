@@ -1,0 +1,386 @@
+[
+  {
+    "id": 5106042020,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Abangsongan (Abang Songan)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042013,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Abuan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042032,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Awan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042042,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Bantang",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042012,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Banua",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042022,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Batudinding (Batu Dinding)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042035,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Batukaang",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042026,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Batur Selatan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042027,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Batur Tengah",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042028,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Batur Utara",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042008,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Bayung Cerik (Bayungcerik)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042016,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Bayung Gede (Bayunggede)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042010,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Belancan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042048,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Belandingan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042034,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Belanga",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042036,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Belantih",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042002,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Binyan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042014,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Bonyoh",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042019,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Buahan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042004,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Bunutin",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042037,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Catur",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042031,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Daup",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042041,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Dausa",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042033,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Gunungbau",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042011,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Katung",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042018,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Kedisan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042029,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Kintamani",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042044,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Kutuh",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042005,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Langgahan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042006,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Lembean",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042009,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Mangguh",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042007,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Manikliyu",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042001,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Mengani",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042038,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Pengejaran",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042047,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Pinggan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042040,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Satra",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042015,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Sekaan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042017,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Sekardadi",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042039,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Selulung",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042030,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Serai (Serahi)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042046,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Siakin (Siyakin)",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042024,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Songan A",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042025,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Songan B",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042045,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Subaya",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042043,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Sukawana",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042021,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Suter",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042023,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Terunyan",
+    "postal_code": "80652"
+  },
+  {
+    "id": 5106042003,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510604,
+    "value": "Ulian",
+    "postal_code": "80652"
+  }
+]

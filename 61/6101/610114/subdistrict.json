@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6101142004,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610114,
+    "value": "Beringin",
+    "postal_code": "79462"
+  },
+  {
+    "id": 6101142001,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610114,
+    "value": "Jirak",
+    "postal_code": "79462"
+  },
+  {
+    "id": 6101142003,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610114,
+    "value": "Mekar Jaya",
+    "postal_code": "79462"
+  },
+  {
+    "id": 6101142002,
+    "province_id": 61,
+    "regency_id": 6101,
+    "district_id": 610114,
+    "value": "Tengguli",
+    "postal_code": "79462"
+  }
+]

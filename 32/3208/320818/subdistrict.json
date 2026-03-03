@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3208182010,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Babakanmulya",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208181002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Cigadung",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208181001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Cigugur",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208182006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Cileuleuy",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208181005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Cipari",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208182009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Cisantana",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208182008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Gunungkeling",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208182007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Puncak",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208181004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Sukamulya",
+    "postal_code": "45552"
+  },
+  {
+    "id": 3208181003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320818,
+    "value": "Winduherang",
+    "postal_code": "45552"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1215012004,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Bandar Baru",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Kaban Tengah",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012007,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Maholida",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012009,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Malum",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012010,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Mbinalun",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012008,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Perjaga",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012006,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Perolihen",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012005,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Simberruna (Simberuna)",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Tanjung Meriah",
+    "postal_code": "22275"
+  },
+  {
+    "id": 1215012002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121501,
+    "value": "Tanjung Mulia",
+    "postal_code": "22275"
+  }
+]

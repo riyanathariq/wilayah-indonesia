@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9403072003,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Bua",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072006,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Bugubutu",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072002,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Dadou",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072011,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Degatadi",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072007,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Dogomouto",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072010,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Eguai",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072008,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Giwo",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072004,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Kepi",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072009,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Nomokepota",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072001,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Todia (Tadia/Ayaikebo)",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072012,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Uwoyupi",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072005,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Wageme",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072013,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Wegekebo",
+    "postal_code": "98724"
+  },
+  {
+    "id": 9403072014,
+    "province_id": 94,
+    "regency_id": 9403,
+    "district_id": 940307,
+    "value": "Yinotadi",
+    "postal_code": "98724"
+  }
+]

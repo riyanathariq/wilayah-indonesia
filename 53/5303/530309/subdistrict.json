@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5303092006,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530309,
+    "value": "Fatumtasa",
+    "postal_code": "85674"
+  },
+  {
+    "id": 5303091010,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530309,
+    "value": "Humusu C",
+    "postal_code": "85674"
+  },
+  {
+    "id": 5303092009,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530309,
+    "value": "Humusu Oekolo (Humusu A)",
+    "postal_code": "85674"
+  },
+  {
+    "id": 5303092008,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530309,
+    "value": "Humusu Sainiup (Humusu B)",
+    "postal_code": "85674"
+  },
+  {
+    "id": 5303092007,
+    "province_id": 53,
+    "regency_id": 5303,
+    "district_id": 530309,
+    "value": "Oesoko",
+    "postal_code": "85674"
+  }
+]

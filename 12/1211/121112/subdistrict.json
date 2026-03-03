@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1211122003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Batu Gun-Gun",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Bukit Lau Kersik",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Gundaling",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Gunung Sitember",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Kendit Liang",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Lau Lebah",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Rante Besi",
+    "postal_code": "22250"
+  },
+  {
+    "id": 1211122008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121112,
+    "value": "Tupak Raja",
+    "postal_code": "22250"
+  }
+]

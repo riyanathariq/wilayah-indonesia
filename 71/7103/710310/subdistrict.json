@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7103102007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Batunderang",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102008,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Bebalang",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Kaluwatu",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Laine",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Lapango",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102013,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Lapango I",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102011,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Lapepahe",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102012,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Lehimi Tariang",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102009,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Mawira",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Ngalipaeng Dua (II)",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Ngalipaeng Satu (I)",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102010,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Pindang",
+    "postal_code": "95854"
+  },
+  {
+    "id": 7103102004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710310,
+    "value": "Sowaeng (Mawira)",
+    "postal_code": "95854"
+  }
+]

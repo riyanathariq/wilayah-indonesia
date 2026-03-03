@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9304122010,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Aoap",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Aou",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "As",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Atat",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Eroko",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Esmapan",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122011,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Fumereipits",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Kapi",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Nakai",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Weo",
+    "postal_code": "99778"
+  },
+  {
+    "id": 9304122008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930412,
+    "value": "Yakapis",
+    "postal_code": "99778"
+  }
+]

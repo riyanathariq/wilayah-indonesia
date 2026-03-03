@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3208232007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Cengal",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Cikeleng",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Citapen",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232010,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Dukuhdalem",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Garatengah",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Japara",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Kalimati",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Rajadanu",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Singkup",
+    "postal_code": "45555"
+  },
+  {
+    "id": 3208232005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320823,
+    "value": "Wano",
+    "postal_code": "45555"
+  }
+]

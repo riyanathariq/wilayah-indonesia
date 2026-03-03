@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3574041005,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Curahgrinting",
+    "postal_code": "67212"
+  },
+  {
+    "id": 3574041003,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Kanigaran",
+    "postal_code": "67213"
+  },
+  {
+    "id": 3574041006,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Kebonsari Kulon",
+    "postal_code": "67214"
+  },
+  {
+    "id": 3574041004,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Kebonsari Wetan",
+    "postal_code": "67214"
+  },
+  {
+    "id": 3574041002,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Sukoharjo",
+    "postal_code": "67215"
+  },
+  {
+    "id": 3574041001,
+    "province_id": 35,
+    "regency_id": 3574,
+    "district_id": 357404,
+    "value": "Tisnonegaran",
+    "postal_code": "67211"
+  }
+]

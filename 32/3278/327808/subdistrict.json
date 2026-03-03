@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3278081002,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Cigantang",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081008,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Cipari",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081005,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Cipawitra",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081003,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Karikil",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081004,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Linggajaya",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081001,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Mangkubumi",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081007,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Sambongjaya",
+    "postal_code": "46181"
+  },
+  {
+    "id": 3278081006,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327808,
+    "value": "Sambongpari",
+    "postal_code": "46181"
+  }
+]

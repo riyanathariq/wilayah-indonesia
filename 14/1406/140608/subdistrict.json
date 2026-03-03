@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1406082008,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Lubuk Krapat/Kerapat",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082012,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Muara Musu",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Pasir Jaya",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Pasir Utama",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082009,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Rambah",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Rambah Hilir",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Rambah Hilir Tengah",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Rambah Hilir Timur",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Rambah Muda",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082013,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Sejati",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082010,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Serambau/Serombau Indah",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082011,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Sungai Dua Indah",
+    "postal_code": "28561"
+  },
+  {
+    "id": 1406082007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140608,
+    "value": "Sungai Sitolang",
+    "postal_code": "28561"
+  }
+]

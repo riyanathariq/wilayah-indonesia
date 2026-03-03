@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1806262002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Air Kubang",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Air Naningan",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262008,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Batu Tegi",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Datar Lebuay",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Karang Sari",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Margomulyo",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Sidomulyo",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262007,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Sinar Jawa",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Sinar Sekampung",
+    "postal_code": "35679"
+  },
+  {
+    "id": 1806262001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180626,
+    "value": "Way Harong",
+    "postal_code": "35679"
+  }
+]

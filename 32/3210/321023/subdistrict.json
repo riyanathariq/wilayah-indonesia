@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3210232002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Cidadap",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Cikondang",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Cimanggu (Cimanggugirang)",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Cingambul",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232012,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Cintaasih",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Ciranjeng",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232011,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Kondangmekar",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Maniis",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232013,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Muktisari",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Nagarakembang",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Rawa",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Sedareja (Sedaraja)",
+    "postal_code": "45467"
+  },
+  {
+    "id": 3210232005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321023,
+    "value": "Wangkelang",
+    "postal_code": "45467"
+  }
+]

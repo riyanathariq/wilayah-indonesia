@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7601022015,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Ako",
+    "postal_code": "91571"
+  },
+  {
+    "id": 7601022016,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Gunung Sari",
+    "postal_code": "91571"
+  },
+  {
+    "id": 7601022014,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Karya Bersama",
+    "postal_code": "91571"
+  },
+  {
+    "id": 7601021002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Martajaya",
+    "postal_code": "91571"
+  },
+  {
+    "id": 7601022010,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Pakava",
+    "postal_code": "91571"
+  },
+  {
+    "id": 7601021001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760102,
+    "value": "Pasangkayu",
+    "postal_code": "91571"
+  }
+]

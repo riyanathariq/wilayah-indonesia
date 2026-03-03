@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7315102004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Amassangeng (Amassangang)",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315102005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Barang Palie",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315101001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Lansirang (Lanrisang)",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315102007,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Lerang",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315102003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Mallongi Longi",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315102002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Samaulue",
+    "postal_code": "91272"
+  },
+  {
+    "id": 7315102006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731510,
+    "value": "Waetuoe (Wae Tuwoe)",
+    "postal_code": "91272"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7316122001,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731612,
+    "value": "Baroko",
+    "postal_code": "91755"
+  },
+  {
+    "id": 7316122002,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731612,
+    "value": "Benteng Ala (Benteng Alla)",
+    "postal_code": "91755"
+  },
+  {
+    "id": 7316122003,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731612,
+    "value": "Benteng Alla Utara",
+    "postal_code": "91755"
+  },
+  {
+    "id": 7316122005,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731612,
+    "value": "Patongloan",
+    "postal_code": "91755"
+  },
+  {
+    "id": 7316122004,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731612,
+    "value": "Tongko",
+    "postal_code": "91755"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1113022004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Bener",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Beranang",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022015,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Cike",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022016,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Kerukunan Kota (Kuta Panjang)",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022021,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Kong Paluh",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022006,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Kuta Ujung",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022011,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Rema",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022014,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Rema Baru",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022010,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Rikit Dekat",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Tampeng",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022020,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Tampeng Musara",
+    "postal_code": "24650"
+  },
+  {
+    "id": 1113022005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111302,
+    "value": "Ulun Tanoh (Ulon Tanoh)",
+    "postal_code": "24650"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3512062006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Alasmalang (Alas Malang)",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Duwet",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Gelung",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Kilensari",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Paowan",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Peleyan",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Sumberkolak (Sumber Kolak)",
+    "postal_code": "68351"
+  },
+  {
+    "id": 3512062003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351206,
+    "value": "Wringinanom",
+    "postal_code": "68351"
+  }
+]

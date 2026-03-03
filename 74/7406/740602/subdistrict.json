@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406021011,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740602,
+    "value": "Bambaea",
+    "postal_code": "93776"
+  },
+  {
+    "id": 7406022004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740602,
+    "value": "Biru",
+    "postal_code": "93776"
+  },
+  {
+    "id": 7406022010,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740602,
+    "value": "Mambo",
+    "postal_code": "93776"
+  },
+  {
+    "id": 7406021015,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740602,
+    "value": "Puu Lemo",
+    "postal_code": "93776"
+  },
+  {
+    "id": 7406022003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740602,
+    "value": "Teppoe",
+    "postal_code": "93776"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7401102002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Donggala",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102019,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Iwoimopuro",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102011,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Lalonaha",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102015,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Lalonggopi",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102012,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Lana",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102010,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Langgomali",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102009,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Lapao-Pao",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102016,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Muara Lapao Pao",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102018,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Samaenre",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102008,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Tolowe Ponrewaru",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102021,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Ulu Rina",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401101007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Ulu Wolo",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401102003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Ululapao-pao (Ulu Lapao-Pao)",
+    "postal_code": "93553"
+  },
+  {
+    "id": 7401101001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740110,
+    "value": "Wolo",
+    "postal_code": "93553"
+  }
+]

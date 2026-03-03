@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1215062003,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121506,
+    "value": "Lae Mbentar",
+    "postal_code": "22270"
+  },
+  {
+    "id": 1215062002,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121506,
+    "value": "Napatalun Perlambuken",
+    "postal_code": "22270"
+  },
+  {
+    "id": 1215062004,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121506,
+    "value": "Pagindar",
+    "postal_code": "22270"
+  },
+  {
+    "id": 1215062001,
+    "province_id": 12,
+    "regency_id": 1215,
+    "district_id": 121506,
+    "value": "Sibagindar",
+    "postal_code": "22270"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7305042007,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Lassang",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305042016,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Lassang Barat",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041003,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Malewang",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041002,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Manongkoki",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041005,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Mattompodale (Mattompodalle)",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305042009,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Pa'rappunganta (Pa Rappunganta)",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041004,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Palleko",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041001,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Panrannuangku",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305041006,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Parang Luara",
+    "postal_code": "92221"
+  },
+  {
+    "id": 7305042010,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730504,
+    "value": "Towata",
+    "postal_code": "92221"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1222022006,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Air Merah",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022004,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perkebunan Batang Seponggol",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022001,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perkebunan Perlabian",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022002,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perkebunan Teluk Panji",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022005,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perkebunan Tolan (Pekan Tolan)",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022003,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perkebunan Tolan I/II",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022009,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Perlabian (Kampung Perlabian)",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022008,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Tanjung Medan",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022011,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Tanjung Mulia",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022010,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Tanjung Selamat",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022007,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Teluk Panji (Kampung Teluk Panji)",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022012,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Teluk Panji I",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022013,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Teluk Panji II",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022014,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Teluk Panji III",
+    "postal_code": "21463"
+  },
+  {
+    "id": 1222022015,
+    "province_id": 12,
+    "regency_id": 1222,
+    "district_id": 122202,
+    "value": "Teluk Panji IV",
+    "postal_code": "21463"
+  }
+]

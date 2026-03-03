@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3275011004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327501,
+    "value": "Arenjaya (Aren Jaya)",
+    "postal_code": "17111"
+  },
+  {
+    "id": 3275011001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327501,
+    "value": "Bekasijaya (Bekasi Jaya)",
+    "postal_code": "17112"
+  },
+  {
+    "id": 3275011003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327501,
+    "value": "Durenjaya (Duren Jaya)",
+    "postal_code": "17111"
+  },
+  {
+    "id": 3275011002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327501,
+    "value": "Margahayu",
+    "postal_code": "17113"
+  }
+]

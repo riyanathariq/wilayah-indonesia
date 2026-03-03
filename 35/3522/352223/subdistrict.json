@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3522232001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Banjarsari",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232007,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Guyangan",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232011,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Kandangan",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232010,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Kanten",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Mori",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Padang",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232012,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Pagerwesi",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232008,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Sranak",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232009,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Sumbangtimun (Sumbang Timun)",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Sumberejo",
+    "postal_code": "62191"
+  },
+  {
+    "id": 3522232003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Trucuk",
+    "postal_code": "62155"
+  },
+  {
+    "id": 3522232002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352223,
+    "value": "Tulungrejo",
+    "postal_code": "62155"
+  }
+]

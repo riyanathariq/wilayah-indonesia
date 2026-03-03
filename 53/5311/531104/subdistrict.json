@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5311042004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Kahiri",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Makamenggit",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042012,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Ngadulanggi (Ngadulangi)",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042010,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Praikarang (Prai Karang)",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Praipaha (Prai Paha)",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Pulu Panjang",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042011,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Tanatuku",
+    "postal_code": "87155"
+  },
+  {
+    "id": 5311042002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531104,
+    "value": "Tandula Jangga",
+    "postal_code": "87155"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1674042006,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Jungai",
+    "postal_code": "31131"
+  },
+  {
+    "id": 1674042009,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Karang Bindu",
+    "postal_code": "31133"
+  },
+  {
+    "id": 1674042008,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Karangan",
+    "postal_code": "31131"
+  },
+  {
+    "id": 1674042003,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Karya Mulya",
+    "postal_code": "31135"
+  },
+  {
+    "id": 1674042011,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Kemang Tanduk (Kembang Tanduk)",
+    "postal_code": "31131"
+  },
+  {
+    "id": 1674042005,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Rambang Senuling",
+    "postal_code": "31132"
+  },
+  {
+    "id": 1674042010,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Sinar Rambang",
+    "postal_code": "31131"
+  },
+  {
+    "id": 1674042007,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Talang Batu",
+    "postal_code": "31131"
+  },
+  {
+    "id": 1674041001,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167404,
+    "value": "Tanjung Rambang",
+    "postal_code": "31131"
+  }
+]

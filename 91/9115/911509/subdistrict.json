@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9115092011,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Awaso",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092006,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Demisa",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092012,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Firo",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092005,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Harapan Jaya",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092008,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Otodemo",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092002,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Somiangga",
+    "postal_code": "98661"
+  },
+  {
+    "id": 9115092004,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911509,
+    "value": "Toire",
+    "postal_code": "98661"
+  }
+]

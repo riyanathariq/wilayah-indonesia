@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7202011007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Gebangrejo",
+    "postal_code": "94619"
+  },
+  {
+    "id": 7202011017,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Gebangrejo Barat",
+    "postal_code": "94619"
+  },
+  {
+    "id": 7202011016,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Gebangrejo Timur",
+    "postal_code": "94619"
+  },
+  {
+    "id": 7202011003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Kayamanya",
+    "postal_code": "94617"
+  },
+  {
+    "id": 7202011018,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Kayamanya Sentral",
+    "postal_code": "94617"
+  },
+  {
+    "id": 7202011002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Moengko Baru",
+    "postal_code": "94618"
+  },
+  {
+    "id": 7202011001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720201,
+    "value": "Moengko Lama",
+    "postal_code": "94618"
+  }
+]

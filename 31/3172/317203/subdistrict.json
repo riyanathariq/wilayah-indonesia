@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3172031003,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317203,
+    "value": "Lagoa",
+    "postal_code": "14270"
+  },
+  {
+    "id": 3172031006,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317203,
+    "value": "Rawa Badak Selatan",
+    "postal_code": "14230"
+  },
+  {
+    "id": 3172031004,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317203,
+    "value": "Rawa Badak Utara",
+    "postal_code": "14230"
+  },
+  {
+    "id": 3172031005,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317203,
+    "value": "Tugu Selatan",
+    "postal_code": "14260"
+  },
+  {
+    "id": 3172031002,
+    "province_id": 31,
+    "regency_id": 3172,
+    "district_id": 317203,
+    "value": "Tugu Utara",
+    "postal_code": "14260"
+  }
+]

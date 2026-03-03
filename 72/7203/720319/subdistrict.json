@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7203192006,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Bale",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Guntarano",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Nupa Bomba",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wani Dua / II",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192010,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wani Lumbumpetigo",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wani Satu / I",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192009,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wani Tiga",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wombo",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192008,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wombo Kalonggo",
+    "postal_code": "94342"
+  },
+  {
+    "id": 7203192007,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720319,
+    "value": "Wombo Mpanau (Panau)",
+    "postal_code": "94342"
+  }
+]

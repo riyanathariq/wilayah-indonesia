@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3502192005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Gondowido",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192007,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Ngebel",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Ngrogung",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Pupus",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Sahang",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192008,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Sempu",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Talun",
+    "postal_code": "63493"
+  },
+  {
+    "id": 3502192003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350219,
+    "value": "Wagir Lor",
+    "postal_code": "63493"
+  }
+]

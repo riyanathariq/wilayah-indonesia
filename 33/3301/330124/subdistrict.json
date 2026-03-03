@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3301242004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330124,
+    "value": "Klaces",
+    "postal_code": "53253"
+  },
+  {
+    "id": 3301242003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330124,
+    "value": "Panikel",
+    "postal_code": "53253"
+  },
+  {
+    "id": 3301242002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330124,
+    "value": "Ujungalang",
+    "postal_code": "53253"
+  },
+  {
+    "id": 3301242001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330124,
+    "value": "Ujunggagak",
+    "postal_code": "53253"
+  }
+]

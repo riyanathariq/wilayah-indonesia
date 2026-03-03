@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1406162004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140616,
+    "value": "Air Panas",
+    "postal_code": "28555"
+  },
+  {
+    "id": 1406162002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140616,
+    "value": "Bengkolan Salak",
+    "postal_code": "28555"
+  },
+  {
+    "id": 1406162001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140616,
+    "value": "Pendalian",
+    "postal_code": "28555"
+  },
+  {
+    "id": 1406162005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140616,
+    "value": "Sei Kandis",
+    "postal_code": "28555"
+  },
+  {
+    "id": 1406162003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140616,
+    "value": "Suligi",
+    "postal_code": "28555"
+  }
+]

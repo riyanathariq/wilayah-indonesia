@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1407062001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Panipahan",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407061007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Panipahan (Kelurahan Panipahan)",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Panipahan Darat",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Panipahan Laut",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Pasir Limau Kapas",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Pulaujemur",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Sungai Daun",
+    "postal_code": "28995"
+  },
+  {
+    "id": 1407062002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140706,
+    "value": "Telukpulai (Teluk Pulai)",
+    "postal_code": "28995"
+  }
+]

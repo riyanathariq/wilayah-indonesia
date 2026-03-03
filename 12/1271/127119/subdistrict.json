@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1271191001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Petisah Tengah",
+    "postal_code": "20112"
+  },
+  {
+    "id": 1271191004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sei Putih Barat",
+    "postal_code": "20118"
+  },
+  {
+    "id": 1271191005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sei Putih Tengah",
+    "postal_code": "20118"
+  },
+  {
+    "id": 1271191006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sei Putih Timur I",
+    "postal_code": "20118"
+  },
+  {
+    "id": 1271191007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sei Putih Timur II",
+    "postal_code": "20118"
+  },
+  {
+    "id": 1271191003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sei Sikambing D",
+    "postal_code": "20119"
+  },
+  {
+    "id": 1271191002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127119,
+    "value": "Sekip",
+    "postal_code": "20113"
+  }
+]

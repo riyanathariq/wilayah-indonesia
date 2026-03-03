@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3604082006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Argawana",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Banyuwangi",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Gedung Soka (Kedung Soka)",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Mangunreja",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Margasari",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Pulo Ampel",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Pulo Panjang",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Salira",
+    "postal_code": "42455"
+  },
+  {
+    "id": 3604082002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360408,
+    "value": "Sumuranja",
+    "postal_code": "42455"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6304142005,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Bagagap",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142001,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Barambai",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142006,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Barambai Karya Tani",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142010,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Barambai Kolam Kanan",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142009,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Barambai Kolam Kiri",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142011,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Barambai Kolam Kiri Dalam (Kolam Kiri Dalam)",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142004,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Handil Barabai",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142008,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Karya Baru",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142003,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Pendalaman",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142007,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Pendalaman Baru",
+    "postal_code": "70562"
+  },
+  {
+    "id": 6304142002,
+    "province_id": 63,
+    "regency_id": 6304,
+    "district_id": 630414,
+    "value": "Sei/Sungai Kali",
+    "postal_code": "70562"
+  }
+]

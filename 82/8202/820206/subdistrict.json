@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8202062006,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Bilifitu",
+    "postal_code": "97858"
+  },
+  {
+    "id": 8202062001,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Gemia",
+    "postal_code": "97858"
+  },
+  {
+    "id": 8202062011,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Maliforo",
+    "postal_code": "97858"
+  },
+  {
+    "id": 8202062008,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Pantura Jaya",
+    "postal_code": "97858"
+  },
+  {
+    "id": 8202062002,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Tepeleo",
+    "postal_code": "97858"
+  },
+  {
+    "id": 8202062007,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820206,
+    "value": "Tepeleo Batudua",
+    "postal_code": "97858"
+  }
+]

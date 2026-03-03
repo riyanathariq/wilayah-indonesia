@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7603132003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Batupapan",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603132004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Masewwe",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603132002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Minanga",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603132006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Minanga Timur",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603131001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Nosu",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603132007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Parinding",
+    "postal_code": "91363"
+  },
+  {
+    "id": 7603132005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760313,
+    "value": "Siwi",
+    "postal_code": "91363"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1224082007,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Botona'ai",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082003,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Fabaliwa Oyo",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082006,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Gunung Tua",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082008,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Harefa",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082005,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Humene Siheneasi",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082004,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Ononazara",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082002,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Siwawo",
+    "postal_code": "22860"
+  },
+  {
+    "id": 1224082001,
+    "province_id": 12,
+    "regency_id": 1224,
+    "district_id": 122408,
+    "value": "Te'olo",
+    "postal_code": "22860"
+  }
+]

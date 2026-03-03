@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7317172005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Kendekan",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Lamasi Pantai",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Pangalli",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Rantai Damai (Rante Damai)",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Seba-Seba",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Suka Damai (Sukadamai)",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Taba (Tabah)",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317172002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731717,
+    "value": "Tanete",
+    "postal_code": "91951"
+  }
+]

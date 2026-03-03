@@ -1,0 +1,266 @@
+[
+  {
+    "id": 9202052039,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Aska",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052018,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Aurmios",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052009,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Bowi Subur",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052016,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Igor",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052036,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Inyei",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052038,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Jowen",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052011,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Kali Merah",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052034,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Koyani (Koyami)",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052006,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Macuan",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052010,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Makwan",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052015,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Mansaburi",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052040,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Mantedi",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052001,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Masni",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052012,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Meiforga",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052024,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Membowi",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052017,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Merejemeg",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052035,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Meyeruk (Mereyuk)",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052028,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Meyof II",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052030,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Moubja",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052004,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Muara Prafi",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052032,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Muara Wariori",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052003,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Prafi Barat",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052031,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Ririnfos",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052020,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Sembab",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052013,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Sibuni",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052002,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Sumber Boga",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052037,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Undi",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052045,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Urey",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052046,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Wamfoura (Wam Bola)",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052008,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Wariori",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052042,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Wariori Indah",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052014,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Yensum",
+    "postal_code": "98318"
+  },
+  {
+    "id": 9202052027,
+    "province_id": 92,
+    "regency_id": 9202,
+    "district_id": 920205,
+    "value": "Yonsoribo",
+    "postal_code": "98318"
+  }
+]

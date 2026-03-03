@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7501202001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Biluhu Barat",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Biluhu Tengah",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Botu Boluo (Botubolu'o / Botuboluo)",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Huwongo",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Lobuto",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Lobuto Timur",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Luluo",
+    "postal_code": "96245"
+  },
+  {
+    "id": 7501202008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750120,
+    "value": "Olimeyala",
+    "postal_code": "96245"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1707122005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Air Kopras",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Bioa Putiak",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Ketenong I",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Ketenong II",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Ketenong Jaya",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Sebelat",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Sungai Lisai",
+    "postal_code": "39269"
+  },
+  {
+    "id": 1707122004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170712,
+    "value": "Tambang Saweak (Tambang Sawah)",
+    "postal_code": "39269"
+  }
+]

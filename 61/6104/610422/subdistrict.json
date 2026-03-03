@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6104222003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Bukit Kelambing",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Muntai",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Pantai Ketikal",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Suka Mulia",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Suka Sari (Sukasari)",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Sukaharja",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Sukaraja",
+    "postal_code": "78866"
+  },
+  {
+    "id": 6104222007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610422,
+    "value": "Tanah Hitam",
+    "postal_code": "78866"
+  }
+]

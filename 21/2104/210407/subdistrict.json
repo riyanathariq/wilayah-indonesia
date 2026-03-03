@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2104072008,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Belungkur",
+    "postal_code": "29874"
+  },
+  {
+    "id": 2104072001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Bukitlangkap (Bukit Langkap)",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072004,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Kerandin",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Keton",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072006,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Kudung",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Pekaka",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072005,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Sungai Pinang",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104072007,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210407,
+    "value": "Teluk",
+    "postal_code": "29874"
+  }
+]

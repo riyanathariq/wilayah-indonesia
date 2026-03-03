@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1603092006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Batu Surau",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Gunung Agung",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Kota Agung",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Kota Padang",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Muara Tenang",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Palak Tanah",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Rekimai Jaya",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Sri Tanjung (Seri Tanjung)",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092012,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Swarna Dwipa",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Tanjung Raya",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Tebing Abang",
+    "postal_code": "31359"
+  },
+  {
+    "id": 1603092001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160309,
+    "value": "Tenam Bungkuk",
+    "postal_code": "31359"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3215282001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Cigunungsari",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Cintalaksana",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Cintalanggeng",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Cintawargi",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Cipurwasari",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Kutalanggeng",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Kutamaneuh",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Mekarbuana",
+    "postal_code": "41364"
+  },
+  {
+    "id": 3215282002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321528,
+    "value": "Wargasetra",
+    "postal_code": "41364"
+  }
+]

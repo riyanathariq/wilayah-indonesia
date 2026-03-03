@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7212042001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Beteleme",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042014,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Korobonde",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Korompeeli (Korompeli)",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Korowalelo (Koro Walelo)",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042012,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Korowou",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Kumpi",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042013,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Lembobaru (Lembo Baru)",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042011,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Lemboroma",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Mora",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Tingkeao",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Tinompo",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Uluanso",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Waraa",
+    "postal_code": "94966"
+  },
+  {
+    "id": 7212042006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721204,
+    "value": "Wawopada",
+    "postal_code": "94966"
+  }
+]

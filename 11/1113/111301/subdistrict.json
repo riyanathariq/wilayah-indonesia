@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1113012027,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Agusan (Agusen)",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012004,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Bacang",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012003,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Bukit",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012031,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Bustanussalam",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012018,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Cempa",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012005,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Durin",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012016,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Gele",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012007,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Kampung Jawa",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012001,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Kota Blangkejeren (Kota Blang Kejeren)",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012011,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Kute Lintang (Kuta Lintang)",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012014,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Leme",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012019,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Lempuh",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012021,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Palok",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012002,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Penampaan (Penampaan Toa)",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012032,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Penampaan Uken",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012022,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Penggalangan",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012008,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Porang",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012033,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Raklunung",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012034,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Sepang",
+    "postal_code": "24655"
+  },
+  {
+    "id": 1113012017,
+    "province_id": 11,
+    "regency_id": 1113,
+    "district_id": 111301,
+    "value": "Sere (Kute Sere)",
+    "postal_code": "24655"
+  }
+]

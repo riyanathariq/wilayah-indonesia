@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1307062003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Gunuang Malintang",
+    "postal_code": "26272"
+  },
+  {
+    "id": 1307062005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Koto Alam",
+    "postal_code": "26272"
+  },
+  {
+    "id": 1307062001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Manggilang",
+    "postal_code": "26272"
+  },
+  {
+    "id": 1307062004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Pangkalan",
+    "postal_code": "26272"
+  },
+  {
+    "id": 1307062006,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Tanjung Pauh (Tanjung / Tanjuang Pauah)",
+    "postal_code": "26272"
+  },
+  {
+    "id": 1307062002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130706,
+    "value": "Tanjung/Tanjuang Balik",
+    "postal_code": "26272"
+  }
+]

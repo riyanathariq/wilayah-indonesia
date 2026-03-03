@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5302022013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Bikekneno",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Biloto",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Bisene",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Kesetnana",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Noinbila",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Oinlasi",
+    "postal_code": "85542"
+  },
+  {
+    "id": 5302022006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530202,
+    "value": "Tuasene",
+    "postal_code": "85542"
+  }
+]

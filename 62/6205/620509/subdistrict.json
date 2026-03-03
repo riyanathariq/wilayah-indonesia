@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6205092009,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Benao Hilir",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092010,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Benao Hulu",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092005,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Jangkang Baru",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092006,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Jangkang Lama",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092011,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Karamuan",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092003,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Luwe Hilir",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092004,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Luwe Hulu",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092001,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Nihan Hilir",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092002,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Nihan Hulu",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092007,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Papar Pujung",
+    "postal_code": "73853"
+  },
+  {
+    "id": 6205092008,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620509,
+    "value": "Teluk Malewai",
+    "postal_code": "73853"
+  }
+]

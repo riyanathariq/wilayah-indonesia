@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3673011006,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Cimuncang",
+    "postal_code": "42111"
+  },
+  {
+    "id": 3673011002,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Cipare",
+    "postal_code": "42117"
+  },
+  {
+    "id": 3673011012,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Kagungan",
+    "postal_code": "42114"
+  },
+  {
+    "id": 3673011010,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Kaligandu",
+    "postal_code": "42116"
+  },
+  {
+    "id": 3673011004,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Kota Baru (Kotabaru)",
+    "postal_code": "42112"
+  },
+  {
+    "id": 3673011009,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Lontarbaru",
+    "postal_code": "42115"
+  },
+  {
+    "id": 3673011005,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Lopang",
+    "postal_code": "42113"
+  },
+  {
+    "id": 3673011001,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Serang",
+    "postal_code": "42116"
+  },
+  {
+    "id": 3673011008,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Sukawana",
+    "postal_code": "42116"
+  },
+  {
+    "id": 3673011003,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Sumur Pecung (Sumurpecung)",
+    "postal_code": "42118"
+  },
+  {
+    "id": 3673011011,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Terondol",
+    "postal_code": "42119"
+  },
+  {
+    "id": 3673011007,
+    "province_id": 36,
+    "regency_id": 3673,
+    "district_id": 367301,
+    "value": "Unyur",
+    "postal_code": "42111"
+  }
+]

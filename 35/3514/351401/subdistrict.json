@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3514012013,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Capang",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Cowek",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Dawuhansengon (Dawuhan Sengon)",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Gajahrejo (Gajah Rejo)",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Gerbo",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Jatirejo (Jatisari)",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Lebak Rejo",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Parerejo",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012011,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Pucang Sari",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Purwodadi",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012012,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Semut",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Sentul",
+    "postal_code": "67163"
+  },
+  {
+    "id": 3514012010,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351401,
+    "value": "Tambak Sari",
+    "postal_code": "67163"
+  }
+]

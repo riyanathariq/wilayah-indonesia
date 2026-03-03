@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7102021008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Katinggolan",
+    "postal_code": "95612"
+  },
+  {
+    "id": 7102021007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Kendis",
+    "postal_code": "95613"
+  },
+  {
+    "id": 7102021011,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Kiniar",
+    "postal_code": "95611"
+  },
+  {
+    "id": 7102021009,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Liningaan",
+    "postal_code": "95612"
+  },
+  {
+    "id": 7102021001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Luaan",
+    "postal_code": "95614"
+  },
+  {
+    "id": 7102021014,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Makalounsow (Makalonsouw)",
+    "postal_code": "95612"
+  },
+  {
+    "id": 7102021013,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Papakelan",
+    "postal_code": "95612"
+  },
+  {
+    "id": 7102021005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Ranowangko",
+    "postal_code": "95613"
+  },
+  {
+    "id": 7102021010,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Taler",
+    "postal_code": "95611"
+  },
+  {
+    "id": 7102021012,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Touluor (Toulour)",
+    "postal_code": "95611"
+  },
+  {
+    "id": 7102021006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710202,
+    "value": "Wengkol",
+    "postal_code": "95613"
+  }
+]

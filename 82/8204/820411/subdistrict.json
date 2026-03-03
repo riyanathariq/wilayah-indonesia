@@ -1,0 +1,34 @@
+[
+  {
+    "id": 8204112001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820411,
+    "value": "Bokimiake",
+    "postal_code": "97781"
+  },
+  {
+    "id": 8204112003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820411,
+    "value": "Busua",
+    "postal_code": "97781"
+  },
+  {
+    "id": 8204112004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820411,
+    "value": "Fofao",
+    "postal_code": "97781"
+  },
+  {
+    "id": 8204112002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820411,
+    "value": "Hatejawa",
+    "postal_code": "97781"
+  }
+]

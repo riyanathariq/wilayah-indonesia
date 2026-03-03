@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6504022004,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Badan Bikis",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022003,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Bebatu",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022007,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Menjelutung",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022006,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Seludau",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022002,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Sengkong",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022005,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Sepala Dalung",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022001,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Sesayap",
+    "postal_code": "77153"
+  },
+  {
+    "id": 6504022008,
+    "province_id": 65,
+    "regency_id": 6504,
+    "district_id": 650402,
+    "value": "Sesayap Selor",
+    "postal_code": "77153"
+  }
+]

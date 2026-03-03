@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3505171002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Babadan",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505172009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Balerejo",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505171001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Beru",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505171006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Klemunan",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505172007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Ngadirenggo",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505171003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Tangkil",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505172008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Tegalasri",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505172005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Tembalang",
+    "postal_code": "66185"
+  },
+  {
+    "id": 3505171004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350517,
+    "value": "Wlingi",
+    "postal_code": "66185"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1603152013,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Air Keruh",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Baru Rambang",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Kencana Mulia",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Marga Mulya (Marga Mulia)",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Negeri Agung",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Pagar Agung",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Sugih Waras",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Sugihan",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152012,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Sugihwaras Barat (Sugih Waras Barat)",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Sukarami",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Sumber Rahayu",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Tanjung Dalam",
+    "postal_code": "31175"
+  },
+  {
+    "id": 1603152003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160315,
+    "value": "Tanjung Raya",
+    "postal_code": "31175"
+  }
+]

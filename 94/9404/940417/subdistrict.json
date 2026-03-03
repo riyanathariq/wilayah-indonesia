@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9404172001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Amar",
+    "postal_code": "99973"
+  },
+  {
+    "id": 9404172004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Ipiri",
+    "postal_code": "99973"
+  },
+  {
+    "id": 9404172002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Kawar",
+    "postal_code": "99973"
+  },
+  {
+    "id": 9404172003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Manuare",
+    "postal_code": "99973"
+  },
+  {
+    "id": 9404172005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Paripi",
+    "postal_code": "99973"
+  },
+  {
+    "id": 9404172006,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940417,
+    "value": "Yaraya",
+    "postal_code": "99973"
+  }
+]

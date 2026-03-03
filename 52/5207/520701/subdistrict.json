@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5207012002,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520701,
+    "value": "Belo",
+    "postal_code": "84456"
+  },
+  {
+    "id": 5207012003,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520701,
+    "value": "Beru",
+    "postal_code": "84456"
+  },
+  {
+    "id": 5207012009,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520701,
+    "value": "Dasan Anyar",
+    "postal_code": "84456"
+  },
+  {
+    "id": 5207012001,
+    "province_id": 52,
+    "regency_id": 5207,
+    "district_id": 520701,
+    "value": "Goa",
+    "postal_code": "84456"
+  }
+]

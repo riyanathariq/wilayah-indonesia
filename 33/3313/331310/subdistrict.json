@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3313102001,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Buran",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102004,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Gaum",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102010,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Kalijirak",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102008,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Kaling",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102007,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Karangmojo",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102003,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Ngijo",
+    "postal_code": "57721"
+  },
+  {
+    "id": 3313102006,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Pandeyan",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102002,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Papahan",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102005,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Suruh",
+    "postal_code": "57722"
+  },
+  {
+    "id": 3313102009,
+    "province_id": 33,
+    "regency_id": 3313,
+    "district_id": 331310,
+    "value": "Wonolopo",
+    "postal_code": "57722"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3502062005,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Bedoho",
+    "postal_code": "63482"
+  },
+  {
+    "id": 3502062006,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Jurug",
+    "postal_code": "63482"
+  },
+  {
+    "id": 3502062002,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Klepu",
+    "postal_code": "63482"
+  },
+  {
+    "id": 3502062001,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Ngadirojo (Ngadirejo)",
+    "postal_code": "63482"
+  },
+  {
+    "id": 3502062004,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Sooko",
+    "postal_code": "63482"
+  },
+  {
+    "id": 3502062003,
+    "province_id": 35,
+    "regency_id": 3502,
+    "district_id": 350206,
+    "value": "Suru (Seru)",
+    "postal_code": "63482"
+  }
+]

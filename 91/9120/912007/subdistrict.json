@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9120072008,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Baitanasa",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Dadat",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072007,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Gesa Baru",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Kamai",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Kerema",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Teuw* (Teuw)",
+    "postal_code": "98683"
+  },
+  {
+    "id": 9120072006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912007,
+    "value": "Watiaro",
+    "postal_code": "98683"
+  }
+]

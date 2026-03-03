@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1572022003,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Bento",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572022008,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Dua / Duo",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572022002,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Keras",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572022004,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Lolo",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572022001,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Renah",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572022005,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Koto Tengah",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572022011,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Seberang",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572022015,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Sumur Gedang",
+    "postal_code": "37152"
+  },
+  {
+    "id": 1572022010,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157202,
+    "value": "Sungai Liuk",
+    "postal_code": "37152"
+  }
+]

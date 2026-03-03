@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7205072003,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Air Terang (Airterang)",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072007,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Balau",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072001,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Boilan",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072005,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Jatimulya (Jatimulyo)",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072002,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Kokobuka",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072006,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Lomuli",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072008,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Maniala",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072009,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Monggonit",
+    "postal_code": "94566"
+  },
+  {
+    "id": 7205072004,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720507,
+    "value": "Panilan Jaya",
+    "postal_code": "94566"
+  }
+]

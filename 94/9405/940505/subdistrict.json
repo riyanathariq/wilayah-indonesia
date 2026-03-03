@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9405052006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Gagama",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052014,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Guwamu",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052013,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Kolamagi",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052015,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Kumasingga",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Pogoma",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052011,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Ugutmu",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052010,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Wakme",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052008,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Wiha",
+    "postal_code": "98976"
+  },
+  {
+    "id": 9405052012,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940505,
+    "value": "Yugume",
+    "postal_code": "98976"
+  }
+]

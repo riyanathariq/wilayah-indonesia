@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5312122014,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Bodo Hula",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122008,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Kabu Karudi",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122011,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Laboya Dete",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122006,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Lamboya Bawah (Laboya Bawa)",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122015,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Pala Moko",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122004,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Patiala Bawa",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122009,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Rajak (Rajaka)",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122012,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Ringu Rara",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122010,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Sodan (Sodana)",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122005,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Wailibo (Welibo)",
+    "postal_code": "87271"
+  },
+  {
+    "id": 5312122007,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531212,
+    "value": "Watu Karere",
+    "postal_code": "87271"
+  }
+]

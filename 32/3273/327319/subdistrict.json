@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3273191004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327319,
+    "value": "Babakan Ciamis",
+    "postal_code": "40117"
+  },
+  {
+    "id": 3273191001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327319,
+    "value": "Braga",
+    "postal_code": "40111"
+  },
+  {
+    "id": 3273191003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327319,
+    "value": "Kebon Pisang",
+    "postal_code": "40112"
+  },
+  {
+    "id": 3273191002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327319,
+    "value": "Merdeka",
+    "postal_code": "40113"
+  }
+]

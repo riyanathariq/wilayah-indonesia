@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1405072005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Banjar Panjang",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Beringin Makmur",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Bukit Lembah Subur",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405071001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Kerumutan",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Lipai Bulan",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Mak Teduh",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Pangkalan Panduk",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Pangkalan Tampoi/Tampui",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Pematang Tinggi",
+    "postal_code": "28352"
+  },
+  {
+    "id": 1405072008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140507,
+    "value": "Tanjung Air Hitam",
+    "postal_code": "28352"
+  }
+]

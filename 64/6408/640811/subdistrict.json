@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6408112002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Manubar",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112008,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Manubar Dalam",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Marukangan",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Sandaran",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Susuk Dalam",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Susuk Luar",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112009,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Susuk Tengah",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Tadoan",
+    "postal_code": "75685"
+  },
+  {
+    "id": 6408112007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640811,
+    "value": "Tanjung Mangkaliat",
+    "postal_code": "75685"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271111005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Gedung Johor",
+    "postal_code": "20144"
+  },
+  {
+    "id": 1271111003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Kedai Durian",
+    "postal_code": "20145"
+  },
+  {
+    "id": 1271111006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Kwala Bekala",
+    "postal_code": "20142"
+  },
+  {
+    "id": 1271111004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Pangkalan Mansur (Pangkalan Masyhur)",
+    "postal_code": "20143"
+  },
+  {
+    "id": 1271111001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Suka Maju",
+    "postal_code": "20146"
+  },
+  {
+    "id": 1271111002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127111,
+    "value": "Titi Kuning",
+    "postal_code": "20146"
+  }
+]

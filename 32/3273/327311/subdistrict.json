@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3273111002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Ancol",
+    "postal_code": "40254"
+  },
+  {
+    "id": 3273111004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Balonggede (Balong Gede)",
+    "postal_code": "40251"
+  },
+  {
+    "id": 3273111006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Ciateul",
+    "postal_code": "40252"
+  },
+  {
+    "id": 3273111001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Cigereleng",
+    "postal_code": "40253"
+  },
+  {
+    "id": 3273111005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Ciseureuh",
+    "postal_code": "40255"
+  },
+  {
+    "id": 3273111007,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Pasirluyu",
+    "postal_code": "40254"
+  },
+  {
+    "id": 3273111003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327311,
+    "value": "Pungkur",
+    "postal_code": "40252"
+  }
+]

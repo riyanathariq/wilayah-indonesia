@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1213032001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Aek Nabara",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Banjar Lancat",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213031002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Gunung Baringin",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Huta Bangun",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Huta Tinggi",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Hutaimbaru (Huta Rimbaru Gb)",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032015,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Padang Laru",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Pagur",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Pardomuan",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Parmompang",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Ranto Natas",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Sirangkap",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Tanjung",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Tanjung Julu",
+    "postal_code": "22912"
+  },
+  {
+    "id": 1213032012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121303,
+    "value": "Tebing Tinggi",
+    "postal_code": "22912"
+  }
+]

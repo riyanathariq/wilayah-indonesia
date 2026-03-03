@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202182007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Gunungendut (Gunung Endut)",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Kadununggal",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Kalapanunggal (Kalapa Nunggal)",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Makasari",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Palasari Girang",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Pulosari",
+    "postal_code": "43354"
+  },
+  {
+    "id": 3202182006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320218,
+    "value": "Walang Sari (Walangsari)",
+    "postal_code": "43354"
+  }
+]

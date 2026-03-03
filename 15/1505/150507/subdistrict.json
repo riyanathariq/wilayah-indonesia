@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1505072033,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Bakti Mulya",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072013,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Berkah (Desa Berkah)",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072018,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Bukit Makmur",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072021,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Bukit Mas",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072007,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Marga Manunggal Jaya",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Marga Mulya",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072025,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Mekar Sari Makmur (Mekarsari Makmur)",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072034,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Panca Bakti",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Panca Mulya",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Suka Makmur",
+    "postal_code": "36365"
+  },
+  {
+    "id": 1505072012,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150507,
+    "value": "Tanjung Harapan",
+    "postal_code": "36365"
+  }
+]

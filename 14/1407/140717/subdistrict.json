@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1407172002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Bagan Sinembah",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Bagan Sinembah Barat",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407171001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Bagan Sinembah Kota",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Bagan Sinembah Timur",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Bagan Sinembah Utara",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Harapan Makmur",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Harapan Makmur Selatan",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Makmur Jaya",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Panca Mukti",
+    "postal_code": "28992"
+  },
+  {
+    "id": 1407172006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140717,
+    "value": "Salak",
+    "postal_code": "28992"
+  }
+]

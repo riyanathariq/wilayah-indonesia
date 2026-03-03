@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3528032010,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Artodung",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032006,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Bulay",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032005,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Galis",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032002,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Konang",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032004,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Lembung",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032007,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Pagendingan",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032003,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Pandan",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032009,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Polagan",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032008,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Ponteh",
+    "postal_code": "69382"
+  },
+  {
+    "id": 3528032001,
+    "province_id": 35,
+    "regency_id": 3528,
+    "district_id": 352803,
+    "value": "Tobungan",
+    "postal_code": "69382"
+  }
+]

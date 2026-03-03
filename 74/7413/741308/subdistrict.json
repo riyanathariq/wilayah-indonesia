@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7413082003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Bero",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Mandike",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Santigi",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Santiri",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Tasipi",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082007,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Tiga",
+    "postal_code": "93656"
+  },
+  {
+    "id": 7413082005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741308,
+    "value": "Tondasi",
+    "postal_code": "93656"
+  }
+]

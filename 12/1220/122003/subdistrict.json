@@ -1,0 +1,266 @@
+[
+  {
+    "id": 1220032005,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Balimbing",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032020,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Bargot Topong Jae",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032019,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Bargot Topong Julu",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032044,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Batu Tunggal",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032018,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Halongonan",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032002,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Hambulo",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032014,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Hasahatan",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032009,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Hiteurat",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032001,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Hutaimbaru",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032032,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Hutanopan",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032041,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Japinulik",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032017,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Napa Lancat",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032015,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Pagar Gunung",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032016,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Pangarambangan",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032004,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Pangirkiran",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032003,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Paolan",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032042,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Paran Honas",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032006,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Rondaman Siburegar",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032037,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Saba",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sandean Jae",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032013,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sandean Julu",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032012,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sandean Tonga",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032010,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Siboru Angin",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032023,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sigala Gala",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032008,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Silantoyung",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032007,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sipaho",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032036,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sipenggeng",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032021,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Siringki Jae",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032043,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Siringki Julu",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032038,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sitabola",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032039,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Sitonun",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032040,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Tapus Jae",
+    "postal_code": "22753"
+  },
+  {
+    "id": 1220032022,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122003,
+    "value": "Ujung Padang",
+    "postal_code": "22753"
+  }
+]

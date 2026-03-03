@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3512022009,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Besuki",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Blimbing",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Bloro",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022010,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Demung",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Jetis",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Kalimas",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Langkap",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Pesisir",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Sumberejo",
+    "postal_code": "68356"
+  },
+  {
+    "id": 3512022001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351202,
+    "value": "Widoropayung (Widoro Payung)",
+    "postal_code": "68356"
+  }
+]

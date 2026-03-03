@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6108082005,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Ampadi",
+    "postal_code": "79366"
+  },
+  {
+    "id": 6108082002,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Kelampai Setolo",
+    "postal_code": "79366"
+  },
+  {
+    "id": 6108082001,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Meranti",
+    "postal_code": "79366"
+  },
+  {
+    "id": 6108082003,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Moro Betung",
+    "postal_code": "79366"
+  },
+  {
+    "id": 6108082004,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Selange",
+    "postal_code": "79366"
+  },
+  {
+    "id": 6108082006,
+    "province_id": 61,
+    "regency_id": 6108,
+    "district_id": 610808,
+    "value": "Tahu",
+    "postal_code": "79366"
+  }
+]

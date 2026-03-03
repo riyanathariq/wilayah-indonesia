@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6107062003,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610706,
+    "value": "Bange",
+    "postal_code": "79284"
+  },
+  {
+    "id": 6107062004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610706,
+    "value": "Danti",
+    "postal_code": "79284"
+  },
+  {
+    "id": 6107062002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610706,
+    "value": "Gua",
+    "postal_code": "79284"
+  },
+  {
+    "id": 6107062001,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610706,
+    "value": "Lembang",
+    "postal_code": "79284"
+  },
+  {
+    "id": 6107062005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610706,
+    "value": "Sango",
+    "postal_code": "79284"
+  }
+]

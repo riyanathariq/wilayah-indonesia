@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3275021001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327502,
+    "value": "Bintara",
+    "postal_code": "17134"
+  },
+  {
+    "id": 3275021004,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327502,
+    "value": "Bintarajaya (Bintara Jaya)",
+    "postal_code": "17136"
+  },
+  {
+    "id": 3275021005,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327502,
+    "value": "Jakasampurna (Jaka Sampurna)",
+    "postal_code": "17145"
+  },
+  {
+    "id": 3275021003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327502,
+    "value": "Kotabaru (Kota Baru)",
+    "postal_code": "17133"
+  },
+  {
+    "id": 3275021002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327502,
+    "value": "Kranji",
+    "postal_code": "17135"
+  }
+]

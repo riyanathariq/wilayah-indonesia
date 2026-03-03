@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9503192003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Amisangi",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Eki",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Kuleken",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Lua",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Musanarek",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Siolorema",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Ukha",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Walialema",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Wenapuk",
+    "postal_code": "99717"
+  },
+  {
+    "id": 9503192006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950319,
+    "value": "Yelepunu",
+    "postal_code": "99717"
+  }
+]

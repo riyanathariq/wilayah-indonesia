@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6172031004,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617203,
+    "value": "Bagak Sahwa",
+    "postal_code": "79251"
+  },
+  {
+    "id": 6172031003,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617203,
+    "value": "Maya Sopa (Mayasopa)",
+    "postal_code": "79251"
+  },
+  {
+    "id": 6172031002,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617203,
+    "value": "Nyarumkop (Nyarungkop)",
+    "postal_code": "79251"
+  },
+  {
+    "id": 6172031001,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617203,
+    "value": "Pajintan",
+    "postal_code": "79251"
+  },
+  {
+    "id": 6172031005,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617203,
+    "value": "Sanggau Kulor (Sanggau Kolor)",
+    "postal_code": "79251"
+  }
+]

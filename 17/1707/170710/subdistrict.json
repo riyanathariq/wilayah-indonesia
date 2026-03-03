@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1707101009,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Amen",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Garut",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Nangai Tayau",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Nangai Tayau I",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Pyang Mbik (Paya Embik)",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Selebar Jaya",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Sukau Mergo (Suka Marga)",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Sukau Rajo (Sukaraja)",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102010,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Sungai Gerong",
+    "postal_code": "39264"
+  },
+  {
+    "id": 1707102006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170710,
+    "value": "Talang Bunut",
+    "postal_code": "39264"
+  }
+]

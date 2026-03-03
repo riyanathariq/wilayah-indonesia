@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9304132005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Akamar",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Birak",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Dawer",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Katew",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Pau",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Powetsy/Amborep",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Sesakam",
+    "postal_code": "99785"
+  },
+  {
+    "id": 9304132001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930413,
+    "value": "Warse/Jetsy",
+    "postal_code": "99785"
+  }
+]

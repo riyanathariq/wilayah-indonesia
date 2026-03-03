@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7104192006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Ambia",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192007,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Ambia Utara",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Batumbalango",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Ensem",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Ensem I (Ensem Timur)",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192008,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Kuma",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192009,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Kuma Selatan",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Sambuara",
+    "postal_code": "95887"
+  },
+  {
+    "id": 7104192001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710419,
+    "value": "Sambuara Satu",
+    "postal_code": "95887"
+  }
+]

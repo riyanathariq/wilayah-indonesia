@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7105072015,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Lalumpe",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Motoling",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Motoling I (Motoling Satu)",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Motoling II (Motoling Dua)",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Motoling Mawale",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Picuan Baru",
+    "postal_code": "95941"
+  },
+  {
+    "id": 7105072021,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710507,
+    "value": "Raanan Lama",
+    "postal_code": "95941"
+  }
+]

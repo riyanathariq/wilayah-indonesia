@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1207312010,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Bandar Dolok",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312009,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Jati Baru (Sidoarjo I)",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312005,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Jati Rejo",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312006,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Pagar Merbau I",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312007,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Pagar Merbau II",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312013,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Perbarakan",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312002,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Purwodadi",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312003,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Sidodadi Batu B (Sidodadi Batu Delapan)",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312008,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Sidoharjo-I Pasar Miring (Sidoarjo Satu)",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312004,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Suka Mulia",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312014,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Sukamandi Hilir",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312015,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Sukamandi Hulu",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312016,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Sumberejo",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312011,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Tanjung Garbus II",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312012,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Tanjung Garbus Kampung",
+    "postal_code": "20551"
+  },
+  {
+    "id": 1207312001,
+    "province_id": 12,
+    "regency_id": 1207,
+    "district_id": 120731,
+    "value": "Tanjung Mulia",
+    "postal_code": "20551"
+  }
+]

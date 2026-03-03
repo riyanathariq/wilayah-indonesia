@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3217162004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Bojonghaleuang",
+    "postal_code": "40560"
+  },
+  {
+    "id": 3217162001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Cikande",
+    "postal_code": "40560"
+  },
+  {
+    "id": 3217162005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Cipangeran",
+    "postal_code": "40560"
+  },
+  {
+    "id": 3217162003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Girimukti",
+    "postal_code": "40560"
+  },
+  {
+    "id": 3217162002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Jati",
+    "postal_code": "40560"
+  },
+  {
+    "id": 3217162006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321716,
+    "value": "Saguling",
+    "postal_code": "40560"
+  }
+]

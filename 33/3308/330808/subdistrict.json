@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3308082005,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Adikarto",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082004,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Congkrang",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082012,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Gondosuli",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082009,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Gunungpring",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082007,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Keji",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082006,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Menayu",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308081014,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Muntilan",
+    "postal_code": "56411"
+  },
+  {
+    "id": 3308082008,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Ngawen",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082010,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Pucungrejo",
+    "postal_code": "56414"
+  },
+  {
+    "id": 3308082013,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Sedayu",
+    "postal_code": "56412"
+  },
+  {
+    "id": 3308082002,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Sokorini",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082003,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Sriwedari",
+    "postal_code": "56415"
+  },
+  {
+    "id": 3308082011,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Tamanagung",
+    "postal_code": "56413"
+  },
+  {
+    "id": 3308082001,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330808,
+    "value": "Tanjung",
+    "postal_code": "56415"
+  }
+]

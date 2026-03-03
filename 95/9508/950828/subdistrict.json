@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9508282006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Anggulpa",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Gunea (Gunia)",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Kwegono",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Langpang",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Moba",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282007,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Moba Dua",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282008,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Pijama",
+    "postal_code": "99926"
+  },
+  {
+    "id": 9508282005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950828,
+    "value": "Yeretma",
+    "postal_code": "99926"
+  }
+]

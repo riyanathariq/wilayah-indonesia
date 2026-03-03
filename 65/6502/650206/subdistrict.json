@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6502062001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Bila Bekayuk",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Laban Nyarit",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Langap",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Long Loreh",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Nunuk Tanah Kibang",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062007,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Paya Seturan",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062006,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Pelencau",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062008,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Punan Rian",
+    "postal_code": "77551"
+  },
+  {
+    "id": 6502062009,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650206,
+    "value": "Sengayan",
+    "postal_code": "77551"
+  }
+]

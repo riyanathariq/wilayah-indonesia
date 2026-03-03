@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1509062005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Aur Cino",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062014,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Dusun Baru",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Kuamang",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062007,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Muara Niro",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062016,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Muara Tabun",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Sungai Abang",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062015,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Tabun",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Tanjung Pucuk Jambi (Pucuk Jambi)",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Teluk Kayu Putih",
+    "postal_code": "37561"
+  },
+  {
+    "id": 1509062013,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150906,
+    "value": "Teluk Lancang",
+    "postal_code": "37561"
+  }
+]

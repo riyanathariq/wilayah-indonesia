@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9404052008,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Bulumen",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052010,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Jaitak",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052009,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Kanmapiri",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Noema",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Sempan Timur",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Sumapro",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052006,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Wacakam",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052007,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Waituku",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Wapu",
+    "postal_code": "99965"
+  },
+  {
+    "id": 9404052002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940405,
+    "value": "Wenin",
+    "postal_code": "99965"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1272021007,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Banjar",
+    "postal_code": "21112"
+  },
+  {
+    "id": 1272021003,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Bantan",
+    "postal_code": "21111"
+  },
+  {
+    "id": 1272021001,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Dwikora",
+    "postal_code": "21118"
+  },
+  {
+    "id": 1272021002,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Proklamasi",
+    "postal_code": "21117"
+  },
+  {
+    "id": 1272021005,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Simarito",
+    "postal_code": "21113"
+  },
+  {
+    "id": 1272021006,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Sipinggolpinggol (Sipinggol Pinggol)",
+    "postal_code": "21114"
+  },
+  {
+    "id": 1272021008,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Teladan",
+    "postal_code": "21115"
+  },
+  {
+    "id": 1272021004,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127202,
+    "value": "Timbang Galung",
+    "postal_code": "21116"
+  }
+]

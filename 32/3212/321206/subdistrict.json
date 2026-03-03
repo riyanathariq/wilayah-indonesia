@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3212062015,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Bangodua",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062016,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Beduyut",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062019,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Karanggetas",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062021,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Malangsari",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Mulyasari",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062017,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Rancasari",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062020,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Tegalgirang",
+    "postal_code": "45272"
+  },
+  {
+    "id": 3212062018,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321206,
+    "value": "Wanasari",
+    "postal_code": "45272"
+  }
+]

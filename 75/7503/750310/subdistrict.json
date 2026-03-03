@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7503102011,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Alo",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102014,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Bunga",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Inomata",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102012,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Laut Biru",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102010,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Moopuya (Moopiya / Mopuya)",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102015,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Mootawa",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Mootayu",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Mootinelo",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Pelita Jaya",
+    "postal_code": "96572"
+  },
+  {
+    "id": 7503102003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750310,
+    "value": "Tumbulilato (Tombulilato)",
+    "postal_code": "96572"
+  }
+]

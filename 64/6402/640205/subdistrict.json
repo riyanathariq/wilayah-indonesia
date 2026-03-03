@@ -1,0 +1,106 @@
+[
+  {
+    "id": 6402052007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Badak Baru",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Badak Mekar",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052011,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Batu Batu",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Gas Alam Badak I",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Muara Badak Ilir",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Muara Badak Ulu",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Saliki (Seliki)",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052012,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Sallo Cela (Salo Cella)",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Salok Palai",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Suka Damai",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052013,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Sungai Bawang",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Tanah Datar",
+    "postal_code": "75382"
+  },
+  {
+    "id": 6402052005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640205,
+    "value": "Tanjung Limau",
+    "postal_code": "75382"
+  }
+]

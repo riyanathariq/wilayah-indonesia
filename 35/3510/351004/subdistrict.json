@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3510042009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Kalipait",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042003,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Kedungasri",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042007,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Kedunggebang",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Kedungwungu",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Kendalrejo",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042008,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Purwoagung",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Purwoasri",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042005,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Tegaldlimo",
+    "postal_code": "68484"
+  },
+  {
+    "id": 3510042006,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351004,
+    "value": "Wringinpitu",
+    "postal_code": "68484"
+  }
+]

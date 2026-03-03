@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9404082004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940408,
+    "value": "Aikawapuka",
+    "postal_code": "99972"
+  },
+  {
+    "id": 9404082001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940408,
+    "value": "Atuka",
+    "postal_code": "99972"
+  },
+  {
+    "id": 9404082005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940408,
+    "value": "Kamoro",
+    "postal_code": "99972"
+  },
+  {
+    "id": 9404082003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940408,
+    "value": "Keakwa",
+    "postal_code": "99972"
+  },
+  {
+    "id": 9404082002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940408,
+    "value": "Tiwaka",
+    "postal_code": "99972"
+  }
+]

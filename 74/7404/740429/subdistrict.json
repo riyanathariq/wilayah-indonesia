@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7404292007,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Bajo Bahari",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292004,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Holimombo",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292005,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Koholimembona (Koholimombona)",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292002,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Wabula",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292006,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Wabula Satu",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292003,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Wasampela",
+    "postal_code": "93753"
+  },
+  {
+    "id": 7404292001,
+    "province_id": 74,
+    "regency_id": 7404,
+    "district_id": 740429,
+    "value": "Wasuemba",
+    "postal_code": "93753"
+  }
+]

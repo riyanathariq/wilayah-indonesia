@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3206242005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Cikunir",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206242001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Cikunten",
+    "postal_code": "46414"
+  },
+  {
+    "id": 3206242004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Cintaraja",
+    "postal_code": "46417"
+  },
+  {
+    "id": 3206242003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Cipakat",
+    "postal_code": "46417"
+  },
+  {
+    "id": 3206242006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Cokadongdong (Cikadongdong)",
+    "postal_code": "46418"
+  },
+  {
+    "id": 3206242002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Singaparna",
+    "postal_code": "46411"
+  },
+  {
+    "id": 3206242009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Singasari",
+    "postal_code": "46412"
+  },
+  {
+    "id": 3206242007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Sukaasih",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206242010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Sukaherang",
+    "postal_code": "46413"
+  },
+  {
+    "id": 3206242008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320624,
+    "value": "Sukamulya",
+    "postal_code": "46416"
+  }
+]

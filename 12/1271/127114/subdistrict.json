@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1271141006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Bandar Selamat",
+    "postal_code": "20223"
+  },
+  {
+    "id": 1271141004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Bantan",
+    "postal_code": "20224"
+  },
+  {
+    "id": 1271141007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Bantan Timur",
+    "postal_code": "20224"
+  },
+  {
+    "id": 1271141001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Indra Kasih",
+    "postal_code": "20221"
+  },
+  {
+    "id": 1271141003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Sidorejo",
+    "postal_code": "20222"
+  },
+  {
+    "id": 1271141002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Sidorejo Hilir",
+    "postal_code": "20222"
+  },
+  {
+    "id": 1271141005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127114,
+    "value": "Tembung",
+    "postal_code": "20225"
+  }
+]

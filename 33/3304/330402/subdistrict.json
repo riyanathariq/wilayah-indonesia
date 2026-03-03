@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3304022006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Kalilandak",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Kalimandi",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Kaliwinasuh",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Kecitran",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Klampok",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Pagak",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Purwareja (Purworejo)",
+    "postal_code": "53474"
+  },
+  {
+    "id": 3304022001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330402,
+    "value": "Sirkandi",
+    "postal_code": "53474"
+  }
+]

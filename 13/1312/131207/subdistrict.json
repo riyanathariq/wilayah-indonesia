@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1312072001,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Batahan",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072005,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Batahan Barat",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Batahan Selatan",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Batahan Tengah",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Batahan Utara",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072002,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Desa Baru",
+    "postal_code": "26366"
+  },
+  {
+    "id": 1312072007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131207,
+    "value": "Desa Baru Barat",
+    "postal_code": "26366"
+  }
+]

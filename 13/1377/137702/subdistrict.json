@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1377022005,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Ampalu",
+    "postal_code": "25522"
+  },
+  {
+    "id": 1377022006,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Apar",
+    "postal_code": "25522"
+  },
+  {
+    "id": 1377022016,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Balai Naras/Nareh",
+    "postal_code": "25521"
+  },
+  {
+    "id": 1377022008,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Cubadak Air Selatan (Cubadak Aia Selatan)",
+    "postal_code": "25524"
+  },
+  {
+    "id": 1377022012,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Cubadak Air Utara (Cubadak Aia Utara)",
+    "postal_code": "25524"
+  },
+  {
+    "id": 1377022021,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Cubadak Air/Aia",
+    "postal_code": "25524"
+  },
+  {
+    "id": 1377022011,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Manggung (Mangguang)",
+    "postal_code": "25522"
+  },
+  {
+    "id": 1377022014,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Naras Hilir (Nareh Hilia)",
+    "postal_code": "25522"
+  },
+  {
+    "id": 1377022015,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Naras I (Nareh I)",
+    "postal_code": "25521"
+  },
+  {
+    "id": 1377022017,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Padang Birik-Birik (Biriak-Biriak)",
+    "postal_code": "25521"
+  },
+  {
+    "id": 1377022009,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Sikapak Barat",
+    "postal_code": "25526"
+  },
+  {
+    "id": 1377022010,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Sikapak Timur",
+    "postal_code": "25526"
+  },
+  {
+    "id": 1377022018,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Sintuk (Sintuak)",
+    "postal_code": "25521"
+  },
+  {
+    "id": 1377022019,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Sungai Rambai",
+    "postal_code": "25529"
+  },
+  {
+    "id": 1377022007,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Tanjung Sabar (Tanjuang Sabar)",
+    "postal_code": "25523"
+  },
+  {
+    "id": 1377022013,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Tungkal Selatan (Tungka Selatan)",
+    "postal_code": "25521"
+  },
+  {
+    "id": 1377022020,
+    "province_id": 13,
+    "regency_id": 1377,
+    "district_id": 137702,
+    "value": "Tungkal Utara (Tungka Utara)",
+    "postal_code": "25521"
+  }
+]

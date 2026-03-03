@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3311102008,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Bakipandeyan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102005,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Bentakan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102010,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Duwet",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102003,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Gedongan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102013,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Gentan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102004,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Jetis",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102007,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Kadilangu",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102006,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Kudu",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102002,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Mancasan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102009,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Menuran",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102001,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Ngrombo",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102014,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Purbayan",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102011,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Siwal",
+    "postal_code": "57556"
+  },
+  {
+    "id": 3311102012,
+    "province_id": 33,
+    "regency_id": 3311,
+    "district_id": 331110,
+    "value": "Waru",
+    "postal_code": "57556"
+  }
+]

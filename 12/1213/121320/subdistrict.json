@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1213202003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Handel",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Huta Baringin",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Huta Baru",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Huta Lombang",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Hutabaringin Julu",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Hutanamale",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Hutatinggi",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Purba Julu",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Sibanggor Jae",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Sibanggor Julu",
+    "postal_code": "22995"
+  },
+  {
+    "id": 1213202008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121320,
+    "value": "Sibanggor Tonga",
+    "postal_code": "22995"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6206112004,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Handiwung",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112002,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Hiang/Hiyang Bana",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112007,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Luwuk Kanan",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112008,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Luwuk Kiri",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112003,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Petak Bahandang",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112001,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Talingke",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112006,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Tewang Tampang",
+    "postal_code": "74461"
+  },
+  {
+    "id": 6206112005,
+    "province_id": 62,
+    "regency_id": 6206,
+    "district_id": 620611,
+    "value": "Tumbang Panggo",
+    "postal_code": "74461"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1223042001,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Aek Korsik",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042002,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Bandar Selamat",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042006,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Karang Ayer (Anyar)",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042007,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Padang Maninjau",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042003,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Perkebunan Padang Halaban",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042004,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Perkebunan Panigoran",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042008,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Purworejo (Purwo Rejo)",
+    "postal_code": "21455"
+  },
+  {
+    "id": 1223042005,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122304,
+    "value": "Sidomulyo",
+    "postal_code": "21455"
+  }
+]

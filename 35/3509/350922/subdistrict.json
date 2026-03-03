@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3509222003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Arjasa",
+    "postal_code": "68191"
+  },
+  {
+    "id": 3509222005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Biting",
+    "postal_code": "68191"
+  },
+  {
+    "id": 3509222004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Candijati",
+    "postal_code": "68191"
+  },
+  {
+    "id": 3509222002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Darsono",
+    "postal_code": "68191"
+  },
+  {
+    "id": 3509222006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Kamal",
+    "postal_code": "68191"
+  },
+  {
+    "id": 3509222001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350922,
+    "value": "Kemuninglor (Kemuningllor)",
+    "postal_code": "68191"
+  }
+]

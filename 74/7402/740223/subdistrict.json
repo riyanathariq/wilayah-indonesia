@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7402232007,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Lalomerui",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402232003,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Parudongka",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402232005,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Puuwiwirano",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402231001,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Ruota",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402232006,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Tanggola",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402232002,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Tirawonua (Tira Wonua)",
+    "postal_code": "93453"
+  },
+  {
+    "id": 7402232004,
+    "province_id": 74,
+    "regency_id": 7402,
+    "district_id": 740223,
+    "value": "Walandawe",
+    "postal_code": "93453"
+  }
+]

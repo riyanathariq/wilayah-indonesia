@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1806192001,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Batu Kramat (Batu Keramat)",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192008,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Kagungan",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192002,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Kampung Baru",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192009,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Kerta (Karta)",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192004,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Menggala",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192005,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Mulang Maya",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192006,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Sukabanjar (Suka Banjar)",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192011,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Talang Rejo",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192007,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Tanjung Anom",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192012,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Tanjung Jati (Tanjungjati)",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192010,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Teba",
+    "postal_code": "35383"
+  },
+  {
+    "id": 1806192003,
+    "province_id": 18,
+    "regency_id": 1806,
+    "district_id": 180619,
+    "value": "Umbul Buah",
+    "postal_code": "35383"
+  }
+]

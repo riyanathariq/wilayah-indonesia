@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1208282001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Batu Silangit",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Dolok Kahean",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Dolok Maraja",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Dolok Simbolon",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Dolok Ulu",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Naga Dolok",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Nagur Usang",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Negri Bayu Muslimin (Negeri Bayu Muslimin)",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Pematang Dolok Kahean",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208282007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Purbasari",
+    "postal_code": "21154"
+  },
+  {
+    "id": 1208281009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120828,
+    "value": "Sinaksak",
+    "postal_code": "21154"
+  }
+]

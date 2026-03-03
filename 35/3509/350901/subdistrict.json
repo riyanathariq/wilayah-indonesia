@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3509012003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Jombang",
+    "postal_code": "68168"
+  },
+  {
+    "id": 3509012002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Keting",
+    "postal_code": "68168"
+  },
+  {
+    "id": 3509012004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Ngampelrejo",
+    "postal_code": "68168"
+  },
+  {
+    "id": 3509012001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Padomasan",
+    "postal_code": "68168"
+  },
+  {
+    "id": 3509012006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Sarimulyo",
+    "postal_code": "68168"
+  },
+  {
+    "id": 3509012005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350901,
+    "value": "Wringinagung (Wringin Agung)",
+    "postal_code": "68168"
+  }
+]

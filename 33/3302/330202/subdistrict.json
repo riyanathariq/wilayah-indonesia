@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3302022006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Banteran",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Cikakak",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Jambu",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Jurangbahas",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Klapagading",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Klapagading Kulon",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Pengadegan (Pangadegan)",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Randegan",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Rawaheng",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Wangon",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Windunegara",
+    "postal_code": "53176"
+  },
+  {
+    "id": 3302022010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330202,
+    "value": "Wlahar",
+    "postal_code": "53176"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1405042002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Dusun Tua",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Genduang",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042004,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Mayang Sari",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042006,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Mulya Subur (Mulia Subur / Mulyasubur)",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405041001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Pangkalan Lesung",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042010,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Pesaguan",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Rawang Sari",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Sari Makmur",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Sari Mulya (Sari Mulia / Sarimulya)",
+    "postal_code": "28387"
+  },
+  {
+    "id": 1405042009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140504,
+    "value": "Tanjung Kuyo",
+    "postal_code": "28387"
+  }
+]

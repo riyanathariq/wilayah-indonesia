@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1271161005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127116,
+    "value": "Anggrung",
+    "postal_code": "20152"
+  },
+  {
+    "id": 1271161001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127116,
+    "value": "Madras Hulu",
+    "postal_code": "20152"
+  },
+  {
+    "id": 1271161002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127116,
+    "value": "Polonia",
+    "postal_code": "20157"
+  },
+  {
+    "id": 1271161003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127116,
+    "value": "Sari Rejo",
+    "postal_code": "20157"
+  },
+  {
+    "id": 1271161004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127116,
+    "value": "Suka Damai",
+    "postal_code": "20157"
+  }
+]

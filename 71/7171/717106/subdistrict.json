@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7171061007,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Ranotana",
+    "postal_code": "95116"
+  },
+  {
+    "id": 7171061004,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Sario",
+    "postal_code": "95114"
+  },
+  {
+    "id": 7171061002,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Sario Kotabaru (Sario Kota Baru)",
+    "postal_code": "95113"
+  },
+  {
+    "id": 7171061003,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Sario Tumpaan",
+    "postal_code": "95114"
+  },
+  {
+    "id": 7171061001,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Sario Utara",
+    "postal_code": "95114"
+  },
+  {
+    "id": 7171061006,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Titiwungan Selatan (Titiwungen Selatan)",
+    "postal_code": "95113"
+  },
+  {
+    "id": 7171061005,
+    "province_id": 71,
+    "regency_id": 7171,
+    "district_id": 717106,
+    "value": "Titiwungan Utara (Titiwungen Utara)",
+    "postal_code": "95113"
+  }
+]

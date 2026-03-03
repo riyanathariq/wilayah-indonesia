@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6111032002,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Alur Bandung",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032005,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Banyu Abang",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032001,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Mas Bangun",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032004,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Sei/Sungai Paduan",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032003,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Telukbatang (Teluk Batang)",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032006,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Telukbatang Selatan (Teluk Batang Selatan)",
+    "postal_code": "78856"
+  },
+  {
+    "id": 6111032007,
+    "province_id": 61,
+    "regency_id": 6111,
+    "district_id": 611103,
+    "value": "Telukbatang Utara (Teluk Batang Utara)",
+    "postal_code": "78856"
+  }
+]

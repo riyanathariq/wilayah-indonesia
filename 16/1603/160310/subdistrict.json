@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1603102006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Aremantai",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Cahaya Alam",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Danau Gerak",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Datar Lebar",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Pajar Bulan",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Pelakat",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Segamit",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Siring Agung",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Tanjung Agung",
+    "postal_code": "31355"
+  },
+  {
+    "id": 1603102001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160310,
+    "value": "Tanjung Tiga",
+    "postal_code": "31355"
+  }
+]

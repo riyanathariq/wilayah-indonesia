@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5201142009,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Batu Layar Barat",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142001,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Batulayar (Batu Layar)",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142007,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Bengkaung",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142004,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Lembah Sari",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142002,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Meninting",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142008,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Pusuk Lestari",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142003,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Sandik",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142006,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Senggigi",
+    "postal_code": "83355"
+  },
+  {
+    "id": 5201142005,
+    "province_id": 52,
+    "regency_id": 5201,
+    "district_id": 520114,
+    "value": "Senteluk",
+    "postal_code": "83355"
+  }
+]

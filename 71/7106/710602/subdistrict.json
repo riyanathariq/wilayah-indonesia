@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7106022007,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Kaasar",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022005,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Kaima",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022006,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Karegesan",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022002,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Kauditan I (Kauditan Satu)",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022001,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Kauditan II (Kauditan Dua)",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022003,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Kawiley (Kawilei)",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022008,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Lembean",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022009,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Paslaten",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022004,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Treman",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022010,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Tumaluntung",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022011,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Watudambo",
+    "postal_code": "95372"
+  },
+  {
+    "id": 7106022012,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710602,
+    "value": "Watudambo Dua",
+    "postal_code": "95372"
+  }
+]

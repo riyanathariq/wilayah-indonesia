@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1813082001,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Balai Kencana",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082005,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Lintik",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082008,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Mandiri Sejati",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082004,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Padang Haluan",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082009,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Padang Raya",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082007,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Pemerihan",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082010,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Suka Jadi",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082006,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Walur",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082003,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Way Napal",
+    "postal_code": "34874"
+  },
+  {
+    "id": 1813082002,
+    "province_id": 18,
+    "regency_id": 1813,
+    "district_id": 181308,
+    "value": "Way Suluh",
+    "postal_code": "34874"
+  }
+]

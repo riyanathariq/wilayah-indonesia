@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202042001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Bantargadung",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Bantargebang",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Bojonggaling",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Boyong Sari",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Buanajaya",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Limusnunggal",
+    "postal_code": "43363"
+  },
+  {
+    "id": 3202042002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320204,
+    "value": "Mangunjaya",
+    "postal_code": "43363"
+  }
+]

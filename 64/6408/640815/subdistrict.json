@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6408152008,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Bukit Permata",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Bumi Etam",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Bumi Jaya",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Bumi Rapak",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Cipta Graha",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Kadungan Jaya",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Mata Air",
+    "postal_code": "75619"
+  },
+  {
+    "id": 6408152006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640815,
+    "value": "Pengadan Baru",
+    "postal_code": "75619"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8101122001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Booi",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Haria",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Kulur",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Paperu",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Porto (Portho)",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122012,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Saparua",
+    "postal_code": "97584"
+  },
+  {
+    "id": 8101122003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810112,
+    "value": "Tiouw",
+    "postal_code": "97584"
+  }
+]

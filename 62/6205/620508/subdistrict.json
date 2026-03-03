@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6205082003,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Bintang Ninggi I (Satu)",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082004,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Bintang Ninggi II (Dua)",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082007,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Bukit Sawit",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082006,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Buntok Baru",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082005,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Butong",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082010,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Pandran Permai",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082009,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Pandran Raya",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082008,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Tawan Jaya",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082002,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Terinsing/Trinsing",
+    "postal_code": "73814"
+  },
+  {
+    "id": 6205082001,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620508,
+    "value": "Trahean",
+    "postal_code": "73814"
+  }
+]

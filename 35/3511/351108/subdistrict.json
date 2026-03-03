@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3511082007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Bataan",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Dawuhan",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Gebang",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Kajar",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Kesemek (Kasemek)",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082012,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Koncer Darul Aman (Koncer Darul Alam)",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Koncer Kidul",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Lojajar",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Pekalangan",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Sumber Salam (Sumbersalam)",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511082010,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Tangsil Kulon",
+    "postal_code": "68281"
+  },
+  {
+    "id": 3511081011,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351108,
+    "value": "Tenggarang",
+    "postal_code": "68281"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1306042004,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Lawang",
+    "postal_code": "26162"
+  },
+  {
+    "id": 1306042001,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Matua Hilia (Matur Hilia)",
+    "postal_code": "26162"
+  },
+  {
+    "id": 1306042002,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Matua Mudiak (Matur Mudiak)",
+    "postal_code": "26162"
+  },
+  {
+    "id": 1306042006,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Panta Pauh",
+    "postal_code": "26162"
+  },
+  {
+    "id": 1306042005,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Parik Panjang",
+    "postal_code": "26162"
+  },
+  {
+    "id": 1306042003,
+    "province_id": 13,
+    "regency_id": 1306,
+    "district_id": 130604,
+    "value": "Tigo Balai",
+    "postal_code": "26162"
+  }
+]

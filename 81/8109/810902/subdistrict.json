@@ -1,0 +1,90 @@
+[
+  {
+    "id": 8109022011,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Batu Kasa",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022009,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Hote",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022003,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Lena",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022007,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Pohon Batu",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022004,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Simi",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022005,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Waelikut",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022010,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Waemasing",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022002,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Waesili",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022001,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Waetawa",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022008,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Waeteba (Waetaba)",
+    "postal_code": "97545"
+  },
+  {
+    "id": 8109022006,
+    "province_id": 81,
+    "regency_id": 8109,
+    "district_id": 810902,
+    "value": "Wamsisi",
+    "postal_code": "97545"
+  }
+]

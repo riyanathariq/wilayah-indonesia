@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206392004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Banjarsari",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Cipondok",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Margamulya",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Sukamenak",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Sukapancar",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Sukaratu",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Sukaresik",
+    "postal_code": "46419"
+  },
+  {
+    "id": 3206392005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320639,
+    "value": "Tanjungsari",
+    "postal_code": "46419"
+  }
+]

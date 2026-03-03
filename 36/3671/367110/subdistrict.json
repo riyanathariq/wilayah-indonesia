@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3671101006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Karang Anyar",
+    "postal_code": "15121"
+  },
+  {
+    "id": 3671101002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Karang Sari",
+    "postal_code": "15121"
+  },
+  {
+    "id": 3671101007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Kedaung Baru",
+    "postal_code": "15128"
+  },
+  {
+    "id": 3671101004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Kedaung Wetan",
+    "postal_code": "15128"
+  },
+  {
+    "id": 3671101005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Mekarsari (Mekar Sari)",
+    "postal_code": "15129"
+  },
+  {
+    "id": 3671101001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Neglasari",
+    "postal_code": "15129"
+  },
+  {
+    "id": 3671101003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367110,
+    "value": "Selapajang Jaya",
+    "postal_code": "15127"
+  }
+]

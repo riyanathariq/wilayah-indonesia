@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1906052001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190605,
+    "value": "Air Kelik",
+    "postal_code": "33571"
+  },
+  {
+    "id": 1906052003,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190605,
+    "value": "Burong Mandi (Burung Mandi)",
+    "postal_code": "33571"
+  },
+  {
+    "id": 1906052002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190605,
+    "value": "Mempaya",
+    "postal_code": "33515"
+  },
+  {
+    "id": 1906052004,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190605,
+    "value": "Mengkubang",
+    "postal_code": "33514"
+  },
+  {
+    "id": 1906052005,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190605,
+    "value": "Sukamandi",
+    "postal_code": "33513"
+  }
+]

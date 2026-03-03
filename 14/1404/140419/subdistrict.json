@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1404192004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Bayas Jaya",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Danaupulai Indah (Danau Pulai Indah)",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404191007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Harapan Tani",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Karya Tani",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404191002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Kempas Jaya",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Kerta Jaya",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Kulim Jaya",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Pekan Tua",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Rumbai Jaya",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Sungaiara (Sungai Arah)",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Sungaigantang (Sungai Gantang)",
+    "postal_code": "29261"
+  },
+  {
+    "id": 1404192012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140419,
+    "value": "Sungairabit (Sungai Rabit)",
+    "postal_code": "29261"
+  }
+]

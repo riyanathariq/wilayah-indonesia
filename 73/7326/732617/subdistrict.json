@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7326172003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732617,
+    "value": "Bangkelekila",
+    "postal_code": "91853"
+  },
+  {
+    "id": 7326172002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732617,
+    "value": "Batu Limbong",
+    "postal_code": "91853"
+  },
+  {
+    "id": 7326172004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732617,
+    "value": "Tampan Bonga",
+    "postal_code": "91853"
+  },
+  {
+    "id": 7326172001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732617,
+    "value": "To'yasa Akung",
+    "postal_code": "91853"
+  }
+]

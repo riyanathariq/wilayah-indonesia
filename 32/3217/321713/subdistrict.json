@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3217132002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Bojong",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Bojongsalam",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Cibedug",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Cibitung",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Cicadas",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Cinengah",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Sukamanah",
+    "postal_code": "40566"
+  },
+  {
+    "id": 3217132008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321713,
+    "value": "Sukaresmi",
+    "postal_code": "40566"
+  }
+]

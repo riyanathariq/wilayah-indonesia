@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506122003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Betara Kanan",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506121001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Betara Kiri",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Dataran Pinang",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122009,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Kuala Indah",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122010,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Suak Labu",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Sungaidualap (Sungai Dualap)",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Sungaidungun (Sungai Dungun)",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Sungaigebar (Sungai Gebar)",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Sungaigebar Barat (Sungai Gebar Barat)",
+    "postal_code": "36556"
+  },
+  {
+    "id": 1506122006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150612,
+    "value": "Tanjungpasir (Tanjung Pasir)",
+    "postal_code": "36556"
+  }
+]

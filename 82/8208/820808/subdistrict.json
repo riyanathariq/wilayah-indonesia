@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8208082004,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Fayaunana",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082005,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Habunuha",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082002,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Kabunu",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082006,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Kataga",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082003,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Peleng",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082001,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Tabona",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208082007,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820808,
+    "value": "Wolio",
+    "postal_code": "97794"
+  }
+]

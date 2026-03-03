@@ -1,0 +1,162 @@
+[
+  {
+    "id": 7108032006,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Binjeita",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032013,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Binjeita I",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032014,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Binjeita II",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032010,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Binuanga",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032017,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Binuni",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032007,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Biontong",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032008,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Biontong I",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032009,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Biontong II",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032004,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Bohabak I",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032005,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Bohabak II",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032011,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Bohabak III",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032012,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Bohabak IV",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032016,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Lipu Bogu",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032001,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Mokoditek (Mookoditek)",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032015,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Mokoditek I (Mookoditek I)",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032019,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Nagara",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032002,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Nunuka (Nunukan)",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032003,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Saleo",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032020,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Saleo Satu",
+    "postal_code": "95767"
+  },
+  {
+    "id": 7108032018,
+    "province_id": 71,
+    "regency_id": 7108,
+    "district_id": 710803,
+    "value": "Tanjung Labou",
+    "postal_code": "95767"
+  }
+]

@@ -1,0 +1,458 @@
+[
+  {
+    "id": 1108012005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Anoe Barat (Alue Anou Barat)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Anoe Timu (Alue Anou Timu)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012031,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Bili Geulumpang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012033,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Bili Rayeuk",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Buya",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012023,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Dama",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Geudong",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012044,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Ie Tarek",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012030,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Jamok (Alue Jambok)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012027,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Keutapang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012045,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Rambong",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Alue Serdang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012038,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Arongan Lise",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012056,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Babussalam",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012052,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Buket Dara Baro",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012051,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Ceumpeudak",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012057,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cinta Makmur",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012024,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cot Ara",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cot Kumbang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cot Mane",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012043,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cot Manyang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Cot Ulaya",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012035,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Glumpang Bungkok (Geulumpang Bungkok)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012048,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Glumpang payong",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012037,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Glumpang Samlakoe",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Keude Alue Ie Puteh",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012034,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Keude Menjee IV (Keude Menyee IV)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Keude Panteu Breuh (Keude Panteu Brueh)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012028,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Krueng Lingka Barat",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012029,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Krueng Lingka Timu",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012032,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Lhok Seutuy",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012050,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Lueng Bata",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012054,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Baro",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012042,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Beuringen (Matang Beringin)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Cut",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Kareung",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Kelayu",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Kumbang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012047,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Lawang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012046,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Linya",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012040,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Manyam",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012053,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Pineung",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012036,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Rawa",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012016,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Raya Barat",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Raya Timu",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012039,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Reudeup (Matang Reudep)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012041,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Matang Ulim",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Meudang Ara",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Meunasah Alue Ie Puteh (Mnsh Alue I Puteh)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Meunasah Bujok",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012026,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Meunasah Geudong",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012049,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Mon Sukon",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Pucok Alue",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Pulo Seukee (Pulo Seuke)",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012025,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Rambong Dalam",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Tanjong Glumpang",
+    "postal_code": "24392"
+  },
+  {
+    "id": 1108012055,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110801,
+    "value": "Ujong Dama",
+    "postal_code": "24392"
+  }
+]

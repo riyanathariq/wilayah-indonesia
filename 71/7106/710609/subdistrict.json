@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7106092002,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Kolongan",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092004,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Mapanget",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092001,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Paniki Atas",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092012,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Paniki Baru",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092009,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Patokaan",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092003,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Talawaan",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092010,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Teepwarisa (Teep Warisa)",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092007,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Tumbohon",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092006,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Warisa",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092011,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Warisa Kampung Baru",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092008,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Winetin",
+    "postal_code": "95370"
+  },
+  {
+    "id": 7106092005,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710609,
+    "value": "Wusa",
+    "postal_code": "95370"
+  }
+]

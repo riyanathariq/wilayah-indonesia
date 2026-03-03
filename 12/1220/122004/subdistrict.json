@@ -1,0 +1,498 @@
+[
+  {
+    "id": 1220042075,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Aek Gambir",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042077,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Aek Jangkang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042031,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Aek Suhat",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042013,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Ambasang Natigor",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042043,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Batang Baruhar Jae",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042042,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Batang Baruhar Julu",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042027,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Batu Mamak",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042054,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Batu Sundung",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042050,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Batu Tambun",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042020,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Botung",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042076,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Bukit Raya Sordang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042022,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Dolok Sae",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042052,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Garoga",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042055,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Garonggang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042069,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Gunung Manaon II",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042029,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Gunung Tua Baru",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042039,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Gunung Tua Jae",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042040,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Gunung Tua Julu",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042038,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Gunung Tua Tonga",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042053,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Hajoran",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042045,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Hambiri",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042073,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Hutaimbaru II",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042041,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Hutalombang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042057,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Liang Hasona",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042026,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Losung Batu",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042008,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Lubuk Torop",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042017,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Mananti",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042056,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Nabonggal",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042014,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Napagadung Laut",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042060,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Padang Garugur",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042047,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Pagaran Singkam",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042048,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Pagaran Tonga",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042018,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Paran Padang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042064,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Parlimbatan",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220041001,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Pasar Gunung Tua",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042044,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Purba Sinomba",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042070,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Purba Tua",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042019,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Rahuning Jae",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042015,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Rampa Jae",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042016,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Rampa Julu",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042066,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Saba Bangunan",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042065,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Saba Sitahul tahul",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042028,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sampuran",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042049,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sibagasi",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042030,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sibatang Kayu",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042067,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sidingkat",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042062,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sigama",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042063,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sigama Ujung Gading",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042021,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sigimbal",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042024,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sihapas Hapas",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042058,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Simandiangin Dolok",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042059,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Simandiangin Lombang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042061,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Simanosor",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042023,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Simasi",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042078,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Simbolon",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042074,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Siombob",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042046,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sosopan",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042071,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sungai Durian",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042072,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sungai Orosan",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042025,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Sungai Tolang",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042012,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Tanjung Marulak",
+    "postal_code": "22754"
+  },
+  {
+    "id": 1220042051,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122004,
+    "value": "Tanjung Tiram",
+    "postal_code": "22754"
+  }
+]

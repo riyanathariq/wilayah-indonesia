@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1101162011,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Alur Bujok",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Jambo Dalem",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Kapa Sesak (Kapai Seusak)",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Krueng Luas",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Pinto Rimba",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Seuneubok Punto (Seuneubok Puntho)",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162010,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Seuneubok Pusaka",
+    "postal_code": "23776"
+  },
+  {
+    "id": 1101162012,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110116,
+    "value": "Titi Poben",
+    "postal_code": "23776"
+  }
+]

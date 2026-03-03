@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3275081002,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327508,
+    "value": "Jatibening",
+    "postal_code": "17412"
+  },
+  {
+    "id": 3275081006,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327508,
+    "value": "Jatibening Baru",
+    "postal_code": "17412"
+  },
+  {
+    "id": 3275081007,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327508,
+    "value": "Jaticempaka",
+    "postal_code": "17411"
+  },
+  {
+    "id": 3275081003,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327508,
+    "value": "Jatimakmur",
+    "postal_code": "17413"
+  },
+  {
+    "id": 3275081001,
+    "province_id": 32,
+    "regency_id": 3275,
+    "district_id": 327508,
+    "value": "Jatiwaringin",
+    "postal_code": "17411"
+  }
+]

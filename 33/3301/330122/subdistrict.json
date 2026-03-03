@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3301221004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330122,
+    "value": "Donan",
+    "postal_code": "53222"
+  },
+  {
+    "id": 3301221002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330122,
+    "value": "Gunungsimping",
+    "postal_code": "53224"
+  },
+  {
+    "id": 3301221005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330122,
+    "value": "Kutawaru",
+    "postal_code": "53225"
+  },
+  {
+    "id": 3301221001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330122,
+    "value": "Lomanis",
+    "postal_code": "53221"
+  },
+  {
+    "id": 3301221003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330122,
+    "value": "Sidanegara",
+    "postal_code": "53223"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8206092008,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Doromoi",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092002,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Dorosago (Dorosagu)",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092007,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Jara-jara (Jarajara)",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092009,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Lili",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092004,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Lolasita",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092003,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Patlean",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092010,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Patlean Jaya",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092006,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Pumlanga",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092001,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Sosolat",
+    "postal_code": "97864"
+  },
+  {
+    "id": 8206092005,
+    "province_id": 82,
+    "regency_id": 8206,
+    "district_id": 820609,
+    "value": "Wasileo",
+    "postal_code": "97864"
+  }
+]

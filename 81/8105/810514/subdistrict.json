@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8105142009,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Air Nanang",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142005,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Aruan Gaur",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142008,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Keta",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142006,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Keta Rumadan",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142001,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Kian Laut",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142002,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Kwaos (Kuwaos)",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142007,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Lian Tasik",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142003,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Salagor Air",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142004,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Salagor Kota",
+    "postal_code": "97598"
+  },
+  {
+    "id": 8105142010,
+    "province_id": 81,
+    "regency_id": 8105,
+    "district_id": 810514,
+    "value": "Suru",
+    "postal_code": "97598"
+  }
+]

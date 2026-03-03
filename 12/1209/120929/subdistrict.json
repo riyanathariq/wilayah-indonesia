@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1209292006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Panca Arga",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Pondok Bungur",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Rawang Baru",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Rawang Lama",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Rawang Pasar IV",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Rawang Pasar V",
+    "postal_code": "21266"
+  },
+  {
+    "id": 1209292007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120929,
+    "value": "Rawang Pasar VI",
+    "postal_code": "21266"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1601202007,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Belandang",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202002,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Gunung Tiga",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202001,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Kelumpang",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202003,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Mendingin",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202005,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Pedataran",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202006,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Sukajadi",
+    "postal_code": "32157"
+  },
+  {
+    "id": 1601202004,
+    "province_id": 16,
+    "regency_id": 1601,
+    "district_id": 160120,
+    "value": "Ulak Lebar",
+    "postal_code": "32157"
+  }
+]

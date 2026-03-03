@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1203292001,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Bandar Hapinis",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203291002,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Hutaraja",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203291009,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Muara Ampolu",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203292011,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Muara Huta Raja",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203291008,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Muara Manompas",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203292007,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Muara Opu (Muara Upu)",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203292003,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Pardamean",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203292010,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Simarlelan",
+    "postal_code": "22736"
+  },
+  {
+    "id": 1203292004,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120329,
+    "value": "Tarapung Raya",
+    "postal_code": "22736"
+  }
+]

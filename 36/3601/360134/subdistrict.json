@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3601341005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360134,
+    "value": "Cilaja",
+    "postal_code": "42214"
+  },
+  {
+    "id": 3601341002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360134,
+    "value": "Karaton",
+    "postal_code": "42211"
+  },
+  {
+    "id": 3601341004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360134,
+    "value": "Pagerbatu",
+    "postal_code": "42215"
+  },
+  {
+    "id": 3601341003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360134,
+    "value": "Saruni",
+    "postal_code": "42216"
+  },
+  {
+    "id": 3601341001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360134,
+    "value": "Sukaratu",
+    "postal_code": "42217"
+  }
+]

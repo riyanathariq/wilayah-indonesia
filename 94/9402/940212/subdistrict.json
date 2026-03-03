@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9402122002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Doligobak",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Dologobak",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Karubate",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Kulirik",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Muara",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Talilome",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Yalinggua",
+    "postal_code": "98914"
+  },
+  {
+    "id": 9402122008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940212,
+    "value": "Yambidugun",
+    "postal_code": "98914"
+  }
+]

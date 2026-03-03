@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8272041002,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Dokiri",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272041005,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Gurabati",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272042008,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Mare Gam (Maregam)",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272042007,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Mare Kofo (Marekofo)",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272041001,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Toloa",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272041004,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Tomalou",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272041006,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Tongowai",
+    "postal_code": "97821"
+  },
+  {
+    "id": 8272041003,
+    "province_id": 82,
+    "regency_id": 8272,
+    "district_id": 827204,
+    "value": "Tuguiha",
+    "postal_code": "97821"
+  }
+]

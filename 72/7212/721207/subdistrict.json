@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7212072007,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Bau",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072001,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Lembah Sumara (Lembasumara)",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072004,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Malino",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072008,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Malino Jaya",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072005,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Panca Makmur",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072002,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Sumara Jaya",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072006,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Tamainusi",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072003,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Tambayoli",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072010,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Tandoyondo",
+    "postal_code": "94969"
+  },
+  {
+    "id": 7212072009,
+    "province_id": 72,
+    "regency_id": 7212,
+    "district_id": 721207,
+    "value": "Toddopoli Uebangke (Toddopuli Uebangke)",
+    "postal_code": "94969"
+  }
+]

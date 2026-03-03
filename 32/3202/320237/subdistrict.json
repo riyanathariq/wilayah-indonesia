@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3202372004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Bantarsari",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Cibadak",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Ciwalat",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372007,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Lembur Sawah",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Pabuaran",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Sirnasari",
+    "postal_code": "43173"
+  },
+  {
+    "id": 3202372005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320237,
+    "value": "Sukajaya",
+    "postal_code": "43173"
+  }
+]

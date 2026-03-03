@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1771011005,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Betungan",
+    "postal_code": "38214"
+  },
+  {
+    "id": 1771011004,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Bumu Ayu (Bumi Ayu)",
+    "postal_code": "38216"
+  },
+  {
+    "id": 1771011001,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Pagar Dewa",
+    "postal_code": "38211"
+  },
+  {
+    "id": 1771011003,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Pekan Sabtu",
+    "postal_code": "38213"
+  },
+  {
+    "id": 1771011002,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Sukarami",
+    "postal_code": "38216"
+  },
+  {
+    "id": 1771011006,
+    "province_id": 17,
+    "regency_id": 1771,
+    "district_id": 177101,
+    "value": "Sumur Dewa",
+    "postal_code": "38216"
+  }
+]

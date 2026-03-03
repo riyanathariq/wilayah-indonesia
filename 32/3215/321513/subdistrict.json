@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3215132008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Cikampek Barat",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Cikampek Kota",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Cikampek Pusaka",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Cikampek Selatan",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Cikampek Timur",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Dawuan Barat",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Dawuan Tengah",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Dawuan Timur",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Kalihurip",
+    "postal_code": "41373"
+  },
+  {
+    "id": 3215132010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321513,
+    "value": "Kamojing",
+    "postal_code": "41373"
+  }
+]

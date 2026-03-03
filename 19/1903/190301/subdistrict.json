@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1903012006,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Bikang",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012007,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Gadung",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Jeriji",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012012,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Kaposang/Keposang",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012010,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Kepoh",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012008,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Rias",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012013,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Rindik",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903012004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Serdang",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903011003,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Tanjungketapang (Tanjung Ketapang)",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903011002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Teladan",
+    "postal_code": "33783"
+  },
+  {
+    "id": 1903011001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190301,
+    "value": "Toboali",
+    "postal_code": "33783"
+  }
+]

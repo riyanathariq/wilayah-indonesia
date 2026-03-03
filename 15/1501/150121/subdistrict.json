@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1501212012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Air Bersih",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Air Panas",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Baru",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Hamparan Pugu",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Kecil",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Cayo",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Datuk",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Dua Baru",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Mebai",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Mudik",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Koto Tengah",
+    "postal_code": "37166"
+  },
+  {
+    "id": 1501212005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150121,
+    "value": "Pugu",
+    "postal_code": "37166"
+  }
+]

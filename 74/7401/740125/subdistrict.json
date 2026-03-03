@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7401252007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Lamondape",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401252003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Plasma Jaya",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401251001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Polinggona",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401252006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Pondowae (Pondouwaee)",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401252002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Puudongi",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401252004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Tanggeau",
+    "postal_code": "93563"
+  },
+  {
+    "id": 7401252005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740125,
+    "value": "Wulonggere",
+    "postal_code": "93563"
+  }
+]

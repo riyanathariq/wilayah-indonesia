@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5311052011,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Bangga Watu",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Billa",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Karita",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Kuki Talu",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Pindu Horomi (Hurani)",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052008,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Praing Kareha",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Tapil",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Tarimbang",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Waikanabu",
+    "postal_code": "87160"
+  },
+  {
+    "id": 5311052009,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531105,
+    "value": "Wudi Pandak",
+    "postal_code": "87160"
+  }
+]

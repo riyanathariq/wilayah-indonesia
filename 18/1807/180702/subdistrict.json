@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1807022004,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Bandar Negeri",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022010,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Karang Anyar",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022005,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Karya Makmur",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022006,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Karya Tani (Karyatani)",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022001,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Labuhan Maringgai (Labuhan Maringai)",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022007,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Margasari",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022011,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Maringgai",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022002,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Muara Gading Mas",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022009,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Srigading (Sri Gading)",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022003,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Sriminosari (Sri Minosari)",
+    "postal_code": "34198"
+  },
+  {
+    "id": 1807022008,
+    "province_id": 18,
+    "regency_id": 1807,
+    "district_id": 180702,
+    "value": "Sukorahayu",
+    "postal_code": "34198"
+  }
+]

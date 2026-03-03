@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3403162001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Balong",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Jepitu",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Jerukwudel",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Karangawen",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Nglindur",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Pucung",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Songbanyu",
+    "postal_code": "55883"
+  },
+  {
+    "id": 3403162006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340316,
+    "value": "Tileng",
+    "postal_code": "55883"
+  }
+]

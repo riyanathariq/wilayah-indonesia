@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2104102001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210410,
+    "value": "Busung Panjang",
+    "postal_code": "29876"
+  },
+  {
+    "id": 2104102002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210410,
+    "value": "Posek",
+    "postal_code": "29876"
+  },
+  {
+    "id": 2104102003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210410,
+    "value": "Suak Buaya",
+    "postal_code": "29876"
+  }
+]

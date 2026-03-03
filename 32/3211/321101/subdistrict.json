@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3211012004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Cikareo Selatan",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Cikareo Utara",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Cilengkrang",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Cimungkal",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Cisurat",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Ganjaresik",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Mulyajaya",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Sukajadi",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Sukapura",
+    "postal_code": "45373"
+  },
+  {
+    "id": 3211012006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321101,
+    "value": "Wado",
+    "postal_code": "45373"
+  }
+]

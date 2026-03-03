@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1212222004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Gukguk/Gurgur Aek Raja",
+    "postal_code": "22312"
+  },
+  {
+    "id": 1212222001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Lintong Nihuta",
+    "postal_code": "22312"
+  },
+  {
+    "id": 1212222003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Meat",
+    "postal_code": "22312"
+  },
+  {
+    "id": 1212222005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Tangga Batu Barat",
+    "postal_code": "22312"
+  },
+  {
+    "id": 1212222006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Tangga Batu Timur",
+    "postal_code": "22312"
+  },
+  {
+    "id": 1212222002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121222,
+    "value": "Tarabunga (Tara Bunga)",
+    "postal_code": "22312"
+  }
+]

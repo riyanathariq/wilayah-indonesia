@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3513202008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Banjarsawah",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202011,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Bladokulon (Blado Kulon)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Bulujarankidul (Bulujaran Kidul)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Bulujaranlor (Bulujaran Lor)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Gunungbekel (Gunung Bekel)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Malesanwetan (Malasan Wetan)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Paras",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Sumberbulu",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Sumberkledung",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202012,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Tegalmojo (Tegal Mojo)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Tegalsiwalan (Tegal Siwalan)",
+    "postal_code": "67274"
+  },
+  {
+    "id": 3513202003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351320,
+    "value": "Tegalsono (Tegal Sono)",
+    "postal_code": "67274"
+  }
+]

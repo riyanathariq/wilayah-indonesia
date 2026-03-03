@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9209182002,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Krisnos",
+    "postal_code": "98376"
+  },
+  {
+    "id": 9209182008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Resye",
+    "postal_code": "98363"
+  },
+  {
+    "id": 9209182006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Sunggak",
+    "postal_code": "98369"
+  },
+  {
+    "id": 9209182003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Syukwes",
+    "postal_code": "98376"
+  },
+  {
+    "id": 9209182001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Syumbab",
+    "postal_code": "98376"
+  },
+  {
+    "id": 9209182007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920918,
+    "value": "Wowom",
+    "postal_code": "98363"
+  }
+]

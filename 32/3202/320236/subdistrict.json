@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3202362003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Cimangkok",
+    "postal_code": "43191"
+  },
+  {
+    "id": 3202362006,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Prianganjaya",
+    "postal_code": "43191"
+  },
+  {
+    "id": 3202362005,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Semplak",
+    "postal_code": "43191"
+  },
+  {
+    "id": 3202362001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Sukalarang",
+    "postal_code": "43191"
+  },
+  {
+    "id": 3202362002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Sukamaju",
+    "postal_code": "43191"
+  },
+  {
+    "id": 3202362004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320236,
+    "value": "Titisan",
+    "postal_code": "43191"
+  }
+]

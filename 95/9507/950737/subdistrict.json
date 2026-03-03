@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9507372003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Abua",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Bogangi",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Gikur",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Gipura",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Golome",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Gulu",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372010,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Kuruguneri",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Lualo",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Muara",
+    "postal_code": "99569"
+  },
+  {
+    "id": 9507372009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950737,
+    "value": "Wiyapur",
+    "postal_code": "99569"
+  }
+]

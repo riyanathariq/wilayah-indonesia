@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7173041007,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Taratara",
+    "postal_code": "95423"
+  },
+  {
+    "id": 7173041005,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Taratara Dua",
+    "postal_code": "95424"
+  },
+  {
+    "id": 7173041004,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Taratara Satu",
+    "postal_code": "95425"
+  },
+  {
+    "id": 7173041008,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Taratara Tiga",
+    "postal_code": "95423"
+  },
+  {
+    "id": 7173041002,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Woloan Dua",
+    "postal_code": "95422"
+  },
+  {
+    "id": 7173041001,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Woloan Satu",
+    "postal_code": "95421"
+  },
+  {
+    "id": 7173041006,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Woloan Satu Utara",
+    "postal_code": "95423"
+  },
+  {
+    "id": 7173041003,
+    "province_id": 71,
+    "regency_id": 7173,
+    "district_id": 717304,
+    "value": "Woloan Tiga",
+    "postal_code": "95423"
+  }
+]

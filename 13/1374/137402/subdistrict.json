@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1374021008,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Balai-Balai",
+    "postal_code": "27114"
+  },
+  {
+    "id": 1374021001,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Bukik/Bukit Surungan",
+    "postal_code": "27115"
+  },
+  {
+    "id": 1374021003,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Kampung Manggis",
+    "postal_code": "27111"
+  },
+  {
+    "id": 1374021006,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Pasar Baru",
+    "postal_code": "27113"
+  },
+  {
+    "id": 1374021002,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Pasar Usang",
+    "postal_code": "27116"
+  },
+  {
+    "id": 1374021005,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Silaing Atas",
+    "postal_code": "27117"
+  },
+  {
+    "id": 1374021004,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Silaing Bawah",
+    "postal_code": "27118"
+  },
+  {
+    "id": 1374021007,
+    "province_id": 13,
+    "regency_id": 1374,
+    "district_id": 137402,
+    "value": "Tanah Hitam",
+    "postal_code": "27112"
+  }
+]

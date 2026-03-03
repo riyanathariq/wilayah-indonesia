@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9402042007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Anggolapaga",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Balinggup",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042011,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Biak",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Gumbru",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Mewoluk",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042010,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Nggininik",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Waliba",
+    "postal_code": "98945"
+  },
+  {
+    "id": 9402042023,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940204,
+    "value": "Wutikme",
+    "postal_code": "98945"
+  }
+]

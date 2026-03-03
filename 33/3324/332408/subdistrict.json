@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3324082010,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Karangtengah",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082012,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Krajankulon",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082009,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Kumpulrejo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082013,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Kutoharjo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082015,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Mororejo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082004,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Nolokerto",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082011,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Sarirejo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082003,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Sumberejo",
+    "postal_code": "51372"
+  },
+  {
+    "id": 3324082014,
+    "province_id": 33,
+    "regency_id": 3324,
+    "district_id": 332408,
+    "value": "Wonorejo",
+    "postal_code": "51372"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7201011023,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Bakung",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011007,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Balantang",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Batui",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011006,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Bugis",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Honbola",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012003,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Kayowa",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Lamo",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012002,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Nonong",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012005,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Ondo-Ondolu",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012016,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Ondo-Ondolu I",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011017,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Sisipan",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201011009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Tolando",
+    "postal_code": "94762"
+  },
+  {
+    "id": 7201012012,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720101,
+    "value": "Uso",
+    "postal_code": "94762"
+  }
+]

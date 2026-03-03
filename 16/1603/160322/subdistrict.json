@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1603222002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Arisan Musi",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Arisan Musi Timur",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Gedung Buruk",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Harapan Mulya/Mulia",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Kayu Ara Batu",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Mulia Abadi",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Patra Tani",
+    "postal_code": "31178"
+  },
+  {
+    "id": 1603222007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160322,
+    "value": "Tanjung Baru",
+    "postal_code": "31178"
+  }
+]

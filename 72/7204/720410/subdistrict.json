@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7204102002,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720410,
+    "value": "Dungingis",
+    "postal_code": "94562"
+  },
+  {
+    "id": 7204102001,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720410,
+    "value": "Galumpang",
+    "postal_code": "94562"
+  },
+  {
+    "id": 7204102003,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720410,
+    "value": "Kapas",
+    "postal_code": "94562"
+  },
+  {
+    "id": 7204102004,
+    "province_id": 72,
+    "regency_id": 7204,
+    "district_id": 720410,
+    "value": "Lingadan",
+    "postal_code": "94562"
+  }
+]

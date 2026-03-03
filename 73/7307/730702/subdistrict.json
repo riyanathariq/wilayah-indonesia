@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7307022011,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Alenangka",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022004,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Aska",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022007,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Bulu Kamase",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022010,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Gareccing",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022006,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Palae",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022008,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Palangka",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022009,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Polewali",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022002,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Puncak",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307021001,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Sangianseri (Sangiasseri)",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022003,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Songing",
+    "postal_code": "92661"
+  },
+  {
+    "id": 7307022005,
+    "province_id": 73,
+    "regency_id": 7307,
+    "district_id": 730702,
+    "value": "Talle",
+    "postal_code": "92661"
+  }
+]

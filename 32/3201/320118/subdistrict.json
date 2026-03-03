@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3201182005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Cibodas",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Cidokom",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Cipinang",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Gobang",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Kampungsawah (Kampung Sawah)",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Kertajaya (Kerta Jaya)",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Leuwibatu",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182014,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Mekarjaya",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Mekarsari (Mekar Sari)",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Rabak",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Rumpin",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Sukamulya",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Sukasari",
+    "postal_code": "16350"
+  },
+  {
+    "id": 3201182010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320118,
+    "value": "Tamansari (Taman Sari)",
+    "postal_code": "16350"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9304202001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Bor",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Daikot",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Dekamer",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Somnak",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Vakam",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Vakam Dua",
+    "postal_code": "99792"
+  },
+  {
+    "id": 9304202004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930420,
+    "value": "Wabak",
+    "postal_code": "99792"
+  }
+]

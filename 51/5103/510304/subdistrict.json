@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5103042003,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Belok/Sidan",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042001,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Carangsari",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042005,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Getasan",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042006,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Pangsan",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042004,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Pelaga",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042002,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Petang",
+    "postal_code": "80353"
+  },
+  {
+    "id": 5103042007,
+    "province_id": 51,
+    "regency_id": 5103,
+    "district_id": 510304,
+    "value": "Sulangai",
+    "postal_code": "80353"
+  }
+]

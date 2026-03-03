@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3517052006,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Carangwulung",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052001,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Galengdowo",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052003,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Jarak",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052009,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Panglungan",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052004,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Sambirejo",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052008,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Sumberjo",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052007,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Wonokerto",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052002,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Wonomerto",
+    "postal_code": "61476"
+  },
+  {
+    "id": 3517052005,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351705,
+    "value": "Wonosalam",
+    "postal_code": "61476"
+  }
+]

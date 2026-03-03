@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1571091004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Bagan Pete",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571091005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Beliung",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571091001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Kenali Besar",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571091003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Mayang Mangurai",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571091007,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Pinang Merah",
+    "postal_code": "36129"
+  },
+  {
+    "id": 1571091002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Rawa Sari",
+    "postal_code": "36125"
+  },
+  {
+    "id": 1571091006,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157109,
+    "value": "Simpang Rimbo",
+    "postal_code": "36129"
+  }
+]

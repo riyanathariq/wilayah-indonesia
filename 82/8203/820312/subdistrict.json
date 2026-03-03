@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8203122005,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Gonga",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203122004,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Katana",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203122002,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Mawea",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203122003,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Meti",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203122006,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Todokuiha",
+    "postal_code": "97767"
+  },
+  {
+    "id": 8203122001,
+    "province_id": 82,
+    "regency_id": 8203,
+    "district_id": 820312,
+    "value": "Yaro",
+    "postal_code": "97767"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1220122003,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Gunung Manaon Ujung Batu",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122001,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Huta Raja",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122011,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Jambu Tonang",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122004,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Labuhan Jurung",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122010,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Mananti",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122012,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Manare Tua",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122009,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Marlaung",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122005,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Martujuan",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122013,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Pasir Lancat Ujung Batu",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122006,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Paya Bahung Ujung Batu",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122007,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Tobing Tinggi Ujung Batu",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122008,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Ujung Batu Jae",
+    "postal_code": "22746"
+  },
+  {
+    "id": 1220122002,
+    "province_id": 12,
+    "regency_id": 1220,
+    "district_id": 122012,
+    "value": "Ujung Batu Julu",
+    "postal_code": "22746"
+  }
+]

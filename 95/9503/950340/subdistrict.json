@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9503402001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Bomela",
+    "postal_code": "99731"
+  },
+  {
+    "id": 9503402003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Kitikni",
+    "postal_code": "99731"
+  },
+  {
+    "id": 9503402005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Kubialat",
+    "postal_code": "99731"
+  },
+  {
+    "id": 9503402006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Palamdua",
+    "postal_code": "99731"
+  },
+  {
+    "id": 9503402004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Sombat",
+    "postal_code": "99731"
+  },
+  {
+    "id": 9503402002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950340,
+    "value": "Yalmabi",
+    "postal_code": "99731"
+  }
+]

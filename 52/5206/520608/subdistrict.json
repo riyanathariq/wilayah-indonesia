@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5206082013,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Bumi Pajo",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Dori Dungga",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Kala",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082008,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Mbawa",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082012,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Mpili",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082014,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Ndano Na'e",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "O'o",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082009,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Palama",
+    "postal_code": "84162"
+  },
+  {
+    "id": 5206082010,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520608,
+    "value": "Rora",
+    "postal_code": "84162"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1223031001,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Kampung Mesjid",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032002,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Kuala Bangka",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032007,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Sei/Sungai Apung",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032003,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Sei/Sungai Sentang",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032005,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Tanjung Mangedar",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032006,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Teluk Binjai",
+    "postal_code": "21474"
+  },
+  {
+    "id": 1223032004,
+    "province_id": 12,
+    "regency_id": 1223,
+    "district_id": 122303,
+    "value": "Teluk Piai",
+    "postal_code": "21474"
+  }
+]

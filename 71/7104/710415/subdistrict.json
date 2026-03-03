@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7104152004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710415,
+    "value": "Daran",
+    "postal_code": "95878"
+  },
+  {
+    "id": 7104152005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710415,
+    "value": "Daran Utara",
+    "postal_code": "95878"
+  },
+  {
+    "id": 7104152001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710415,
+    "value": "Pulutan",
+    "postal_code": "95878"
+  },
+  {
+    "id": 7104152003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710415,
+    "value": "Pulutan Selatan",
+    "postal_code": "95878"
+  },
+  {
+    "id": 7104152002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710415,
+    "value": "Pulutan Utara",
+    "postal_code": "95878"
+  }
+]

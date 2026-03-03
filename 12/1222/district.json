@@ -1,0 +1,32 @@
+[
+  {
+    "id": 122202,
+    "province_id": 12,
+    "regency_id": 1222,
+    "value": "Kampung Rakyat"
+  },
+  {
+    "id": 122201,
+    "province_id": 12,
+    "regency_id": 1222,
+    "value": "Kotapinang (Kota Pinang)"
+  },
+  {
+    "id": 122205,
+    "province_id": 12,
+    "regency_id": 1222,
+    "value": "Silangkitang"
+  },
+  {
+    "id": 122204,
+    "province_id": 12,
+    "regency_id": 1222,
+    "value": "Sungai Kanan (Sei)"
+  },
+  {
+    "id": 122203,
+    "province_id": 12,
+    "regency_id": 1222,
+    "value": "Torgamba"
+  }
+]

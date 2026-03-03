@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1406132003,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Bonai",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132007,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Kasang Mungai",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132006,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Kasang Padang",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132005,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Pauh",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132004,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Rawa Makmur",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132002,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Sontang",
+    "postal_code": "28559"
+  },
+  {
+    "id": 1406132001,
+    "province_id": 14,
+    "regency_id": 1406,
+    "district_id": 140613,
+    "value": "Teluk Sono",
+    "postal_code": "28559"
+  }
+]

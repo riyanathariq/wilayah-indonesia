@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7208152003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Balinggi",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Balinggi Jati",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Beraban",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Catur Karya",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Lebagu",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Malakosa",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Suli",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Suli Indah",
+    "postal_code": "94473"
+  },
+  {
+    "id": 7208152008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720815,
+    "value": "Tumpapa Indah",
+    "postal_code": "94473"
+  }
+]

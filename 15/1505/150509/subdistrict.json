@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1505092011,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Bahar Mulya",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Bukit Mulya",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092009,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Markanding",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Matra Manunggal",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Mulya Jaya",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092008,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Pinang Tinggi",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092007,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Sumber Jaya",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092003,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Sumber Mulya",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092010,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Sungai Dayo",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092001,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Talang Bukit",
+    "postal_code": "36367"
+  },
+  {
+    "id": 1505092002,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150509,
+    "value": "Talang Datar",
+    "postal_code": "36367"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1308132003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130813,
+    "value": "Binjai",
+    "postal_code": "26358"
+  },
+  {
+    "id": 1308132002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130813,
+    "value": "Ladang Panjang",
+    "postal_code": "26358"
+  },
+  {
+    "id": 1308132005,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130813,
+    "value": "Ladang Panjang Barat",
+    "postal_code": "26358"
+  },
+  {
+    "id": 1308132001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130813,
+    "value": "Malampah",
+    "postal_code": "26358"
+  },
+  {
+    "id": 1308132004,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130813,
+    "value": "Malampah Barat",
+    "postal_code": "26358"
+  }
+]

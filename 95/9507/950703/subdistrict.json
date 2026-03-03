@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507032052,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Gembilani",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Kemiri",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032023,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Kotorambur",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032016,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Mamiri",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032053,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Nambume",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032054,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Tengenawi",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032025,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Waganenga",
+    "postal_code": "99565"
+  },
+  {
+    "id": 9507032024,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950703,
+    "value": "Yorenime",
+    "postal_code": "99565"
+  }
+]

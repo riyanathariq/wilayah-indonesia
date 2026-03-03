@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7303072004,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Bajiminasa",
+    "postal_code": "92461"
+  },
+  {
+    "id": 7303071001,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Gantarang Keke (Gantarangkeke)",
+    "postal_code": "92461"
+  },
+  {
+    "id": 7303072006,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Kaloling",
+    "postal_code": "92461"
+  },
+  {
+    "id": 7303072003,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Layoa",
+    "postal_code": "92461"
+  },
+  {
+    "id": 7303071002,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Tanah Loe (Tanahloe)",
+    "postal_code": "92461"
+  },
+  {
+    "id": 7303072005,
+    "province_id": 73,
+    "regency_id": 7303,
+    "district_id": 730307,
+    "value": "Tombolo",
+    "postal_code": "92461"
+  }
+]

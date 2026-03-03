@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1212192010,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Banua Huta",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Dolok Jior",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Maju",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Marsangap",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Nauli",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Sigumpar",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192009,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Sigumpar Barat",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212191007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Sigumpar Dangsina",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192008,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Sigumpar Julu",
+    "postal_code": "22380"
+  },
+  {
+    "id": 1212192003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121219,
+    "value": "Situa-Tua",
+    "postal_code": "22380"
+  }
+]

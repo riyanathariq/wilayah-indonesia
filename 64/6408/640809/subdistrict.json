@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6408092003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Keraitan",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092008,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Muara Bengalon",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Sekerat",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Sepaso (Sepaso Induk)",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092011,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Sepaso Barat",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Sepaso Selatan",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Sepaso Timur",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Tebangan Lebak/Lembak",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092009,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Tepian Baru",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092010,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Tepian Indah",
+    "postal_code": "75618"
+  },
+  {
+    "id": 6408092004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640809,
+    "value": "Tepian Langsat",
+    "postal_code": "75618"
+  }
+]

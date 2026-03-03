@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3512032007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Buduan",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Cemara",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Dawuan",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Gunung Malang",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Gunung Putri",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Ketah",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Mojodungkul (Mojo Dungkol)",
+    "postal_code": "68354"
+  },
+  {
+    "id": 3512032005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351203,
+    "value": "Suboh",
+    "postal_code": "68354"
+  }
+]

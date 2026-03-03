@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7406152004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Eemokolo (Eeomokola)",
+    "postal_code": "93785"
+  },
+  {
+    "id": 7406152006,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Larolanu (Laromanu)",
+    "postal_code": "93785"
+  },
+  {
+    "id": 7406152001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Mapila",
+    "postal_code": "93785"
+  },
+  {
+    "id": 7406152003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Sangia Makmur",
+    "postal_code": "93785"
+  },
+  {
+    "id": 7406152005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Tedubara",
+    "postal_code": "93785"
+  },
+  {
+    "id": 7406152002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740615,
+    "value": "Wumbulasa",
+    "postal_code": "93785"
+  }
+]

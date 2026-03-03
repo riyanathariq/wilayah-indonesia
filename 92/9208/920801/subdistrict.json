@@ -1,0 +1,154 @@
+[
+  {
+    "id": 9208012013,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Coa",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012008,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Foroma Jaya",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012016,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Jarati",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208011001,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Kaimana Kota",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012012,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Kamaka",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208011014,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Krooy",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012004,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Lobo",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012011,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Lumira",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012010,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Mai Mai",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012002,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Marsi",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012009,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Murano",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012003,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Namatota",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012019,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Oray",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012017,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Sara",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012015,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Saria",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012007,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Sisir",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012006,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Tanggaromi",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012005,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Trikora",
+    "postal_code": "98113"
+  },
+  {
+    "id": 9208012018,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920801,
+    "value": "Werua",
+    "postal_code": "98113"
+  }
+]

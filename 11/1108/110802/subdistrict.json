@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1108022009,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Bangka Jaya",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022014,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Bluka Teubai",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022013,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Geulumpang Sulu Barat",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022012,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Geulumpang Sulu Timu (Geulumpang Sulu Timur)",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022001,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Keude Krueng Geukuh (Keude Krueng Geukueh)",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Lancang Barat",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022004,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Paloh Gadeng",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022008,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Paloh Igeuh",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022005,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Paloh Lada",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022007,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Pulo Rungkom",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022002,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Tambon Baroh",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022003,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Tambon Tunong",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022010,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Ulee Pulo",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022011,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Ulee Reuleung",
+    "postal_code": "24354"
+  },
+  {
+    "id": 1108022006,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110802,
+    "value": "Uteun Geulinggang",
+    "postal_code": "24354"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1104182001,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Atu Lintang",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182008,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Bintang Kekelip",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182010,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Damar Mulyo (Damar Mulia)",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182005,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Gayo Murni",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182006,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Kepala Akal",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182009,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Merah Jernang",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182002,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Merah Mege",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182004,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Merah Muyang/Mayang",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182003,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Merah Pupuk",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182011,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Pantan Damar",
+    "postal_code": "24563"
+  },
+  {
+    "id": 1104182007,
+    "province_id": 11,
+    "regency_id": 1104,
+    "district_id": 110418,
+    "value": "Tanoh Abu",
+    "postal_code": "24563"
+  }
+]

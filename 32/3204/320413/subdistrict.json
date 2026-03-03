@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3204132003,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Banjaran Kulon",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132002,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Banjaran Wetan",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132005,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Ciapus",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132001,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Kamasan",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132007,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Kiangroke",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132013,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Margahurip",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132012,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Mekarjaya",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132016,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Neglasari",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132018,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Pasirmulya",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132006,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Sindangpanon",
+    "postal_code": "40377"
+  },
+  {
+    "id": 3204132008,
+    "province_id": 32,
+    "regency_id": 3204,
+    "district_id": 320413,
+    "value": "Tarajusari",
+    "postal_code": "40377"
+  }
+]

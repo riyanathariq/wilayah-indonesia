@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5307062007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Kesokoja",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Ladolaka",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Lidi",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Maluriwu",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Nitunglea",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Reruwairere",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Rokirole",
+    "postal_code": "86110"
+  },
+  {
+    "id": 5307062003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530706,
+    "value": "Tuanggeo",
+    "postal_code": "86110"
+  }
+]

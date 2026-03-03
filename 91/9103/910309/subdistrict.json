@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9103092001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Beneik",
+    "postal_code": "99356"
+  },
+  {
+    "id": 9103092002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Ganusa (Garusa)",
+    "postal_code": "99356"
+  },
+  {
+    "id": 9103092003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Guriyad (Guryard)",
+    "postal_code": "99356"
+  },
+  {
+    "id": 9103092006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Nandalzi (Nandaizi)",
+    "postal_code": "99356"
+  },
+  {
+    "id": 9103092005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Sawesuma (Sawa Suma)",
+    "postal_code": "99356"
+  },
+  {
+    "id": 9103092004,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910309,
+    "value": "Sentosa (Santosa)",
+    "postal_code": "99356"
+  }
+]

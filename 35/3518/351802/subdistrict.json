@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3518022008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Blongko",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Kepel",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Klodan",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Kuncir",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Kweden",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Mojoduwur",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Ngetos",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Oro-Oro Ombo",
+    "postal_code": "64474"
+  },
+  {
+    "id": 3518022003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351802,
+    "value": "Suru",
+    "postal_code": "64474"
+  }
+]

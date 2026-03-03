@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9303112003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Asset",
+    "postal_code": "99853"
+  },
+  {
+    "id": 9303112005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Bosma",
+    "postal_code": "99853"
+  },
+  {
+    "id": 9303112001,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Homlikia (Homilikia / Homlikya)",
+    "postal_code": "99853"
+  },
+  {
+    "id": 9303112002,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Kobeta",
+    "postal_code": "99853"
+  },
+  {
+    "id": 9303112006,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Oghoto",
+    "postal_code": "99853"
+  },
+  {
+    "id": 9303112004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930311,
+    "value": "Osso",
+    "postal_code": "99853"
+  }
+]

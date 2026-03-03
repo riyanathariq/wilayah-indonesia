@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7603072003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Makuang",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Malimbong",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Matande",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603071001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Messawa",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Pasma Mambu",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Rippung",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Sepang",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Sipai",
+    "postal_code": "91361"
+  },
+  {
+    "id": 7603072009,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760307,
+    "value": "Tanete Batu",
+    "postal_code": "91361"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507262008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Anggumabume",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Baliempura",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Denomagi",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Lorea",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Magame",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Tinggipura",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Yeyugu",
+    "postal_code": "99584"
+  },
+  {
+    "id": 9507262003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950726,
+    "value": "Yugume",
+    "postal_code": "99584"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": 9106202007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Anggaduber",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202006,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Anggopi",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Animi",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Bakribo",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202009,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Kakur",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202013,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Makmakerbo",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Marauw (Marao)",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Opiaref",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202012,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Sauri",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Sawa",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202011,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Sawadori",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202010,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Tanjung Barari",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Wadibu",
+    "postal_code": "98542"
+  },
+  {
+    "id": 9106202014,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910620,
+    "value": "Yensama",
+    "postal_code": "98542"
+  }
+]

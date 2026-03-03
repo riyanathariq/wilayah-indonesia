@@ -1,0 +1,68 @@
+[
+  {
+    "id": 111011,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Danau Paris"
+  },
+  {
+    "id": 111006,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Gunung Meriah (Mariah)"
+  },
+  {
+    "id": 111009,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Kota Baharu"
+  },
+  {
+    "id": 111014,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Kuala Baru"
+  },
+  {
+    "id": 111001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Pulau Banyak"
+  },
+  {
+    "id": 111016,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Pulau Banyak Barat"
+  },
+  {
+    "id": 111002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Simpang Kanan"
+  },
+  {
+    "id": 111004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Singkil"
+  },
+  {
+    "id": 111010,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Singkil Utara"
+  },
+  {
+    "id": 111013,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Singkohor"
+  },
+  {
+    "id": 111012,
+    "province_id": 11,
+    "regency_id": 1110,
+    "value": "Suro Makmur"
+  }
+]

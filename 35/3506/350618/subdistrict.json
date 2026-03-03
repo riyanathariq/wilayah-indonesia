@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3506182003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Besowo",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Brumbung",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Damarwulan",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Kampungbaru",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Kebonrejo",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Keling",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Kencong",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Kepung",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Krenceng",
+    "postal_code": "64293"
+  },
+  {
+    "id": 3506182004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350618,
+    "value": "Siman",
+    "postal_code": "64293"
+  }
+]

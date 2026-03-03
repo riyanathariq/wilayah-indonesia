@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7304062001,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Banrimanurung",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062003,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Barana",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062004,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Beroanging",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304061002,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Bulu Jaya (Bulujaya)",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062006,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Garassikang",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062008,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Pappalluang",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062007,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Pattiro",
+    "postal_code": "92353"
+  },
+  {
+    "id": 7304062005,
+    "province_id": 73,
+    "regency_id": 7304,
+    "district_id": 730406,
+    "value": "Tuju",
+    "postal_code": "92353"
+  }
+]

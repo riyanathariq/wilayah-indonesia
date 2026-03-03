@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2104032015,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210403,
+    "value": "Baran",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104032012,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210403,
+    "value": "Laboh (Labo)",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104032002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210403,
+    "value": "Mamut",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104032013,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210403,
+    "value": "Penaah",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104031001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210403,
+    "value": "Senayang",
+    "postal_code": "29873"
+  }
+]

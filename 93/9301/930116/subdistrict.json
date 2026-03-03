@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9301162004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Nakias",
+    "postal_code": "99637"
+  },
+  {
+    "id": 9301162001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Po Epe",
+    "postal_code": "99637"
+  },
+  {
+    "id": 9301162005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Salam Epe",
+    "postal_code": "99637"
+  },
+  {
+    "id": 9301162003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Taga Epe",
+    "postal_code": "99637"
+  },
+  {
+    "id": 9301162002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Yawimu",
+    "postal_code": "99637"
+  },
+  {
+    "id": 9301162006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930116,
+    "value": "Yomop",
+    "postal_code": "99637"
+  }
+]

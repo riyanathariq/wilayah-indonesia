@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3203312002,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Cihea",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312007,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Cipeuyeum",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312001,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Haurwangi",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312008,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Kertamukti",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312006,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Kertasari",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312005,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Mekarwangi",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312003,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Ramasari",
+    "postal_code": "43280"
+  },
+  {
+    "id": 3203312004,
+    "province_id": 32,
+    "regency_id": 3203,
+    "district_id": 320331,
+    "value": "Sukatani (Mekarwangi)",
+    "postal_code": "43280"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1209212004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Aek Bamban",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Aek Songsongan",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Lobu Rappa",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Marjanji Aceh",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Mekar Marjanji",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Perkebunan Bandar Pulau",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Perkebunan Bandar Selamat",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Situnjak",
+    "postal_code": "21274"
+  },
+  {
+    "id": 1209212007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120921,
+    "value": "Tangga",
+    "postal_code": "21274"
+  }
+]

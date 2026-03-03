@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1308192001,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Lansek Kadok",
+    "postal_code": "26356"
+  },
+  {
+    "id": 1308192004,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Lansek Kadok Barat",
+    "postal_code": "26356"
+  },
+  {
+    "id": 1308192002,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Lubuak Layang",
+    "postal_code": "26356"
+  },
+  {
+    "id": 1308192003,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Tanjung Betung",
+    "postal_code": "26356"
+  },
+  {
+    "id": 1308192006,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Tanjung Betung Timur",
+    "postal_code": "26356"
+  },
+  {
+    "id": 1308192005,
+    "province_id": 13,
+    "regency_id": 1308,
+    "district_id": 130819,
+    "value": "Tanjung Betung Utara",
+    "postal_code": "26356"
+  }
+]

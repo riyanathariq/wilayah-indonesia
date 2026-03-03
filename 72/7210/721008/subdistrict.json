@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7210082006,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Kalawara",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082002,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Omu",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082004,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Pakuli",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082007,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Pakuli Utara",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082005,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Pandere",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082003,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Simoro",
+    "postal_code": "94364"
+  },
+  {
+    "id": 7210082001,
+    "province_id": 72,
+    "regency_id": 7210,
+    "district_id": 721008,
+    "value": "Tuwa",
+    "postal_code": "94364"
+  }
+]

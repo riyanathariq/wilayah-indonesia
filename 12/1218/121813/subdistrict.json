@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1218132001,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Bah Sumbu",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132020,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Gunung Kataran",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132003,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Jambu",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132018,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Kedai Damar",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132011,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Kuta Baru",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132004,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Mariah Padang",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132002,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Naga Kesiangan",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132008,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Paya Bagas",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132006,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Paya Lombang",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132009,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Paya Mabar",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132019,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Penonggol",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132005,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Pertapaan",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Sei Priok (Sungai Periok)",
+    "postal_code": "20999"
+  },
+  {
+    "id": 1218132007,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121813,
+    "value": "Sei Serimah",
+    "postal_code": "20999"
+  }
+]

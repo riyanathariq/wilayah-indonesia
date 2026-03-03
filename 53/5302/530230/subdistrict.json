@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5302302003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Binaus",
+    "postal_code": "85543"
+  },
+  {
+    "id": 5302302005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Kualeu",
+    "postal_code": "85543"
+  },
+  {
+    "id": 5302302002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Nekemunifeto (Neke Manifeto)",
+    "postal_code": "85543"
+  },
+  {
+    "id": 5302302004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Oel'ekam",
+    "postal_code": "85543"
+  },
+  {
+    "id": 5302302001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Oelbubuk",
+    "postal_code": "85543"
+  },
+  {
+    "id": 5302302006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530230,
+    "value": "Pika",
+    "postal_code": "85543"
+  }
+]

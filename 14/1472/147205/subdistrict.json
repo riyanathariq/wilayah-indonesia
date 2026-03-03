@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1472051003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147205,
+    "value": "Guntung",
+    "postal_code": "28825"
+  },
+  {
+    "id": 1472051002,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147205,
+    "value": "Mundam",
+    "postal_code": "28825"
+  },
+  {
+    "id": 1472051004,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147205,
+    "value": "Pelintung",
+    "postal_code": "28825"
+  },
+  {
+    "id": 1472051001,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147205,
+    "value": "Teluk Makmur",
+    "postal_code": "28825"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6472011005,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647201,
+    "value": "Bantuas",
+    "postal_code": "75253"
+  },
+  {
+    "id": 6472011003,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647201,
+    "value": "Bukuan",
+    "postal_code": "75241"
+  },
+  {
+    "id": 6472011002,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647201,
+    "value": "Handil Bakti",
+    "postal_code": "75242"
+  },
+  {
+    "id": 6472011001,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647201,
+    "value": "Rawa Makmur",
+    "postal_code": "75243"
+  },
+  {
+    "id": 6472011004,
+    "province_id": 64,
+    "regency_id": 6472,
+    "district_id": 647201,
+    "value": "Simpang Pasir",
+    "postal_code": "75243"
+  }
+]

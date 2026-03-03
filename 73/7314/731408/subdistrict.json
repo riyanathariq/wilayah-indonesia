@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7314082007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Aka-Akae",
+    "postal_code": "91613"
+  },
+  {
+    "id": 7314082005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Damai",
+    "postal_code": "91616"
+  },
+  {
+    "id": 7314081001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Empagae",
+    "postal_code": "91613"
+  },
+  {
+    "id": 7314081003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Kanyuara",
+    "postal_code": "91613"
+  },
+  {
+    "id": 7314082004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Mojong",
+    "postal_code": "91614"
+  },
+  {
+    "id": 7314081002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Sidenreng (Watang Sidenreng)",
+    "postal_code": "91682"
+  },
+  {
+    "id": 7314082008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Talawe",
+    "postal_code": "91613"
+  },
+  {
+    "id": 7314082006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731408,
+    "value": "Talumae",
+    "postal_code": "91613"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5308191003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530819,
+    "value": "Kelimutu",
+    "postal_code": "86319"
+  },
+  {
+    "id": 5308191002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530819,
+    "value": "Onekore",
+    "postal_code": "86318"
+  },
+  {
+    "id": 5308191004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530819,
+    "value": "Paupire",
+    "postal_code": "86318"
+  },
+  {
+    "id": 5308191001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530819,
+    "value": "Potulando",
+    "postal_code": "86312"
+  }
+]

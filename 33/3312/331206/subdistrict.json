@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3312061008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Beji",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Bulurejo",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Bumiharjo",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Gebang",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312061004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Kedungrejo",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Kulurejo",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062011,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Ngadipiro",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Ngadiroyo",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Pondoksari",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Semin",
+    "postal_code": "57671"
+  },
+  {
+    "id": 3312062001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331206,
+    "value": "Wonoharjo",
+    "postal_code": "57671"
+  }
+]

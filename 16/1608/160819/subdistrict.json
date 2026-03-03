@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1608192012,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Mulya Sari",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192005,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Petanggan",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192006,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Purwodadi",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192004,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Rejo Sari (Rejosari)",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sari Guna",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192002,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sido Waluyo (Sidowaluyo)",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192007,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sri Mulyo",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192009,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sribudaya (Sri Budaya)",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192003,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sugih Waras",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192010,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Sukoharjo",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192011,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Tulung Sari",
+    "postal_code": "32388"
+  },
+  {
+    "id": 1608192008,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160819,
+    "value": "Ulak Buntar",
+    "postal_code": "32388"
+  }
+]

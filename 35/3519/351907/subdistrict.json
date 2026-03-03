@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3519072008,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Bantengan",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072005,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Brumbun",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072004,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Karangrejo",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072006,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Kresek",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072002,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Mojopurno",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072007,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Mojorayung",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519071003,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Munggut",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072013,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Nglambangan",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072012,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Nglanduk",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072010,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Pilangrejo",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072001,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Sidorejo",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072014,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Sobrah",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519072011,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Tempursari",
+    "postal_code": "63181"
+  },
+  {
+    "id": 3519071009,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351907,
+    "value": "Wungu",
+    "postal_code": "63181"
+  }
+]

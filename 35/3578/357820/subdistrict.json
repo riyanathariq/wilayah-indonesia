@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578201003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357820,
+    "value": "Babatan",
+    "postal_code": "60227"
+  },
+  {
+    "id": 3578201004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357820,
+    "value": "Balas Klumprik",
+    "postal_code": "60222"
+  },
+  {
+    "id": 3578201002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357820,
+    "value": "Jajar Tunggal (Jajartunggal)",
+    "postal_code": "60229"
+  },
+  {
+    "id": 3578201001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357820,
+    "value": "Wiyung",
+    "postal_code": "60228"
+  }
+]

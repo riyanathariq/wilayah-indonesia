@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2101042001,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210104,
+    "value": "Gunung Kijang",
+    "postal_code": "29155"
+  },
+  {
+    "id": 2101041005,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210104,
+    "value": "Kawal",
+    "postal_code": "29155"
+  },
+  {
+    "id": 2101042002,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210104,
+    "value": "Malang Rapat",
+    "postal_code": "29155"
+  },
+  {
+    "id": 2101042003,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210104,
+    "value": "Teluk Bakau",
+    "postal_code": "29155"
+  }
+]

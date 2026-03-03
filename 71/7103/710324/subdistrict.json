@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7103241008,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Batulewehe",
+    "postal_code": "95814"
+  },
+  {
+    "id": 7103241007,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Dumuhung",
+    "postal_code": "95816"
+  },
+  {
+    "id": 7103241002,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Enengpahembang",
+    "postal_code": "95815"
+  },
+  {
+    "id": 7103241001,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Lesa",
+    "postal_code": "95812"
+  },
+  {
+    "id": 7103241003,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Tapuang",
+    "postal_code": "95815"
+  },
+  {
+    "id": 7103241004,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Tidore",
+    "postal_code": "95814"
+  },
+  {
+    "id": 7103241005,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Tona I",
+    "postal_code": "95815"
+  },
+  {
+    "id": 7103241006,
+    "province_id": 71,
+    "regency_id": 7103,
+    "district_id": 710324,
+    "value": "Tona II",
+    "postal_code": "95815"
+  }
+]

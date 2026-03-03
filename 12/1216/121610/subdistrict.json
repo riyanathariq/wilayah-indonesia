@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1216102007,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Marpadan",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102008,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Mungkur",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102003,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Sibongkare",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102009,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Sibongkare Sianju",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102005,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Sihombu",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102002,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Sihotang Hasugian Toruan",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102006,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Simbara",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102004,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Sitanduk",
+    "postal_code": "22451"
+  },
+  {
+    "id": 1216102001,
+    "province_id": 12,
+    "regency_id": 1216,
+    "district_id": 121610,
+    "value": "Tarabintang (Tara Bintang)",
+    "postal_code": "22451"
+  }
+]

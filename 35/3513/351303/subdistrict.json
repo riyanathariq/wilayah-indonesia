@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3513032002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Jatisari",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Karangrejo",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Kedawung",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Menyono",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Resongo",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Wonoasri",
+    "postal_code": "67262"
+  },
+  {
+    "id": 3513032007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351303,
+    "value": "Wringinanom (Wringin Anom)",
+    "postal_code": "67262"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3272011001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327201,
+    "value": "Gunung Puyuh",
+    "postal_code": "43123"
+  },
+  {
+    "id": 3272011002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327201,
+    "value": "Karamat",
+    "postal_code": "43122"
+  },
+  {
+    "id": 3272011004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327201,
+    "value": "Karang Tengah (Karangtengah)",
+    "postal_code": "43121"
+  },
+  {
+    "id": 3272011003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327201,
+    "value": "Sriwidari (Sriwedari)",
+    "postal_code": "43121"
+  }
+]

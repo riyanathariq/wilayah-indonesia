@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9302082004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930208,
+    "value": "Autriop",
+    "postal_code": "99661"
+  },
+  {
+    "id": 9302082001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930208,
+    "value": "Langgoan",
+    "postal_code": "99661"
+  },
+  {
+    "id": 9302082005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930208,
+    "value": "Ogenatan (Ogenetan / Ogenathan)",
+    "postal_code": "99661"
+  },
+  {
+    "id": 9302082002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930208,
+    "value": "Tetop",
+    "postal_code": "99661"
+  },
+  {
+    "id": 9302082003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930208,
+    "value": "Wariktop (Wariktoop)",
+    "postal_code": "99661"
+  }
+]

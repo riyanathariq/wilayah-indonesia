@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1217072002,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Lintong Nihuta (Lintongnihuta)",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072007,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Paraduan",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072005,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Ronggur Nihuta",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072006,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Sabungan Nihuta",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072004,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Salaon Dolok",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072001,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Salaon Toba",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072003,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Salaon Tonga Tonga",
+    "postal_code": "22392"
+  },
+  {
+    "id": 1217072008,
+    "province_id": 12,
+    "regency_id": 1217,
+    "district_id": 121707,
+    "value": "Sijambur",
+    "postal_code": "22392"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1404032009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Perigi Raja",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404031007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Sapat",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Sungaibela (Sungai Bela)",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Sungaibuluh (Sungai Buluh)",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Sungaipiyai (Sungai Piyai)",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Tanjunglajau (Tanjung Lajau)",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Tanjungmelayu (Tanjung Melayu)",
+    "postal_code": "29280"
+  },
+  {
+    "id": 1404032006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140403,
+    "value": "Telukdalam (Teluk Dalam)",
+    "postal_code": "29280"
+  }
+]

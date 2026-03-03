@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7503072004,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Buata",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072003,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Luwohu",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072007,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Panggula Barat (Panggulo Barat)",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072002,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Panggulo",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072009,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Sukma",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072006,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Tanah Putih",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072001,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Timbuolo",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072008,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Timbuolo Tengah",
+    "postal_code": "96551"
+  },
+  {
+    "id": 7503072005,
+    "province_id": 75,
+    "regency_id": 7503,
+    "district_id": 750307,
+    "value": "Timbuolo Timur",
+    "postal_code": "96551"
+  }
+]

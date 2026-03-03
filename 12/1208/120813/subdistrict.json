@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1208132008,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Bandar Dolok",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132002,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Dolok Parmonangan",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132003,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Dolok Tomuan",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132009,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Gunung Mariah",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132014,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Lumban Gorat",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132004,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Marihat Dolok",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132011,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Marihat Marsada",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132013,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Marihat Pondok",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132007,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Marihat Raja",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132001,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Negeri Dolok",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132015,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Palianopat",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132012,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Pondok Buluh",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132010,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Siatasan",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132005,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Tiga Dolok",
+    "postal_code": "21173"
+  },
+  {
+    "id": 1208132006,
+    "province_id": 12,
+    "regency_id": 1208,
+    "district_id": 120813,
+    "value": "Ujung Bondar",
+    "postal_code": "21173"
+  }
+]

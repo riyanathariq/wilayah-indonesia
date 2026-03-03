@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1509092005,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Lubuk Mandarsah (Lubuk Mandarasah)",
+    "postal_code": "37574"
+  },
+  {
+    "id": 1509092006,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Lubuk Mandrasah Ulu",
+    "postal_code": "37574"
+  },
+  {
+    "id": 1509092003,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Mengupeh",
+    "postal_code": "37574"
+  },
+  {
+    "id": 1509092001,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Muara Kilis",
+    "postal_code": "37574"
+  },
+  {
+    "id": 1509092002,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Penapalan",
+    "postal_code": "37574"
+  },
+  {
+    "id": 1509092004,
+    "province_id": 15,
+    "regency_id": 1509,
+    "district_id": 150909,
+    "value": "Rantau Api",
+    "postal_code": "37574"
+  }
+]

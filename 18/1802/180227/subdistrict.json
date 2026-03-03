@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1802272004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Bandar Putih Tua",
+    "postal_code": "35513"
+  },
+  {
+    "id": 1802272003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Gedung Ratu",
+    "postal_code": "35513"
+  },
+  {
+    "id": 1802272001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Gedung Sari",
+    "postal_code": "35513"
+  },
+  {
+    "id": 1802272005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Karang Jawa",
+    "postal_code": "35513"
+  },
+  {
+    "id": 1802272002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Srimulyo (Sri Mulyo)",
+    "postal_code": "35513"
+  },
+  {
+    "id": 1802272006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180227,
+    "value": "Sukajaya",
+    "postal_code": "35513"
+  }
+]

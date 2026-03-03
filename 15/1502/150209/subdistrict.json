@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1502092015,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Durian Mukut",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092004,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Koto Rami",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092012,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Muara Kelukup",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092013,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Muara Lengayo",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092009,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Muaro Pangi (Muara Pangi)",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092001,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Nilo Dingin",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092006,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Pasar Masurai",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092005,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Rancan",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092007,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Rantau Jering",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092010,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Sungai Lalang",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092011,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Talang Asal",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092014,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Talang Paruh",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092002,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Tanjung Berugo",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092008,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Tanjung Dalam",
+    "postal_code": "37373"
+  },
+  {
+    "id": 1502092003,
+    "province_id": 15,
+    "regency_id": 1502,
+    "district_id": 150209,
+    "value": "Tuo (Dusun Tuo)",
+    "postal_code": "37373"
+  }
+]

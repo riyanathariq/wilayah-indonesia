@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7104112006,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Balang",
+    "postal_code": "95871"
+  },
+  {
+    "id": 7104112001,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Bitunuris",
+    "postal_code": "95871"
+  },
+  {
+    "id": 7104112002,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Bitunuris Selatan",
+    "postal_code": "95871"
+  },
+  {
+    "id": 7104112005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Dalum",
+    "postal_code": "95871"
+  },
+  {
+    "id": 7104112003,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Salibabu",
+    "postal_code": "95871"
+  },
+  {
+    "id": 7104112004,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710411,
+    "value": "Salibabu Utara",
+    "postal_code": "95871"
+  }
+]

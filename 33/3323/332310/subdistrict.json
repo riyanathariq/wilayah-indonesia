@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3323102007,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Barang",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102013,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Gedongsari",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102004,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Giyono",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102005,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Gununggempol (Gunung Gempol)",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102002,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Jamusan",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102008,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Jombor",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102001,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Jumo",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102011,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Karangtejo",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102003,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Kertosari",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102009,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Ketitang",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102010,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Morobongo",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102006,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Padureso",
+    "postal_code": "56256"
+  },
+  {
+    "id": 3323102012,
+    "province_id": 33,
+    "regency_id": 3323,
+    "district_id": 332310,
+    "value": "Sukomarto",
+    "postal_code": "56256"
+  }
+]

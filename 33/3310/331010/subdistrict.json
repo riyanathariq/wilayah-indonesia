@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3310102002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Banyuaeng",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102009,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Blimbing",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102008,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Demakijo",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102011,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Gemampir",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Gumul",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Jagalan",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Jetis",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102012,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Jiwan",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Kadilajo",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102010,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Kanoman",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Karangnongko (Karang Nongko)",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102013,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Logede",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102014,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Ngemplak",
+    "postal_code": "57483"
+  },
+  {
+    "id": 3310102004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331010,
+    "value": "Somokaton",
+    "postal_code": "57483"
+  }
+]

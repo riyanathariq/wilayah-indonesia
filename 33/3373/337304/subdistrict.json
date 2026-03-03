@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3373041002,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337304,
+    "value": "Dukuh",
+    "postal_code": "50722"
+  },
+  {
+    "id": 3373041004,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337304,
+    "value": "Kalicacing",
+    "postal_code": "50724"
+  },
+  {
+    "id": 3373041001,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337304,
+    "value": "Kecandran",
+    "postal_code": "50723"
+  },
+  {
+    "id": 3373041003,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337304,
+    "value": "Mangunsari",
+    "postal_code": "50721"
+  }
+]

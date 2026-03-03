@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6106122005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Labian",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122010,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Labian Ira'ang",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Lanjak Deras",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Melemba",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Mensiau",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Sei/Sungai Abau",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Sei/Sungai Ajung",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Sepandan",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Setulang",
+    "postal_code": "78766"
+  },
+  {
+    "id": 6106122009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610612,
+    "value": "Sungai Senunuk",
+    "postal_code": "78766"
+  }
+]

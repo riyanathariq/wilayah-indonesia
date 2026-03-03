@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3215062005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Amansari",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Dewisari",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Dukuhkarya",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Kalangsari",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Kalangsurya (Kalangsuria)",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Karyasari",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Kertasari",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Rengasdengklok Selatan",
+    "postal_code": "41352"
+  },
+  {
+    "id": 3215062002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321506,
+    "value": "Rengasdengklok Utara",
+    "postal_code": "41352"
+  }
+]

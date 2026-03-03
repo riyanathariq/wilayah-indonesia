@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3509122004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Ambulu",
+    "postal_code": "68172"
+  },
+  {
+    "id": 3509122006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Andongsari",
+    "postal_code": "68172"
+  },
+  {
+    "id": 3509122005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Karanganyar (Karang Anyar)",
+    "postal_code": "68132"
+  },
+  {
+    "id": 3509122007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Pontang",
+    "postal_code": "68172"
+  },
+  {
+    "id": 3509122002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Sabrang",
+    "postal_code": "68172"
+  },
+  {
+    "id": 3509122003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Sumberejo (Sumberrejo)",
+    "postal_code": "68172"
+  },
+  {
+    "id": 3509122001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350912,
+    "value": "Tegalsari",
+    "postal_code": "68172"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9302032014,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Ikcan",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032005,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Inggembit (Enggembit)",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032004,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Jetetkun / Yetetkun",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032003,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Kanggewot",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032013,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Upkim",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032006,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Wametkapa",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032002,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Winiktit",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032009,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Wombon",
+    "postal_code": "99684"
+  },
+  {
+    "id": 9302032001,
+    "province_id": 93,
+    "regency_id": 9302,
+    "district_id": 930203,
+    "value": "Woropko (Waropko)",
+    "postal_code": "99684"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1705091006,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Bunga Mas",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705092003,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Kota Agung",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705092002,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Kunduran",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705092008,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Rawa Sari (Rawasari)",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705091004,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Selebar",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705091005,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Sembayat",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705092001,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Talang Sali",
+    "postal_code": "38885"
+  },
+  {
+    "id": 1705092007,
+    "province_id": 17,
+    "regency_id": 1705,
+    "district_id": 170509,
+    "value": "Tenangan",
+    "postal_code": "38885"
+  }
+]

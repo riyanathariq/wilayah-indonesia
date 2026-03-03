@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1704112007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Bukit Makmur",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Cinta Makmur",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Muara Sahung",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Sumber Makmur",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Tri Tunggal Bakti (Tri Tunggal Bhakti)",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Ulak Bandung",
+    "postal_code": "38966"
+  },
+  {
+    "id": 1704112003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170411,
+    "value": "Ulak Lebar",
+    "postal_code": "38966"
+  }
+]

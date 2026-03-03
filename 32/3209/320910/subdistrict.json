@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3209102011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Astanajapura",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Buntet",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102014,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Japura Bakti (Japurabakti)",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102013,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Japura Kidul",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Kanci",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Kanci Kulon",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Kendal",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Mertapada Kulon",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Mertapada Wetan",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Munjul",
+    "postal_code": "45181"
+  },
+  {
+    "id": 3209102005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320910,
+    "value": "Sidamulya",
+    "postal_code": "45181"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1906032008,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190603,
+    "value": "Balok",
+    "postal_code": "33561"
+  },
+  {
+    "id": 1906032001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190603,
+    "value": "Dendang",
+    "postal_code": "33561"
+  },
+  {
+    "id": 1906032002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190603,
+    "value": "Jangkang",
+    "postal_code": "33561"
+  },
+  {
+    "id": 1906032005,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190603,
+    "value": "Nyuruk",
+    "postal_code": "33561"
+  }
+]

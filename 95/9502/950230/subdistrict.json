@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9502302006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Bris",
+    "postal_code": "99402"
+  },
+  {
+    "id": 9502302001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Jetfa",
+    "postal_code": "99402"
+  },
+  {
+    "id": 9502302005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Kalimbu",
+    "postal_code": "99402"
+  },
+  {
+    "id": 9502302002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Lulis",
+    "postal_code": "99402"
+  },
+  {
+    "id": 9502302004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Tupalma Dua",
+    "postal_code": "99402"
+  },
+  {
+    "id": 9502302003,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950230,
+    "value": "Tupalma Satu",
+    "postal_code": "99402"
+  }
+]

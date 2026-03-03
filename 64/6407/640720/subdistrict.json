@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6407202008,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Leleng",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202007,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sekolaq Darat",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202001,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sekolaq Joleq",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202002,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sekolaq Muliaq",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202003,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sekolaq Oday",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202005,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sember Bangun",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202004,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Srimulyo",
+    "postal_code": "75764"
+  },
+  {
+    "id": 6407202006,
+    "province_id": 64,
+    "regency_id": 6407,
+    "district_id": 640720,
+    "value": "Sumber Rejo",
+    "postal_code": "75764"
+  }
+]

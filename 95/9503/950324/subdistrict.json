@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9503242005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Helapilik",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Hiklahin",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Huhulpunu",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Lirutek",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Piliam",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Pontempilik (Pontenpelek)",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Pronggoli",
+    "postal_code": "99760"
+  },
+  {
+    "id": 9503242001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950324,
+    "value": "Siwikma",
+    "postal_code": "99760"
+  }
+]

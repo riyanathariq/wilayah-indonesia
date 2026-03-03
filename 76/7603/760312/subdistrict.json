@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7603122001,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Balla",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Balla Barat",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Balla Satanetean",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Balla Timur",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Balla Tumuka",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Bambapuang",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Pidara",
+    "postal_code": "91366"
+  },
+  {
+    "id": 7603122005,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760312,
+    "value": "Sepakuan",
+    "postal_code": "91366"
+  }
+]

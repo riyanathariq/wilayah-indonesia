@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3320052009,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Bantrung",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052007,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Batealit",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052004,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Bawu",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052008,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Bringin",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052001,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Geneng",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052005,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Mindahan",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052011,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Mindahan Kidul",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052003,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Ngasem",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052010,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Pekalongan",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052002,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Raguklampitan",
+    "postal_code": "59461"
+  },
+  {
+    "id": 3320052006,
+    "province_id": 33,
+    "regency_id": 3320,
+    "district_id": 332005,
+    "value": "Somosari",
+    "postal_code": "59461"
+  }
+]

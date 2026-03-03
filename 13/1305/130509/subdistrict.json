@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1305092005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130509,
+    "value": "Balai Baiak Malai III Koto",
+    "postal_code": "25564"
+  },
+  {
+    "id": 1305092001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130509,
+    "value": "III Koto Aur Malintang",
+    "postal_code": "25564"
+  },
+  {
+    "id": 1305092004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130509,
+    "value": "III Koto Aur Malintang Selatan",
+    "postal_code": "25564"
+  },
+  {
+    "id": 1305092003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130509,
+    "value": "III Koto Aur Malintang Timur",
+    "postal_code": "25564"
+  },
+  {
+    "id": 1305092002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130509,
+    "value": "III Koto Aur Malintang Utara",
+    "postal_code": "25564"
+  }
+]

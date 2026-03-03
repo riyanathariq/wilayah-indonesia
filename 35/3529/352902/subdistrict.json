@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3529022006,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Kalianget Barat",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022007,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Kalianget Timur",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022005,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Kalimook (Kalimo'ok)",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022002,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Karanganyar (Karang Anyar)",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022004,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Kertasada",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022003,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Marengan Laok",
+    "postal_code": "69471"
+  },
+  {
+    "id": 3529022001,
+    "province_id": 35,
+    "regency_id": 3529,
+    "district_id": 352902,
+    "value": "Pinggirpapas",
+    "postal_code": "69471"
+  }
+]

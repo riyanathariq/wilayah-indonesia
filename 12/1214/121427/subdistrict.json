@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1214272002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Balohili Gomo",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Bohalu",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Lewa-Lewa",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Orsedes",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Perjuangan",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Sifalago Gomo",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Siholi",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Sinar Helaowo",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Siraha (Sirahia)",
+    "postal_code": "22873"
+  },
+  {
+    "id": 1214272007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121427,
+    "value": "Tuhegafoa",
+    "postal_code": "22873"
+  }
+]

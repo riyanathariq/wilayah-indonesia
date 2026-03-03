@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6402201005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Amborawang Darat (Ambarawang Darat)",
+    "postal_code": "75274"
+  },
+  {
+    "id": 6402201009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Amborawang Laut (Ambarawang Laut)",
+    "postal_code": "75274"
+  },
+  {
+    "id": 6402201006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Argo Sari (Argosari)",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402201001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Bukit Merdeka",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402201003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Karya Merdeka",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402201010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Margomulyo",
+    "postal_code": "75273"
+  },
+  {
+    "id": 6402201007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Salok Api Darat",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402201008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Salok Api Laut",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402201002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Sungai Merdeka",
+    "postal_code": "75271"
+  },
+  {
+    "id": 6402202004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640220,
+    "value": "Tani Bhakti (Tani Bakti)",
+    "postal_code": "75271"
+  }
+]

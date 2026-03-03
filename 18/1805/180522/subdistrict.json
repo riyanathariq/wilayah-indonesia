@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1805222005,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Andalas Cermin",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222002,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Batang Hari",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222008,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Bumi Sari",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222007,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Gedung Jaya",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222009,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Mulyo Dadi",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222003,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Panggung Mulya (Panggung Mulyo)",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222006,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Rawa Ragil",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222001,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Sumber Agung",
+    "postal_code": "34594"
+  },
+  {
+    "id": 1805222004,
+    "province_id": 18,
+    "regency_id": 1805,
+    "district_id": 180522,
+    "value": "Yoso Mulyo (Duto Yoso Mulyo)",
+    "postal_code": "34594"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1605102016,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Babat",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102021,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Kosgoro",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102015,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Paduraksa",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102018,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Pasenan",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102011,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sri Mulyo",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Suka Karya (Sukakarya)",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102020,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sukamana",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102014,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sukamerindu",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102019,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sukaraya",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102022,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sukaraya Baru",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Suko Rejo (Sukarejo)",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605102001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Sumber Karya",
+    "postal_code": "30771"
+  },
+  {
+    "id": 1605101017,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160510,
+    "value": "Terawas",
+    "postal_code": "30771"
+  }
+]

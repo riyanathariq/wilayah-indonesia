@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7310032015,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattaro Adae",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310031016,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Bintang",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032013,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Bone",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Deceng",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032011,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Dolangeng",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Langi",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032009,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Matae",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310031001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Sompe",
+    "postal_code": "90671"
+  },
+  {
+    "id": 7310032010,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731003,
+    "value": "Mattiro Ujung",
+    "postal_code": "90671"
+  }
+]

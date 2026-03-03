@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5316072003,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Langedhawe",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072001,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Rendubutowe (Rendu Butowe)",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072007,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Rendut Tutubhada",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072004,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Renduteno (Rendutenoe)",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072005,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Renduwawo",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072002,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Tengatiba",
+    "postal_code": "86470"
+  },
+  {
+    "id": 5316072006,
+    "province_id": 53,
+    "regency_id": 5316,
+    "district_id": 531607,
+    "value": "Wajomara",
+    "postal_code": "86470"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3201332007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Babakan",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Cibentang",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Cibeuteung Muara",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Cibeuteung Udik",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Cihoe (Cihowe)",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Ciseeng",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Karihkil",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Kuripan",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Parigi Mekar",
+    "postal_code": "16120"
+  },
+  {
+    "id": 3201332001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320133,
+    "value": "Putat Nutug",
+    "postal_code": "16120"
+  }
+]

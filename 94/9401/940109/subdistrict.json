@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9401092005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940109,
+    "value": "Air Mandidi",
+    "postal_code": "98831"
+  },
+  {
+    "id": 9401092003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940109,
+    "value": "Kimi",
+    "postal_code": "98832"
+  },
+  {
+    "id": 9401092004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940109,
+    "value": "Lani",
+    "postal_code": "98833"
+  },
+  {
+    "id": 9401092001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940109,
+    "value": "Samabusa",
+    "postal_code": "98834"
+  },
+  {
+    "id": 9401092002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940109,
+    "value": "Waharia",
+    "postal_code": "98835"
+  }
+]

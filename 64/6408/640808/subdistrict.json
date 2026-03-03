@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6408082006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Kombeng Indah (Kongbeng Indah)",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Makmur Jaya",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Marga Mulya (Marga Mulia)",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082007,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Miau Baru",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Sidomulyo",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Sri Pantun",
+    "postal_code": "75555"
+  },
+  {
+    "id": 6408082003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640808,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "75555"
+  }
+]

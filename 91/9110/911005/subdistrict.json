@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9110052006,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Anus",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052004,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Armopa",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052010,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Bebon Jaya",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052007,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Kiren",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052017,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Krim Podena",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052008,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Maweswares (Mawesres)",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052015,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Rimsersari (Rimser Sari)",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052018,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Rotea",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052005,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Tarontha Srum (Taronta Srum)",
+    "postal_code": "99381"
+  },
+  {
+    "id": 9110052011,
+    "province_id": 91,
+    "regency_id": 9110,
+    "district_id": 911005,
+    "value": "Tetom",
+    "postal_code": "99381"
+  }
+]

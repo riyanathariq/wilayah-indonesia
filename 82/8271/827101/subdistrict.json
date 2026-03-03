@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8271011005,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Afe Taduma",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271011019,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Dorpedu",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271011002,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Foramadiahi",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271011001,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Jambula",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271011003,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Kastela",
+    "postal_code": "97747"
+  },
+  {
+    "id": 8271011004,
+    "province_id": 82,
+    "regency_id": 8271,
+    "district_id": 827101,
+    "value": "Rua",
+    "postal_code": "97747"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9501092006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Asolokobal",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092012,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Asotapo",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092015,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Helaluwa",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092011,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Hesatom",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092016,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Mulinekama",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092014,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Ninabua",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Sinata",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092013,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Wiaima",
+    "postal_code": "99501"
+  },
+  {
+    "id": 9501092037,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950109,
+    "value": "Yapema",
+    "postal_code": "99501"
+  }
+]

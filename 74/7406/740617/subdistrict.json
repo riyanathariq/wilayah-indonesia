@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406172002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740617,
+    "value": "Batu Lamburi",
+    "postal_code": "93778"
+  },
+  {
+    "id": 7406172001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740617,
+    "value": "Masaloka",
+    "postal_code": "93778"
+  },
+  {
+    "id": 7406172005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740617,
+    "value": "Masaloka Barat (Tengah)",
+    "postal_code": "93778"
+  },
+  {
+    "id": 7406172003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740617,
+    "value": "Masaloka Selatan",
+    "postal_code": "93778"
+  },
+  {
+    "id": 7406172004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740617,
+    "value": "Masaloka Timur",
+    "postal_code": "93778"
+  }
+]

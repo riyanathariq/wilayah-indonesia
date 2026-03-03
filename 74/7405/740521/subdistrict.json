@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7405212007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Basala",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Epeesi",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Iwoimendoro (Iwoi Mendoro)",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Lambandia",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Lere",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Lipumasagena (Lipu Masagena)",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Polo-Pololi",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Tambekuku (Tombekuku)",
+    "postal_code": "93876"
+  },
+  {
+    "id": 7405212009,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740521,
+    "value": "Teporombua",
+    "postal_code": "93876"
+  }
+]

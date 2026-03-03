@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3278051006,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Cibeuti",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051002,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Cilamajang",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051010,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Gunung Gede (Gununggede)",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051003,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Gunung Tandala (Gunungtandala)",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051007,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Karanganyar",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051001,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Kersamenak (Karsamenak)",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051009,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Leuwiliang",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051008,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Talagasari",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051005,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Tanjung",
+    "postal_code": "46182"
+  },
+  {
+    "id": 3278051004,
+    "province_id": 32,
+    "regency_id": 3278,
+    "district_id": 327805,
+    "value": "Urug",
+    "postal_code": "46182"
+  }
+]

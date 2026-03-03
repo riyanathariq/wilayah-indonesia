@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9111102007,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Akarinda",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102003,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Amgotro",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102006,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Fafenumbu",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102004,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Jifanggry",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102005,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Monggoafi",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102001,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Yabanda",
+    "postal_code": "99463"
+  },
+  {
+    "id": 9111102002,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911110,
+    "value": "Yuruf",
+    "postal_code": "99463"
+  }
+]

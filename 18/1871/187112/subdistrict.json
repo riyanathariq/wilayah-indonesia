@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1871121009,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Campang Jaya",
+    "postal_code": "35122"
+  },
+  {
+    "id": 1871121007,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Campang Raya",
+    "postal_code": "35122"
+  },
+  {
+    "id": 1871121008,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Nusantara Permai",
+    "postal_code": "35122"
+  },
+  {
+    "id": 1871121002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Sukabumi",
+    "postal_code": "35134"
+  },
+  {
+    "id": 1871121004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Sukabumi Indah",
+    "postal_code": "35132"
+  },
+  {
+    "id": 1871121010,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Way Gubak",
+    "postal_code": "35244"
+  },
+  {
+    "id": 1871121011,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187112,
+    "value": "Way Laga",
+    "postal_code": "35245"
+  }
+]

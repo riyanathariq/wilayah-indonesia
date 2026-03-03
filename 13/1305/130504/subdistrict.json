@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1305042003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130504,
+    "value": "Lubuk Pandan",
+    "postal_code": "25584"
+  },
+  {
+    "id": 1305042002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130504,
+    "value": "Sicincin",
+    "postal_code": "25584"
+  },
+  {
+    "id": 1305042004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130504,
+    "value": "Sungai Asam",
+    "postal_code": "25584"
+  }
+]

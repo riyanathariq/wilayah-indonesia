@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1201062010,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Hodopa Nauli (Hudopa Nauli)",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Hurlang Muara Nauli",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201061007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Kolang Nauli",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062011,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Makarti Nauli",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062014,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Pargaringan",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201061006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Pasar Onan Hurlang",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062012,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Rawa Makmur",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Satahi Nauli",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062013,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Simarpinggang",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062009,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Sipakpahi Aek Lobu",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Unte Mungkur I",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Unte Mungkur II",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Unte Mungkur III",
+    "postal_code": "22562"
+  },
+  {
+    "id": 1201062001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120106,
+    "value": "Unte Mungkur IV",
+    "postal_code": "22562"
+  }
+]

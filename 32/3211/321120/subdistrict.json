@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3211202012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Awilega",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Banyuasih",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Baros (Boros)",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Cigentur",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Cipanas",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Gunturmekar",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Kertaharja",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Kertamekar",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Mulyamekar",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Sukamantri",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Tanjungmekar",
+    "postal_code": "45354"
+  },
+  {
+    "id": 3211202010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321120,
+    "value": "Tanjungmulya",
+    "postal_code": "45354"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3301172002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Brani",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Karangasem",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Karangjati",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Karangtengah",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Ketanggung",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Nusajati",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Paberasan",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Paketingan",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Sampang",
+    "postal_code": "53273"
+  },
+  {
+    "id": 3301172004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330117,
+    "value": "Sidasari",
+    "postal_code": "53273"
+  }
+]

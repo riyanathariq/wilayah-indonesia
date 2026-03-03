@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1213172001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Batu Mundom (Batu Mundam)",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Hutaimbaru",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Lubuk Kapundung",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Lubuk Kapundung II",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Manuncang",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Panunggulan",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Pasar Singkuang I",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Pasar Singkuang II",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Rantau Panjang",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Sali Baru (Sale Baru)",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Sikapas",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Suka Makmur",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Tabuyung",
+    "postal_code": "22989"
+  },
+  {
+    "id": 1213172011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121317,
+    "value": "Tagilang Julu",
+    "postal_code": "22989"
+  }
+]

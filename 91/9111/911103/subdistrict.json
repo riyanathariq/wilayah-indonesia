@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9111032001,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Molof",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032010,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Namla",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032002,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Senggi",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032005,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Usku",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032011,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Waley",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032003,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Warlef",
+    "postal_code": "99464"
+  },
+  {
+    "id": 9111032006,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911103,
+    "value": "Woslay",
+    "postal_code": "99464"
+  }
+]

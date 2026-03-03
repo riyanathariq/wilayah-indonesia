@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3210212008,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Balagedog",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212001,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Bantaragung (Bantar Agung)",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212006,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Buahkapas",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212004,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Jerukleueut",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212003,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Lengkong Kulon (Lengkongkulon)",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212010,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Lengkong Wetan (Lengkongwetan)",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212009,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Leuwilaja",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212002,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Padaherang",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212005,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Sindangwangi",
+    "postal_code": "45474"
+  },
+  {
+    "id": 3210212007,
+    "province_id": 32,
+    "regency_id": 3210,
+    "district_id": 321021,
+    "value": "Ujungberung",
+    "postal_code": "45474"
+  }
+]

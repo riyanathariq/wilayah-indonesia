@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6172051004,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617205,
+    "value": "Pangmilang",
+    "postal_code": "79163"
+  },
+  {
+    "id": 6172051002,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617205,
+    "value": "Sagatani",
+    "postal_code": "79163"
+  },
+  {
+    "id": 6172051001,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617205,
+    "value": "Sedau",
+    "postal_code": "79163"
+  },
+  {
+    "id": 6172051003,
+    "province_id": 61,
+    "regency_id": 6172,
+    "district_id": 617205,
+    "value": "Sijangkung",
+    "postal_code": "79163"
+  }
+]

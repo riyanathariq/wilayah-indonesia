@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3373031006,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Cebongan",
+    "postal_code": "50736"
+  },
+  {
+    "id": 3373031004,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Kumpulrejo",
+    "postal_code": "50734"
+  },
+  {
+    "id": 3373031002,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Ledok",
+    "postal_code": "50732"
+  },
+  {
+    "id": 3373031001,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Noborejo",
+    "postal_code": "50736"
+  },
+  {
+    "id": 3373031005,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Randuacir",
+    "postal_code": "50735"
+  },
+  {
+    "id": 3373031003,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337303,
+    "value": "Tegalrejo",
+    "postal_code": "50733"
+  }
+]

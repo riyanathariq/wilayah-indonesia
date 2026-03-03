@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1471031001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147103,
+    "value": "Cinta Raja",
+    "postal_code": "28131"
+  },
+  {
+    "id": 1471031002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147103,
+    "value": "Suka Mulia (Sukamulya)",
+    "postal_code": "28133"
+  },
+  {
+    "id": 1471031003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147103,
+    "value": "Sukamaju (Suka Maju)",
+    "postal_code": "28132"
+  }
+]

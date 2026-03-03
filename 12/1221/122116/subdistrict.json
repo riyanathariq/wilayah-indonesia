@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1221162003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Aek Siala",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Batusundung (Batu Sundung)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Bire",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Gading",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Huta Ruhom",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Paran Napa Dolok",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Paran Napa Jae",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Sibontar",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Sidongdong (Sidong-Dong)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221162010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122116,
+    "value": "Sisalean",
+    "postal_code": "22755"
+  }
+]

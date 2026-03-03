@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3674011006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Buaran",
+    "postal_code": "15310"
+  },
+  {
+    "id": 3674011001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Ciater",
+    "postal_code": "15310"
+  },
+  {
+    "id": 3674011008,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Cilenggang",
+    "postal_code": "15310"
+  },
+  {
+    "id": 3674011004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Lengkong Gudang",
+    "postal_code": "15321"
+  },
+  {
+    "id": 3674011007,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Lengkong Gudang Timur",
+    "postal_code": "15321"
+  },
+  {
+    "id": 3674011005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Lengkong Wetan",
+    "postal_code": "15322"
+  },
+  {
+    "id": 3674011003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Rawa Mekarjaya (Rawa Mekar Jaya)",
+    "postal_code": "15310"
+  },
+  {
+    "id": 3674011002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Rawabuntu (Rawa Buntu)",
+    "postal_code": "15318"
+  },
+  {
+    "id": 3674011009,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367401,
+    "value": "Serpong",
+    "postal_code": "15311"
+  }
+]

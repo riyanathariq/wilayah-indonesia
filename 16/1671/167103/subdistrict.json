@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1671031001,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "11 Ulu",
+    "postal_code": "30267"
+  },
+  {
+    "id": 1671031002,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "12 Ulu",
+    "postal_code": "30262"
+  },
+  {
+    "id": 1671031003,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "13 Ulu",
+    "postal_code": "30263"
+  },
+  {
+    "id": 1671031004,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "14 Ulu",
+    "postal_code": "30264"
+  },
+  {
+    "id": 1671031005,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "16 Ulu",
+    "postal_code": "30265"
+  },
+  {
+    "id": 1671031007,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "Sentosa",
+    "postal_code": "30261"
+  },
+  {
+    "id": 1671031006,
+    "province_id": 16,
+    "regency_id": 1671,
+    "district_id": 167103,
+    "value": "Tangga Takat",
+    "postal_code": "30264"
+  }
+]

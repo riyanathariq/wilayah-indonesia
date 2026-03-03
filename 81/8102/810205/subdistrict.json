@@ -1,0 +1,242 @@
+[
+  {
+    "id": 8102052021,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Banda Efruan",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052005,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Banda Eli/Ely",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052022,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Banda Suku Tigapuluh",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052030,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Fanwav",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052003,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Ohoimel",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052014,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Ohoimur GPM",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052015,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Ohoimur RK",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052016,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Ohoiwait",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052018,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Renrahantel",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052017,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Haar Wassar",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052011,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Hoko",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052001,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Hollat",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052010,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Hollat Solair",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052012,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Hollay",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052008,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Kilwair",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052004,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Langgiar Haar",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052024,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ohoifaruan",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052007,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ohoifau",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052020,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ohoimajang",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052002,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ohoiraut",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052025,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ohoiwirin",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052029,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Renfaan GPM",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052028,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Renfaan Islam",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052009,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Renfan (Renfaan)",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052013,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Soin",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052023,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Tuburlay",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052026,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Tuburngil",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052019,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Ur",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052006,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Watlaar (Watlar)",
+    "postal_code": "97635"
+  },
+  {
+    "id": 8102052027,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810205,
+    "value": "Yamtimur",
+    "postal_code": "97635"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3206052005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Cayur",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Cilumba",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Cogreg",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Gunungsari",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Lengkongbarang",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Linggalaksana",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Pakemitan",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Sindangasih",
+    "postal_code": "46193"
+  },
+  {
+    "id": 3206052008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320605,
+    "value": "Tanjungbarang",
+    "postal_code": "46193"
+  }
+]

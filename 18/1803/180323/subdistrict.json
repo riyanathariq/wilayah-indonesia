@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1803232002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Blambangan",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Buring Kencana",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Jagang",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Pagar",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Pagar Gading",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Tanjung Iman (Tanjungiman)",
+    "postal_code": "34586"
+  },
+  {
+    "id": 1803232005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180323,
+    "value": "Tulung Singkip",
+    "postal_code": "34586"
+  }
+]

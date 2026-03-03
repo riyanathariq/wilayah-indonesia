@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1906072004,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190607,
+    "value": "Dukong",
+    "postal_code": "33560"
+  },
+  {
+    "id": 1906072001,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190607,
+    "value": "Simpang Pesak",
+    "postal_code": "33560"
+  },
+  {
+    "id": 1906072002,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190607,
+    "value": "Tanjung Batu Itam",
+    "postal_code": "33560"
+  },
+  {
+    "id": 1906072003,
+    "province_id": 19,
+    "regency_id": 1906,
+    "district_id": 190607,
+    "value": "Tanjung Kelumpang",
+    "postal_code": "33560"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3508102001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Banjarwaru",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508102007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Blukon",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508102008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Boreng",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508101003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Citrodiwangsan",
+    "postal_code": "67312"
+  },
+  {
+    "id": 3508102006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Denok",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508101004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Ditotrunan",
+    "postal_code": "67313"
+  },
+  {
+    "id": 3508101005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Jogotrunan",
+    "postal_code": "67314"
+  },
+  {
+    "id": 3508101009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Jogoyudan",
+    "postal_code": "67315"
+  },
+  {
+    "id": 3508101012,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Kepuharjo",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508102002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Labruk Lor",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508101010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Rogotrunan",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508101011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350810,
+    "value": "Tompokersan",
+    "postal_code": "67311"
+  }
+]

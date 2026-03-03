@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5321112001,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Babulu",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112002,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Babulu Selatan",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112007,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Lakekun",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112008,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Lakekun Barat",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112006,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Lakekun Utara",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112005,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Litamali",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112004,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Rainawe",
+    "postal_code": "85766"
+  },
+  {
+    "id": 5321112003,
+    "province_id": 53,
+    "regency_id": 5321,
+    "district_id": 532111,
+    "value": "Sisi",
+    "postal_code": "85766"
+  }
+]

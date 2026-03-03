@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3272021001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Cikole",
+    "postal_code": "43113"
+  },
+  {
+    "id": 3272021005,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Cisarua",
+    "postal_code": "43115"
+  },
+  {
+    "id": 3272021003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Gunungparang (Gunung Parang)",
+    "postal_code": "43111"
+  },
+  {
+    "id": 3272021004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Kebonjati",
+    "postal_code": "43112"
+  },
+  {
+    "id": 3272021002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Selabatu",
+    "postal_code": "43114"
+  },
+  {
+    "id": 3272021006,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327202,
+    "value": "Subangjaya",
+    "postal_code": "43116"
+  }
+]

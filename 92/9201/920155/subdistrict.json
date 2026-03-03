@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9201552003,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Kladuk",
+    "postal_code": "98454"
+  },
+  {
+    "id": 9201552005,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Klakak",
+    "postal_code": "98454"
+  },
+  {
+    "id": 9201552006,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Klalwok",
+    "postal_code": "98454"
+  },
+  {
+    "id": 9201552002,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Klawana",
+    "postal_code": "98454"
+  },
+  {
+    "id": 9201552004,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Klawon",
+    "postal_code": "98454"
+  },
+  {
+    "id": 9201552001,
+    "province_id": 92,
+    "regency_id": 9201,
+    "district_id": 920155,
+    "value": "Sailala",
+    "postal_code": "98454"
+  }
+]

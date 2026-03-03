@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7471091005,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Abeli Dalam",
+    "postal_code": "93115"
+  },
+  {
+    "id": 7471091006,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Lalodati",
+    "postal_code": "93115"
+  },
+  {
+    "id": 7471091003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Punggolaka",
+    "postal_code": "93115"
+  },
+  {
+    "id": 7471091001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Puuwatu (Puwatu)",
+    "postal_code": "93114"
+  },
+  {
+    "id": 7471091004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Tobuuha",
+    "postal_code": "93115"
+  },
+  {
+    "id": 7471091002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747109,
+    "value": "Watulondo",
+    "postal_code": "93114"
+  }
+]

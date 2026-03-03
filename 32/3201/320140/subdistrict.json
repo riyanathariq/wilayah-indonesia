@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3201402003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Cibitung Tengah",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Cinangneng",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Gunung Malang (Gunungmalang)",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Gunung Mulya",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Situdaun",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Tapos I",
+    "postal_code": "16371"
+  },
+  {
+    "id": 3201402002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320140,
+    "value": "Tapos II",
+    "postal_code": "16371"
+  }
+]

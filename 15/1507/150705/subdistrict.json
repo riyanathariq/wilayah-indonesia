@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1507052002,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Air Hitam Laut (Air Hitam / Laut)",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052009,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Labuhan Pering",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052008,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Remau Baku Tuo",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052006,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungai Benuh",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052007,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungai Cemara",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052004,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungai Itik",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052003,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungai Jambat",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507052001,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungai Sayang",
+    "postal_code": "36773"
+  },
+  {
+    "id": 1507051005,
+    "province_id": 15,
+    "regency_id": 1507,
+    "district_id": 150705,
+    "value": "Sungailokan (Sungai Lokan)",
+    "postal_code": "36773"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1971011007,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Air Itam",
+    "postal_code": "33149"
+  },
+  {
+    "id": 1971011011,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Air Mawar",
+    "postal_code": "33147"
+  },
+  {
+    "id": 1971011006,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Bacang",
+    "postal_code": "33148"
+  },
+  {
+    "id": 1971011008,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Pasir Putih",
+    "postal_code": "33147"
+  },
+  {
+    "id": 1971011004,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Semabung Lama",
+    "postal_code": "33147"
+  },
+  {
+    "id": 1971011010,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Sinar Bulan",
+    "postal_code": "33147"
+  },
+  {
+    "id": 1971011009,
+    "province_id": 19,
+    "regency_id": 1971,
+    "district_id": 197101,
+    "value": "Temberan",
+    "postal_code": "33147"
+  }
+]

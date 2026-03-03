@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1903072001,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190307,
+    "value": "Batu Betumpang",
+    "postal_code": "33779"
+  },
+  {
+    "id": 1903072005,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190307,
+    "value": "Fajar Indah (Trans 1)",
+    "postal_code": "33779"
+  },
+  {
+    "id": 1903072003,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190307,
+    "value": "Panca Tunggal (Trans 3)",
+    "postal_code": "33779"
+  },
+  {
+    "id": 1903072002,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190307,
+    "value": "Sukajaya",
+    "postal_code": "33779"
+  },
+  {
+    "id": 1903072004,
+    "province_id": 19,
+    "regency_id": 1903,
+    "district_id": 190307,
+    "value": "Sumber Jaya Permai (Trans 4)",
+    "postal_code": "33779"
+  }
+]

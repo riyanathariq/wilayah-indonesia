@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5314042011,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Lidabesi",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042005,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Lidamanu",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042004,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Limakoli",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042001,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Maubesi",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042003,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Nggodimeda",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314041002,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Onatali",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042013,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Siomeda",
+    "postal_code": "85971"
+  },
+  {
+    "id": 5314042010,
+    "province_id": 53,
+    "regency_id": 5314,
+    "district_id": 531404,
+    "value": "Suebela",
+    "postal_code": "85971"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1401182003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Kampung Panjang (Air Tiris)",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Kayu Aro",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Muara Jalai",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182008,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Naga Beralih",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Sawah",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Sei/Sungai Jalau",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Sei/Sungai Tonang",
+    "postal_code": "28469"
+  },
+  {
+    "id": 1401182007,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140118,
+    "value": "Sendayan",
+    "postal_code": "28469"
+  }
+]

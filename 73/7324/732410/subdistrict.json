@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7324102005,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Argomulyo",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102001,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Kalaena Kiri",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102007,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Mekar Sari",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102004,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Non Blok",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102003,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Pertasi Kencana",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102002,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Sumber Agung",
+    "postal_code": "92973"
+  },
+  {
+    "id": 7324102006,
+    "province_id": 73,
+    "regency_id": 7324,
+    "district_id": 732410,
+    "value": "Sumber Makmur",
+    "postal_code": "92973"
+  }
+]

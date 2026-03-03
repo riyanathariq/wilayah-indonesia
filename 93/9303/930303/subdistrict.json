@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9303032015,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Abau",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032003,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Bidneu (Bidnew)",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032014,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Epem",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032005,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Kumasma",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032004,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Senggo",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032013,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Tamanin (Tamanim)",
+    "postal_code": "99875"
+  },
+  {
+    "id": 9303032012,
+    "province_id": 93,
+    "regency_id": 9303,
+    "district_id": 930303,
+    "value": "Womin",
+    "postal_code": "99875"
+  }
+]

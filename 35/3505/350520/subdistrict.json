@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3505202005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Mojorejo",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Purworejo",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Ringinrejo (Ringin Rejo)",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Sukorejo",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Sumberarum",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Tugurejo (Tugu Rejo)",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Tulungrejo",
+    "postal_code": "66194"
+  },
+  {
+    "id": 3505202007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350520,
+    "value": "Wates",
+    "postal_code": "66194"
+  }
+]

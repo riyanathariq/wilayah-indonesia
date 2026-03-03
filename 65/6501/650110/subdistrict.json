@@ -1,0 +1,26 @@
+[
+  {
+    "id": 6501102001,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650110,
+    "value": "Bunyu Barat (Pulau Bunyu Barat)",
+    "postal_code": "77281"
+  },
+  {
+    "id": 6501102002,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650110,
+    "value": "Bunyu Selatan (Pulau Bunyu Selatan)",
+    "postal_code": "77281"
+  },
+  {
+    "id": 6501102003,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650110,
+    "value": "Bunyu Timur (Pulau Bunyu Timur)",
+    "postal_code": "77281"
+  }
+]

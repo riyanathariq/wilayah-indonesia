@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6401102007,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Biu",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102003,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Libur Dinding",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102004,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Luan (Dilibinti)",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102009,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Muara Andeh",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102006,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Muser",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102002,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Rantau Atas",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102008,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Rantau Bintungan",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102005,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Suweto",
+    "postal_code": "76250"
+  },
+  {
+    "id": 6401102001,
+    "province_id": 64,
+    "regency_id": 6401,
+    "district_id": 640110,
+    "value": "Tanjung Pinang",
+    "postal_code": "76250"
+  }
+]

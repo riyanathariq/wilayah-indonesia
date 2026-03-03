@@ -1,0 +1,98 @@
+[
+  {
+    "id": 2104021010,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Daik",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104021020,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Daik Sepincan",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Kelombok",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022006,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Kelumu",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022007,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Mentuda",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Mepar",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022008,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Merawang",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022012,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Musai",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022019,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Nerekeh",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022009,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Panggak Darat",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022011,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Panggak Laut",
+    "postal_code": "29872"
+  },
+  {
+    "id": 2104022001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210402,
+    "value": "Pekajang",
+    "postal_code": "29872"
+  }
+]

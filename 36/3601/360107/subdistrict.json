@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3601072001,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Angsana",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072005,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Cikayas",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072009,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Cipinang",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072007,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Kadubadak",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072004,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Karangsari",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072010,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Kramatmanik",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072002,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Padaherang",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072003,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Padamulya",
+    "postal_code": "42277"
+  },
+  {
+    "id": 3601072006,
+    "province_id": 36,
+    "regency_id": 3601,
+    "district_id": 360107,
+    "value": "Sumurlaban",
+    "postal_code": "42277"
+  }
+]

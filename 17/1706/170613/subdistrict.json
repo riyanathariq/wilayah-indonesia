@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1706132004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Agung Jaya",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Kota Praja",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Manjunto Jaya",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Pondok Makmur",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Sido Makmur",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Sinar Jaya",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Tirta Makmur",
+    "postal_code": "38767"
+  },
+  {
+    "id": 1706132005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170613,
+    "value": "Tirta Mulya",
+    "postal_code": "38767"
+  }
+]

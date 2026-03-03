@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3201262006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Cipayung (Cipayung Datar)",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Cipayung Girang",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Gadog",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Kuta",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Megamendung",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Pasir Angin",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukagalih",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukakarya",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukamahi",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukamaju",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukamanah",
+    "postal_code": "16770"
+  },
+  {
+    "id": 3201262011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320126,
+    "value": "Sukaresmi",
+    "postal_code": "16770"
+  }
+]

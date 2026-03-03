@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9402132002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940213,
+    "value": "Berelema",
+    "postal_code": "98912"
+  },
+  {
+    "id": 9402132001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940213,
+    "value": "Ilamburawi",
+    "postal_code": "98912"
+  },
+  {
+    "id": 9402132005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940213,
+    "value": "Jigunikime",
+    "postal_code": "98912"
+  },
+  {
+    "id": 9402132003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940213,
+    "value": "Kalome",
+    "postal_code": "98912"
+  },
+  {
+    "id": 9402132004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940213,
+    "value": "Temu",
+    "postal_code": "98912"
+  }
+]

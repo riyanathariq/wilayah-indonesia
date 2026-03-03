@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9207122004,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920712,
+    "value": "Kurei",
+    "postal_code": "98331"
+  },
+  {
+    "id": 9207122002,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920712,
+    "value": "Mamisi",
+    "postal_code": "98331"
+  },
+  {
+    "id": 9207122005,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920712,
+    "value": "Tamoge",
+    "postal_code": "98331"
+  },
+  {
+    "id": 9207122001,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920712,
+    "value": "Werabur",
+    "postal_code": "98331"
+  },
+  {
+    "id": 9207122003,
+    "province_id": 92,
+    "regency_id": 9207,
+    "district_id": 920712,
+    "value": "Werianggi",
+    "postal_code": "98331"
+  }
+]

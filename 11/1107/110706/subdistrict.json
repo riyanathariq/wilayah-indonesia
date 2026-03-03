@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1107062008,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Amud Mesjid",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062012,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Balee",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062006,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Bili",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062018,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Blang Drang",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062032,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Blang Pueb",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062031,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Blang Tunong",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062004,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Cot Baroh",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062005,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Cot Tunong",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062030,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Dayah Kp. Pisang",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062010,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Dayah Tanoh",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062023,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Jurong Pande",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062021,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Kampong Jeumpa",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062020,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Kayee Jatou",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062013,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Keupula",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062029,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Keutapang Mesjid",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062002,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Krueng Jangko",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062003,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Krueng Nyong",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062017,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Krut Teumpeun",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062026,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Kumbang Keupula",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062033,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Lambaro",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062011,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Mamplam",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062028,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Meunjee",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062034,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Neurok",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062007,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Panjoe",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062027,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Pulo Batee",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062024,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Pulo Gajah Mate",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062022,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Pulo Lon / Pulo Dayah",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062014,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Pulo Lueng Teuga",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062009,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Reudeup Meulayu",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062001,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Simpang",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062016,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Sukon Baroh",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062015,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Sukon Mesjid",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062025,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Tufah Jeulatang",
+    "postal_code": "24183"
+  },
+  {
+    "id": 1107062019,
+    "province_id": 11,
+    "regency_id": 1107,
+    "district_id": 110706,
+    "value": "Ude Gampong",
+    "postal_code": "24183"
+  }
+]

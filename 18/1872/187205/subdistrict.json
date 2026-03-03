@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1872051004,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187205,
+    "value": "Margodadi (Magodadi)",
+    "postal_code": "34119"
+  },
+  {
+    "id": 1872051002,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187205,
+    "value": "Margorejo (Margo Rejo)",
+    "postal_code": "34121"
+  },
+  {
+    "id": 1872051001,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187205,
+    "value": "Rejomulyo",
+    "postal_code": "34123"
+  },
+  {
+    "id": 1872051003,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187205,
+    "value": "Sumbersari Bantul (Sumbersari)",
+    "postal_code": "34122"
+  }
+]

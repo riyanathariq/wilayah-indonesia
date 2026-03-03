@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3212122009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Gadingan",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122016,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Longok",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Majasari",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Majasih",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Mekargading",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Sleman",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Sleman Lor",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Sliyeg",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Sliyeg Lor (Sliyeglor)",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Sudikampiran",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Tambi",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Tambi Lor",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Tugu",
+    "postal_code": "45281"
+  },
+  {
+    "id": 3212122012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321212,
+    "value": "Tugukidul (Tugu Kidul)",
+    "postal_code": "45281"
+  }
+]

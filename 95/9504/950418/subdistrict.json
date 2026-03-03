@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504182011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Baguni",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Egoni",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182012,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Kulutin",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Lerewere",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Martelo",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Orelukban",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Tinggom",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Welesi",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Yakep",
+    "postal_code": "99043"
+  },
+  {
+    "id": 9504182015,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950418,
+    "value": "Yamulo",
+    "postal_code": "99043"
+  }
+]

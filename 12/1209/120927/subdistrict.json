@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1209272005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120927,
+    "value": "Bangun Sari",
+    "postal_code": "21260"
+  },
+  {
+    "id": 1209272003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120927,
+    "value": "Sei Silau Barat",
+    "postal_code": "21260"
+  },
+  {
+    "id": 1209272002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120927,
+    "value": "Sei Silau Tua",
+    "postal_code": "21260"
+  },
+  {
+    "id": 1209272004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120927,
+    "value": "Silau Maraja",
+    "postal_code": "21260"
+  },
+  {
+    "id": 1209272001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120927,
+    "value": "Urung Pane",
+    "postal_code": "21260"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1405022002,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Kuala Terusan",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405022003,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Makmur",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405022001,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Mekar Jaya",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405021007,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Pangkalan Kerinci Barat",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405021008,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Pangkalan Kerinci Kota",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405021009,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Pangkalan Kerinci Timur Agung",
+    "postal_code": "28381"
+  },
+  {
+    "id": 1405022005,
+    "province_id": 14,
+    "regency_id": 1405,
+    "district_id": 140502,
+    "value": "Rantau Baru",
+    "postal_code": "28381"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5302011002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Cendana",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Kampung Baru",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Karang Sirih (Karang Siri)",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Kobekamusa",
+    "postal_code": "85515"
+  },
+  {
+    "id": 5302011010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Kota Baru",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302012012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Kuatae",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302012013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Noemeto",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Nonohonis",
+    "postal_code": "85517"
+  },
+  {
+    "id": 5302011007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Nunumeu",
+    "postal_code": "85516"
+  },
+  {
+    "id": 5302011009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Oe Kefan (Oekefan)",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Oebesa",
+    "postal_code": "85515"
+  },
+  {
+    "id": 5302011001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "So E (Soe)",
+    "postal_code": "85519"
+  },
+  {
+    "id": 5302011004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530201,
+    "value": "Taubneno",
+    "postal_code": "85511"
+  }
+]

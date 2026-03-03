@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3513052008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Clarak",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Jorongan",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Keprangan (Kerpangan)",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Leces",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Malasankulon (Malasan Kulon)",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Pondok Wuluh",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Sumberkedawung (Sumber Kedawung)",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Tigasan Kulon",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Tigasan Wetan",
+    "postal_code": "67273"
+  },
+  {
+    "id": 3513052010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351305,
+    "value": "Warujinggo",
+    "postal_code": "67273"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7401141006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Induha",
+    "postal_code": "93512"
+  },
+  {
+    "id": 7401141002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Kolakaasi (Kolakaasih)",
+    "postal_code": "93512"
+  },
+  {
+    "id": 7401141004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Latambaga",
+    "postal_code": "93514"
+  },
+  {
+    "id": 7401141001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Mangolo",
+    "postal_code": "93512"
+  },
+  {
+    "id": 7401141005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Sakuli",
+    "postal_code": "93514"
+  },
+  {
+    "id": 7401141003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Sea",
+    "postal_code": "93514"
+  },
+  {
+    "id": 7401141007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740114,
+    "value": "Ulunggolaka",
+    "postal_code": "93512"
+  }
+]

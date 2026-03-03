@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3511042004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351104,
+    "value": "Kerang",
+    "postal_code": "68287"
+  },
+  {
+    "id": 3511042002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351104,
+    "value": "Nogosari",
+    "postal_code": "68287"
+  },
+  {
+    "id": 3511042003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351104,
+    "value": "Pecalongan",
+    "postal_code": "68287"
+  },
+  {
+    "id": 3511042001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351104,
+    "value": "Sukosari Lor",
+    "postal_code": "68287"
+  }
+]

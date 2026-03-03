@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1506092004,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Bukit Indah",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092002,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Dusun Mudo",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092003,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Intan Jaya",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092005,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Kemang Manis",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Lubuk Sebontan",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092010,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Pematang Balam",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506091001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Rantau Badak",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092006,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Rantau Badak Lamo",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092009,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Sungaimuluk (Sungai Muluk)",
+    "postal_code": "36558"
+  },
+  {
+    "id": 1506092008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150609,
+    "value": "Sungaipapauh (Sungai Papauh)",
+    "postal_code": "36558"
+  }
+]

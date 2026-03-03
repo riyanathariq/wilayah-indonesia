@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3206062004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Cibalong",
+    "postal_code": "46185"
+  },
+  {
+    "id": 3206062001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Cisempur",
+    "postal_code": "46185"
+  },
+  {
+    "id": 3206062003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Eureunpalay",
+    "postal_code": "46185"
+  },
+  {
+    "id": 3206062006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Parung",
+    "postal_code": "46185"
+  },
+  {
+    "id": 3206062002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Setiawaras",
+    "postal_code": "46185"
+  },
+  {
+    "id": 3206062005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320606,
+    "value": "Singajaya",
+    "postal_code": "46185"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 8108152002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Arwala",
+    "postal_code": "97448"
+  },
+  {
+    "id": 8108152005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Ilpokil",
+    "postal_code": "97448"
+  },
+  {
+    "id": 8108152003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Ilway",
+    "postal_code": "97448"
+  },
+  {
+    "id": 8108152004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Kahilin",
+    "postal_code": "97448"
+  },
+  {
+    "id": 8108152001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Moning",
+    "postal_code": "97448"
+  },
+  {
+    "id": 8108152006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810815,
+    "value": "Tomliapat",
+    "postal_code": "97448"
+  }
+]

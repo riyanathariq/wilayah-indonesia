@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7501182002,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Dulomo",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182005,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Ilotidea (Ilotideaa)",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182006,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Lauwonu",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182004,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Tabumela",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182007,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Tenggela",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182003,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Tilote",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182008,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Tinelo",
+    "postal_code": "96182"
+  },
+  {
+    "id": 7501182001,
+    "province_id": 75,
+    "regency_id": 7501,
+    "district_id": 750118,
+    "value": "Tualango",
+    "postal_code": "96182"
+  }
+]

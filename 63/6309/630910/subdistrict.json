@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6309102001,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Bilas",
+    "postal_code": "71575"
+  },
+  {
+    "id": 6309102002,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Kaong",
+    "postal_code": "71575"
+  },
+  {
+    "id": 6309102004,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Kinarum",
+    "postal_code": "71575"
+  },
+  {
+    "id": 6309102006,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Masingai I",
+    "postal_code": "71575"
+  },
+  {
+    "id": 6309102005,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Masingai II",
+    "postal_code": "71575"
+  },
+  {
+    "id": 6309102003,
+    "province_id": 63,
+    "regency_id": 6309,
+    "district_id": 630910,
+    "value": "Pangelak",
+    "postal_code": "71575"
+  }
+]

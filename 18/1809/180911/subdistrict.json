@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1809112001,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Bunut",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112002,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Bunut Seberang",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112004,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Ceringin Asri (Ceringin Sari)",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112008,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Gunung Rejo",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112010,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Harapan Jaya",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112011,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Kalirejo",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112006,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Mulyo Sari",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112009,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Pesawaran Indah",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112007,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Poncorejo",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112005,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Sumber Jaya",
+    "postal_code": "35455"
+  },
+  {
+    "id": 1809112003,
+    "province_id": 18,
+    "regency_id": 1809,
+    "district_id": 180911,
+    "value": "Wates Way Ratai",
+    "postal_code": "35455"
+  }
+]

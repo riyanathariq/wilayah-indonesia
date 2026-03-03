@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1804202002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Basungan",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Batu Api",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Marga Jaya",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Mekar Sari",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Pagar Dewa",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Pahayu Jaya",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Sidodadi",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Sidomulyo",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Suka Jaya",
+    "postal_code": "34885"
+  },
+  {
+    "id": 1804202010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180420,
+    "value": "Suka Mulya",
+    "postal_code": "34885"
+  }
+]

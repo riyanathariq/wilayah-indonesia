@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3512042001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Alas Bayur",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Campoan",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Mlandingan Kulon",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Selomukti",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Sumber Pinang",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Sumberanyar (Sumber Anyar)",
+    "postal_code": "68353"
+  },
+  {
+    "id": 3512042004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351204,
+    "value": "Trebungan",
+    "postal_code": "68353"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206312004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Gunungsari",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Indrajaya",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Linggajati",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Sinagar",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Sukagalih",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Sukamahi",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Sukaratu",
+    "postal_code": "46415"
+  },
+  {
+    "id": 3206312002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320631,
+    "value": "Tawangbanteng",
+    "postal_code": "46415"
+  }
+]

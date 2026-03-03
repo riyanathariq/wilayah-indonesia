@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7318341006,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Bebo' (Bebo)",
+    "postal_code": "91883"
+  },
+  {
+    "id": 7318341001,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Leatung",
+    "postal_code": "91883"
+  },
+  {
+    "id": 7318342003,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Leatung Matallo",
+    "postal_code": "91883"
+  },
+  {
+    "id": 7318342002,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Rantela'bi Kambisa (Ratele Bi Kambisa)",
+    "postal_code": "91883"
+  },
+  {
+    "id": 7318342004,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Saluallo",
+    "postal_code": "91883"
+  },
+  {
+    "id": 7318342005,
+    "province_id": 73,
+    "regency_id": 7318,
+    "district_id": 731834,
+    "value": "Tumbang Datu",
+    "postal_code": "91883"
+  }
+]

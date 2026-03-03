@@ -1,0 +1,122 @@
+[
+  {
+    "id": 3503052014,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Banaran",
+    "postal_code": "66318"
+  },
+  {
+    "id": 3503052007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Dermosari",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Duren",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Gading",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052012,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Gondang",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Jambu",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Ngepeh",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Nglinggis",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052013,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Nglongsor",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052015,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Prambon",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Pucanganak",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052008,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Sukorejo",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052011,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Tegaren",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052009,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Tumpuk",
+    "postal_code": "66352"
+  },
+  {
+    "id": 3503052010,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350305,
+    "value": "Winong",
+    "postal_code": "66352"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3212112004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Dadap",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Juntikebon (Junti Kebon)",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Juntikedokan",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Juntiweden",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Juntunyuat (Juntinyuat)",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Limbangan",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Lombang",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Pondoh",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Sambirmaya (Sambimaya)",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Segeran",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Segeran Kidul",
+    "postal_code": "45282"
+  },
+  {
+    "id": 3212112009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321211,
+    "value": "Tinumpuk",
+    "postal_code": "45282"
+  }
+]

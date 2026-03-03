@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3206082006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Hegarwangi",
+    "postal_code": "46187"
+  },
+  {
+    "id": 3206082003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Pamijahan",
+    "postal_code": "46187"
+  },
+  {
+    "id": 3206082002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Parakanhonje",
+    "postal_code": "46187"
+  },
+  {
+    "id": 3206082001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Simpang",
+    "postal_code": "46187"
+  },
+  {
+    "id": 3206082008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Sirnagalih",
+    "postal_code": "46187"
+  },
+  {
+    "id": 3206082004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Sukamaju",
+    "postal_code": "46188"
+  },
+  {
+    "id": 3206082007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Wakap",
+    "postal_code": "46168"
+  },
+  {
+    "id": 3206082005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320608,
+    "value": "Wangunsari",
+    "postal_code": "46187"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1404122004,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Belantaraya",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122012,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Gembira",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122010,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Jerambang",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404121006,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Kuala Lahang",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122002,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Lahang Baru",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122008,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Lahang Hulu",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122007,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Lahang Tengah",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122016,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Pintasan",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122009,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Pungkat",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122013,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Semambu Kuning",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122003,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Simpang Gaung",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122015,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Soren",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122005,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Sungaibaru (Sungai Baru)",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122011,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Telukkabung (Teluk Kabung)",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122014,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Telukmerbau",
+    "postal_code": "29282"
+  },
+  {
+    "id": 1404122001,
+    "province_id": 14,
+    "regency_id": 1404,
+    "district_id": 140412,
+    "value": "Terusan Kempas",
+    "postal_code": "29282"
+  }
+]

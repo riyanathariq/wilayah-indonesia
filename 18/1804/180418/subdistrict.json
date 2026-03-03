@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1804182008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Cipta Mulya",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Muara Baru",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Muara Jaya Dua (II)",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Muara Jaya Satu (I)",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Pura Jaya (Purajaya)",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Pura Wiwitan (Purawiwitan)",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Sinar Luas",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Tribudi Makmur",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Tribudi Syukur (Tri Budisukur)",
+    "postal_code": "34867"
+  },
+  {
+    "id": 1804182007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180418,
+    "value": "Tugu Mulya",
+    "postal_code": "34867"
+  }
+]

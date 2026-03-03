@@ -1,0 +1,26 @@
+[
+  {
+    "id": 9206242001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920624,
+    "value": "Igomu",
+    "postal_code": "98164"
+  },
+  {
+    "id": 9206242002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920624,
+    "value": "Mesna",
+    "postal_code": "98164"
+  },
+  {
+    "id": 9206242003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920624,
+    "value": "Sumuy (Sumui)",
+    "postal_code": "98164"
+  }
+]

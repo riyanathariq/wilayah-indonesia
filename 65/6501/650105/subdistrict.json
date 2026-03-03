@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6501052007,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Apung",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501052005,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Bumi Rahayu",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501052006,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Gunung Sari",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501052004,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Gunung Seriang",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501052003,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Jelarai Selor",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501051002,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Tanjung Selor Ilir/Hilir",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501051008,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Tanjung Selor Timur",
+    "postal_code": "77212"
+  },
+  {
+    "id": 6501051001,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Tanjung Selor Ulu/Hulu",
+    "postal_code": "77211"
+  },
+  {
+    "id": 6501052009,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650105,
+    "value": "Tengkapak",
+    "postal_code": "77212"
+  }
+]

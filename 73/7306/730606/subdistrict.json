@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7306062014,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Bili-Bili",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306061002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Bontomanai",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306061001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Borongloe",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306062013,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Mata Allo",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306062004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Nirannuang",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306062003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Pakkato (Pakatto)",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306061012,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Romang Lompoa",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306062005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Romangloe",
+    "postal_code": "92171"
+  },
+  {
+    "id": 7306062006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730606,
+    "value": "Sokkolia",
+    "postal_code": "92171"
+  }
+]

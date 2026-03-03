@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3401102001,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Banyuroto",
+    "postal_code": "55671"
+  },
+  {
+    "id": 3401102002,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Donomulyo",
+    "postal_code": "55671"
+  },
+  {
+    "id": 3401102005,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Jatisarono (Jati Sarono)",
+    "postal_code": "55671"
+  },
+  {
+    "id": 3401102006,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Kembang",
+    "postal_code": "55671"
+  },
+  {
+    "id": 3401102004,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Tanjungharjo",
+    "postal_code": "55671"
+  },
+  {
+    "id": 3401102003,
+    "province_id": 34,
+    "regency_id": 3401,
+    "district_id": 340110,
+    "value": "Wijimulyo",
+    "postal_code": "55671"
+  }
+]

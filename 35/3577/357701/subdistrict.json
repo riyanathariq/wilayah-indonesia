@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3577011007,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Kanigoro",
+    "postal_code": "63118"
+  },
+  {
+    "id": 3577011008,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Kartoharjo",
+    "postal_code": "63117"
+  },
+  {
+    "id": 3577011009,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Kelun",
+    "postal_code": "63112"
+  },
+  {
+    "id": 3577011003,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Klegen",
+    "postal_code": "63117"
+  },
+  {
+    "id": 3577011001,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Oro Oro Ombo",
+    "postal_code": "63119"
+  },
+  {
+    "id": 3577011005,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Pilangbango",
+    "postal_code": "63119"
+  },
+  {
+    "id": 3577011004,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Rejomulyo",
+    "postal_code": "63111"
+  },
+  {
+    "id": 3577011002,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Sukosari",
+    "postal_code": "63119"
+  },
+  {
+    "id": 3577011006,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357701,
+    "value": "Tawangrejo",
+    "postal_code": "63113"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3506012007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Bobang",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Bulu",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Joho",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Kanyoran",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Kedak",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Pagung",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Puhrubuh",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Puhsarang",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Selopanggung",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Semen",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Sidomulyo",
+    "postal_code": "64161"
+  },
+  {
+    "id": 3506012009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350601,
+    "value": "Titik",
+    "postal_code": "64161"
+  }
+]

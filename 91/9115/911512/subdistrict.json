@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9115122003,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Awera",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122007,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Dokis",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122005,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Kamarisano",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122002,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Pirare",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122004,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Syewa Merare",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122001,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Wapoga",
+    "postal_code": "98664"
+  },
+  {
+    "id": 9115122006,
+    "province_id": 91,
+    "regency_id": 9115,
+    "district_id": 911512,
+    "value": "Waweri",
+    "postal_code": "98664"
+  }
+]

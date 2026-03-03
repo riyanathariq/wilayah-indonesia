@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9120062002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Barapasi",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062004,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Bariwaro",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Bensor",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062007,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Marikai",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Nadofoai",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Rawiwa",
+    "postal_code": "98681"
+  },
+  {
+    "id": 9120062003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912006,
+    "value": "Sipisi",
+    "postal_code": "98681"
+  }
+]

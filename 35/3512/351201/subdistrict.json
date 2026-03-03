@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3512012005,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Curahsuri (Curah Suri)",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012004,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Jatibanteng",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012007,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Kembangsari",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012001,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Pategalan",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012008,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Patemon",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012002,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Semambung",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012003,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Sumberanyar",
+    "postal_code": "68357"
+  },
+  {
+    "id": 3512012006,
+    "province_id": 35,
+    "regency_id": 3512,
+    "district_id": 351201,
+    "value": "Wringinanom",
+    "postal_code": "68357"
+  }
+]

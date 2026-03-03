@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3603142008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Belimbing",
+    "postal_code": "15212"
+  },
+  {
+    "id": 3603142007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Cengklong",
+    "postal_code": "15212"
+  },
+  {
+    "id": 3603141010,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Dadap",
+    "postal_code": "15211"
+  },
+  {
+    "id": 3603142009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Jati Mulya (Jatimulya)",
+    "postal_code": "15211"
+  },
+  {
+    "id": 3603141001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Kosambi Barat",
+    "postal_code": "15213"
+  },
+  {
+    "id": 3603142002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Kosambi Timur",
+    "postal_code": "15213"
+  },
+  {
+    "id": 3603142005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Ranga Rengas (Rawa Rengas)",
+    "postal_code": "15215"
+  },
+  {
+    "id": 3603142006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Rawa Burung",
+    "postal_code": "15215"
+  },
+  {
+    "id": 3603142004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Salembaran Jati",
+    "postal_code": "15214"
+  },
+  {
+    "id": 3603141003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360314,
+    "value": "Salembaran Jaya (Salembaran Raya)",
+    "postal_code": "15214"
+  }
+]

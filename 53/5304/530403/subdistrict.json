@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5304032005,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Aitoun",
+    "postal_code": "85773"
+  },
+  {
+    "id": 5304032001,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Asumanu",
+    "postal_code": "85773"
+  },
+  {
+    "id": 5304032003,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Maumutin",
+    "postal_code": "85773"
+  },
+  {
+    "id": 5304032004,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Raifatus",
+    "postal_code": "85773"
+  },
+  {
+    "id": 5304032002,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Tohe",
+    "postal_code": "85773"
+  },
+  {
+    "id": 5304032006,
+    "province_id": 53,
+    "regency_id": 5304,
+    "district_id": 530403,
+    "value": "Tohe Leten (Toheleten)",
+    "postal_code": "85773"
+  }
+]

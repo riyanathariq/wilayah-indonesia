@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3205222006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Cibodas",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Cikajang",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222008,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Cikandang",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222011,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Cipangramatan",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Giriawas",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Girijaya",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222012,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Kramatwangi",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222010,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Margamulya",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222007,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Mekarjaya",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Mekarsari",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222009,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Padasuka",
+    "postal_code": "44171"
+  },
+  {
+    "id": 3205222002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320522,
+    "value": "Simpang",
+    "postal_code": "44171"
+  }
+]

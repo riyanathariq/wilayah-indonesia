@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7406112004,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740611,
+    "value": "Akacipong",
+    "postal_code": "93773"
+  },
+  {
+    "id": 7406112001,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740611,
+    "value": "Batu Putih",
+    "postal_code": "93773"
+  },
+  {
+    "id": 7406112003,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740611,
+    "value": "Kali Baru",
+    "postal_code": "93773"
+  },
+  {
+    "id": 7406112005,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740611,
+    "value": "La Ea",
+    "postal_code": "93773"
+  },
+  {
+    "id": 7406112002,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740611,
+    "value": "Waemputang",
+    "postal_code": "93773"
+  }
+]

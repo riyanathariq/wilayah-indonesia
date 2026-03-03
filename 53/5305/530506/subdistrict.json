@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5305062014,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Bana",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Bandar",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Baolang",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062016,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Bouweli",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062017,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Bukit Mas",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062012,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Helangdohi",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305061001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Kabir",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062019,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Madar",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062011,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Munaseli",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Pandai",
+    "postal_code": "85881"
+  },
+  {
+    "id": 5305062013,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530506,
+    "value": "Wailawar",
+    "postal_code": "85881"
+  }
+]

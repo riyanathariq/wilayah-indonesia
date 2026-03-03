@@ -1,0 +1,42 @@
+[
+  {
+    "id": 5302242002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530224,
+    "value": "Fatumnasi",
+    "postal_code": "85585"
+  },
+  {
+    "id": 5302242004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530224,
+    "value": "Mella",
+    "postal_code": "85585"
+  },
+  {
+    "id": 5302242005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530224,
+    "value": "Mnelapetu",
+    "postal_code": "85585"
+  },
+  {
+    "id": 5302242001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530224,
+    "value": "Noebana",
+    "postal_code": "85585"
+  },
+  {
+    "id": 5302242003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530224,
+    "value": "Suni",
+    "postal_code": "85585"
+  }
+]

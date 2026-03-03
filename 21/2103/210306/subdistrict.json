@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2103062005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Batu Berlian (Batu Berian)",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103062011,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Jermalik",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103062002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Kampung Hilir",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103062010,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Pangkalan",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103061003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Serasan",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103062007,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Tanjung Balau",
+    "postal_code": "29781"
+  },
+  {
+    "id": 2103062006,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210306,
+    "value": "Tanjung Setelung",
+    "postal_code": "29781"
+  }
+]

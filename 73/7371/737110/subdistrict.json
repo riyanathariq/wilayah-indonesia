@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7371101006,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Balang Baru",
+    "postal_code": "90224"
+  },
+  {
+    "id": 7371101001,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Barombong",
+    "postal_code": "90225"
+  },
+  {
+    "id": 7371101005,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Bongaya",
+    "postal_code": "90223"
+  },
+  {
+    "id": 7371101011,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Bonto Duri",
+    "postal_code": "90224"
+  },
+  {
+    "id": 7371101003,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Jongaya",
+    "postal_code": "90223"
+  },
+  {
+    "id": 7371101002,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Maccini Sombala",
+    "postal_code": "90224"
+  },
+  {
+    "id": 7371101004,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Mangasa",
+    "postal_code": "90221"
+  },
+  {
+    "id": 7371101007,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Mannuruki",
+    "postal_code": "90221"
+  },
+  {
+    "id": 7371101008,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Pa'baeng-Baeng (Pa Baeng-Baeng)",
+    "postal_code": "90221"
+  },
+  {
+    "id": 7371101009,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Parang Tambung",
+    "postal_code": "90224"
+  },
+  {
+    "id": 7371101010,
+    "province_id": 73,
+    "regency_id": 7371,
+    "district_id": 737110,
+    "value": "Tanjung Merdeka",
+    "postal_code": "90225"
+  }
+]

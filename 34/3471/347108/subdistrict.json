@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3471081001,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347108,
+    "value": "Gedongkiwo",
+    "postal_code": "55142"
+  },
+  {
+    "id": 3471081003,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347108,
+    "value": "Mantrijeron",
+    "postal_code": "55143"
+  },
+  {
+    "id": 3471081002,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347108,
+    "value": "Suryodiningratan",
+    "postal_code": "55141"
+  }
+]

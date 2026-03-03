@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215011003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Adiarsa Barat",
+    "postal_code": "41311"
+  },
+  {
+    "id": 3215011001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Karawang Kulon",
+    "postal_code": "41311"
+  },
+  {
+    "id": 3215011010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Karawangpawitan (Karangpawitan)",
+    "postal_code": "41315"
+  },
+  {
+    "id": 3215011012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Mekarjati",
+    "postal_code": "41311"
+  },
+  {
+    "id": 3215011011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Nagasari",
+    "postal_code": "41312"
+  },
+  {
+    "id": 3215011006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Tanjungmekar",
+    "postal_code": "41311"
+  },
+  {
+    "id": 3215011005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Tanjungpura",
+    "postal_code": "41316"
+  },
+  {
+    "id": 3215011007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321501,
+    "value": "Tunggakjati",
+    "postal_code": "41311"
+  }
+]

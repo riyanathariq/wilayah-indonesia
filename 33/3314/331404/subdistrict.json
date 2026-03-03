@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3314042010,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Bendungan",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042002,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Celep",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042005,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Jenggrik",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042003,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Karangpelem (Karang Pelem)",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042009,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Kedawung",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042004,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Mojodoyong",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042006,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Mojokerto",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042001,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Pengkok",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042008,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Wonokerso",
+    "postal_code": "57292"
+  },
+  {
+    "id": 3314042007,
+    "province_id": 33,
+    "regency_id": 3314,
+    "district_id": 331404,
+    "value": "Wonorejo",
+    "postal_code": "57292"
+  }
+]

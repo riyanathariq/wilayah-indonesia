@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1301022007,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Koto VIII Pelangai",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Nyiur Melambai Pelangai (Nyiur Malambai Pelangai)",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022010,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Pasia Pelangai (Pasia Palangai)",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Pelangai",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022008,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Pelangai Gadang (Palangai Gadang)",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Pelangai Kaciak",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Sungai Liku Pelangai (Sungailiku Pelangai)",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Sungai Tunu",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Sungai Tunu Barat (Sungaitunu Barat)",
+    "postal_code": "25666"
+  },
+  {
+    "id": 1301022003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130102,
+    "value": "Sungai Tunu Utara (Sungaitunu Utara)",
+    "postal_code": "25666"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1214352007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Awoni",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Balombaruzo Orahua",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352012,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Buhawa",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Harefa Orahua",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352011,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Hiligabungan",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Hilimbowo Idanotae",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Hilisalo'o",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Hiliserangkai",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Lahusa Idanotae",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Orahua",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Sirahia",
+    "postal_code": "22878"
+  },
+  {
+    "id": 1214352006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121435,
+    "value": "Umbu Idanotae",
+    "postal_code": "22878"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3575031005,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Bakalan",
+    "postal_code": "67128"
+  },
+  {
+    "id": 3575031001,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Blandongan",
+    "postal_code": "67128"
+  },
+  {
+    "id": 3575031009,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Bugul Kidul",
+    "postal_code": "67129"
+  },
+  {
+    "id": 3575031002,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Kepel",
+    "postal_code": "67129"
+  },
+  {
+    "id": 3575031006,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Krampyangan",
+    "postal_code": "67127"
+  },
+  {
+    "id": 3575031003,
+    "province_id": 35,
+    "regency_id": 3575,
+    "district_id": 357503,
+    "value": "Tapa'an (Tapaan)",
+    "postal_code": "67129"
+  }
+]

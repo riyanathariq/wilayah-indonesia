@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1225062001,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Balodano",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062002,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Hiambanua",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062003,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Hilimayo (Hili Mayo)",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062007,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Hilimbaruzo",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062012,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Hilimbowo",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062011,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Lahagu",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062005,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Lolomboli",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062006,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Ononamolo I",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062009,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Ononamolo II",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062004,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Sihareo",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062010,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Taraha",
+    "postal_code": "22813"
+  },
+  {
+    "id": 1225062008,
+    "province_id": 12,
+    "regency_id": 1225,
+    "district_id": 122506,
+    "value": "Tarahoso",
+    "postal_code": "22813"
+  }
+]

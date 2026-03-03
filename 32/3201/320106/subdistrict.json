@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3201062012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Balekambang",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Bendungan",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Cibodas",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Jonggol",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Singajaya",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Singasari",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sirnagalih",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062014,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukagalih",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukajaya",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukamaju",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukamanah",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukanegara",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Sukasirna",
+    "postal_code": "16830"
+  },
+  {
+    "id": 3201062007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320106,
+    "value": "Weninggalih",
+    "postal_code": "16830"
+  }
+]

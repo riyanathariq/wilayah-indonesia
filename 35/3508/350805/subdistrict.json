@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3508052008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Besuk",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052011,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Gesang",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052009,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Jatisari",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052012,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Jokarto",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Kaliwungu",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Lempeni",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052013,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Pandanarum",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Pandanwangi",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052010,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Pulo",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Sumberjati",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Tempeh Kidul",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Tempeh Lor",
+    "postal_code": "67371"
+  },
+  {
+    "id": 3508052005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350805,
+    "value": "Tempeh Tengah",
+    "postal_code": "67371"
+  }
+]

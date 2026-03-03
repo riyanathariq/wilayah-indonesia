@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3205262004,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Pangrumasan",
+    "postal_code": "44178"
+  },
+  {
+    "id": 3205262001,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Peundeuy",
+    "postal_code": "44178"
+  },
+  {
+    "id": 3205262006,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Purwajaya",
+    "postal_code": "44178"
+  },
+  {
+    "id": 3205262003,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Saribakti",
+    "postal_code": "44178"
+  },
+  {
+    "id": 3205262005,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Sukanagara",
+    "postal_code": "44178"
+  },
+  {
+    "id": 3205262002,
+    "province_id": 32,
+    "regency_id": 3205,
+    "district_id": 320526,
+    "value": "Toblong",
+    "postal_code": "44178"
+  }
+]

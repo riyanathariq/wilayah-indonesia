@@ -1,0 +1,32 @@
+[
+  {
+    "id": 190205,
+    "province_id": 19,
+    "regency_id": 1902,
+    "value": "Badau"
+  },
+  {
+    "id": 190202,
+    "province_id": 19,
+    "regency_id": 1902,
+    "value": "Membalong"
+  },
+  {
+    "id": 190203,
+    "province_id": 19,
+    "regency_id": 1902,
+    "value": "Selat Nasik"
+  },
+  {
+    "id": 190204,
+    "province_id": 19,
+    "regency_id": 1902,
+    "value": "Sijuk"
+  },
+  {
+    "id": 190201,
+    "province_id": 19,
+    "regency_id": 1902,
+    "value": "Tanjung Pandan"
+  }
+]

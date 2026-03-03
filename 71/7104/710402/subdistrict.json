@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7104022011,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Bantik (Beo Bantik)",
+    "postal_code": "95876"
+  },
+  {
+    "id": 7104022020,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Bantik Lama",
+    "postal_code": "95876"
+  },
+  {
+    "id": 7104022019,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Bengel",
+    "postal_code": "95876"
+  },
+  {
+    "id": 7104021005,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Beo",
+    "postal_code": "95876"
+  },
+  {
+    "id": 7104021018,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Beo Barat",
+    "postal_code": "95876"
+  },
+  {
+    "id": 7104021017,
+    "province_id": 71,
+    "regency_id": 7104,
+    "district_id": 710402,
+    "value": "Beo Timur",
+    "postal_code": "95876"
+  }
+]

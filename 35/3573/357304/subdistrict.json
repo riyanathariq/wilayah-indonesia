@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3573041011,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Bakalankrajan (Bakalan Krajan)",
+    "postal_code": "65148"
+  },
+  {
+    "id": 3573041008,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Bandulan",
+    "postal_code": "65146"
+  },
+  {
+    "id": 3573041004,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Bandungrejosari",
+    "postal_code": "65148"
+  },
+  {
+    "id": 3573041001,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Ciptomulyo",
+    "postal_code": "65148"
+  },
+  {
+    "id": 3573041002,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Gadang",
+    "postal_code": "65149"
+  },
+  {
+    "id": 3573041009,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Karangbesuki (Karang Besuki)",
+    "postal_code": "65149"
+  },
+  {
+    "id": 3573041003,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Kebonsari",
+    "postal_code": "65149"
+  },
+  {
+    "id": 3573041010,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Mulyorejo",
+    "postal_code": "65147"
+  },
+  {
+    "id": 3573041007,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Pisangcandi (Pisang Candi)",
+    "postal_code": "65146"
+  },
+  {
+    "id": 3573041005,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Sukun",
+    "postal_code": "65147"
+  },
+  {
+    "id": 3573041006,
+    "province_id": 35,
+    "regency_id": 3573,
+    "district_id": 357304,
+    "value": "Tanjungrejo",
+    "postal_code": "65147"
+  }
+]

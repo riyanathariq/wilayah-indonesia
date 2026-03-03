@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5307052016,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Gunung Sari",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307051008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Kabor",
+    "postal_code": "86112"
+  },
+  {
+    "id": 5307051009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Kota Uneng",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307051006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Madawat",
+    "postal_code": "86112"
+  },
+  {
+    "id": 5307051007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Nangalimang",
+    "postal_code": "86118"
+  },
+  {
+    "id": 5307052014,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Pemana",
+    "postal_code": "86116"
+  },
+  {
+    "id": 5307052015,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530705,
+    "value": "Samparong",
+    "postal_code": "86116"
+  }
+]

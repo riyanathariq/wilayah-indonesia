@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5106012003,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Abuan",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012001,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Apuan",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012002,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Demulih",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012009,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Pengiangan",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012006,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Penglumbaran",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012008,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Selat",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012005,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Sulahan",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012004,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Susut",
+    "postal_code": "80661"
+  },
+  {
+    "id": 5106012007,
+    "province_id": 51,
+    "regency_id": 5106,
+    "district_id": 510601,
+    "value": "Tiga",
+    "postal_code": "80661"
+  }
+]

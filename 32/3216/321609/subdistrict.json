@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3216092001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Cikarangkota (Cikarang Kota)",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092009,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Hajarmekar (Harja Mekar)",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Karangasih",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Karangbaru (Karang Baru)",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Karangraharja",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092010,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Mekarmukti",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Pasirgombong (Pasir Gombong)",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Simpangan",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Tanjungsari",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Waluya",
+    "postal_code": "17534"
+  },
+  {
+    "id": 3216092011,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321609,
+    "value": "Wangunharja",
+    "postal_code": "17534"
+  }
+]

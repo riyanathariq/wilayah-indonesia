@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6503132003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650313,
+    "value": "Samaenre Semaja",
+    "postal_code": "77484"
+  },
+  {
+    "id": 6503132004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650313,
+    "value": "Sekaduyan Taka",
+    "postal_code": "77484"
+  },
+  {
+    "id": 6503132001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650313,
+    "value": "Srinanti",
+    "postal_code": "77484"
+  },
+  {
+    "id": 6503132002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650313,
+    "value": "Tabur Lestari",
+    "postal_code": "77484"
+  }
+]

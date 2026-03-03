@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209342002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Blender",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Jatipiring",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Karanganyar",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Karangasem",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Karangwangi",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Karangwareng",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Kubangdeleg",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Seuseupan",
+    "postal_code": "45184"
+  },
+  {
+    "id": 3209342003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320934,
+    "value": "Sumurkondang",
+    "postal_code": "45184"
+  }
+]

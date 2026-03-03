@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3312181005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Bulukerto",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Bulurejo",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182009,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Conto",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Domas",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182010,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Geneng",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Krandegan",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Nadi",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Ngaglik",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Sugihan",
+    "postal_code": "57697"
+  },
+  {
+    "id": 3312182007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331218,
+    "value": "Tanjung",
+    "postal_code": "57697"
+  }
+]

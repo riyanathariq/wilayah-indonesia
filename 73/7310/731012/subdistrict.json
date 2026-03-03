@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7310122001,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Banti Murung (Bantimurung)",
+    "postal_code": "90566"
+  },
+  {
+    "id": 7310122006,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Bonto Birao",
+    "postal_code": "90566"
+  },
+  {
+    "id": 7310122004,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Bulutellue (Bulu Tellue)",
+    "postal_code": "90566"
+  },
+  {
+    "id": 7310122003,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Lanne",
+    "postal_code": "90566"
+  },
+  {
+    "id": 7310122005,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Malaka",
+    "postal_code": "90566"
+  },
+  {
+    "id": 7310122002,
+    "province_id": 73,
+    "regency_id": 7310,
+    "district_id": 731012,
+    "value": "Tondong Kura (Tondongkura)",
+    "postal_code": "90566"
+  }
+]

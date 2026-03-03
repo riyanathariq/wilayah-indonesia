@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9111112001,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911111,
+    "value": "Kaisenar",
+    "postal_code": "99465"
+  },
+  {
+    "id": 9111112002,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911111,
+    "value": "Kiambra",
+    "postal_code": "99465"
+  },
+  {
+    "id": 9111112003,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911111,
+    "value": "Liket",
+    "postal_code": "99465"
+  },
+  {
+    "id": 9111112004,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911111,
+    "value": "Onam",
+    "postal_code": "99465"
+  },
+  {
+    "id": 9111112005,
+    "province_id": 91,
+    "regency_id": 9111,
+    "district_id": 911111,
+    "value": "Tefanma Satu",
+    "postal_code": "99465"
+  }
+]

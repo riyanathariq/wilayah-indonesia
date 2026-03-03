@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9402142006,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Dangenpaga",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Ginigom",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Mondu",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Moulo",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Tenolok",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142009,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Tirineri",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142007,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Wonome",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Yambi",
+    "postal_code": "98917"
+  },
+  {
+    "id": 9402142008,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940214,
+    "value": "Yoboluk",
+    "postal_code": "98917"
+  }
+]

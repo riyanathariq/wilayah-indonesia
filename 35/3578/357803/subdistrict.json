@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3578031001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Kalirungkut (Kali Rungkut)",
+    "postal_code": "60293"
+  },
+  {
+    "id": 3578031003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Kedung Baruk",
+    "postal_code": "60298"
+  },
+  {
+    "id": 3578031006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Medokan Ayu",
+    "postal_code": "60295"
+  },
+  {
+    "id": 3578031004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Penjaringansari (Penjaringan Sari)",
+    "postal_code": "60297"
+  },
+  {
+    "id": 3578031002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Rungkut Kidul",
+    "postal_code": "60293"
+  },
+  {
+    "id": 3578031005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357803,
+    "value": "Wonorejo",
+    "postal_code": "60296"
+  }
+]

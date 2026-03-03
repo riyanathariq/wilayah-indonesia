@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5305162009,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Aramaba",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162006,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Bagang",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Delaki",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Eka Jaya",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162002,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Mauta",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162003,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Muriabang",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Tamakh",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Toang",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Tubbe (Tube)",
+    "postal_code": "85883"
+  },
+  {
+    "id": 5305162001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530516,
+    "value": "Tude",
+    "postal_code": "85883"
+  }
+]

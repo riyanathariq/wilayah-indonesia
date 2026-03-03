@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5302182007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Abi",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Hoi",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Neke",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Niki Niki Un",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Noenoni (Noe Noni)",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Oenino",
+    "postal_code": "85583"
+  },
+  {
+    "id": 5302182002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530218,
+    "value": "Pene Utara",
+    "postal_code": "85583"
+  }
+]

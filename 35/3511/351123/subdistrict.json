@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3511232007,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Grujugan Lor",
+    "postal_code": "68261"
+  },
+  {
+    "id": 3511232002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Jambeanom (Jambe Anom)",
+    "postal_code": "68263"
+  },
+  {
+    "id": 3511232001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Jambesari (Jambe Sari)",
+    "postal_code": "68263"
+  },
+  {
+    "id": 3511232008,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Pejagan",
+    "postal_code": "68261"
+  },
+  {
+    "id": 3511232006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Pengarang",
+    "postal_code": "68271"
+  },
+  {
+    "id": 3511232003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Pucanganom (Pucang Anom)",
+    "postal_code": "68263"
+  },
+  {
+    "id": 3511232009,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Sumber Anyar",
+    "postal_code": "68263"
+  },
+  {
+    "id": 3511232004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Sumberjeruk (Sumber Jeruk)",
+    "postal_code": "68263"
+  },
+  {
+    "id": 3511232005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351123,
+    "value": "Tegalpasir",
+    "postal_code": "68263"
+  }
+]

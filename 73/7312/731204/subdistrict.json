@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7312041005,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Bila",
+    "postal_code": "90814"
+  },
+  {
+    "id": 7312041003,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Botto",
+    "postal_code": "90811"
+  },
+  {
+    "id": 7312041001,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Lalabata Rilau",
+    "postal_code": "90812"
+  },
+  {
+    "id": 7312041006,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Lapajung",
+    "postal_code": "90811"
+  },
+  {
+    "id": 7312041004,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Lemba",
+    "postal_code": "90811"
+  },
+  {
+    "id": 7312042008,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Maccile",
+    "postal_code": "90814"
+  },
+  {
+    "id": 7312042010,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Mattabulu",
+    "postal_code": "90811"
+  },
+  {
+    "id": 7312041002,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Ompo",
+    "postal_code": "90813"
+  },
+  {
+    "id": 7312041007,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Salokaraja (Salo Karaja)",
+    "postal_code": "90814"
+  },
+  {
+    "id": 7312042009,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731204,
+    "value": "Umpungenga (Umpungeng)",
+    "postal_code": "90811"
+  }
+]

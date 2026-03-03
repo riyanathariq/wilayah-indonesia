@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1212082005,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Horsik",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082004,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Motung",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Pardamean Ajibata",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082008,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Pardamean Sibisa",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Pardomuan Ajibata",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082010,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Pardomuan Motung",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212081009,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Parsaoran Ajibata",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Parsaoran Sibisa",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Sigapiton",
+    "postal_code": "22386"
+  },
+  {
+    "id": 1212082006,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121208,
+    "value": "Sirungkungon",
+    "postal_code": "22386"
+  }
+]

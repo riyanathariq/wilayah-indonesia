@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1213192001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Bangun Sejati",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Binanga",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213192005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Huta Bargot Dolok",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192004,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Huta Bargot Lombang",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Huta Bargot Nauli",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Huta Bargot Setia",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Huta Naingkan",
+    "postal_code": "22979"
+  },
+  {
+    "id": 1213192002,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Hutarimbaru",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Kumpulan Setia",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Mondan",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Pasar Huta Bargot",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192012,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Saba Padang",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192009,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Sayur Maincat",
+    "postal_code": "22978"
+  },
+  {
+    "id": 1213192011,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121319,
+    "value": "Simalagi",
+    "postal_code": "22978"
+  }
+]

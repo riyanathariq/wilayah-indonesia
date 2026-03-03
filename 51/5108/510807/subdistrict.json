@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5108072004,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Bebetin",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072013,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Bungkulan",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072002,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Galungan",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072014,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Giri Emas",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072009,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Jagaraga",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072011,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Kerobokan",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072001,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Lemukih",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072007,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Menyali",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072012,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Sangsit",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072006,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Sawan",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072003,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Sekumpul",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072010,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Sinabun",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072005,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Sudaji",
+    "postal_code": "81171"
+  },
+  {
+    "id": 5108072008,
+    "province_id": 51,
+    "regency_id": 5108,
+    "district_id": 510807,
+    "value": "Suwug",
+    "postal_code": "81171"
+  }
+]

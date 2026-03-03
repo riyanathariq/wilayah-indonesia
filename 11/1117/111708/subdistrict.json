@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1117082001,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Bandar Jaya (Batin Bandar Jaya)",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082007,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Bener Bintang Musara (Bintang Musara)",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082006,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Bener Kelipah Selatan",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082009,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Bener Kelipah Utara",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082004,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Bener Lukup II",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082005,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Gunung Musara",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082002,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Jongok Meluem",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082008,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Kala Tenang",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082010,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Lot Bener Kelipah",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082012,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Nosar Baru",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082011,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Nosar Tawar Jaya",
+    "postal_code": "24583"
+  },
+  {
+    "id": 1117082003,
+    "province_id": 11,
+    "regency_id": 1117,
+    "district_id": 111708,
+    "value": "Suku Bener",
+    "postal_code": "24583"
+  }
+]

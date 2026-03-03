@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1613042007,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Air Bening",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042002,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Batu Kucing",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042003,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Belani",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042009,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Beringin Makmur I",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042010,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Beringin Makmur II",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042008,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Beringin Sakti",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613041005,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Bingin Teluk",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042012,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Ketapat Bening",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042006,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Mandi Angin",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042013,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Mekarsari (Mekar Sari)",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042001,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Pauh",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042011,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Pauh I",
+    "postal_code": "31655"
+  },
+  {
+    "id": 1613042004,
+    "province_id": 16,
+    "regency_id": 1613,
+    "district_id": 161304,
+    "value": "Tanjung Raja",
+    "postal_code": "31655"
+  }
+]

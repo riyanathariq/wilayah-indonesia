@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5311032013,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Bidi Hunga",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032003,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Kambata Wundut",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032002,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Kambuhapang (Kambu Hapang)",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032004,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Kondamara",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311031001,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Lewa Paku (Lewapaku)",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032005,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Matawai Pawali",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032006,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Rakawatu",
+    "postal_code": "87150"
+  },
+  {
+    "id": 5311032007,
+    "province_id": 53,
+    "regency_id": 5311,
+    "district_id": 531103,
+    "value": "Tana Rara (Tanarara)",
+    "postal_code": "87150"
+  }
+]

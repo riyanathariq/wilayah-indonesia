@@ -1,0 +1,122 @@
+[
+  {
+    "id": 6310062009,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Baroqah",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062006,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Batu Ampar",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062010,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Bersujud",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062012,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Gunungantasari (Gunung Antasari)",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062007,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Gunungbesar (Gunung Besar)",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062013,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Hidayah Makmur",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310061001,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Kampung Baru",
+    "postal_code": "72212"
+  },
+  {
+    "id": 6310062015,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Kupang Berkah Jaya",
+    "postal_code": "72211"
+  },
+  {
+    "id": 6310062004,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Mekar Sari",
+    "postal_code": "72211"
+  },
+  {
+    "id": 6310062014,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Plajau Mulia",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062008,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Pulau Burung",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062003,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Sari Gadung",
+    "postal_code": "72211"
+  },
+  {
+    "id": 6310062011,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Sejahtera",
+    "postal_code": "72213"
+  },
+  {
+    "id": 6310062005,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Sungaidua (Sungai Dua)",
+    "postal_code": "72211"
+  },
+  {
+    "id": 6310061002,
+    "province_id": 63,
+    "regency_id": 6310,
+    "district_id": 631006,
+    "value": "Tungkaran Pangeran",
+    "postal_code": "72213"
+  }
+]

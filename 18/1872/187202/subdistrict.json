@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1872021001,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187202,
+    "value": "Banjarsari (Banjar Sari)",
+    "postal_code": "34117"
+  },
+  {
+    "id": 1872021003,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187202,
+    "value": "Karangrejo (Karang Rejo)",
+    "postal_code": "34119"
+  },
+  {
+    "id": 1872021004,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187202,
+    "value": "Purwoasri (Purwo Asri)",
+    "postal_code": "34117"
+  },
+  {
+    "id": 1872021002,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187202,
+    "value": "Purwosari (Purwo Sari)",
+    "postal_code": "34118"
+  }
+]

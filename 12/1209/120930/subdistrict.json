@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1209302010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Bunut Seberang",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Gedangan",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Perhutaan Silau",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Pulo Bandring",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Sidomulyo",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Suka Damai",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Suka Damai Barat",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Suka Makmur",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Taman Sari",
+    "postal_code": "21265"
+  },
+  {
+    "id": 1209302003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120930,
+    "value": "Tanah Rakyat",
+    "postal_code": "21265"
+  }
+]

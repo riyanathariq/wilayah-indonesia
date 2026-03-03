@@ -1,0 +1,26 @@
+[
+  {
+    "id": 3471121003,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347112,
+    "value": "Brontokusuman",
+    "postal_code": "55153"
+  },
+  {
+    "id": 3471121001,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347112,
+    "value": "Keparakan",
+    "postal_code": "55152"
+  },
+  {
+    "id": 3471121002,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347112,
+    "value": "Wirogunan",
+    "postal_code": "55151"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1209112016,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Bangun Baru",
+    "postal_code": "21381"
+  },
+  {
+    "id": 1209112015,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Perbangunan",
+    "postal_code": "21381"
+  },
+  {
+    "id": 1209112014,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Pertahanan",
+    "postal_code": "21381"
+  },
+  {
+    "id": 1209112010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Sei Kepayang Kanan",
+    "postal_code": "21381"
+  },
+  {
+    "id": 1209112008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Sei Kepayang Tengah",
+    "postal_code": "21381"
+  },
+  {
+    "id": 1209112011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120911,
+    "value": "Sei Paham",
+    "postal_code": "21381"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 3671071002,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Bojong Jaya",
+    "postal_code": "15115"
+  },
+  {
+    "id": 3671071009,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Bugel",
+    "postal_code": "15113"
+  },
+  {
+    "id": 3671071005,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Cimone",
+    "postal_code": "15114"
+  },
+  {
+    "id": 3671071006,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Cimone Jaya",
+    "postal_code": "15116"
+  },
+  {
+    "id": 3671071013,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Gerendeng",
+    "postal_code": "15113"
+  },
+  {
+    "id": 3671071001,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Karawaci",
+    "postal_code": "15115"
+  },
+  {
+    "id": 3671071003,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Karawaci Baru",
+    "postal_code": "15116"
+  },
+  {
+    "id": 3671071016,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Koang Jaya",
+    "postal_code": "15112"
+  },
+  {
+    "id": 3671071010,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Margasari (Marga Sari)",
+    "postal_code": "15113"
+  },
+  {
+    "id": 3671071012,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Nambo Jaya",
+    "postal_code": "15112"
+  },
+  {
+    "id": 3671071004,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Nusa Jaya",
+    "postal_code": "15116"
+  },
+  {
+    "id": 3671071007,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Pabuaran",
+    "postal_code": "15114"
+  },
+  {
+    "id": 3671071011,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Pabuaran Tumpeng",
+    "postal_code": "15112"
+  },
+  {
+    "id": 3671071015,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Pasar Baru",
+    "postal_code": "15112"
+  },
+  {
+    "id": 3671071014,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Sukajadi (Suka Jadi)",
+    "postal_code": "15113"
+  },
+  {
+    "id": 3671071008,
+    "province_id": 36,
+    "regency_id": 3671,
+    "district_id": 367107,
+    "value": "Sumur Pancing (Pacing)",
+    "postal_code": "15114"
+  }
+]

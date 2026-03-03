@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1609192003,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Banjar Agung",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192007,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Bendi",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192012,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Bumi Agung Jaya",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192006,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Bumi Jaya (Bumijaya)",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192005,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Gunung Cahya",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192011,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Majar",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192008,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Pekuolan",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192009,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Pelawi",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192001,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Rantau Panjang",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192004,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Ruos",
+    "postal_code": "32211"
+  },
+  {
+    "id": 1609192002,
+    "province_id": 16,
+    "regency_id": 1609,
+    "district_id": 160919,
+    "value": "Sukajaya",
+    "postal_code": "32211"
+  }
+]

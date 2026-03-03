@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3207142005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Bunter",
+    "postal_code": "46272"
+  },
+  {
+    "id": 3207142006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Ciparigi",
+    "postal_code": "46272"
+  },
+  {
+    "id": 3207142003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Margaharja",
+    "postal_code": "46272"
+  },
+  {
+    "id": 3207142004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Margajaya",
+    "postal_code": "46272"
+  },
+  {
+    "id": 3207142002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Salakaria",
+    "postal_code": "46272"
+  },
+  {
+    "id": 3207142001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320714,
+    "value": "Sukadana",
+    "postal_code": "46272"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1221152005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Ampolu",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Hurung Jilok",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Lumban Huayan",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Mananti Sosa Julu",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Pasir Jae",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Pasir Julu",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Ramba",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Roburan",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Siborna Bunut",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Siginduang",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Sungai Jior",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221152009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122115,
+    "value": "Tanjung",
+    "postal_code": "22765"
+  }
+]

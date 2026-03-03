@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9304102002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Amor",
+    "postal_code": "99780"
+  },
+  {
+    "id": 9304102005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Ayir",
+    "postal_code": "99780"
+  },
+  {
+    "id": 9304102004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Berip",
+    "postal_code": "99780"
+  },
+  {
+    "id": 9304102009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Paar",
+    "postal_code": "99780"
+  },
+  {
+    "id": 9304102006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Werer",
+    "postal_code": "99780"
+  },
+  {
+    "id": 9304102003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930410,
+    "value": "Yipawer",
+    "postal_code": "99780"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7107092009,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Esandom",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092011,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Esandom Dua",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092010,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Esandom Satu",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092001,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092003,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar Atas",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092004,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar Dua",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092006,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar Dua Selatan",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092005,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar Dua Utara",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092002,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Molompar Satu",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092007,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Mundung",
+    "postal_code": "95990"
+  },
+  {
+    "id": 7107092008,
+    "province_id": 71,
+    "regency_id": 7107,
+    "district_id": 710709,
+    "value": "Mundung Satu",
+    "postal_code": "95990"
+  }
+]

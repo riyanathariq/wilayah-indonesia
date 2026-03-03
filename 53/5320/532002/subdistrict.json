@@ -1,0 +1,66 @@
+[
+  {
+    "id": 5320022001,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Bebae",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022007,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Eilode",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022005,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Eimadake (Eimmadake)",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022008,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Eimau",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022006,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Jiwuwu",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022004,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Loboaju",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022003,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Matei",
+    "postal_code": "85392"
+  },
+  {
+    "id": 5320022002,
+    "province_id": 53,
+    "regency_id": 5320,
+    "district_id": 532002,
+    "value": "Tada",
+    "postal_code": "85392"
+  }
+]

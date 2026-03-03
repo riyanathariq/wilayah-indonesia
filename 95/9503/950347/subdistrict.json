@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9503472006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Dindok",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Hilipuk",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Homidipmu",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Jamin (Yamin)",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Kini",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Sohondipmu",
+    "postal_code": "99732"
+  },
+  {
+    "id": 9503472004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950347,
+    "value": "Yaruhuk",
+    "postal_code": "99732"
+  }
+]

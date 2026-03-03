@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1211092002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Bandar Huta Usang",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092012,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Bukit Baru",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Bukit Tinggi (Bukittinggi)",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092009,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Kuta Usang",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Laksa",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Lingga Raja",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092010,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Lingga Raja II",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092011,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Mbinanga",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Onan Lama",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092013,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Perrik Mbue",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Simanduma",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Simartugan",
+    "postal_code": "22283"
+  },
+  {
+    "id": 1211092006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121109,
+    "value": "Tanjung Saluksuk",
+    "postal_code": "22283"
+  }
+]

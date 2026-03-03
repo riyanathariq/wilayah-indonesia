@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9205102005,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920510,
+    "value": "Awat",
+    "postal_code": "98482"
+  },
+  {
+    "id": 9205102003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920510,
+    "value": "Deer",
+    "postal_code": "98482"
+  },
+  {
+    "id": 9205102001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920510,
+    "value": "DibalaI (Dibalal)",
+    "postal_code": "98482"
+  },
+  {
+    "id": 9205102004,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920510,
+    "value": "Mikiran",
+    "postal_code": "98482"
+  },
+  {
+    "id": 9205102002,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920510,
+    "value": "Tolabi (Tolobi)",
+    "postal_code": "98482"
+  }
+]

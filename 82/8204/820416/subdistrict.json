@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8204162007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Jeret",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Kasiruta Dalam",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Kou Balabala (Koubalabala)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Loleo Jaya",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Loleo Mekar (Loleomekar)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Marituso (Maritosu)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Tawa",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204162006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820416,
+    "value": "Tutuhu (Tutuha)",
+    "postal_code": "97790"
+  }
+]

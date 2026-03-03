@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3604202007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Bojong Catang",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Bojong Menteng",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Bojong Pandan",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Kemuning (Kamuning)",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Malanggah",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Pancaregang (Pancarecang)",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Panunggulan",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Sukasari",
+    "postal_code": "42174"
+  },
+  {
+    "id": 3604202001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360420,
+    "value": "Tanjung Teja (Tunjung Teja)",
+    "postal_code": "42174"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7316062010,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Banua",
+    "postal_code": "91761"
+  },
+  {
+    "id": 7316062004,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Baruka",
+    "postal_code": "91761"
+  },
+  {
+    "id": 7316062009,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Bulo",
+    "postal_code": "91761"
+  },
+  {
+    "id": 7316062002,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Bungin",
+    "postal_code": "91761"
+  },
+  {
+    "id": 7316062008,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Sawito",
+    "postal_code": "91761"
+  },
+  {
+    "id": 7316062003,
+    "province_id": 73,
+    "regency_id": 7316,
+    "district_id": 731606,
+    "value": "Talang Rilau (Tallang Rilau)",
+    "postal_code": "91761"
+  }
+]

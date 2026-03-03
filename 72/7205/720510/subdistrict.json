@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7205102003,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Baruga",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102005,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Busak I",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102006,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Busak II",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102007,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Lamakan",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102002,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Mendaan",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102001,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Mokupo",
+    "postal_code": "94572"
+  },
+  {
+    "id": 7205102004,
+    "province_id": 72,
+    "regency_id": 7205,
+    "district_id": 720510,
+    "value": "Monano",
+    "postal_code": "94572"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3213282007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Balimbing (Balingbing)",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282002,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Bendungan",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282009,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Cidadap",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Cidahu",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282004,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Margahayu",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282001,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Mekarwangi",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282003,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Munjul",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282005,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Pangsor",
+    "postal_code": "41252"
+  },
+  {
+    "id": 3213282006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321328,
+    "value": "Sumurgintung",
+    "postal_code": "41252"
+  }
+]

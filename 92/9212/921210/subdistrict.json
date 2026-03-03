@@ -1,0 +1,234 @@
+[
+  {
+    "id": 9212102013,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Aryon",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102006,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Cangoisi",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102009,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Demunti",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102010,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Gueipimbai",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102026,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Guwei Uti",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102016,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Haktiebou",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102015,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Humeisi",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102002,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Ikimabou",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102004,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Kisap",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102019,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Kwaiyehep",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102018,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Kwok Dua",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102017,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Kwok Satu",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102022,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Liehak",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102003,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Manggot",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102020,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Mbegau",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102029,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Mbrande",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102007,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Minyeimemud",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102028,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Monut",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102021,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Ngimoubri",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102027,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Ntap",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102005,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Nungkimor",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102008,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Penibut",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102014,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Punggung",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102001,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Sopnyai",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102011,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Tigaucomti",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102025,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Tingwoikiou",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102024,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Tumbeibehei",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102023,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Umcep",
+    "postal_code": "98353"
+  },
+  {
+    "id": 9212102012,
+    "province_id": 92,
+    "regency_id": 9212,
+    "district_id": 921210,
+    "value": "Urwong",
+    "postal_code": "98353"
+  }
+]

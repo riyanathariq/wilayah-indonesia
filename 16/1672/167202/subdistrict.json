@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1672021022,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Basemah Sersan (Besemah Serasan)",
+    "postal_code": "31526"
+  },
+  {
+    "id": 1672021005,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Gunung Dempo",
+    "postal_code": "31529"
+  },
+  {
+    "id": 1672021004,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Nendayung (Nendagung)",
+    "postal_code": "31527"
+  },
+  {
+    "id": 1672021003,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Sidorejo",
+    "postal_code": "31527"
+  },
+  {
+    "id": 1672021021,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Tanjung Agung (Tanjung Payang)",
+    "postal_code": "31522"
+  },
+  {
+    "id": 1672021018,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Tebat Giri Indah",
+    "postal_code": "31526"
+  },
+  {
+    "id": 1672021019,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Tumbak Ulas",
+    "postal_code": "31526"
+  },
+  {
+    "id": 1672021020,
+    "province_id": 16,
+    "regency_id": 1672,
+    "district_id": 167202,
+    "value": "Ulu Lurah/Rurah",
+    "postal_code": "31526"
+  }
+]

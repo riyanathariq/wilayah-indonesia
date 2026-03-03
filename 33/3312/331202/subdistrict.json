@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3312021004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Bayemharjo",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312021006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Giritontro",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312022005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Jatirejo",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312022001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Ngargoharjo",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312022007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Pucanganom",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312022003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Tlogoharjo",
+    "postal_code": "57678"
+  },
+  {
+    "id": 3312022002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331202,
+    "value": "Tlogosari",
+    "postal_code": "57678"
+  }
+]

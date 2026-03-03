@@ -1,0 +1,90 @@
+[
+  {
+    "id": 6301112003,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Bumi Harapan",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112001,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Babirik",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112008,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Birayang Atas",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112009,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Birayang Bawah",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112007,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Gayam",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112011,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Labuan (Amas)",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112010,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Maluka",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112006,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Handil Suruk",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112002,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Kurau Utara",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112005,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Pantai Harapan",
+    "postal_code": "70853"
+  },
+  {
+    "id": 6301112004,
+    "province_id": 63,
+    "regency_id": 6301,
+    "district_id": 630111,
+    "value": "Sei/Sungai Rasau",
+    "postal_code": "70853"
+  }
+]

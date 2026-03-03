@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3312042003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Batuwarno",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Kudi",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Ronggojati",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312041008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Selopuro",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Sendangsari",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Sumberagung",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Sumberejo",
+    "postal_code": "57674"
+  },
+  {
+    "id": 3312042002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331204,
+    "value": "Tegiri",
+    "postal_code": "57674"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1312092006,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Aua Serumpun",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092005,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Kasikputih Sungaitanang",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092004,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Ranah Air Haji",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092003,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Ranah Malintang",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092002,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Salingka Muaro",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092007,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Sikilang Sungai Aur Selatan",
+    "postal_code": "26574"
+  },
+  {
+    "id": 1312092001,
+    "province_id": 13,
+    "regency_id": 1312,
+    "district_id": 131209,
+    "value": "Sungai Aua (Sungai Aur)",
+    "postal_code": "26574"
+  }
+]

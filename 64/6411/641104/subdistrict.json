@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6411042010,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Long Apari",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042002,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Long Kerioq",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042001,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Long Penaneh I",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042003,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Long Penaneh II",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042005,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Long Penaneh III",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042007,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Naha Buan",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042009,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Naha Silat (Noha Silat)",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042008,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Naha Tifab (Naha Tivab)",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042006,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Tiong Bu'u (Tiong Buu)",
+    "postal_code": "75769"
+  },
+  {
+    "id": 6411042004,
+    "province_id": 64,
+    "regency_id": 6411,
+    "district_id": 641104,
+    "value": "Tiong Ohang",
+    "postal_code": "75769"
+  }
+]

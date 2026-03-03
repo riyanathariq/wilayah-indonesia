@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9502082001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Aboy",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Armise",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082004,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Jubly",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Luban",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Lulis Wii",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Pipal",
+    "postal_code": "99401"
+  },
+  {
+    "id": 9502082006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950208,
+    "value": "Woro",
+    "postal_code": "99401"
+  }
+]

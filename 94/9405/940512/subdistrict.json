@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9405122003,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Daung",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122001,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Erong Berong",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122002,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Hikinat",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122004,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Kombet",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122006,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Kulamagom",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122007,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Ogamanin (Ogamanim)",
+    "postal_code": "98954"
+  },
+  {
+    "id": 9405122005,
+    "province_id": 94,
+    "regency_id": 9405,
+    "district_id": 940512,
+    "value": "Onop",
+    "postal_code": "98954"
+  }
+]

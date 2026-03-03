@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7413112004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Kombikuno",
+    "postal_code": "93658"
+  },
+  {
+    "id": 7413112002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Lahaji",
+    "postal_code": "93658"
+  },
+  {
+    "id": 7413112005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Latawe",
+    "postal_code": "93658"
+  },
+  {
+    "id": 7413112001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Masara",
+    "postal_code": "93658"
+  },
+  {
+    "id": 7413112006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Tangkumaho",
+    "postal_code": "93658"
+  },
+  {
+    "id": 7413112003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741311,
+    "value": "Umba",
+    "postal_code": "93658"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7413022007,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Barangka",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022006,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Bungkolo",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022002,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Lafinde",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022008,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Lapolea",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022005,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Sawerigadi",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022004,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Walelei",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022003,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Waulai",
+    "postal_code": "93650"
+  },
+  {
+    "id": 7413022001,
+    "province_id": 74,
+    "regency_id": 7413,
+    "district_id": 741302,
+    "value": "Wuna",
+    "postal_code": "93650"
+  }
+]

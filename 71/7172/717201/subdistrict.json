@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7172011003,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Batulubang",
+    "postal_code": "95552"
+  },
+  {
+    "id": 7172011011,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Dorbolaang (Dorbolaan)",
+    "postal_code": "95551"
+  },
+  {
+    "id": 7172011016,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Kelapa Dua",
+    "postal_code": "95558"
+  },
+  {
+    "id": 7172011006,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Pancuran",
+    "postal_code": "95556"
+  },
+  {
+    "id": 7172011004,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Papusungan",
+    "postal_code": "95554"
+  },
+  {
+    "id": 7172011001,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Pasir Panjang (Pasirpanjang)",
+    "postal_code": "95553"
+  },
+  {
+    "id": 7172011002,
+    "province_id": 71,
+    "regency_id": 7172,
+    "district_id": 717201,
+    "value": "Paudean",
+    "postal_code": "95551"
+  }
+]

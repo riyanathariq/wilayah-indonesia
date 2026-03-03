@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3216102004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karanganyar",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangbahagia (Karang Bahagia)",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102008,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangmukti",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangrahayu (Karang Rahayu)",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangsatu (Karang Setu)",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangsentosa (Karang Sentosa)",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Karangsetia (Karang Setra)",
+    "postal_code": "17535"
+  },
+  {
+    "id": 3216102001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321610,
+    "value": "Sukaraya",
+    "postal_code": "17535"
+  }
+]

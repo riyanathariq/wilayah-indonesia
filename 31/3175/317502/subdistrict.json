@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3175021003,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Cipinang",
+    "postal_code": "13240"
+  },
+  {
+    "id": 3175021007,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Jati",
+    "postal_code": "13220"
+  },
+  {
+    "id": 3175021004,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Jatinegara Kaum",
+    "postal_code": "13250"
+  },
+  {
+    "id": 3175021006,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Kayu Putih",
+    "postal_code": "13210"
+  },
+  {
+    "id": 3175021002,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Pisangan Timur",
+    "postal_code": "13230"
+  },
+  {
+    "id": 3175021001,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Pulo Gadung",
+    "postal_code": "13260"
+  },
+  {
+    "id": 3175021005,
+    "province_id": 31,
+    "regency_id": 3175,
+    "district_id": 317502,
+    "value": "Rawamangun",
+    "postal_code": "13220"
+  }
+]

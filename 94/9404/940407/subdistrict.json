@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9404072002,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940407,
+    "value": "Amamapare",
+    "postal_code": "99971"
+  },
+  {
+    "id": 9404072001,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940407,
+    "value": "Ayuka",
+    "postal_code": "99971"
+  },
+  {
+    "id": 9404072005,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940407,
+    "value": "Fanamo",
+    "postal_code": "99971"
+  },
+  {
+    "id": 9404072003,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940407,
+    "value": "Ohotya",
+    "postal_code": "99971"
+  },
+  {
+    "id": 9404072004,
+    "province_id": 94,
+    "regency_id": 9404,
+    "district_id": 940407,
+    "value": "Omawita",
+    "postal_code": "99971"
+  }
+]

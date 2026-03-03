@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3215242004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Banyuasih",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242009,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Cicinde Selatan",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Cicinde Utara",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Gembongan",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Gempol",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Gempol Kolot (Gempolkolot)",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Jayamukti",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Kertaraharja (Kutaraharja)",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242010,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Mekarasih",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242012,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Pamekaran",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242011,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Talunjaya",
+    "postal_code": "41374"
+  },
+  {
+    "id": 3215242006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321524,
+    "value": "Tanjung",
+    "postal_code": "41374"
+  }
+]

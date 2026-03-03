@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216142002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukaindah",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukajadi",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukakarsa (Sukakersa)",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukakarya",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukalaksana",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukamakmur",
+    "postal_code": "17630"
+  },
+  {
+    "id": 3216142001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321614,
+    "value": "Sukamurni",
+    "postal_code": "17630"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1571021006,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157102,
+    "value": "Pakuan Baru",
+    "postal_code": "36132"
+  },
+  {
+    "id": 1571021002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157102,
+    "value": "Pasir Putih",
+    "postal_code": "36139"
+  },
+  {
+    "id": 1571021003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157102,
+    "value": "Tambak Sari",
+    "postal_code": "36139"
+  },
+  {
+    "id": 1571021004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157102,
+    "value": "Thehok (The Hok)",
+    "postal_code": "36138"
+  },
+  {
+    "id": 1571021005,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157102,
+    "value": "Wijaya Pura",
+    "postal_code": "36131"
+  }
+]

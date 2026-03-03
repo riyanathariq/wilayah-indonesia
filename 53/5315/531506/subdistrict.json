@@ -1,0 +1,90 @@
+[
+  {
+    "id": 5315062009,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Batu Tiga",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062021,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Beo Sepang",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062002,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Golo Ketak",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062008,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Golo Lujang",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062020,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Golo Nobo",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062005,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Golo Sepang",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062001,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Mbuit",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062006,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Pontianak",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062003,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Pota Wangka",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062007,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Sepang",
+    "postal_code": "86754"
+  },
+  {
+    "id": 5315062004,
+    "province_id": 53,
+    "regency_id": 5315,
+    "district_id": 531506,
+    "value": "Tanjung Boleng",
+    "postal_code": "86754"
+  }
+]

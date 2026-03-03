@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3302122011,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Karanganyar",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122006,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Karangendep",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122009,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Kedungrandu",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122013,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Kedungwringin",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122008,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Kedungwuluh Kidul",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122010,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Kedungwuluh Lor",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122005,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Notog",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122004,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Patikraja",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122003,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Pegalongan",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122007,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Sawangan Wetan",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122012,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Sidabowa",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122002,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Sokawera (Sokawera Kidul)",
+    "postal_code": "53171"
+  },
+  {
+    "id": 3302122001,
+    "province_id": 33,
+    "regency_id": 3302,
+    "district_id": 330212,
+    "value": "Wlahar Kulon",
+    "postal_code": "53171"
+  }
+]

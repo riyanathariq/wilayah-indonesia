@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3308142001,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Bandongan",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142008,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Banyuwangi",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142005,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Gandusari",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142012,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Kalegen",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142011,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Kebonagung",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142009,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Kedungsari",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142013,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Ngepanrejo",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142014,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Rejosari",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142002,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Salamkanci",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142006,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Sidorejo",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142010,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Sukodadi",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142003,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Sukosari",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142004,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Tonoboyo",
+    "postal_code": "56151"
+  },
+  {
+    "id": 3308142007,
+    "province_id": 33,
+    "regency_id": 3308,
+    "district_id": 330814,
+    "value": "Trasan",
+    "postal_code": "56151"
+  }
+]

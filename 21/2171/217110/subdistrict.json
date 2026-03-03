@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2171101001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Baloi Permai",
+    "postal_code": "29431"
+  },
+  {
+    "id": 2171101004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Belian",
+    "postal_code": "29464"
+  },
+  {
+    "id": 2171101005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Sukajadi",
+    "postal_code": "29432"
+  },
+  {
+    "id": 2171101006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Sungai Panas",
+    "postal_code": "29433"
+  },
+  {
+    "id": 2171101002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Taman Baloi",
+    "postal_code": "29432"
+  },
+  {
+    "id": 2171101003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217110,
+    "value": "Teluk Tering",
+    "postal_code": "29461"
+  }
+]

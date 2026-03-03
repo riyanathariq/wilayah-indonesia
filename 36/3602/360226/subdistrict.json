@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3602262009,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Barunai",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262002,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Cihara",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262003,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Ciparahu",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262005,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Citeupuseun (Citepuseun)",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262008,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Karangkamulyan",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262006,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Lebakpeundeuy (Lebak Peundeuy)",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262007,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Mekarsari",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262001,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Panyaungan",
+    "postal_code": "42392"
+  },
+  {
+    "id": 3602262004,
+    "province_id": 36,
+    "regency_id": 3602,
+    "district_id": 360226,
+    "value": "Pondokpanjang",
+    "postal_code": "42392"
+  }
+]

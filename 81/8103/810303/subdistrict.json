@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8103032004,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Amdasa",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032006,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Arui Bab",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032007,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Arui Das",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032009,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Atubul Da",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032003,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Atubul Dol",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Lorulun",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032008,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Sangliat Dol",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032005,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Sangliat Krawain",
+    "postal_code": "97473"
+  },
+  {
+    "id": 8103032001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810303,
+    "value": "Tumbur",
+    "postal_code": "97473"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3304152014,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Beji",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152006,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Biting",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152016,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Condongcampur (Condong Campur)",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152008,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Darmayasa",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152017,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Gembol",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152005,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Giritirta",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152004,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Grogol",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152001,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Kalilunjar",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152002,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Karangsari",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152013,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Pegundungan",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152009,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Pejawaran",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152010,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Penusupan (Panusupan)",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152011,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Ratamba",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152003,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Sarwodadi",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152015,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Semangkung",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152012,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Sidengok",
+    "postal_code": "53454"
+  },
+  {
+    "id": 3304152007,
+    "province_id": 33,
+    "regency_id": 3304,
+    "district_id": 330415,
+    "value": "Tlahap",
+    "postal_code": "53454"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2103232002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210323,
+    "value": "Pulau Kerdau",
+    "postal_code": "29779"
+  },
+  {
+    "id": 2103232001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210323,
+    "value": "Pulau Panjang",
+    "postal_code": "29779"
+  }
+]

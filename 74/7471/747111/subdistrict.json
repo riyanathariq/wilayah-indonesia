@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7471111004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Bungkutoko",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471111003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Nambo",
+    "postal_code": "93236"
+  },
+  {
+    "id": 7471111002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Petoaha",
+    "postal_code": "93236"
+  },
+  {
+    "id": 7471111005,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Sambuli",
+    "postal_code": "93238"
+  },
+  {
+    "id": 7471111001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Tobimeita",
+    "postal_code": "93237"
+  },
+  {
+    "id": 7471111006,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747111,
+    "value": "Tondonggeu",
+    "postal_code": "93238"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216042007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukabakti",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukamaju",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukamantri",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukarahayu",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukaraja",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukarapih",
+    "postal_code": "17621"
+  },
+  {
+    "id": 3216042001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321604,
+    "value": "Sukawijaya",
+    "postal_code": "17621"
+  }
+]

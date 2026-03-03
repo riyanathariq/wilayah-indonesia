@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7408072006,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Latawe",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072004,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Pumbolo",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072007,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Salurengko",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072003,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Tinukari",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072005,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Ulu Wawo",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072001,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Walasiho",
+    "postal_code": "93962"
+  },
+  {
+    "id": 7408072002,
+    "province_id": 74,
+    "regency_id": 7408,
+    "district_id": 740807,
+    "value": "Wawo",
+    "postal_code": "93962"
+  }
+]

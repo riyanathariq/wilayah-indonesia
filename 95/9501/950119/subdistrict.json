@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9501192006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Helepalegem",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192009,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Kemisake",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Lukaken",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Miami",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Siliwa",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Sumunikama",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Tomisa",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Waoba (Wuroba/Waroba)",
+    "postal_code": "99503"
+  },
+  {
+    "id": 9501192004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950119,
+    "value": "Yogonima",
+    "postal_code": "99503"
+  }
+]

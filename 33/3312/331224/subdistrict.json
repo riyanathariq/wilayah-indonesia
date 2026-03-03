@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3312242008,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Gendayakan",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242004,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Gudangharjo",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242005,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Gunturharjo",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242007,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Johunut",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242002,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Ketos",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242003,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Paranggupito",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242006,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Sambiharjo",
+    "postal_code": "57679"
+  },
+  {
+    "id": 3312242001,
+    "province_id": 33,
+    "regency_id": 3312,
+    "district_id": 331224,
+    "value": "Songbledeg",
+    "postal_code": "57679"
+  }
+]

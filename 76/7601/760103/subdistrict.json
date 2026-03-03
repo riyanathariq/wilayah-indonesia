@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7601032002,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Balanti",
+    "postal_code": "91572"
+  },
+  {
+    "id": 7601031001,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Baras",
+    "postal_code": "91572"
+  },
+  {
+    "id": 7601032012,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Bulu Parigi",
+    "postal_code": "91572"
+  },
+  {
+    "id": 7601032016,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Kasano",
+    "postal_code": "91572"
+  },
+  {
+    "id": 7601032003,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Motu",
+    "postal_code": "91572"
+  },
+  {
+    "id": 7601032013,
+    "province_id": 76,
+    "regency_id": 7601,
+    "district_id": 760103,
+    "value": "Towoni (Toroni)",
+    "postal_code": "91572"
+  }
+]

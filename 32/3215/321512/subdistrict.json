@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215122005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Solokan",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Tanahbaru",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Tanjungbungin",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Tanjungmekar",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Tanjungpakis",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Telagajaya (Talagajaya)",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Telukbuyung",
+    "postal_code": "41355"
+  },
+  {
+    "id": 3215122007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321512,
+    "value": "Telukjaya",
+    "postal_code": "41355"
+  }
+]

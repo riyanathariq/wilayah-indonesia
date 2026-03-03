@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9402092004,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940209,
+    "value": "Igimbut",
+    "postal_code": "98916"
+  },
+  {
+    "id": 9402092005,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940209,
+    "value": "Kulok Enggame",
+    "postal_code": "98916"
+  },
+  {
+    "id": 9402092003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940209,
+    "value": "Lunggineri",
+    "postal_code": "98916"
+  },
+  {
+    "id": 9402092002,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940209,
+    "value": "Muliambut",
+    "postal_code": "98916"
+  },
+  {
+    "id": 9402092001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940209,
+    "value": "Pagaleme",
+    "postal_code": "98916"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1409052005,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Kampung Baru",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052013,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Kampung Baru Timur",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052003,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Kompe Berangin",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052007,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Koto Cerenti",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409051002,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Koto Peraku",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409051001,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Pasar Cerenti",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052010,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Pesikaian/Pasikaian",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052009,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Pulau Panjang Cerenti",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052008,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Pulaubayur (Pulau Bayur)",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052006,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Pulaujambu (Pulau Jambu)",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052004,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Sikakak",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052012,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Tanjungmedan (Tanjung Medan)",
+    "postal_code": "29555"
+  },
+  {
+    "id": 1409052011,
+    "province_id": 14,
+    "regency_id": 1409,
+    "district_id": 140905,
+    "value": "Telukpauh (Teluk Pauh)",
+    "postal_code": "29555"
+  }
+]

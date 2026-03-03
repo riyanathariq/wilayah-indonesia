@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1401212002,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Bandur Picak",
+    "postal_code": "28453"
+  },
+  {
+    "id": 1401212003,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Gunung Malelo",
+    "postal_code": "28453"
+  },
+  {
+    "id": 1401212005,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Pongkai",
+    "postal_code": "28453"
+  },
+  {
+    "id": 1401212001,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Siberuang",
+    "postal_code": "28453"
+  },
+  {
+    "id": 1401212004,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Tabing",
+    "postal_code": "28453"
+  },
+  {
+    "id": 1401212006,
+    "province_id": 14,
+    "regency_id": 1401,
+    "district_id": 140121,
+    "value": "Tanjung",
+    "postal_code": "28453"
+  }
+]

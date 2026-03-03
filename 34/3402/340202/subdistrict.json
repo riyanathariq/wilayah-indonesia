@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3402022002,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340202,
+    "value": "Gadingharjo",
+    "postal_code": "55763"
+  },
+  {
+    "id": 3402022001,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340202,
+    "value": "Gadingsari",
+    "postal_code": "55763"
+  },
+  {
+    "id": 3402022004,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340202,
+    "value": "Murtigading",
+    "postal_code": "55763"
+  },
+  {
+    "id": 3402022003,
+    "province_id": 34,
+    "regency_id": 3402,
+    "district_id": 340202,
+    "value": "Srigading",
+    "postal_code": "55763"
+  }
+]

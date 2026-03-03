@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9205072007,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920507,
+    "value": "Bianci",
+    "postal_code": "98464"
+  },
+  {
+    "id": 9205072005,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920507,
+    "value": "Mutus",
+    "postal_code": "98464"
+  },
+  {
+    "id": 9205072011,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920507,
+    "value": "Saleo",
+    "postal_code": "98464"
+  },
+  {
+    "id": 9205072001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920507,
+    "value": "Selpele",
+    "postal_code": "98464"
+  },
+  {
+    "id": 9205072012,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920507,
+    "value": "Waisilip",
+    "postal_code": "98464"
+  }
+]

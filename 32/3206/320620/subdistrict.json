@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3206202007,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Ancol",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Ciampanan",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Cijulang",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Cikondang",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Cineam",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Cisarua",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202010,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Madiasari",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202008,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Nagaratengah",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202009,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Pasirmukti",
+    "postal_code": "46198"
+  },
+  {
+    "id": 3206202006,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320620,
+    "value": "Rajadatu",
+    "postal_code": "46198"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 5205082002,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Jambu",
+    "postal_code": "84272"
+  },
+  {
+    "id": 5205082003,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Lepadi",
+    "postal_code": "84272"
+  },
+  {
+    "id": 5205082004,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Lune",
+    "postal_code": "84272"
+  },
+  {
+    "id": 5205082001,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Ranggo",
+    "postal_code": "84272"
+  },
+  {
+    "id": 5205082006,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Tembal Lae",
+    "postal_code": "84272"
+  },
+  {
+    "id": 5205082005,
+    "province_id": 52,
+    "regency_id": 5205,
+    "district_id": 520508,
+    "value": "Woko",
+    "postal_code": "84272"
+  }
+]

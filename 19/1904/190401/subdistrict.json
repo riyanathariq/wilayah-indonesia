@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1904011002,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Arung Dalam",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904011017,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Berok",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012006,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Guntung",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904011001,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Koba",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012005,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Kurau (Timur)",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012010,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Kurau Barat",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012003,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Nibung",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904011018,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Padang Mulia (Padang Mulya)",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012007,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Penyak",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904011019,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Simpang Perlang",
+    "postal_code": "33681"
+  },
+  {
+    "id": 1904012008,
+    "province_id": 19,
+    "regency_id": 1904,
+    "district_id": 190401,
+    "value": "Terentang III",
+    "postal_code": "33681"
+  }
+]

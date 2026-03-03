@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9502092009,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Bon Yakwol",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092008,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Denom",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092010,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Ok Telabe (Ok Telab)",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Okbon",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Pepera",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092011,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Wok Bakon",
+    "postal_code": "99417"
+  },
+  {
+    "id": 9502092007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950209,
+    "value": "Yun Muku",
+    "postal_code": "99417"
+  }
+]

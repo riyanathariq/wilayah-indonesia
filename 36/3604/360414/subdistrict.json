@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3604142007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Bendung",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Cerukcuk",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Cibodas",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Lempuyang",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Pedaleman",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Siremen",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Sukamanah",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Tanara",
+    "postal_code": "42194"
+  },
+  {
+    "id": 3604142003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360414,
+    "value": "Tenjoayu (Tenjo Ayu)",
+    "postal_code": "42194"
+  }
+]

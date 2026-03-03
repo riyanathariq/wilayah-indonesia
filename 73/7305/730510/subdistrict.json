@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7305102004,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Balangdatu",
+    "postal_code": "92232"
+  },
+  {
+    "id": 7305102005,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Maccini Baji",
+    "postal_code": "92232"
+  },
+  {
+    "id": 7305102002,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Mattiro Baji",
+    "postal_code": "92232"
+  },
+  {
+    "id": 7305102006,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Minasa Baji",
+    "postal_code": "92232"
+  },
+  {
+    "id": 7305102003,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Rewataya",
+    "postal_code": "92232"
+  },
+  {
+    "id": 7305102001,
+    "province_id": 73,
+    "regency_id": 7305,
+    "district_id": 730510,
+    "value": "Tompotana",
+    "postal_code": "92232"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9304062007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Bawor",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Hainam",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Kamur",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Sanapai",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Sanep",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Saramit",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062009,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Sarmafo",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Yagamit",
+    "postal_code": "99773"
+  },
+  {
+    "id": 9304062004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930406,
+    "value": "Yahoi",
+    "postal_code": "99773"
+  }
+]

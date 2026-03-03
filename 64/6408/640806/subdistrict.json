@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6408062001,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Long Bentuq (Long Bentuk)",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408062003,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Long Lees",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408062006,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Long Nyelong",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408062002,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Long Pejeng",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408062004,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Mekar Baru",
+    "postal_code": "75556"
+  },
+  {
+    "id": 6408062005,
+    "province_id": 64,
+    "regency_id": 6408,
+    "district_id": 640806,
+    "value": "Rantau Sentosa",
+    "postal_code": "75556"
+  }
+]

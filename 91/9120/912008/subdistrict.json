@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9120082006,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Anasi",
+    "postal_code": "98682"
+  },
+  {
+    "id": 9120082003,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Bonoi",
+    "postal_code": "98682"
+  },
+  {
+    "id": 9120082001,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Poiwai",
+    "postal_code": "98682"
+  },
+  {
+    "id": 9120082005,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Rapambrei",
+    "postal_code": "98682"
+  },
+  {
+    "id": 9120082004,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Sorabi",
+    "postal_code": "98682"
+  },
+  {
+    "id": 9120082002,
+    "province_id": 91,
+    "regency_id": 9120,
+    "district_id": 912008,
+    "value": "Tamakuri",
+    "postal_code": "98682"
+  }
+]

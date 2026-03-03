@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7317152001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Ilan Batu",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317152002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Ilan Batu Uru",
+    "postal_code": "91951"
+  },
+  {
+    "id": 7317152004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Lamasi Hulu",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317152005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Lempe",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317152003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Lempe Pasang",
+    "postal_code": "91952"
+  },
+  {
+    "id": 7317152006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731715,
+    "value": "Lewandi",
+    "postal_code": "91952"
+  }
+]

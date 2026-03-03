@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7317102004,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Babang",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102006,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Batulappa (Batu Lappa)",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317101001,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Bone Pute (Bonepute)",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102009,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Dadeko",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102010,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Gandang Batu",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102005,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "La'loa (La Loa)",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102007,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Malewong",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102008,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Salusana",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102003,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Sampano",
+    "postal_code": "91998"
+  },
+  {
+    "id": 7317102002,
+    "province_id": 73,
+    "regency_id": 7317,
+    "district_id": 731710,
+    "value": "Temboe",
+    "postal_code": "91998"
+  }
+]

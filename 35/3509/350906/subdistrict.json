@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3509062004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Darungan",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Klatakan",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Kramat Sukoharjo",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Manggisan",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Patemon",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Selodakon",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Tanggulkulon (Tanggul Kulon)",
+    "postal_code": "68155"
+  },
+  {
+    "id": 3509062002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350906,
+    "value": "Tanggulwetan (Tanggul Wetan)",
+    "postal_code": "68155"
+  }
+]

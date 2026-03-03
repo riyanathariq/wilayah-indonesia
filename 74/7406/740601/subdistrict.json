@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7406011016,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Barangka (Barangga)",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406011007,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Boeara",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406011010,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Boepinang",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406011015,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Boepinang Barat",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406011017,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Kasabolo",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406011008,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Kastarib",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406012019,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Matiro Walie",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406012011,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Pallimae",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406012009,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Pukurumba (Pokorumba)",
+    "postal_code": "93772"
+  },
+  {
+    "id": 7406012018,
+    "province_id": 74,
+    "regency_id": 7406,
+    "district_id": 740601,
+    "value": "Salosa",
+    "postal_code": "93772"
+  }
+]

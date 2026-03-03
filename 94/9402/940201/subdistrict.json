@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9402012047,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Birak Ambut",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012044,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Muliagambut",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402011060,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Pagaleme",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012042,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Pepera",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012001,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Pruleme",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012046,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Towogi",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012045,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Trikora",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012049,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Usir",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012003,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Wuyukwi",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402011059,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Wuyukwi (Kelurahan Wuyukwi)",
+    "postal_code": "98915"
+  },
+  {
+    "id": 9402012023,
+    "province_id": 94,
+    "regency_id": 9402,
+    "district_id": 940201,
+    "value": "Wuyuneri",
+    "postal_code": "98915"
+  }
+]

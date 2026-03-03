@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1571041001,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157104,
+    "value": "Beringin",
+    "postal_code": "36112"
+  },
+  {
+    "id": 1571041002,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157104,
+    "value": "Orang Kayo Hitam",
+    "postal_code": "36111"
+  },
+  {
+    "id": 1571041003,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157104,
+    "value": "Pasar Jambi",
+    "postal_code": "36133"
+  },
+  {
+    "id": 1571041004,
+    "province_id": 15,
+    "regency_id": 1571,
+    "district_id": 157104,
+    "value": "Sungai Asam",
+    "postal_code": "36134"
+  }
+]

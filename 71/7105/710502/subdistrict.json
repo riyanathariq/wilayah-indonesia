@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7105022017,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Karowa",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022012,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Kinalawiran",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022018,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Liandok",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022016,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Lindangan",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022014,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Pinaesaan",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Raraatean",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Sion",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022011,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Tompaso Baru I (Tompaso Baru Satu)",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022013,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Tompaso Baru II (Tompaso Baru Dua)",
+    "postal_code": "95358"
+  },
+  {
+    "id": 7105022015,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710502,
+    "value": "Torout",
+    "postal_code": "95358"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6503102003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650310,
+    "value": "Bukit Aru Indah",
+    "postal_code": "77488"
+  },
+  {
+    "id": 6503102001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650310,
+    "value": "Sungai Nyamuk",
+    "postal_code": "77488"
+  },
+  {
+    "id": 6503102004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650310,
+    "value": "Tanjung Aru",
+    "postal_code": "77488"
+  },
+  {
+    "id": 6503102002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650310,
+    "value": "Tanjung Harapan",
+    "postal_code": "77488"
+  }
+]

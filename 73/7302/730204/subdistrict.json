@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7302042004,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Batang",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042008,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Bonto Barua",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042011,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Bonto Bulaeng",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042010,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Bonto Marannu",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042005,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Bonto Tangnga",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042012,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Buhung Bundang",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042006,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Caramming",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042002,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Dwi Tiro",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302041001,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Eka Tiro (Ekatiro)",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042013,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Lamanda",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042009,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Paku Balaho (Pakubalaho)",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042007,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Tamalanrea",
+    "postal_code": "92572"
+  },
+  {
+    "id": 7302042003,
+    "province_id": 73,
+    "regency_id": 7302,
+    "district_id": 730204,
+    "value": "Tri Tiro (Tritiro)",
+    "postal_code": "92572"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6303162002,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Baliangin",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162004,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Batang Banyu",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162006,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Batu Tanam",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162003,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Gunung Batu",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162001,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Madurejo",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162007,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Pasar Baru",
+    "postal_code": "70677"
+  },
+  {
+    "id": 6303162005,
+    "province_id": 63,
+    "regency_id": 6303,
+    "district_id": 630316,
+    "value": "Sei/Sungai Lurus",
+    "postal_code": "70677"
+  }
+]

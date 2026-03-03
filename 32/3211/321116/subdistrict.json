@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3211162002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Cibunar",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Cibungur",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Nagarawangi",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Pamekaran",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Pangadegan",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Pasirbiru (Pasir Biru)",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Rancakalong",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Sukahayu",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Sukamaju",
+    "postal_code": "45361"
+  },
+  {
+    "id": 3211162008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321116,
+    "value": "Sukasirnarasa",
+    "postal_code": "45361"
+  }
+]

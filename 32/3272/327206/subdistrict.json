@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3272061004,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327206,
+    "value": "Cikundul",
+    "postal_code": "43168"
+  },
+  {
+    "id": 3272061001,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327206,
+    "value": "Cipanengah",
+    "postal_code": "43134"
+  },
+  {
+    "id": 3272061003,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327206,
+    "value": "Lembursitu",
+    "postal_code": "43169"
+  },
+  {
+    "id": 3272061005,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327206,
+    "value": "Sindangsari",
+    "postal_code": "43167"
+  },
+  {
+    "id": 3272061002,
+    "province_id": 32,
+    "regency_id": 3272,
+    "district_id": 327206,
+    "value": "Situmekar",
+    "postal_code": "43169"
+  }
+]

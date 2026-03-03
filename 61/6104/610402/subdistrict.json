@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6104022022,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Bantan Sari",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022021,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Batu Payung Dua (Batu Payung)",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Belaban",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022008,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Karya Baru",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022023,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Pelanjau Jaya (Planjau Jaya)",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Randai",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022024,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Rangkung (Rangkong)",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022020,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Riam Batu Gading (Riam Batu Gadig)",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Runjai Jaya",
+    "postal_code": "78865"
+  },
+  {
+    "id": 6104022001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610402,
+    "value": "Suka Karya",
+    "postal_code": "78865"
+  }
+]

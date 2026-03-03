@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3577021006,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Madiun Lor",
+    "postal_code": "63122"
+  },
+  {
+    "id": 3577021001,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Manguharjo",
+    "postal_code": "63127"
+  },
+  {
+    "id": 3577021009,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Nambangan Kidul",
+    "postal_code": "63128"
+  },
+  {
+    "id": 3577021008,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Nambangan Lor",
+    "postal_code": "63129"
+  },
+  {
+    "id": 3577021004,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Ngegong",
+    "postal_code": "63125"
+  },
+  {
+    "id": 3577021007,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Pangongangan",
+    "postal_code": "63121"
+  },
+  {
+    "id": 3577021003,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Patihan",
+    "postal_code": "63123"
+  },
+  {
+    "id": 3577021002,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Sogaten",
+    "postal_code": "63129"
+  },
+  {
+    "id": 3577021005,
+    "province_id": 35,
+    "regency_id": 3577,
+    "district_id": 357702,
+    "value": "Winongo",
+    "postal_code": "63126"
+  }
+]

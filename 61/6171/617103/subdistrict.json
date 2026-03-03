@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6171031001,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617103,
+    "value": "Pallima (Pal Lima)",
+    "postal_code": "78114"
+  },
+  {
+    "id": 6171031004,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617103,
+    "value": "Sungaibeliung (Sei / Sungai Beliung)",
+    "postal_code": "78117"
+  },
+  {
+    "id": 6171031002,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617103,
+    "value": "Sungaijawi Dalam (Sei / Sungai Jawi Dalam)",
+    "postal_code": "78115"
+  },
+  {
+    "id": 6171031003,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617103,
+    "value": "Sungaijawi Luar (Sei / Sungai Jawi Luar)",
+    "postal_code": "78113"
+  }
+]

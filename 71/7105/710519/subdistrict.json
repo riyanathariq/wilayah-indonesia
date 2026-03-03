@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7105192011,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Arakan",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192003,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Bajo",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192001,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Paslaten",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192010,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Paslaten Satu",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192005,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Popareng",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192008,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Pungkol",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192009,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Raprap (Rap-Rap)",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192007,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Sondaken",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192002,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Sulu",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192004,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Wawona",
+    "postal_code": "95351"
+  },
+  {
+    "id": 7105192006,
+    "province_id": 71,
+    "regency_id": 7105,
+    "district_id": 710519,
+    "value": "Wawontulap",
+    "postal_code": "95351"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1303082006,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Bukit Bual",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082003,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Guguak (Guguk)",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082001,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Limo Koto",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082004,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Padang Laweh",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082007,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Padang Laweh Selatan",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082002,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Palaluar",
+    "postal_code": "27562"
+  },
+  {
+    "id": 1303082005,
+    "province_id": 13,
+    "regency_id": 1303,
+    "district_id": 130308,
+    "value": "Tanjung",
+    "postal_code": "27562"
+  }
+]

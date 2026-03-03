@@ -1,0 +1,38 @@
+[
+  {
+    "id": 741003,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Bonegunu"
+  },
+  {
+    "id": 741002,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Kambowa"
+  },
+  {
+    "id": 741001,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Kulisusu (Kalingsusu/Kalisusu)"
+  },
+  {
+    "id": 741004,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Kulisusu Barat"
+  },
+  {
+    "id": 741005,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Kulisusu Utara"
+  },
+  {
+    "id": 741006,
+    "province_id": 74,
+    "regency_id": 7410,
+    "value": "Wakorumba Utara"
+  }
+]

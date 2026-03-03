@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3207011005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Benteng",
+    "postal_code": "46217"
+  },
+  {
+    "id": 3207011001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Ciamis",
+    "postal_code": "46211"
+  },
+  {
+    "id": 3207011004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Cigembor",
+    "postal_code": "46212"
+  },
+  {
+    "id": 3207012009,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Cisadap",
+    "postal_code": "46215"
+  },
+  {
+    "id": 3207012010,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Imbanagara",
+    "postal_code": "46219"
+  },
+  {
+    "id": 3207012011,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Imbanagara Raya",
+    "postal_code": "46219"
+  },
+  {
+    "id": 3207011002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Kertasari",
+    "postal_code": "46213"
+  },
+  {
+    "id": 3207011006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Linggasari",
+    "postal_code": "46216"
+  },
+  {
+    "id": 3207011003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Maleber",
+    "postal_code": "46214"
+  },
+  {
+    "id": 3207012012,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Panyingkiran",
+    "postal_code": "46211"
+  },
+  {
+    "id": 3207012008,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Pawindan",
+    "postal_code": "46218"
+  },
+  {
+    "id": 3207011007,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320701,
+    "value": "Sindangrasa",
+    "postal_code": "46215"
+  }
+]

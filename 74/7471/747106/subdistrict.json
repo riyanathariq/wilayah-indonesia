@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7471061003,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Abeli",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471061006,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Anggalomelai (Anggolomelai)",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471061004,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Benuanirae (Benua Nirae)",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471061002,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Lapulu",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471061008,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Poasia",
+    "postal_code": "93235"
+  },
+  {
+    "id": 7471061001,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Puday (Pudai)",
+    "postal_code": "93234"
+  },
+  {
+    "id": 7471061007,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747106,
+    "value": "Talia",
+    "postal_code": "93235"
+  }
+]

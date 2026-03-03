@@ -1,0 +1,138 @@
+[
+  {
+    "id": 6306022010,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Batu Bini",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022015,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Batu Laki",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022013,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Durian Rabung",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022006,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Jambu Hulu",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022014,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Jelatang (Jalatang)",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022009,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Jembatan Merah",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022005,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Kaliring",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022002,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Karang Jawa",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022001,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Karang Jawa Muka",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022012,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Madang",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022017,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Malilingin",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022016,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Malutu",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022011,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Mawangi",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022008,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Padang Batung",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022007,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Pahampangan",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022004,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Pandulangan",
+    "postal_code": "71281"
+  },
+  {
+    "id": 6306022003,
+    "province_id": 63,
+    "regency_id": 6306,
+    "district_id": 630602,
+    "value": "Tabihi",
+    "postal_code": "71281"
+  }
+]

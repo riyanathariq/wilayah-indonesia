@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205172004,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920517,
+    "value": "Pulau Tikus",
+    "postal_code": "98481"
+  },
+  {
+    "id": 9205172003,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920517,
+    "value": "Satukurano",
+    "postal_code": "98481"
+  },
+  {
+    "id": 9205172001,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920517,
+    "value": "Wejim Barat",
+    "postal_code": "98481"
+  },
+  {
+    "id": 9205172002,
+    "province_id": 92,
+    "regency_id": 9205,
+    "district_id": 920517,
+    "value": "Wejim Timur",
+    "postal_code": "98481"
+  }
+]

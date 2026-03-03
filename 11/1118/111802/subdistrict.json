@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1118022029,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Alue Keumiki",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022013,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Balee Ulim (Bale Ulim)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022020,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Bidok",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022030,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Blang Cari",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022026,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Blang Rheue",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022027,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Cot Seutui (Cot Seutuy)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022001,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Dayah Baroh",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022009,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Dayah Leubue",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022006,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Geulanggang",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022014,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Grong Grong Capa",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022011,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Keude Ulim",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022028,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Lhok Gajah",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022007,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Mesjid Ulim Baroh",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022017,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Mesjid Ulim Tunong",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022012,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Meunasah Bueng",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022005,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Meunasah Krueng (Krueng)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022015,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Meunasah Kumbang",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022025,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Meunasah Mesjid",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022022,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Meunasah Pupu",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022024,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Nangrhoe Timu (Nanggroe Timur)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022023,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Nangrhou Barat",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022021,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Pantang Cot Baloi",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022008,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Pulo Lhok",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022018,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Pulo Ulim",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022002,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Reuleut",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022003,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Sambungan Baro (Sambongan Baro)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022019,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Siblah Coh",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022016,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Tanjong Ulim",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022010,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Tijien Daboh (Tijin Daboh)",
+    "postal_code": "24187"
+  },
+  {
+    "id": 1118022004,
+    "province_id": 11,
+    "regency_id": 1118,
+    "district_id": 111802,
+    "value": "Tijien Husen (Tijin Husen)",
+    "postal_code": "24187"
+  }
+]

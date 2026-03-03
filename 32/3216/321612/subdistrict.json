@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216122006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Bojongsari",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Karangharum (Karang Harum)",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Karangmekar (Karang Mekar)",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Karangsambung (Karang Sambung)",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Kedungwaringin",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Mekarjaya (Mekar Jaya)",
+    "postal_code": "17540"
+  },
+  {
+    "id": 3216122002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321612,
+    "value": "Waringinjaya (Waringin Jaya)",
+    "postal_code": "17540"
+  }
+]

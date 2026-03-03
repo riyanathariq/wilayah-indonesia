@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6305092002,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Banua Padang",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092004,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Banua Padang Hilir",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092003,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Bungur",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092009,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Bungur Baru",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092006,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Hangui",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092001,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Kalumpang",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092012,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Linuh",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092011,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Paring Guling",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092008,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Purut",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092007,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Rantau Bujur",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092005,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Shabah",
+    "postal_code": "71153"
+  },
+  {
+    "id": 6305092010,
+    "province_id": 63,
+    "regency_id": 6305,
+    "district_id": 630509,
+    "value": "Timbung",
+    "postal_code": "71153"
+  }
+]

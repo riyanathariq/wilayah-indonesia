@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3507032007,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Bandungrejo",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032003,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Bantur",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032010,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Karangsari",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032008,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Pringgondani (Pringgodani)",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032002,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Rejosari",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032009,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Rejoyoso",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032005,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Srigonco",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032006,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Sumberbening",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032001,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Wonokerto",
+    "postal_code": "65179"
+  },
+  {
+    "id": 3507032004,
+    "province_id": 35,
+    "regency_id": 3507,
+    "district_id": 350703,
+    "value": "Wonorejo",
+    "postal_code": "65179"
+  }
+]

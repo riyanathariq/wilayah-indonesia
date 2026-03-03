@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3508212003,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Grati",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212002,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Kebonsari",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212004,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Labruk Kidul",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212005,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Mojosari",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212008,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Petahunan",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212007,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Purwosono",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212006,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Sentul",
+    "postal_code": "67316"
+  },
+  {
+    "id": 3508212001,
+    "province_id": 35,
+    "regency_id": 3508,
+    "district_id": 350821,
+    "value": "Sumbersuko",
+    "postal_code": "67316"
+  }
+]

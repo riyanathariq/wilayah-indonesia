@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5305052013,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Belemana",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052010,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Elok",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052005,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Kolana Selatan",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305051001,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Kolana Utara",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052008,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Maritaing",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052014,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Maukuru",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052012,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Mausamang",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052007,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Padang Panjang",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052004,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Tanglapui",
+    "postal_code": "85872"
+  },
+  {
+    "id": 5305052011,
+    "province_id": 53,
+    "regency_id": 5305,
+    "district_id": 530505,
+    "value": "Tanglapui Timur",
+    "postal_code": "85872"
+  }
+]

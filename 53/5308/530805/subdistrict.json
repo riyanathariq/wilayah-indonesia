@@ -1,0 +1,114 @@
+[
+  {
+    "id": 5308052014,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Kekasewa",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052018,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Kelikiku",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308051002,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Lokoboko",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052015,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Manulondo (Manulando)",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052016,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Nanganesa",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052007,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Ngalupolo",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052012,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Ngauroga/Ngaluroga",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052013,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Nila",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308051001,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Onelako",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052006,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Puutuga",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052020,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Reka",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052017,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Wolokota",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052004,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Wolotolo Timur (Wolotopo Timur)",
+    "postal_code": "86360"
+  },
+  {
+    "id": 5308052003,
+    "province_id": 53,
+    "regency_id": 5308,
+    "district_id": 530805,
+    "value": "Wolotopo",
+    "postal_code": "86360"
+  }
+]

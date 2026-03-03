@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8172021003,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817202,
+    "value": "Ketsoblak",
+    "postal_code": "97611"
+  },
+  {
+    "id": 8172021005,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817202,
+    "value": "Lodar El (Lodar Ell)",
+    "postal_code": "97611"
+  },
+  {
+    "id": 8172021004,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817202,
+    "value": "Masrum",
+    "postal_code": "97611"
+  },
+  {
+    "id": 8172022002,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817202,
+    "value": "Taar",
+    "postal_code": "97611"
+  },
+  {
+    "id": 8172022001,
+    "province_id": 81,
+    "regency_id": 8172,
+    "district_id": 817202,
+    "value": "Tual",
+    "postal_code": "97611"
+  }
+]

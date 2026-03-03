@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9103192005,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910319,
+    "value": "Buseryo",
+    "postal_code": "99355"
+  },
+  {
+    "id": 9103192003,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910319,
+    "value": "Endokisi",
+    "postal_code": "99355"
+  },
+  {
+    "id": 9103192001,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910319,
+    "value": "Maruwai (Maruway)",
+    "postal_code": "99355"
+  },
+  {
+    "id": 9103192002,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910319,
+    "value": "Meukisi",
+    "postal_code": "99355"
+  },
+  {
+    "id": 9103192006,
+    "province_id": 91,
+    "regency_id": 9103,
+    "district_id": 910319,
+    "value": "Senamay (Snamay)",
+    "postal_code": "99355"
+  }
+]

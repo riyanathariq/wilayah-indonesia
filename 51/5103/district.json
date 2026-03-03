@@ -1,0 +1,38 @@
+[
+  {
+    "id": 510303,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Abiansemal"
+  },
+  {
+    "id": 510301,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Kuta"
+  },
+  {
+    "id": 510305,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Kuta Selatan"
+  },
+  {
+    "id": 510306,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Kuta Utara"
+  },
+  {
+    "id": 510302,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Mengwi"
+  },
+  {
+    "id": 510304,
+    "province_id": 51,
+    "regency_id": 5103,
+    "value": "Petang"
+  }
+]

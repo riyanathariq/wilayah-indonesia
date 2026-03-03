@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3173041007,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Angke",
+    "postal_code": "11330"
+  },
+  {
+    "id": 3173041011,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Duri Selatan",
+    "postal_code": "11270"
+  },
+  {
+    "id": 3173041003,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Duri Utara",
+    "postal_code": "11270"
+  },
+  {
+    "id": 3173041006,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Jembatan Besi",
+    "postal_code": "11320"
+  },
+  {
+    "id": 3173041008,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Jembatan Lima",
+    "postal_code": "11250"
+  },
+  {
+    "id": 3173041002,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Kali Anyar",
+    "postal_code": "11310"
+  },
+  {
+    "id": 3173041005,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Krendang",
+    "postal_code": "11260"
+  },
+  {
+    "id": 3173041009,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Pekojan",
+    "postal_code": "11240"
+  },
+  {
+    "id": 3173041010,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Roa Malaka",
+    "postal_code": "11230"
+  },
+  {
+    "id": 3173041001,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Tambora",
+    "postal_code": "11220"
+  },
+  {
+    "id": 3173041004,
+    "province_id": 31,
+    "regency_id": 3173,
+    "district_id": 317304,
+    "value": "Tanah Sereal",
+    "postal_code": "11210"
+  }
+]

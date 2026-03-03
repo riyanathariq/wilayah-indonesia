@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9507112003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Dapogi",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Dugume",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Kulumburu",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Molobok",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Tugunakwi",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Wulundia",
+    "postal_code": "99591"
+  },
+  {
+    "id": 9507112007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950711,
+    "value": "Yanuru",
+    "postal_code": "99591"
+  }
+]

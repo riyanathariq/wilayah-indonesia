@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1802152008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Bangun Sari",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Binjai Ngagung (Agung)",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Goras Jaya",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Kedatuan",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Kesuma Dadi (Kesumadadi)",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Kesuma Jaya",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Rengas",
+    "postal_code": "34162"
+  },
+  {
+    "id": 1802152003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180215,
+    "value": "Sinar Banten/Bekri",
+    "postal_code": "34162"
+  }
+]

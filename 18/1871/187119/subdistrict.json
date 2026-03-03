@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1871191004,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Keteguhan",
+    "postal_code": "35235"
+  },
+  {
+    "id": 1871191001,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Kota Karang",
+    "postal_code": "35231"
+  },
+  {
+    "id": 1871191002,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Kota Karang Raya",
+    "postal_code": "35231"
+  },
+  {
+    "id": 1871191003,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Parwata (Perwata)",
+    "postal_code": "35237"
+  },
+  {
+    "id": 1871191005,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Sukamaju",
+    "postal_code": "35236"
+  },
+  {
+    "id": 1871191006,
+    "province_id": 18,
+    "regency_id": 1871,
+    "district_id": 187119,
+    "value": "Way Tataan",
+    "postal_code": "35236"
+  }
+]

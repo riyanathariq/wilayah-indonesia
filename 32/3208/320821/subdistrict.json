@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3208212004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Cimaranten",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Cipicung",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Karoya",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212010,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Mekarsari",
+    "postal_code": "45576"
+  },
+  {
+    "id": 3208212001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Muncangela",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Pamulihan",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Salareuma",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Suganangan",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Sukamukti",
+    "postal_code": "45592"
+  },
+  {
+    "id": 3208212003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320821,
+    "value": "Susukan",
+    "postal_code": "45592"
+  }
+]

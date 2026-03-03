@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6271051007,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Bukit Sua",
+    "postal_code": "73229"
+  },
+  {
+    "id": 6271051006,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Gaung Baru",
+    "postal_code": "73229"
+  },
+  {
+    "id": 6271051004,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Mungku Baru",
+    "postal_code": "73229"
+  },
+  {
+    "id": 6271051005,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Pager",
+    "postal_code": "73229"
+  },
+  {
+    "id": 6271051002,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Panjehang",
+    "postal_code": "73228"
+  },
+  {
+    "id": 6271051003,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Petuk Barunai (Petuk Berunai)",
+    "postal_code": "73229"
+  },
+  {
+    "id": 6271051001,
+    "province_id": 62,
+    "regency_id": 6271,
+    "district_id": 627105,
+    "value": "Petuk Bukit",
+    "postal_code": "73227"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6503022004,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650302,
+    "value": "Binusan",
+    "postal_code": "77482"
+  },
+  {
+    "id": 6503021002,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650302,
+    "value": "Nunukan Barat",
+    "postal_code": "77482"
+  },
+  {
+    "id": 6503021005,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650302,
+    "value": "Nunukan Tengah",
+    "postal_code": "77482"
+  },
+  {
+    "id": 6503021001,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650302,
+    "value": "Nunukan Timur",
+    "postal_code": "77482"
+  },
+  {
+    "id": 6503021003,
+    "province_id": 65,
+    "regency_id": 6503,
+    "district_id": 650302,
+    "value": "Nunukan Utara",
+    "postal_code": "77482"
+  }
+]

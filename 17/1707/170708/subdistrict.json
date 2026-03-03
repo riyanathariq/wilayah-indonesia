@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1707082006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Lemeu Pit",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Magelang Baru",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Muning Agung",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082009,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Suka Bumi",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Tabeak Dipoa",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Tabeak Kauk",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Ujung Tanjung I (satu)",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Ujung Tanjung II (dua)",
+    "postal_code": "39267"
+  },
+  {
+    "id": 1707082004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170708,
+    "value": "Ujung Tanjung III (tiga)",
+    "postal_code": "39267"
+  }
+]

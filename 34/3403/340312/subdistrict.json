@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3403122005,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Bendung",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122003,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Bulurejo",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122006,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Candirejo (Candi Rejo)",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122001,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Kalitekuk",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122008,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Karangsari (Karang Sari)",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122002,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Kemejing",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122009,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Pundungsari (Pundung Sari)",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122007,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Rejosari",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122010,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Semin",
+    "postal_code": "55854"
+  },
+  {
+    "id": 3403122004,
+    "province_id": 34,
+    "regency_id": 3403,
+    "district_id": 340312,
+    "value": "Sumberejo (Sumberrejo)",
+    "postal_code": "55854"
+  }
+]

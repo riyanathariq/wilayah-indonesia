@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5302152010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Baus",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Boking",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152014,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Fatu Manufui",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Leonani (Leonmeni)",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Meusin",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Nano",
+    "postal_code": "85584"
+  },
+  {
+    "id": 5302152006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530215,
+    "value": "Sabun",
+    "postal_code": "85584"
+  }
+]

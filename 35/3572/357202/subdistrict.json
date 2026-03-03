@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3572021002,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Blitar",
+    "postal_code": "66126"
+  },
+  {
+    "id": 3572021005,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Karangsari (Karang Sari)",
+    "postal_code": "66125"
+  },
+  {
+    "id": 3572021001,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Pakunden",
+    "postal_code": "66122"
+  },
+  {
+    "id": 3572021006,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Sukorejo",
+    "postal_code": "66121"
+  },
+  {
+    "id": 3572021007,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Tanjungsari (Tanjung Sari)",
+    "postal_code": "66126"
+  },
+  {
+    "id": 3572021003,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Tlumpu",
+    "postal_code": "66124"
+  },
+  {
+    "id": 3572021004,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357202,
+    "value": "Turi",
+    "postal_code": "66126"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1606032009,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Gajah Mati",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032004,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Kartayu (Kertayu)",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032015,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Keramat Jaya",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032014,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Kerta Jaya",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032002,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Pagar Kaya",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032010,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Rantau Sialang",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032007,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Sindang Marga",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032003,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Sukalali (Suka Lali)",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032006,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Sungai Dua",
+    "postal_code": "30751"
+  },
+  {
+    "id": 1606032008,
+    "province_id": 16,
+    "regency_id": 1606,
+    "district_id": 160603,
+    "value": "Tebing Bulang",
+    "postal_code": "30751"
+  }
+]

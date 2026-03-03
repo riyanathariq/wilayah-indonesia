@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9119052004,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Amyas",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052002,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Koryakam (Koiryakam)",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052007,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Mapia",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052006,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Masyai",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052005,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Napisndi (Napisandi)",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052001,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Waryei (Wariyei)",
+    "postal_code": "98581"
+  },
+  {
+    "id": 9119052003,
+    "province_id": 91,
+    "regency_id": 9119,
+    "district_id": 911905,
+    "value": "Wayori (Mayori)",
+    "postal_code": "98581"
+  }
+]

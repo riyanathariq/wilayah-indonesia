@@ -1,0 +1,98 @@
+[
+  {
+    "id": 7405132010,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Awalo",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132005,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Benua",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132003,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Benua Utama",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132004,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Horodopi",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132011,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Kosambi",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132001,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Lamara",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132006,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Palawewu (Palowewu)",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132002,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Puosu (Puuosu)",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132007,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Puunggawu Kawu (Punggawukawu)",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132012,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Puuwehuko",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132009,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Tetehaka",
+    "postal_code": "93877"
+  },
+  {
+    "id": 7405132008,
+    "province_id": 74,
+    "regency_id": 7405,
+    "district_id": 740513,
+    "value": "Uelawa",
+    "postal_code": "93877"
+  }
+]

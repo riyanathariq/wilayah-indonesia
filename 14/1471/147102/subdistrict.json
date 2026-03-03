@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1471021004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Kota Baru",
+    "postal_code": "28114"
+  },
+  {
+    "id": 1471021006,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Kota Tinggi",
+    "postal_code": "28112"
+  },
+  {
+    "id": 1471021001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Simpang Empat",
+    "postal_code": "28116"
+  },
+  {
+    "id": 1471021005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Sukaramai (Suka Ramai)",
+    "postal_code": "28113"
+  },
+  {
+    "id": 1471021002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Sumahilang (Suma Hilang)",
+    "postal_code": "28111"
+  },
+  {
+    "id": 1471021003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147102,
+    "value": "Tanah Datar",
+    "postal_code": "28115"
+  }
+]

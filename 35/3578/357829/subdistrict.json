@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3578291004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357829,
+    "value": "Bulak",
+    "postal_code": "60124"
+  },
+  {
+    "id": 3578291001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357829,
+    "value": "Kedung Cowek",
+    "postal_code": "60125"
+  },
+  {
+    "id": 3578291003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357829,
+    "value": "Kenjeran",
+    "postal_code": "60123"
+  },
+  {
+    "id": 3578291005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357829,
+    "value": "Sukolilo Baru",
+    "postal_code": "60122"
+  }
+]

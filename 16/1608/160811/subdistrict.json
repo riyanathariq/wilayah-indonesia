@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1608112001,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Batu Raja Bungin (Baturaja Bungin)",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112004,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Negeri Ratu",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112006,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Negeri Ratu Baru",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112005,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Peracak",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112003,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Sabahlioh (Sabah Lioh)",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112008,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Sukabaru (Suka Baru)",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112002,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Tulang Bawang",
+    "postal_code": "32387"
+  },
+  {
+    "id": 1608112007,
+    "province_id": 16,
+    "regency_id": 1608,
+    "district_id": 160811,
+    "value": "Tunas Peracak",
+    "postal_code": "32387"
+  }
+]

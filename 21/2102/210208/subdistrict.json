@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2102082005,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210208,
+    "value": "Gemuruh",
+    "postal_code": "29662"
+  },
+  {
+    "id": 2102082004,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210208,
+    "value": "Kundur",
+    "postal_code": "29662"
+  },
+  {
+    "id": 2102081001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210208,
+    "value": "Sawang",
+    "postal_code": "29662"
+  },
+  {
+    "id": 2102082003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210208,
+    "value": "Sawang Laut",
+    "postal_code": "29662"
+  },
+  {
+    "id": 2102082002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210208,
+    "value": "Sawang Selatan",
+    "postal_code": "29662"
+  }
+]

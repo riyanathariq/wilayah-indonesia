@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3511132004,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Karanganyar",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132001,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Klabang",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132014,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Klabang Agung",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132002,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Mandiro",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132015,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Purnama",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511131005,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Sekarputih",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132003,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Tanggulangin",
+    "postal_code": "68292"
+  },
+  {
+    "id": 3511132006,
+    "province_id": 35,
+    "regency_id": 3511,
+    "district_id": 351113,
+    "value": "Tegalampel",
+    "postal_code": "68292"
+  }
+]

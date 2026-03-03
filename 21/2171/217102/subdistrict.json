@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2171021003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217102,
+    "value": "Batu Merah",
+    "postal_code": "29452"
+  },
+  {
+    "id": 2171021004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217102,
+    "value": "Kampung Seraya",
+    "postal_code": "29454"
+  },
+  {
+    "id": 2171021002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217102,
+    "value": "Sungai Jodoh",
+    "postal_code": "29453"
+  },
+  {
+    "id": 2171021001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217102,
+    "value": "Tanjung Sengkuang",
+    "postal_code": "29453"
+  }
+]

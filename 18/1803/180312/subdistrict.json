@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1803122008,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Kebun Dalam",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122002,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Muara Dua",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122003,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Pulau Panggung",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122004,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Sekipi",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122005,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Sido Kayo",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122007,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Suka Maju",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122006,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Suka Marga",
+    "postal_code": "34556"
+  },
+  {
+    "id": 1803122001,
+    "province_id": 18,
+    "regency_id": 1803,
+    "district_id": 180312,
+    "value": "Ulak Rengas",
+    "postal_code": "34556"
+  }
+]

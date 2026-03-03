@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6202072002,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Bagendang Hilir",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072005,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Bagendang Hulu",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072007,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Bagendang Permai",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072003,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Bagendang Tengah",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072004,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Natai Baru",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072001,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Pondok Damar",
+    "postal_code": "74361"
+  },
+  {
+    "id": 6202072006,
+    "province_id": 62,
+    "regency_id": 6202,
+    "district_id": 620207,
+    "value": "Sumber Makmur",
+    "postal_code": "74361"
+  }
+]

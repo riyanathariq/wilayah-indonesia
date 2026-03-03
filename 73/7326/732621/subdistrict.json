@@ -1,0 +1,34 @@
+[
+  {
+    "id": 7326212001,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732621,
+    "value": "Awan",
+    "postal_code": "91854"
+  },
+  {
+    "id": 7326212002,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732621,
+    "value": "Batu Lotong",
+    "postal_code": "91854"
+  },
+  {
+    "id": 7326212003,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732621,
+    "value": "Buntu Karua",
+    "postal_code": "91854"
+  },
+  {
+    "id": 7326212004,
+    "province_id": 73,
+    "regency_id": 7326,
+    "district_id": 732621,
+    "value": "Londong Biang",
+    "postal_code": "91854"
+  }
+]

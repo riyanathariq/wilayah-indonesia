@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1901,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Bangka"
+  },
+  {
+    "id": 1905,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Bangka Barat"
+  },
+  {
+    "id": 1903,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Bangka Selatan"
+  },
+  {
+    "id": 1904,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Bangka Tengah"
+  },
+  {
+    "id": 1902,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Belitung"
+  },
+  {
+    "id": 1906,
+    "province_id": 19,
+    "type": "Kabupaten",
+    "value": "Belitung Timur"
+  },
+  {
+    "id": 1971,
+    "province_id": 19,
+    "type": "Kota",
+    "value": "Kota Pangkal Pinang"
+  }
+]

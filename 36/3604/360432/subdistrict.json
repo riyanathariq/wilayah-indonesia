@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3604322003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Angsana",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322013,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Bale Kambang (Balekambang)",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322014,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Bale Kencana",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322011,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Batukuda",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Cikedung",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Ciwarna",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322012,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Labuan (Labuhan)",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Mancak",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Pasirwaru",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Sangiang",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Sigedong",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Talaga",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Waringin",
+    "postal_code": "42165"
+  },
+  {
+    "id": 3604322010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360432,
+    "value": "Winong",
+    "postal_code": "42165"
+  }
+]

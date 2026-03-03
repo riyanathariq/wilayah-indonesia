@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1802122009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru I (Gaya Baru Satu)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru II (Gaya Baru Dua)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru III (Gaya Baru Tiga)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru IV (Gaya Baru Empat)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru VI (Gaya Baru Enam)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru VII (Gaya Baru Tujuh)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Gaya Baru VIII (Gaya Baru Delapan)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122013,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Kenanga Sari",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Mataram Ilir",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122011,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Rawa Betik",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Srikaton (Sri Katon)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122012,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Srimulya Jaya (Sri Mulya Jaya)",
+    "postal_code": "34158"
+  },
+  {
+    "id": 1802122002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180212,
+    "value": "Sumber Katon",
+    "postal_code": "34158"
+  }
+]

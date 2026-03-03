@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1171082002,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Bitai",
+    "postal_code": "23235"
+  },
+  {
+    "id": 1171082006,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Emperom",
+    "postal_code": "23236"
+  },
+  {
+    "id": 1171082007,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Geuceu Meunara",
+    "postal_code": "23241"
+  },
+  {
+    "id": 1171082003,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Lamjamee",
+    "postal_code": "23235"
+  },
+  {
+    "id": 1171082005,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Lampoh Daya",
+    "postal_code": "23235"
+  },
+  {
+    "id": 1171082009,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Lamteumen Barat (Lamtemen Barat)",
+    "postal_code": "23230"
+  },
+  {
+    "id": 1171082008,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Lamteumen Timur (Lamtemen Timur)",
+    "postal_code": "23230"
+  },
+  {
+    "id": 1171082001,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Punge Blang Cut",
+    "postal_code": "23234"
+  },
+  {
+    "id": 1171082004,
+    "province_id": 11,
+    "regency_id": 1171,
+    "district_id": 117108,
+    "value": "Ulee Pata",
+    "postal_code": "23235"
+  }
+]

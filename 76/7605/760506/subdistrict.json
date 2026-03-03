@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7605062007,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Awo",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062006,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Manyamba",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062001,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Seppong",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062004,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Tallambalao",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062002,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Tammerodo",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062005,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Tammerodo Utara",
+    "postal_code": "91450"
+  },
+  {
+    "id": 7605062003,
+    "province_id": 76,
+    "regency_id": 7605,
+    "district_id": 760506,
+    "value": "Ulidang",
+    "postal_code": "91450"
+  }
+]

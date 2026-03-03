@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7309041001,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Baji Pamai",
+    "postal_code": "90516"
+  },
+  {
+    "id": 7309041003,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Baju Bodoa",
+    "postal_code": "90515"
+  },
+  {
+    "id": 7309042004,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Bori Kamase",
+    "postal_code": "90512"
+  },
+  {
+    "id": 7309042007,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Bori Masunggu (Borimasunggu)",
+    "postal_code": "90511"
+  },
+  {
+    "id": 7309042006,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Majannang",
+    "postal_code": "90511"
+  },
+  {
+    "id": 7309042005,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Mattiro Tasi",
+    "postal_code": "90511"
+  },
+  {
+    "id": 7309041002,
+    "province_id": 73,
+    "regency_id": 7309,
+    "district_id": 730904,
+    "value": "Pallantikang",
+    "postal_code": "90516"
+  }
+]

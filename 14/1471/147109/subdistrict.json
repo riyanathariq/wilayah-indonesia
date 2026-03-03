@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1471091005,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Maharatu",
+    "postal_code": "28125"
+  },
+  {
+    "id": 1471091006,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Perhentianmarpoyan",
+    "postal_code": "28125"
+  },
+  {
+    "id": 1471091003,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Sidomulyo Timur",
+    "postal_code": "28125"
+  },
+  {
+    "id": 1471091001,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Tangkerang Barat",
+    "postal_code": "28282"
+  },
+  {
+    "id": 1471091002,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Tangkerang Tengah",
+    "postal_code": "28282"
+  },
+  {
+    "id": 1471091004,
+    "province_id": 14,
+    "regency_id": 1471,
+    "district_id": 147109,
+    "value": "Wonorejo",
+    "postal_code": "28125"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504372007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Baganagapur",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Banggeri",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Geyaneri",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Igari",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Kopenawai",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Mili",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Milineri",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Telelomi",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Tina",
+    "postal_code": "99034"
+  },
+  {
+    "id": 9504372006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950437,
+    "value": "Wunggi",
+    "postal_code": "99034"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9271061001,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927106,
+    "value": "Klaligi",
+    "postal_code": "98415"
+  },
+  {
+    "id": 9271061005,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927106,
+    "value": "Klasabi",
+    "postal_code": "98415"
+  },
+  {
+    "id": 9271061003,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927106,
+    "value": "Malabutor",
+    "postal_code": "98415"
+  },
+  {
+    "id": 9271061002,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927106,
+    "value": "Malawei",
+    "postal_code": "98415"
+  },
+  {
+    "id": 9271061004,
+    "province_id": 92,
+    "regency_id": 9271,
+    "district_id": 927106,
+    "value": "Remu Selatan",
+    "postal_code": "98415"
+  }
+]

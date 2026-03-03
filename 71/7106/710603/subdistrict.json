@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7106031008,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Airmadidi Atas",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106031005,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Airmadidi Bawah",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106031006,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Rap-Rap",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106032003,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Sampiri",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106031011,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Sarongsong II (Sarongsong Dua)",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106031007,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Saronsong I (Sarongsong Satu)",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106032004,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Sawangan",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106031009,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Sukur",
+    "postal_code": "95371"
+  },
+  {
+    "id": 7106032002,
+    "province_id": 71,
+    "regency_id": 7106,
+    "district_id": 710603,
+    "value": "Tanggari",
+    "postal_code": "95371"
+  }
+]

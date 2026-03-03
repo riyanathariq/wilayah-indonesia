@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8208032005,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820803,
+    "value": "Balohang (Balahong)",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208032004,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820803,
+    "value": "Langganu",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208032001,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820803,
+    "value": "Lede",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208032002,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820803,
+    "value": "Todoli",
+    "postal_code": "97794"
+  },
+  {
+    "id": 8208032003,
+    "province_id": 82,
+    "regency_id": 8208,
+    "district_id": 820803,
+    "value": "Tolong",
+    "postal_code": "97794"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3216202001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Cicau",
+    "postal_code": "17531"
+  },
+  {
+    "id": 3216202004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Hegarmukti",
+    "postal_code": "17531"
+  },
+  {
+    "id": 3216202005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Jayamukti",
+    "postal_code": "17531"
+  },
+  {
+    "id": 3216202003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Pasiranji (Pasirpanji)",
+    "postal_code": "17531"
+  },
+  {
+    "id": 3216202006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Pasirtanjung",
+    "postal_code": "17531"
+  },
+  {
+    "id": 3216202002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321620,
+    "value": "Sukamahi",
+    "postal_code": "17531"
+  }
+]

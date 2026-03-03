@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1804232003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Bandar Agung",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Bumi Hantatai",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Gunungratu (Gunung Ratu)",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Negeri Jaya",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Ringin Jaya",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Srimulyo",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Suoh",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Tanjungsari",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Tembelang",
+    "postal_code": "34882"
+  },
+  {
+    "id": 1804232010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180423,
+    "value": "Tri Mekar Jaya",
+    "postal_code": "34882"
+  }
+]

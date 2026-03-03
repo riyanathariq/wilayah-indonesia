@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3376041003,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Cabawan",
+    "postal_code": "52147"
+  },
+  {
+    "id": 3376041001,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Kaligangsa",
+    "postal_code": "52147"
+  },
+  {
+    "id": 3376041004,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Kalinyamat Kulon",
+    "postal_code": "52144"
+  },
+  {
+    "id": 3376041002,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Krandon",
+    "postal_code": "52146"
+  },
+  {
+    "id": 3376041005,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Margadana",
+    "postal_code": "52143"
+  },
+  {
+    "id": 3376041007,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Pesurungan Lor",
+    "postal_code": "52147"
+  },
+  {
+    "id": 3376041006,
+    "province_id": 33,
+    "regency_id": 3376,
+    "district_id": 337604,
+    "value": "Sumurpanggang",
+    "postal_code": "52141"
+  }
+]

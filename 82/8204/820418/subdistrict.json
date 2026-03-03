@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8204182002,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Bajo",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182007,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Batutaga",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182006,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Kampung Baru",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182008,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Paisumbaos (Pasimbaos)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182004,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Prapakanda",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182001,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Sawanakar (Sawangakar/Sawangkang)",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182003,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Tanjung Obit",
+    "postal_code": "97790"
+  },
+  {
+    "id": 8204182005,
+    "province_id": 82,
+    "regency_id": 8204,
+    "district_id": 820418,
+    "value": "Toin",
+    "postal_code": "97790"
+  }
+]

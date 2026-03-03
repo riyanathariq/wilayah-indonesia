@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1214222001,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Fadoro Ewo (Fadoro'ewo)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222010,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Helefanikha",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222007,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Hiliweto",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222003,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Lauso (La'uso)",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222006,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Onohazumba",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222008,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Orahili Huruna",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222004,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Sisarahili Oyo",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222005,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Sisobahili Huruna",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222002,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Soroma'asi",
+    "postal_code": "22864"
+  },
+  {
+    "id": 1214222009,
+    "province_id": 12,
+    "regency_id": 1214,
+    "district_id": 121422,
+    "value": "Tetehosi",
+    "postal_code": "22864"
+  }
+]

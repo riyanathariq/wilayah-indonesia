@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5312182002,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531218,
+    "value": "Gaura",
+    "postal_code": "87270"
+  },
+  {
+    "id": 5312182004,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531218,
+    "value": "Harona Kalla (Harona Kala)",
+    "postal_code": "87270"
+  },
+  {
+    "id": 5312182003,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531218,
+    "value": "Patiala Dete",
+    "postal_code": "87270"
+  },
+  {
+    "id": 5312182001,
+    "province_id": 53,
+    "regency_id": 5312,
+    "district_id": 531218,
+    "value": "Wee Tana",
+    "postal_code": "87270"
+  }
+]

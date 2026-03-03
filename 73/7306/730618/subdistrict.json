@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7306182007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Bontomanai",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Borimatangkasa",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Gentungang",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Kalemandelle (Kalemandalle)",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Mandalle (Mandale)",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Manjalling",
+    "postal_code": "92151"
+  },
+  {
+    "id": 7306182005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730618,
+    "value": "Tanabangka",
+    "postal_code": "92151"
+  }
+]

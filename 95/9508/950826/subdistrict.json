@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9508262004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950826,
+    "value": "Gimigip",
+    "postal_code": "99930"
+  },
+  {
+    "id": 9508262002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950826,
+    "value": "Ginigit",
+    "postal_code": "99930"
+  },
+  {
+    "id": 9508262003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950826,
+    "value": "Pijemae",
+    "postal_code": "99930"
+  },
+  {
+    "id": 9508262001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950826,
+    "value": "Wusi",
+    "postal_code": "99930"
+  }
+]

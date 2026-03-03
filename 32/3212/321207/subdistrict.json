@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3212072006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Bangkaloa Ilir",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Bunder",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Kalensari",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072016,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Kasmaran",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Kongsijaya",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072015,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Leuwigede",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072014,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Ujung Pondok Jaya (Ujungpendokjaya)",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Ujungaris",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Ujungjaya",
+    "postal_code": "45271"
+  },
+  {
+    "id": 3212072007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321207,
+    "value": "Widasari",
+    "postal_code": "45271"
+  }
+]

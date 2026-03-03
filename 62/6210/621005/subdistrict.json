@@ -1,0 +1,114 @@
+[
+  {
+    "id": 6210052022,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Bereng Baru",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052023,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Bereng Malaka",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210051021,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Jakatan Raya",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052027,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Karya Bhakti (Karya Bakti)",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052020,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Linau",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052016,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Luwuk Kantor",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052017,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Luwuk Langkuas",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052019,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Parempei",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052018,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Talangkas (Talangkah)",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052002,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Tumbang Barengei/Baringei",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052014,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Tumbang Bunut",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052001,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Tumbang Jatuh/Jutuh",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052015,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Tumbang Kajuei (Tumbang Jelemu Kajuei)",
+    "postal_code": "74560"
+  },
+  {
+    "id": 6210052009,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621005,
+    "value": "Tumbang Malahoi/Malahui",
+    "postal_code": "74560"
+  }
+]

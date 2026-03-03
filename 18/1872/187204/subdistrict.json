@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1872041003,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187204,
+    "value": "Iring Mulyo (Iringmulyo)",
+    "postal_code": "34112"
+  },
+  {
+    "id": 1872041005,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187204,
+    "value": "Tejo Agung",
+    "postal_code": "34112"
+  },
+  {
+    "id": 1872041002,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187204,
+    "value": "Tejosari (Tejo Sari)",
+    "postal_code": "34124"
+  },
+  {
+    "id": 1872041001,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187204,
+    "value": "Yosodadi",
+    "postal_code": "34111"
+  },
+  {
+    "id": 1872041004,
+    "province_id": 18,
+    "regency_id": 1872,
+    "district_id": 187204,
+    "value": "Yosorejo",
+    "postal_code": "34112"
+  }
+]

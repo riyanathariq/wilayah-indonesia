@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2104122003,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210412,
+    "value": "Pulau Batang",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104122002,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210412,
+    "value": "Tajur Biru",
+    "postal_code": "29873"
+  },
+  {
+    "id": 2104122001,
+    "province_id": 21,
+    "regency_id": 2104,
+    "district_id": 210412,
+    "value": "Temiang",
+    "postal_code": "29873"
+  }
+]

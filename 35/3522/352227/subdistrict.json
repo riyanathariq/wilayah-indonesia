@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3522272006,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Bareng",
+    "postal_code": "62169"
+  },
+  {
+    "id": 3522272001,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Bobol",
+    "postal_code": "62169"
+  },
+  {
+    "id": 3522272005,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Deling",
+    "postal_code": "62169"
+  },
+  {
+    "id": 3522272004,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Klino",
+    "postal_code": "62169"
+  },
+  {
+    "id": 3522272002,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Miyono",
+    "postal_code": "62169"
+  },
+  {
+    "id": 3522272003,
+    "province_id": 35,
+    "regency_id": 3522,
+    "district_id": 352227,
+    "value": "Sekar",
+    "postal_code": "62169"
+  }
+]

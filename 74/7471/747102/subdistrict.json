@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7471021010,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Gunung Jati",
+    "postal_code": "93125"
+  },
+  {
+    "id": 7471021017,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Jati Mekar",
+    "postal_code": "93121"
+  },
+  {
+    "id": 7471021011,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Kampung Salo",
+    "postal_code": "93121"
+  },
+  {
+    "id": 7471021009,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Kandai",
+    "postal_code": "93127"
+  },
+  {
+    "id": 7471021014,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Kassilampe (Kessilampe)",
+    "postal_code": "93121"
+  },
+  {
+    "id": 7471021013,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Kendari Caddi",
+    "postal_code": "93126"
+  },
+  {
+    "id": 7471021012,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Mangga Dua",
+    "postal_code": "93128"
+  },
+  {
+    "id": 7471021015,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Mata",
+    "postal_code": "93129"
+  },
+  {
+    "id": 7471021016,
+    "province_id": 74,
+    "regency_id": 7471,
+    "district_id": 747102,
+    "value": "Purirano",
+    "postal_code": "93121"
+  }
+]

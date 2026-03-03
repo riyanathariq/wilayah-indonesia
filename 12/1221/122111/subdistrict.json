@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1221112017,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Aek Bonban",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112023,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Aek Buaton",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Aek Nabara Jae",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112019,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Aek Nabara Julu",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Aek Nabara Tonga",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112021,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Bangkuang",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Hadungdung Aek (Hadungdung Aek Rampah/Rampa)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112015,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Hadungdung Pintu (Hadungdung Pintu Padang)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Huta Bargot",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Janji Maria",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112018,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Marenu",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112020,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Padang Garugur (Padang Garugur Tonga)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Padang Garugur Jae",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Padang Garugur Julu (Padang Galugur Julu)",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112014,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Paran Julu",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112013,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Paran Tonga",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112022,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Paya Bahung",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112025,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Sayur Mahincat",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112024,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Sayur Matua",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Sidokan",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Sipagabu",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Tanjung",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112016,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Tanjung Rokan",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Tobing",
+    "postal_code": "22755"
+  },
+  {
+    "id": 1221112010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122111,
+    "value": "Tobing Tinggi",
+    "postal_code": "22755"
+  }
+]

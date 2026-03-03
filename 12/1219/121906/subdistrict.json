@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1219061022,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Bagan Arya",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062004,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Bagan Dalam",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062018,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Bandar Rahmat",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062005,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Bogak",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062002,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Guntung",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062019,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Kampung Lalang",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062017,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Pahlawan",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062016,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Suka Jaya",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219062006,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Suka Maju",
+    "postal_code": "21253"
+  },
+  {
+    "id": 1219061001,
+    "province_id": 12,
+    "regency_id": 1219,
+    "district_id": 121906,
+    "value": "Tanjungtiram",
+    "postal_code": "21253"
+  }
+]

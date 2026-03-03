@@ -1,0 +1,26 @@
+[
+  {
+    "id": 337501,
+    "province_id": 33,
+    "regency_id": 3375,
+    "value": "Pekalongan Barat"
+  },
+  {
+    "id": 337504,
+    "province_id": 33,
+    "regency_id": 3375,
+    "value": "Pekalongan Selatan"
+  },
+  {
+    "id": 337502,
+    "province_id": 33,
+    "regency_id": 3375,
+    "value": "Pekalongan Timur"
+  },
+  {
+    "id": 337503,
+    "province_id": 33,
+    "regency_id": 3375,
+    "value": "Pekalongan Utara"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7202262009,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Barati",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Korobono",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Omporiwo (Amporiwo)",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262008,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Salindu",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262007,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Singkona",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Tindoli",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Tokilo",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262006,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Tolambo",
+    "postal_code": "94665"
+  },
+  {
+    "id": 7202262003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720226,
+    "value": "Wayura",
+    "postal_code": "94665"
+  }
+]

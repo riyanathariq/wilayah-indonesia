@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9206152001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920615,
+    "value": "Sara",
+    "postal_code": "98134"
+  },
+  {
+    "id": 9206152005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920615,
+    "value": "Suga",
+    "postal_code": "98134"
+  },
+  {
+    "id": 9206152004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920615,
+    "value": "Tugarama (Tugerama)",
+    "postal_code": "98134"
+  },
+  {
+    "id": 9206152002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920615,
+    "value": "Warga Nusa I (Warganusa I / Warbanusa I)",
+    "postal_code": "98134"
+  },
+  {
+    "id": 9206152003,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920615,
+    "value": "Warga Nusa II",
+    "postal_code": "98134"
+  }
+]

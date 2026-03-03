@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1674061001,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167406,
+    "value": "Majasari",
+    "postal_code": "31124"
+  },
+  {
+    "id": 1674061003,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167406,
+    "value": "Sukaraja",
+    "postal_code": "31112"
+  },
+  {
+    "id": 1674062004,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167406,
+    "value": "Tanjung Menang",
+    "postal_code": "31134"
+  },
+  {
+    "id": 1674061002,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167406,
+    "value": "Tanjung Raman",
+    "postal_code": "31116"
+  }
+]

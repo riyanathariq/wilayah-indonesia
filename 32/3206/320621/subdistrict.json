@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3206212004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320621,
+    "value": "Citalahab",
+    "postal_code": "46199"
+  },
+  {
+    "id": 3206212002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320621,
+    "value": "Karang Jaya (Karangjaya)",
+    "postal_code": "46199"
+  },
+  {
+    "id": 3206212003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320621,
+    "value": "Karanglayung",
+    "postal_code": "46199"
+  },
+  {
+    "id": 3206212001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320621,
+    "value": "Sirnajaya",
+    "postal_code": "46199"
+  }
+]

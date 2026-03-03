@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9406042009,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Duntek (Dumtek)",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042010,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Ekimani (Ekiwani)",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042001,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Idakebo",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042004,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Ikrar",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042006,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Koyakago (Kuyakago)",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042007,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Mogou",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042005,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Obayo",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042003,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Pugatadi Dua (II)",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042002,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Pugatadi Satu (I)",
+    "postal_code": "98885"
+  },
+  {
+    "id": 9406042008,
+    "province_id": 94,
+    "regency_id": 9406,
+    "district_id": 940604,
+    "value": "Yametadi (Yawetadi)",
+    "postal_code": "98885"
+  }
+]

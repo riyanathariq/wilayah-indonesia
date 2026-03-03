@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8101262008,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Iha",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262007,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Ihamahu",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262010,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Itawaka",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262005,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Mahu",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262009,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Nolloth (Noloth)",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262001,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Ouw",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262003,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Siri Sori Islam (Siri Sori)",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262004,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Siri-Sori Amalatu",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262006,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Tuhaha",
+    "postal_code": "97585"
+  },
+  {
+    "id": 8101262002,
+    "province_id": 81,
+    "regency_id": 8101,
+    "district_id": 810126,
+    "value": "Ullath",
+    "postal_code": "97585"
+  }
+]

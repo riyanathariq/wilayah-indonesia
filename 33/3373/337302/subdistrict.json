@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3373021002,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Gendongan",
+    "postal_code": "50743"
+  },
+  {
+    "id": 3373021004,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Kalibening",
+    "postal_code": "50744"
+  },
+  {
+    "id": 3373021001,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Kutowinangun Kidul",
+    "postal_code": "50742"
+  },
+  {
+    "id": 3373021007,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Kutowinangun Lor",
+    "postal_code": "50742"
+  },
+  {
+    "id": 3373021003,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Sidorejo Kidul",
+    "postal_code": "50741"
+  },
+  {
+    "id": 3373021005,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Tingkir Lor",
+    "postal_code": "50746"
+  },
+  {
+    "id": 3373021006,
+    "province_id": 33,
+    "regency_id": 3373,
+    "district_id": 337302,
+    "value": "Tingkir Tengah",
+    "postal_code": "50745"
+  }
+]

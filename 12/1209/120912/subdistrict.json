@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1209122013,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Anjung Ganjang (Anjung Gadang)",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Perkebunan Hessa",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Perkebunan Suka Raja",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Sei Dua Hulu",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Sei/Sungai Lama",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Silomlom",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Simpang Empat",
+    "postal_code": "21271"
+  },
+  {
+    "id": 1209122012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120912,
+    "value": "Sipaku Area",
+    "postal_code": "21271"
+  }
+]

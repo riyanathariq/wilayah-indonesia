@@ -1,0 +1,58 @@
+[
+  {
+    "id": 7472021003,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Bataraguru",
+    "postal_code": "93714"
+  },
+  {
+    "id": 7472021005,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Batulo",
+    "postal_code": "93717"
+  },
+  {
+    "id": 7472021011,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Bukit Wolio Indah",
+    "postal_code": "93711"
+  },
+  {
+    "id": 7472021007,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Kadolo Katapi",
+    "postal_code": "93715"
+  },
+  {
+    "id": 7472021002,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Tomba",
+    "postal_code": "93712"
+  },
+  {
+    "id": 7472021001,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Wale",
+    "postal_code": "93711"
+  },
+  {
+    "id": 7472021004,
+    "province_id": 74,
+    "regency_id": 7472,
+    "district_id": 747202,
+    "value": "Wangkanapi",
+    "postal_code": "93713"
+  }
+]

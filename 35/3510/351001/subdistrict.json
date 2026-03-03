@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3510012009,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351001,
+    "value": "Kandangan",
+    "postal_code": "68488"
+  },
+  {
+    "id": 3510012002,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351001,
+    "value": "Pesanggaran",
+    "postal_code": "68488"
+  },
+  {
+    "id": 3510012001,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351001,
+    "value": "Sarongan",
+    "postal_code": "68488"
+  },
+  {
+    "id": 3510012004,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351001,
+    "value": "Sumberagung",
+    "postal_code": "68488"
+  },
+  {
+    "id": 3510012010,
+    "province_id": 35,
+    "regency_id": 3510,
+    "district_id": 351001,
+    "value": "Sumbermulyo",
+    "postal_code": "68488"
+  }
+]

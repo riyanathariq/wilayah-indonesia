@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6302212009,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Bandar Raya",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212010,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Bangun Rejo",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212006,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Gosong Panjang",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212007,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Kampung Baru",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212004,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Tanjung Kunyit",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212001,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Tanjung Pelayar",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212002,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Tanjung Sungkai",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212003,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Tanjung Tengah",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212008,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Tata Mekar",
+    "postal_code": "72151"
+  },
+  {
+    "id": 6302212005,
+    "province_id": 63,
+    "regency_id": 6302,
+    "district_id": 630221,
+    "value": "Teluk Tamiang (Teluk Tamiyang)",
+    "postal_code": "72151"
+  }
+]

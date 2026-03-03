@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2103152002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Ceruk",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152003,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Kelanga",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152006,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Limau Manis",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Pengadah",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Sebadai Ulu",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152007,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Seleman",
+    "postal_code": "29776"
+  },
+  {
+    "id": 2103152001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210315,
+    "value": "Tanjung",
+    "postal_code": "29776"
+  }
+]

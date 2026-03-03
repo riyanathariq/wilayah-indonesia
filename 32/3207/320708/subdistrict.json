@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3207082009,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Bahara",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Ciomas",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082012,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Hujungtiwu",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Kertamandala",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082013,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Mandalare",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Maparah",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Panjalu",
+    "postal_code": "46264"
+  },
+  {
+    "id": 3207082004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320708,
+    "value": "Sandingtaman",
+    "postal_code": "46264"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9504452001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Biuk",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Galubup",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Guburini",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Mbinime/Jinulira",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452011,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Purugi",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Tomagi/Gubagi",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Tomagipura",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Wonabu",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Yiluk/Kondenggun",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Yiyogobak/Kibur",
+    "postal_code": "99023"
+  },
+  {
+    "id": 9504452004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950445,
+    "value": "Yugu Mabur",
+    "postal_code": "99023"
+  }
+]

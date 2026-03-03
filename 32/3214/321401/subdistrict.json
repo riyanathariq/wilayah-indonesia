@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3214011005,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Cipaisan",
+    "postal_code": "41113"
+  },
+  {
+    "id": 3214011007,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Ciseureuh",
+    "postal_code": "41118"
+  },
+  {
+    "id": 3214012010,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Citalang",
+    "postal_code": "41111"
+  },
+  {
+    "id": 3214011009,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Munjuljaya",
+    "postal_code": "41117"
+  },
+  {
+    "id": 3214011002,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Nagri Kaler (Nagrikaler)",
+    "postal_code": "41115"
+  },
+  {
+    "id": 3214011001,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Nagri Kidul (Nagrikidul)",
+    "postal_code": "41111"
+  },
+  {
+    "id": 3214011003,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Nagri Tengah (Nagritengah)",
+    "postal_code": "41114"
+  },
+  {
+    "id": 3214011006,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Purwamekar",
+    "postal_code": "41119"
+  },
+  {
+    "id": 3214011004,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Sindangkasih",
+    "postal_code": "41112"
+  },
+  {
+    "id": 3214011008,
+    "province_id": 32,
+    "regency_id": 3214,
+    "district_id": 321401,
+    "value": "Tegalmuncul (Tegalmunjul)",
+    "postal_code": "41116"
+  }
+]

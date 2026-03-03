@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3217112003,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Batulayang",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112004,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Bongas",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112002,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Budiharja",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112001,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Cililin",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112005,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Karanganyar",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112006,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Karangtanjung",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112007,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Karyamukti",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112008,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Kidangpananjung",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112009,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Mukapayung",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112010,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Nanggerang",
+    "postal_code": "40567"
+  },
+  {
+    "id": 3217112011,
+    "province_id": 32,
+    "regency_id": 3217,
+    "district_id": 321711,
+    "value": "Rancapanggung",
+    "postal_code": "40567"
+  }
+]

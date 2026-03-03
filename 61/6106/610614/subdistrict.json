@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6106142001,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Badau",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142002,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Janting",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142004,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Kekurak",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142005,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Pulau Majang",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142007,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Sebindang",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142003,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Semuntik",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142006,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Seriang",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142009,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Tajum",
+    "postal_code": "78767"
+  },
+  {
+    "id": 6106142008,
+    "province_id": 61,
+    "regency_id": 6106,
+    "district_id": 610614,
+    "value": "Tinting Seligi",
+    "postal_code": "78767"
+  }
+]

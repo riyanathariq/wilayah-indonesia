@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6110102003,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Beloyang",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102005,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Junjung Permai",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102008,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Kayu Bunga",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102006,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Keberak (Nanga Keberak)",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102004,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Nanga Raya",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102002,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Nanga Tikan",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102007,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Piawas",
+    "postal_code": "79670"
+  },
+  {
+    "id": 6110102001,
+    "province_id": 61,
+    "regency_id": 6110,
+    "district_id": 611010,
+    "value": "Tiong Keranji (Tiong Keranjik)",
+    "postal_code": "79670"
+  }
+]

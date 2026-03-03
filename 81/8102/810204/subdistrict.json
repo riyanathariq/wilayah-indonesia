@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8102042012,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Kilwat",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042004,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Larat",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042003,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Nerong",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042015,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Ohoirenan",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042013,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Sathen (Sether/Sather)",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042016,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Soindat",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042005,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Tamangil Nuhuten",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042006,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Tamangil Nuhuyanat",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042014,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Tutrean",
+    "postal_code": "97632"
+  },
+  {
+    "id": 8102042001,
+    "province_id": 81,
+    "regency_id": 8102,
+    "district_id": 810204,
+    "value": "Weduar",
+    "postal_code": "97632"
+  }
+]

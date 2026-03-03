@@ -1,0 +1,106 @@
+[
+  {
+    "id": 8107072002,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Balatan",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072006,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Basada",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072012,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Dosinamalau",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072008,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Kaiwabar",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072013,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Karawai (Karawain)",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072005,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Kobror",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072001,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Koijabi",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072010,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Lola",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072011,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Mariri",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072009,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Ponom",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072007,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Wailay",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072004,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Warjukur",
+    "postal_code": "97665"
+  },
+  {
+    "id": 8107072003,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810707,
+    "value": "Warloy",
+    "postal_code": "97665"
+  }
+]

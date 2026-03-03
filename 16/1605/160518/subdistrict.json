@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1605182002,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Batu Bandung",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182008,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Kebur",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182010,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Kebur Jaya",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182001,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Lubuk Besar",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182006,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Muara Kati Baru I",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182007,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Muara Kati Baru II",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182005,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Muara Kati Lama",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182003,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Rantau Bingin",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182004,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Rantau Serik",
+    "postal_code": "31660"
+  },
+  {
+    "id": 1605182009,
+    "province_id": 16,
+    "regency_id": 1605,
+    "district_id": 160518,
+    "value": "Simpang Gegas Temuan",
+    "postal_code": "31660"
+  }
+]

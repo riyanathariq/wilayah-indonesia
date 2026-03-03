@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3526122008,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Baengas (Ba'engas)",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122007,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Bringin (Bringen)",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122009,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Bunajih",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122003,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Jukong",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122001,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Kesek",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122002,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Labang",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122013,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Morkepek",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122004,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Pangpong",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122012,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Petapan",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122011,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Sendang Daya/Dajah",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122010,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Sendang Laok",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122006,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Sukolilo Barat",
+    "postal_code": "69164"
+  },
+  {
+    "id": 3526122005,
+    "province_id": 35,
+    "regency_id": 3526,
+    "district_id": 352612,
+    "value": "Sukolilo Timur",
+    "postal_code": "69164"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1301152009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Air Hitam",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152007,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Durian Seribu",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152008,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Lubuk Bunta",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Pasir Binjai",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152010,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Sambungo",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Silaut",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Sungai Pulai (Sungaipulai)",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Sungai Sarik (Sungaisarik)",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Sungai Sirah (Sungaisirah)",
+    "postal_code": "25675"
+  },
+  {
+    "id": 1301152006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130115,
+    "value": "Talang Binjai",
+    "postal_code": "25675"
+  }
+]

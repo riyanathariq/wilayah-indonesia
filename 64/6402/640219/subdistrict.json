@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6402192003,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Benua Baru",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192001,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Kedang Ipil",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192004,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Kota Bangun I",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192005,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Kota Bangun II",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192006,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Kota Bangun III",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192008,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Sari Nadi (Sarinadi)",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192002,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Sedulang",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192009,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Suka Bumi (Sukabumi)",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192007,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Sumber Sari",
+    "postal_code": "75561"
+  },
+  {
+    "id": 6402192010,
+    "province_id": 64,
+    "regency_id": 6402,
+    "district_id": 640219,
+    "value": "Wonosari",
+    "postal_code": "75561"
+  }
+]

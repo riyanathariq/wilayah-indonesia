@@ -1,0 +1,74 @@
+[
+  {
+    "id": 8108042016,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Hertuti",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042002,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Imroing",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042006,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Letsiara",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042015,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Lewah",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042017,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Sinairusi",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042003,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Tela",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042001,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Tepa",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042005,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Wanuwui (Manuwui)",
+    "postal_code": "97451"
+  },
+  {
+    "id": 8108042004,
+    "province_id": 81,
+    "regency_id": 8108,
+    "district_id": 810804,
+    "value": "Yaltubung",
+    "postal_code": "97451"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7505052011,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Cempaka Putih",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052017,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Ilomangga",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052018,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Ilotunggulo",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052006,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Limbato",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052008,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Molangga",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052007,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Papulangi (Papualangi)",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052002,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Tolinggula Pantai",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052001,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Tolinggula Tengah",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052003,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Tolinggula Ulu",
+    "postal_code": "96524"
+  },
+  {
+    "id": 7505052014,
+    "province_id": 75,
+    "regency_id": 7505,
+    "district_id": 750505,
+    "value": "Tolite Jaya",
+    "postal_code": "96524"
+  }
+]

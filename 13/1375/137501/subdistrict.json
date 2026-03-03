@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1375011004,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Aur Tajungkang/Tgh. Sawah",
+    "postal_code": "26111"
+  },
+  {
+    "id": 1375011005,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Benteng Pasar Atas",
+    "postal_code": "26113"
+  },
+  {
+    "id": 1375011007,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Bukik Apik Puhun (Bukit Apit Puhun)",
+    "postal_code": "26114"
+  },
+  {
+    "id": 1375011002,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Bukit Cangang Kayu Ramang",
+    "postal_code": "26116"
+  },
+  {
+    "id": 1375011006,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Kayu Kubu",
+    "postal_code": "26115"
+  },
+  {
+    "id": 1375011003,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Pakan Kurai",
+    "postal_code": "26112"
+  },
+  {
+    "id": 1375011001,
+    "province_id": 13,
+    "regency_id": 1375,
+    "district_id": 137501,
+    "value": "Tarok Dipo",
+    "postal_code": "26117"
+  }
+]

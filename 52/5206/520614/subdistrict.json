@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5206142002,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Kawinda Nae",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142003,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Kawinda Toi",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142001,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Labuhan Kenanga",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142005,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Oi Bura",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142006,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Oi Katupa",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142004,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Oi Panihi",
+    "postal_code": "84190"
+  },
+  {
+    "id": 5206142007,
+    "province_id": 52,
+    "regency_id": 5206,
+    "district_id": 520614,
+    "value": "Rasabou",
+    "postal_code": "84190"
+  }
+]

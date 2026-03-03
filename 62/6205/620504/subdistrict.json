@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6205042007,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Benangin I / I",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042005,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Benangin II / 2",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042004,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Benangin III / 3",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042006,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Benangin V / 5",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042013,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Jamut",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042003,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Liju",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042012,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Mampuak I",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042015,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Mampuak II (Pantung)",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042008,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Muara Wakat",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042001,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Sampirang I",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042002,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Sampirang II",
+    "postal_code": "73881"
+  },
+  {
+    "id": 6205042014,
+    "province_id": 62,
+    "regency_id": 6205,
+    "district_id": 620504,
+    "value": "Sei/Sungai Liju",
+    "postal_code": "73881"
+  }
+]

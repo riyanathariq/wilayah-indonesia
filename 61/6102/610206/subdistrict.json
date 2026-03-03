@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6102062007,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Benuang",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Kecurit",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Pak Laheng",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Pak Utan (Pakutan)",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062008,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Sambora (Sembora / Samboro)",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Sepang",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Terap",
+    "postal_code": "78360"
+  },
+  {
+    "id": 6102062001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610206,
+    "value": "Toho Hilir (Toho Ilir)",
+    "postal_code": "78360"
+  }
+]

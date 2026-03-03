@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9407052001,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Agisiga",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052009,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Danggoa",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052005,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Jenetapa Najasiga",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052010,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Kombogosiga",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052004,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Mbamogo",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052008,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Nabia",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052006,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Soali",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052007,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Tambage",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052002,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Tousiga",
+    "postal_code": "98782"
+  },
+  {
+    "id": 9407052003,
+    "province_id": 94,
+    "regency_id": 9407,
+    "district_id": 940705,
+    "value": "Unabundoga",
+    "postal_code": "98782"
+  }
+]

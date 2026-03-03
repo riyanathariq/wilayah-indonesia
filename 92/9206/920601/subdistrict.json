@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9206012005,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Argosigemerai",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206012009,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Beimes",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206011002,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Bintuni Barat",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206011001,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Bintuni Timur",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206012010,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Iguriji",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206012022,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Masina",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206012004,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Tuasai",
+    "postal_code": "98141"
+  },
+  {
+    "id": 9206012026,
+    "province_id": 92,
+    "regency_id": 9206,
+    "district_id": 920601,
+    "value": "Wesiri",
+    "postal_code": "98141"
+  }
+]

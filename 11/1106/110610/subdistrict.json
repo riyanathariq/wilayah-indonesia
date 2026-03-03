@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1106102018,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ajee Cut",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102024,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ajee Pagar Air",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102017,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ajee Rayeuk",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102016,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ateuk Anggok",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102020,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ateuk Lueng Ie",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102052,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Bada",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Bakoy",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102028,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Bineh Blang (Bineeh Blang)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102014,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Bueng Ceukok (Bung Ceukok)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102021,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Cot Alue",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102023,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Cot Bada",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102048,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Cot Gud (Cot Got)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102042,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Cot Mentiwan (Cot Montiwan)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102022,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Cot Suruy",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Dham Ceukok",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Dham Pulo",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102019,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Gani",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102026,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Jurong Peujera (Jurong Peujeura)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102030,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Kalut",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102054,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Kayee Lee",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102047,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lam Ue",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102050,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lambada",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lambaro",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102045,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lamcot (lam Cot)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102049,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lamdaya",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102043,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lampreh Lam Jampok (Lampreh Lam Jamprok)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102056,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lampreh Lamteungoh (Lampreh L. Teungoh)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102046,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lamsinyeu (Lam Sinyeu)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102053,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lamteungoh (Lam Teungoh)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Leubok Sukon (Lhok Sukon)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102027,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lubok Batee (Lubuk Batee)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Lubok Gapuy",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Baro",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Deyah (Meunasah Dayah)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102025,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Krueng",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Manyang Lam Garot (LG)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102031,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Manyang Pagar Air",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102032,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Manyet",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Meunasah Tutong (Meunasah Teutong)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102041,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Paleuh Blang",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102044,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Paleuh Pulo",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102029,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Pantee",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Pasie Lamgarot (Pasie LG)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Pasie Lubuk (Pasie Lubok)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102035,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Reuloh",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102033,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Santan",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Siron",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102034,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Tanjong",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102015,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Teubang Phuy (Teubang Phui)",
+    "postal_code": "23371"
+  },
+  {
+    "id": 1106102051,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110610,
+    "value": "Ujong XII",
+    "postal_code": "23371"
+  }
+]

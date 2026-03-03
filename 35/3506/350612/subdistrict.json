@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3506122021,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Gampeng (Gamping)",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Jongbiru",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122017,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Kalibelo",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122016,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Kepuhrejo",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122022,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Ngebrak",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122018,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Plosorejo",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122011,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Putih",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122012,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Sambirejo",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122020,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Sambiresik",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122019,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Turus",
+    "postal_code": "64182"
+  },
+  {
+    "id": 3506122023,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350612,
+    "value": "Wanengpaten",
+    "postal_code": "64182"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3209232012,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Bangodua",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Danawinangun",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Jemaras Kidul",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Jemaras Lor",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Klangenan",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232011,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Kreyo",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Pakantingan (Pekantingan)",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Serang",
+    "postal_code": "45157"
+  },
+  {
+    "id": 3209232010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320923,
+    "value": "Slangit",
+    "postal_code": "45157"
+  }
+]

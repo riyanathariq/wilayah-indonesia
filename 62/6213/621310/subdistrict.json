@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6213102001,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Dayu",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102003,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Ipu Mea",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102007,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Kandris",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102004,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Lagan",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102005,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Putut Tawuluh",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102006,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Simpang Naneng",
+    "postal_code": "73650"
+  },
+  {
+    "id": 6213102002,
+    "province_id": 62,
+    "regency_id": 6213,
+    "district_id": 621310,
+    "value": "Wuran",
+    "postal_code": "73650"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1310092002,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131009,
+    "value": "Batu Rijal",
+    "postal_code": "27682"
+  },
+  {
+    "id": 1310092003,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131009,
+    "value": "Muaro Sopan",
+    "postal_code": "27682"
+  },
+  {
+    "id": 1310092001,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131009,
+    "value": "Padang Laweh",
+    "postal_code": "27682"
+  },
+  {
+    "id": 1310092004,
+    "province_id": 13,
+    "regency_id": 1310,
+    "district_id": 131009,
+    "value": "Sopan Jaya",
+    "postal_code": "27682"
+  }
+]

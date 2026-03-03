@@ -1,0 +1,18 @@
+[
+  {
+    "id": 7602162001,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760216,
+    "value": "Bala Balakang",
+    "postal_code": "91512"
+  },
+  {
+    "id": 7602162002,
+    "province_id": 76,
+    "regency_id": 7602,
+    "district_id": 760216,
+    "value": "Bala Balakang Timur",
+    "postal_code": "91512"
+  }
+]

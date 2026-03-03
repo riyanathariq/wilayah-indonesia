@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8205122004,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820512,
+    "value": "Auponhia",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205122003,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820512,
+    "value": "Buya",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205122001,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820512,
+    "value": "Kaporo",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205122002,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820512,
+    "value": "Waikafia",
+    "postal_code": "97793"
+  },
+  {
+    "id": 8205122005,
+    "province_id": 82,
+    "regency_id": 8205,
+    "district_id": 820512,
+    "value": "Wailab",
+    "postal_code": "97793"
+  }
+]

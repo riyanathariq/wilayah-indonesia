@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9209262006,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Araro",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209262001,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Arupi",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209262005,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Kali An",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209262003,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Mangganek",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209262008,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Serayo",
+    "postal_code": "98381"
+  },
+  {
+    "id": 9209262004,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Wajarek",
+    "postal_code": "98384"
+  },
+  {
+    "id": 9209262007,
+    "province_id": 92,
+    "regency_id": 9209,
+    "district_id": 920926,
+    "value": "Wekari",
+    "postal_code": "98381"
+  }
+]

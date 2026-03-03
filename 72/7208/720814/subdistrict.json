@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7208142008,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Bilalea",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142011,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Karya Abadi",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142001,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Karya Agung",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142002,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Nunurantai",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142003,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Palapi",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142010,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Paria",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142004,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Taopa",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142009,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Taopa Barat",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142007,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Taopa Utara",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142006,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Tompo",
+    "postal_code": "94483"
+  },
+  {
+    "id": 7208142005,
+    "province_id": 72,
+    "regency_id": 7208,
+    "district_id": 720814,
+    "value": "Tuladenggi Sibatang",
+    "postal_code": "94483"
+  }
+]

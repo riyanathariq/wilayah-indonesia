@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1673051009,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Cereme Taba",
+    "postal_code": "31623"
+  },
+  {
+    "id": 1673051004,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Dempo",
+    "postal_code": "31623"
+  },
+  {
+    "id": 1673051001,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Jawa Kanan",
+    "postal_code": "31621"
+  },
+  {
+    "id": 1673051002,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Jawa Kanan Ss",
+    "postal_code": "31621"
+  },
+  {
+    "id": 1673051005,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Jawa Kiri",
+    "postal_code": "31622"
+  },
+  {
+    "id": 1673051006,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Karya Bakti",
+    "postal_code": "31623"
+  },
+  {
+    "id": 1673051007,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Mesat Jaya",
+    "postal_code": "31624"
+  },
+  {
+    "id": 1673051008,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Mesat Seni",
+    "postal_code": "31623"
+  },
+  {
+    "id": 1673051003,
+    "province_id": 16,
+    "regency_id": 1673,
+    "district_id": 167305,
+    "value": "Wira Karya",
+    "postal_code": "31623"
+  }
+]

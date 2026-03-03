@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9504392006,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Ambena",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392005,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Bumbu",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392010,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Delegari",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392007,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Gunombo",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392008,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Mawi",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392002,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Milipaa",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392004,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Niagale",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392009,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Ripa",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392003,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Tarawi",
+    "postal_code": "99014"
+  },
+  {
+    "id": 9504392001,
+    "province_id": 95,
+    "regency_id": 9504,
+    "district_id": 950439,
+    "value": "Wania",
+    "postal_code": "99014"
+  }
+]

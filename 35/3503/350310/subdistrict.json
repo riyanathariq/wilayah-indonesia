@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3503102006,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Gandusari",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102005,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Jajar",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102008,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Karanganyar",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102010,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Krandegan",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102009,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Melis",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102001,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Ngrayung",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102011,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Sukorame",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102003,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Sukorejo",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102007,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Widoro",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102004,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Wonoanti",
+    "postal_code": "66372"
+  },
+  {
+    "id": 3503102002,
+    "province_id": 35,
+    "regency_id": 3503,
+    "district_id": 350310,
+    "value": "Wonorejo",
+    "postal_code": "66372"
+  }
+]

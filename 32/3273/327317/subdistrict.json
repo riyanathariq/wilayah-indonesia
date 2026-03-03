@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3273171003,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Cibaduyut",
+    "postal_code": "40236"
+  },
+  {
+    "id": 3273171005,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Cibaduyut Kidul",
+    "postal_code": "40239"
+  },
+  {
+    "id": 3273171006,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Cibaduyut Wetan",
+    "postal_code": "40238"
+  },
+  {
+    "id": 3273171002,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Kebon Lega",
+    "postal_code": "40235"
+  },
+  {
+    "id": 3273171004,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Mekarwangi",
+    "postal_code": "40237"
+  },
+  {
+    "id": 3273171001,
+    "province_id": 32,
+    "regency_id": 3273,
+    "district_id": 327317,
+    "value": "Situsaeur",
+    "postal_code": "40234"
+  }
+]

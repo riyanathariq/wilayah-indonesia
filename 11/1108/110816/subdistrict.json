@@ -1,0 +1,234 @@
+[
+  {
+    "id": 1108162033,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Alue Bili",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162020,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Beunot (Meunasah Beunot)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162042,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Binjee",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162040,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Blang Crok",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162037,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Blang Dalam Baroh",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162035,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Blang Dalam Geunteng",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162036,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Blang Dalam Tunong",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162017,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Blang Karieng",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162039,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Cot Euntung (Cot Entung)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162022,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Cot Leupee",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162034,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Cot Mambong",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162038,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Cot Mee (Cot Me)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162019,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Gampong Barat",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162023,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Gampong Teungoh",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162032,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Jeulikat",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162043,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Keutapang (Gampong Keutapang)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162025,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Meunasah Alue",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162031,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Meunasah Cut",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162041,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Meunasah Krueng",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162024,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Meunasah Meucat",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162030,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Meunasah Rayeuk (Gampong Meunasah Rayeuk)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162018,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Paloh Kayee Kunyet",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162015,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Paloh Mambu",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162027,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Paloh Mamprei/Mampree",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162026,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Panton",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162028,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Peunayan (Gampong Peunayan)",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162021,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Seuneubok",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162029,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Tingkeum",
+    "postal_code": "24378"
+  },
+  {
+    "id": 1108162044,
+    "province_id": 11,
+    "regency_id": 1108,
+    "district_id": 110816,
+    "value": "Ulee Blang",
+    "postal_code": "24378"
+  }
+]

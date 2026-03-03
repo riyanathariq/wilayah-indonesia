@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1221082014,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Aek Tinga",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082023,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Aer Bale",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082015,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Gunung Baringin",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082017,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Huta Raja Lamo (Huta Raja Lama)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Hutaimbaru (Huta Imbaru)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082020,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Janjiraja (Janji Raja)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082012,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Mondang",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082022,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Parau Sorat",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Pasar Ujung Batu",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Plasma Mondang (Trans Sosa IV)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082021,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Rao Rao Dolok",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082016,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Simarancar",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082013,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Sisoma",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082024,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Tanjung Bale",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082018,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Tanjung Botung Sosa (Tanjung Botung Sosa Jae)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221082019,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122108,
+    "value": "Ujung Batu",
+    "postal_code": "22765"
+  }
+]

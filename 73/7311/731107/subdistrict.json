@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7311072002,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Balusu",
+    "postal_code": "90762"
+  },
+  {
+    "id": 7311072006,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Binuang",
+    "postal_code": "90762"
+  },
+  {
+    "id": 7311072004,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Kamiri",
+    "postal_code": "90762"
+  },
+  {
+    "id": 7311072003,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Lampoko",
+    "postal_code": "90762"
+  },
+  {
+    "id": 7311072005,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Madello",
+    "postal_code": "90762"
+  },
+  {
+    "id": 7311071001,
+    "province_id": 73,
+    "regency_id": 7311,
+    "district_id": 731107,
+    "value": "Takkalasi",
+    "postal_code": "90762"
+  }
+]

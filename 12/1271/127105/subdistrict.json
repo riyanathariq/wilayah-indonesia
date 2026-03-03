@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1271051003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Glugur Kota",
+    "postal_code": "20115"
+  },
+  {
+    "id": 1271051006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Karang Berombak",
+    "postal_code": "20117"
+  },
+  {
+    "id": 1271051001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Kesawan",
+    "postal_code": "20111"
+  },
+  {
+    "id": 1271051004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Pulo Berayan Kota (Pulo Brayan Kota)",
+    "postal_code": "20116"
+  },
+  {
+    "id": 1271051005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Sei Agul",
+    "postal_code": "20117"
+  },
+  {
+    "id": 1271051002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127105,
+    "value": "Silalas",
+    "postal_code": "20114"
+  }
+]

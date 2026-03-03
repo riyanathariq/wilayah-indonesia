@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6171051002,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617105,
+    "value": "Daratsekip (Darat Sekip)",
+    "postal_code": "78117"
+  },
+  {
+    "id": 6171051004,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617105,
+    "value": "Mariana",
+    "postal_code": "78112"
+  },
+  {
+    "id": 6171051001,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617105,
+    "value": "Sungaibangkong (Sei / Sungai Bangkong)",
+    "postal_code": "78116"
+  },
+  {
+    "id": 6171051005,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617105,
+    "value": "Sungaijawi (Sei / Sungai Jawi)",
+    "postal_code": "78113"
+  },
+  {
+    "id": 6171051003,
+    "province_id": 61,
+    "regency_id": 6171,
+    "district_id": 617105,
+    "value": "Tengah",
+    "postal_code": "78111"
+  }
+]

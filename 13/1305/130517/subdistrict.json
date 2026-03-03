@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1305172005,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130517,
+    "value": "Gadua/Gadur",
+    "postal_code": "25583"
+  },
+  {
+    "id": 1305172002,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130517,
+    "value": "Koto Tinggi",
+    "postal_code": "25583"
+  },
+  {
+    "id": 1305172001,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130517,
+    "value": "Pakandangan",
+    "postal_code": "25583"
+  },
+  {
+    "id": 1305172004,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130517,
+    "value": "Parit Malintang",
+    "postal_code": "25583"
+  },
+  {
+    "id": 1305172003,
+    "province_id": 13,
+    "regency_id": 1305,
+    "district_id": 130517,
+    "value": "Toboh Ketek",
+    "postal_code": "25583"
+  }
+]

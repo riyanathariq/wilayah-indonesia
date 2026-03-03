@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7312021001,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Appanang",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312022011,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Barang",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312021003,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Galung",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312022005,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Jampu",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312021002,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Jennae",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312022006,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Pattojo",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312022010,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Rompegading",
+    "postal_code": "90863"
+  },
+  {
+    "id": 7312022009,
+    "province_id": 73,
+    "regency_id": 7312,
+    "district_id": 731202,
+    "value": "Timusu",
+    "postal_code": "90863"
+  }
+]

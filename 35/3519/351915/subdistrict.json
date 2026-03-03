@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3519152007,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Bancong",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152003,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Banyukambang",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152010,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Buduran",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152002,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Jatirejo",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152009,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Klitik",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152001,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Ngadirejo",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152006,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Plumpungrejo",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152008,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Purwosari",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152004,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Sidomulyo",
+    "postal_code": "63157"
+  },
+  {
+    "id": 3519152005,
+    "province_id": 35,
+    "regency_id": 3519,
+    "district_id": 351915,
+    "value": "Wonoasri",
+    "postal_code": "63157"
+  }
+]

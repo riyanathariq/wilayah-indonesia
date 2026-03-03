@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1505022008,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Berembang",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022013,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Bukit Baling",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022011,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Gerunggung",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022006,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Kedotan",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022007,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Keranggan",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022004,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Pematang Pulai/Pule",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022003,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Pulau Kayu Aro",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022002,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Rantau Majo",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022009,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Sekernan",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505021010,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Sengeti",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022001,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Suak Putat",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022015,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Suko Awin Jaya",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022005,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Tan Tan (Tantan)",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022014,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Tanjung Lanjut",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022012,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Tunas Baru",
+    "postal_code": "36381"
+  },
+  {
+    "id": 1505022016,
+    "province_id": 15,
+    "regency_id": 1505,
+    "district_id": 150502,
+    "value": "Tunas Mudo",
+    "postal_code": "36381"
+  }
+]

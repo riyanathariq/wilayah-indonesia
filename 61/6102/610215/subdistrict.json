@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6102152003,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Parit Bugis",
+    "postal_code": "78351"
+  },
+  {
+    "id": 6102152001,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Peniti Besar",
+    "postal_code": "78351"
+  },
+  {
+    "id": 6102152004,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Peniti Dalam I (Satu)",
+    "postal_code": "78351"
+  },
+  {
+    "id": 6102152005,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Peniti Dalam II (Dua)",
+    "postal_code": "78351"
+  },
+  {
+    "id": 6102152002,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Purun Besar (Sungai Purun Besar)",
+    "postal_code": "78351"
+  },
+  {
+    "id": 6102152006,
+    "province_id": 61,
+    "regency_id": 6102,
+    "district_id": 610215,
+    "value": "Sei/Sungai Burung",
+    "postal_code": "78351"
+  }
+]

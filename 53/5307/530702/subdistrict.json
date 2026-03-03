@@ -1,0 +1,98 @@
+[
+  {
+    "id": 5307022001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Bhera",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Dobo",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022010,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Dobo Nuapuu (Dobo Nua Puu)",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Gera",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022007,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Korobhera",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022009,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Kowi",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Liakutu",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022008,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Napugera (Napu Gera)",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022012,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Ndaimbere",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022005,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Parabubu",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022011,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Ratekalo",
+    "postal_code": "86113"
+  },
+  {
+    "id": 5307022006,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530702,
+    "value": "Wolodhesa",
+    "postal_code": "86113"
+  }
+]

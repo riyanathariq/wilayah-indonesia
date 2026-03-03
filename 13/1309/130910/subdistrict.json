@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1309102002,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130910,
+    "value": "Bulasat",
+    "postal_code": "25391"
+  },
+  {
+    "id": 1309102004,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130910,
+    "value": "Makalo",
+    "postal_code": "25391"
+  },
+  {
+    "id": 1309102003,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130910,
+    "value": "Malakopa (Malakopak)",
+    "postal_code": "25391"
+  },
+  {
+    "id": 1309102001,
+    "province_id": 13,
+    "regency_id": 1309,
+    "district_id": 130910,
+    "value": "Sinaka (Sinakak)",
+    "postal_code": "25391"
+  }
+]

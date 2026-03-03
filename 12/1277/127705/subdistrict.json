@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1277052008,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Goti",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052010,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Huta Koje (Huta Koje Pijor Koling)",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052015,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Huta Lombang",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052012,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Huta Padang",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052011,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Hutalimbong (Huta Limbong)",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052014,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Labuhan Labo",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052017,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Labuhan Rasoki",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052009,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Manegen",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052016,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Manunggang Jae",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052007,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Manunggang Julu",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052003,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Palopat (Pal IV) Pijor Koling",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052013,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Perkebunan Pijor Koling",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277051002,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Pijor Koling",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052005,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Purbatua Pijor Koling",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052004,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Salambue",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052006,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Sigulang",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277051001,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Sihitang",
+    "postal_code": "22730"
+  },
+  {
+    "id": 1277052018,
+    "province_id": 12,
+    "regency_id": 1277,
+    "district_id": 127705,
+    "value": "Tarutung Baru",
+    "postal_code": "22730"
+  }
+]

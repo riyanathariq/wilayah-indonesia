@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7401242004,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Anawua",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242010,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Horongkuli",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242002,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Lakito",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242007,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Rahabite",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242006,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Rano jaya",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242009,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Rano Sangia",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401241003,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Ranomentaa",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242001,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Toari",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242008,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Wonua Raya",
+    "postal_code": "93565"
+  },
+  {
+    "id": 7401242005,
+    "province_id": 74,
+    "regency_id": 7401,
+    "district_id": 740124,
+    "value": "Wowoli",
+    "postal_code": "93565"
+  }
+]

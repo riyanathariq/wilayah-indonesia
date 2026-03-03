@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6104242006,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Kerta Baru",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242002,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Lalang Panjang",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242004,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Muara Gerunggang",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242007,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Muara Semayok",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242001,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Pebihingan",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242003,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Semayok Baru",
+    "postal_code": "78874"
+  },
+  {
+    "id": 6104242005,
+    "province_id": 61,
+    "regency_id": 6104,
+    "district_id": 610424,
+    "value": "Usaha Baru",
+    "postal_code": "78874"
+  }
+]

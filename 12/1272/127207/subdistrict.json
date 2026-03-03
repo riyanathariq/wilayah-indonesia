@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1272071002,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127207,
+    "value": "Bah Kapul",
+    "postal_code": "21139"
+  },
+  {
+    "id": 1272071005,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127207,
+    "value": "Bah Sorma",
+    "postal_code": "21139"
+  },
+  {
+    "id": 1272071004,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127207,
+    "value": "Bukit Sofa/Shofa",
+    "postal_code": "21137"
+  },
+  {
+    "id": 1272071001,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127207,
+    "value": "Gurilla",
+    "postal_code": "21137"
+  },
+  {
+    "id": 1272071003,
+    "province_id": 12,
+    "regency_id": 1272,
+    "district_id": 127207,
+    "value": "Setia Negara",
+    "postal_code": "21137"
+  }
+]

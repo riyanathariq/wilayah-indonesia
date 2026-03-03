@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2103082006,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Belakang Gunung",
+    "postal_code": "29775"
+  },
+  {
+    "id": 2103082008,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Gunung Durian",
+    "postal_code": "29775"
+  },
+  {
+    "id": 2103082002,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Kelarik",
+    "postal_code": "29775"
+  },
+  {
+    "id": 2103082004,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Kelarik Air Mali",
+    "postal_code": "29775"
+  },
+  {
+    "id": 2103082001,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Kelarik Utara",
+    "postal_code": "29775"
+  },
+  {
+    "id": 2103082005,
+    "province_id": 21,
+    "regency_id": 2103,
+    "district_id": 210308,
+    "value": "Teluk Buton",
+    "postal_code": "29775"
+  }
+]

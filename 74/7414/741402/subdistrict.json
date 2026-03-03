@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7414022008,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Batubanawa",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022001,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Bonemarambe",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022004,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Bungi",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022006,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Inulu",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022003,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Lagili",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022007,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Lasori",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022002,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Wambuloli",
+    "postal_code": "93765"
+  },
+  {
+    "id": 7414022005,
+    "province_id": 74,
+    "regency_id": 7414,
+    "district_id": 741402,
+    "value": "Wantopi",
+    "postal_code": "93765"
+  }
+]

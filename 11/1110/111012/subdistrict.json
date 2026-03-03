@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1110122005,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Alur Linci",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122011,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Bulu Ara",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122003,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Bulu Sema",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122008,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Keras",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122007,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Ketangkuhan (Ketangkihan)",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122004,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Lae Bangun",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122009,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Mandumpang",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122002,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Pangkalan Sulampi",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122006,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Siompin",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122010,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Sirimo Mungkur",
+    "postal_code": "24787"
+  },
+  {
+    "id": 1110122001,
+    "province_id": 11,
+    "regency_id": 1110,
+    "district_id": 111012,
+    "value": "Suro (Suro Baru)",
+    "postal_code": "24787"
+  }
+]

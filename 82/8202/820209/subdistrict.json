@@ -1,0 +1,34 @@
+[
+  {
+    "id": 8202092001,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820209,
+    "value": "Dotte",
+    "postal_code": "97852"
+  },
+  {
+    "id": 8202092003,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820209,
+    "value": "Kotalo",
+    "postal_code": "97852"
+  },
+  {
+    "id": 8202092002,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820209,
+    "value": "Messa",
+    "postal_code": "97852"
+  },
+  {
+    "id": 8202092004,
+    "province_id": 82,
+    "regency_id": 8202,
+    "district_id": 820209,
+    "value": "Yeke",
+    "postal_code": "97852"
+  }
+]

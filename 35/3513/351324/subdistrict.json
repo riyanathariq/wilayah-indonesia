@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3513242007,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Boto",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242003,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Branggah",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242004,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Lambangkuning",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242008,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Lumbang",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242002,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Negororejo",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242006,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Palangbesi",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242010,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Purut",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242001,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Sapih",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242009,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Tandonsentul (Tandongsentul / Tandon Sentul)",
+    "postal_code": "67255"
+  },
+  {
+    "id": 3513242005,
+    "province_id": 35,
+    "regency_id": 3513,
+    "district_id": 351324,
+    "value": "Wonogoro",
+    "postal_code": "67255"
+  }
+]

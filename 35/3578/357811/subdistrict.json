@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3578111002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357811,
+    "value": "Kapasan",
+    "postal_code": "60141"
+  },
+  {
+    "id": 3578111003,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357811,
+    "value": "Sidodadi",
+    "postal_code": "60145"
+  },
+  {
+    "id": 3578111001,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357811,
+    "value": "Simokerto",
+    "postal_code": "60143"
+  },
+  {
+    "id": 3578111004,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357811,
+    "value": "Simolawang",
+    "postal_code": "60144"
+  },
+  {
+    "id": 3578111005,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357811,
+    "value": "Tambakrejo",
+    "postal_code": "60142"
+  }
+]

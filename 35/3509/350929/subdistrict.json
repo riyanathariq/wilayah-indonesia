@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3509292008,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Arjasa",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292005,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Baletbaru (Balet Baru)",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292011,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Dawuhanmangli (Dawuhan Mangli)",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292012,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Mojogemi (Mojogeni)",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292010,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Pocangan",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292002,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sukokerto",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292006,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sukorejo",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292007,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sukosari",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292004,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sukowono",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292009,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sumberdanti",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292003,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sumberwaru",
+    "postal_code": "68194"
+  },
+  {
+    "id": 3509292001,
+    "province_id": 35,
+    "regency_id": 3509,
+    "district_id": 350929,
+    "value": "Sumberwringin (Sumber Wringin)",
+    "postal_code": "68194"
+  }
+]

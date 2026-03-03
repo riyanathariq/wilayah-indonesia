@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9301202002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930120,
+    "value": "Bibikem",
+    "postal_code": "99640"
+  },
+  {
+    "id": 9301202004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930120,
+    "value": "Uli Uli",
+    "postal_code": "99640"
+  },
+  {
+    "id": 9301202001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930120,
+    "value": "Wanam",
+    "postal_code": "99640"
+  },
+  {
+    "id": 9301202003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930120,
+    "value": "Wogekel",
+    "postal_code": "99640"
+  }
+]

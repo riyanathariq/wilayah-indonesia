@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3604352008,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Bolang",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352001,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Kamaruton",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352010,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Kebonratu",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352005,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Kencana Harapan",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352004,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Lebak Kepuh",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352003,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Lebak Wangi (Lebakwangi)",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352006,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Pegandikan (Pegantikan)",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352007,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Purwadadi",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352002,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Teras Bendung (Terasbendung)",
+    "postal_code": "42181"
+  },
+  {
+    "id": 3604352009,
+    "province_id": 36,
+    "regency_id": 3604,
+    "district_id": 360435,
+    "value": "Tirem",
+    "postal_code": "42181"
+  }
+]

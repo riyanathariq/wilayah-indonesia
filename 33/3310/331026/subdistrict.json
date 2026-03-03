@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3310262004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Danguran",
+    "postal_code": "57425"
+  },
+  {
+    "id": 3310261009,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Gayamprit",
+    "postal_code": "57423"
+  },
+  {
+    "id": 3310262002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Glodogan",
+    "postal_code": "57426"
+  },
+  {
+    "id": 3310262012,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Jetis",
+    "postal_code": "57421"
+  },
+  {
+    "id": 3310262001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Kajoran",
+    "postal_code": "57426"
+  },
+  {
+    "id": 3310262010,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Karanglo",
+    "postal_code": "57423"
+  },
+  {
+    "id": 3310262007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Merbung",
+    "postal_code": "57424"
+  },
+  {
+    "id": 3310262003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Ngalas",
+    "postal_code": "57425"
+  },
+  {
+    "id": 3310262011,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Nglinggi",
+    "postal_code": "57422"
+  },
+  {
+    "id": 3310262006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Sumberejo",
+    "postal_code": "57426"
+  },
+  {
+    "id": 3310262008,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Tegalyoso",
+    "postal_code": "57424"
+  },
+  {
+    "id": 3310262005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331026,
+    "value": "Trunuh",
+    "postal_code": "57421"
+  }
+]

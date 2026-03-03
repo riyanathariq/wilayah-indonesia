@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2102041002,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Baran Barat",
+    "postal_code": "29666"
+  },
+  {
+    "id": 2102041006,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Baran Timur",
+    "postal_code": "29666"
+  },
+  {
+    "id": 2102041001,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Meral Kota",
+    "postal_code": "29666"
+  },
+  {
+    "id": 2102041008,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Parit Benut (Pasir Benut)",
+    "postal_code": "29666"
+  },
+  {
+    "id": 2102041007,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Sungai Pasir",
+    "postal_code": "29666"
+  },
+  {
+    "id": 2102041003,
+    "province_id": 21,
+    "regency_id": 2102,
+    "district_id": 210204,
+    "value": "Sungai Raya",
+    "postal_code": "29666"
+  }
+]

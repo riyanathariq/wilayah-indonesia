@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3212212008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Bulak",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212001,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Curug",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Eretan Kulon",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Eretan Wetan",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Ilir",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212005,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Karang Anyar (Karanganyar)",
+    "postal_code": "45213"
+  },
+  {
+    "id": 3212212004,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Karangmulya",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Kertawinangun",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Pareangirang (Parean Girang)",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212002,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Pranti",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Soge",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212003,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Wirakanan",
+    "postal_code": "45254"
+  },
+  {
+    "id": 3212212006,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321221,
+    "value": "Wirapanjunan",
+    "postal_code": "45254"
+  }
+]

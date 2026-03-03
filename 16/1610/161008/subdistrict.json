@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1610082004,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Arisan Gading",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082006,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Beti",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082001,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Mandi Angin (Mandiangin)",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082007,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Meranjat I",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082009,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Meranjat II",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082014,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Meranjat III",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082008,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Meranjat Ilir",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082011,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Sukaraja Baru",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082010,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Sukaraja Lama",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082005,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Tanjung Dayang Selatan",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082013,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Tanjung Dayang Utara",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082002,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Tanjung Lubuk",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082003,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Tebing Gerinting Selatan",
+    "postal_code": "30862"
+  },
+  {
+    "id": 1610082012,
+    "province_id": 16,
+    "regency_id": 1610,
+    "district_id": 161008,
+    "value": "Tebing Gerinting Utara",
+    "postal_code": "30862"
+  }
+]

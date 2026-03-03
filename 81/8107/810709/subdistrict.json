@@ -1,0 +1,82 @@
+[
+  {
+    "id": 8107092003,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Batugoyang",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092006,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Beltubur",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092002,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Dosimar",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092010,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Gomar Meti (Gomarmeti)",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092009,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Gomar Sungai (Gomarsungai)",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092008,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Jorang",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092007,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Karey",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092001,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Meror",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092004,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Salarem",
+    "postal_code": "97666"
+  },
+  {
+    "id": 8107092005,
+    "province_id": 81,
+    "regency_id": 8107,
+    "district_id": 810709,
+    "value": "Siya",
+    "postal_code": "97666"
+  }
+]

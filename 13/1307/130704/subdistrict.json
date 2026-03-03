@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1307042004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130704,
+    "value": "Andaleh",
+    "postal_code": "26261"
+  },
+  {
+    "id": 1307042002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130704,
+    "value": "Mungo",
+    "postal_code": "26261"
+  },
+  {
+    "id": 1307042003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130704,
+    "value": "Sungai Kamuyang",
+    "postal_code": "26261"
+  },
+  {
+    "id": 1307042001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130704,
+    "value": "Tj. Haro Sikabu-kabu Pd. Panjang",
+    "postal_code": "26261"
+  }
+]

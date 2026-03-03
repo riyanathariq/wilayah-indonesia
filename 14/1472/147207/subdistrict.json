@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1472071004,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147207,
+    "value": "Bukit Datuk",
+    "postal_code": "28825"
+  },
+  {
+    "id": 1472071002,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147207,
+    "value": "Bukit Timah",
+    "postal_code": "28826"
+  },
+  {
+    "id": 1472071005,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147207,
+    "value": "Bumi Ayu",
+    "postal_code": "28813"
+  },
+  {
+    "id": 1472071003,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147207,
+    "value": "Mekar Sari",
+    "postal_code": "28821"
+  },
+  {
+    "id": 1472071001,
+    "province_id": 14,
+    "regency_id": 1472,
+    "district_id": 147207,
+    "value": "Ratu Sima",
+    "postal_code": "28825"
+  }
+]

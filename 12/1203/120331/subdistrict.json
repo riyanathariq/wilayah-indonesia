@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1203312006,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Aek Pardomuan",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312005,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Bandar Tarutung",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312009,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Batu Godang",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312010,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Malombu",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312004,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Perkebunan",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203311002,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Rianiate",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203311001,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Sangkunur",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312008,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Simataniari",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312003,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Simatohir",
+    "postal_code": "22734"
+  },
+  {
+    "id": 1203312007,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120331,
+    "value": "Tindoan Laut",
+    "postal_code": "22734"
+  }
+]

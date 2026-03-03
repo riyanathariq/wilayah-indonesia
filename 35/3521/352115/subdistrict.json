@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3521152004,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Bringin",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152008,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Dampit",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152005,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Dero",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152007,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Gandong",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152010,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Kenongorejo",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152003,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Krompol",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152006,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Legowetan (Lego Wetan)",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152002,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Mojo",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152001,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Sumberbening (Sumber Bening)",
+    "postal_code": "63285"
+  },
+  {
+    "id": 3521152009,
+    "province_id": 35,
+    "regency_id": 3521,
+    "district_id": 352115,
+    "value": "Suruh",
+    "postal_code": "63285"
+  }
+]

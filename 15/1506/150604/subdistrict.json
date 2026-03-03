@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1506042015,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Bunga Tanjung",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042011,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Lubuk Terentang",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042008,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Makmur Jaya",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042017,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Mandala Jaya",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506041007,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Mekar Jaya",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042013,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Muntialo",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042012,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Pematang Buluh",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042001,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Pematang Lumut",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042009,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Serdang Jaya",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042016,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Sungaiterap (Sungai Tera)",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042014,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Telukkulbi",
+    "postal_code": "36555"
+  },
+  {
+    "id": 1506042010,
+    "province_id": 15,
+    "regency_id": 1506,
+    "district_id": 150604,
+    "value": "Terjun Gajah",
+    "postal_code": "36555"
+  }
+]

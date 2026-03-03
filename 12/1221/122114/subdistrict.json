@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1221142002,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Batu Gajah",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142011,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Bonan Dolok",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142007,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Gunung Tua",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142006,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Handio",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142001,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Hapung",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142003,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Hapung Torop",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142004,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Harang Jae",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142005,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Harang Julu",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142010,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Horuon (Horuan)",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142008,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Mandian",
+    "postal_code": "22765"
+  },
+  {
+    "id": 1221142009,
+    "province_id": 12,
+    "regency_id": 1221,
+    "district_id": 122114,
+    "value": "Parapat",
+    "postal_code": "22765"
+  }
+]

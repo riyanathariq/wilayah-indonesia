@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3206292001,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320629,
+    "value": "Cilampunghilir",
+    "postal_code": "46466"
+  },
+  {
+    "id": 3206292004,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320629,
+    "value": "Cisaruni",
+    "postal_code": "46466"
+  },
+  {
+    "id": 3206292003,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320629,
+    "value": "Mekarjaya",
+    "postal_code": "46466"
+  },
+  {
+    "id": 3206292005,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320629,
+    "value": "Padakembang",
+    "postal_code": "46466"
+  },
+  {
+    "id": 3206292002,
+    "province_id": 32,
+    "regency_id": 3206,
+    "district_id": 320629,
+    "value": "Rancapaku",
+    "postal_code": "46466"
+  }
+]

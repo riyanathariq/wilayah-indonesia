@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3328072008,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Argatawang",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072010,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Capar",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072006,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Cerih",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072012,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Dukuhbangsa",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072007,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Gantungan",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072013,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Jatinegara",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072001,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Kedungwungu",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072011,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Lebakwangi",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072015,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Lembasari (Lembahsari)",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072014,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Luwijawa",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072002,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Mokaha",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072009,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Padasari",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072003,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Penyalahan",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072004,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Sitail (Setail)",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072005,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Sumbarang",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072016,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Tamansari",
+    "postal_code": "52473"
+  },
+  {
+    "id": 3328072017,
+    "province_id": 33,
+    "regency_id": 3328,
+    "district_id": 332807,
+    "value": "Wotgalih",
+    "postal_code": "52473"
+  }
+]

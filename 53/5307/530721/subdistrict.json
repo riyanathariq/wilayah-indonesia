@@ -1,0 +1,34 @@
+[
+  {
+    "id": 5307212004,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530721,
+    "value": "Egon Gahar",
+    "postal_code": "86172"
+  },
+  {
+    "id": 5307212001,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530721,
+    "value": "Hale",
+    "postal_code": "86172"
+  },
+  {
+    "id": 5307212002,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530721,
+    "value": "Hebing",
+    "postal_code": "86172"
+  },
+  {
+    "id": 5307212003,
+    "province_id": 53,
+    "regency_id": 5307,
+    "district_id": 530721,
+    "value": "Natakoli",
+    "postal_code": "86172"
+  }
+]

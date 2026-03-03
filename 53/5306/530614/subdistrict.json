@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5306142006,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Bama",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142004,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Blepanawa",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142005,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Kawalelo",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142001,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Lamika",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142003,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Lewokluok",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142007,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Lewomuda",
+    "postal_code": "86219"
+  },
+  {
+    "id": 5306142002,
+    "province_id": 53,
+    "regency_id": 5306,
+    "district_id": 530614,
+    "value": "Watotika Ile",
+    "postal_code": "86219"
+  }
+]

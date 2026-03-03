@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9208042004,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920804,
+    "value": "Bamana",
+    "postal_code": "98121"
+  },
+  {
+    "id": 9208042002,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920804,
+    "value": "Boiya",
+    "postal_code": "98121"
+  },
+  {
+    "id": 9208042003,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920804,
+    "value": "Nariki",
+    "postal_code": "98121"
+  },
+  {
+    "id": 9208042001,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920804,
+    "value": "Rurumo",
+    "postal_code": "98121"
+  },
+  {
+    "id": 9208042005,
+    "province_id": 92,
+    "regency_id": 9208,
+    "district_id": 920804,
+    "value": "Siawatan",
+    "postal_code": "98121"
+  }
+]

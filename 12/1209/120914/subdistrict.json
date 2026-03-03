@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1209142007,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Bangun",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142011,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Baru",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142005,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Manis",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142012,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Mekar Sari",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142010,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Ofa Padang Mahondang",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142004,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Orika",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142009,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Padang Mahondang",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142008,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Persatuan",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142003,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Pulau Rakyat Pekan",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142002,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Pulau Rakyat Tua",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142001,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Sei Piring",
+    "postal_code": "21278"
+  },
+  {
+    "id": 1209142006,
+    "province_id": 12,
+    "regency_id": 1209,
+    "district_id": 120914,
+    "value": "Tunggul (Tunggul 45)",
+    "postal_code": "21278"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5271051002,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Dasan Agung",
+    "postal_code": "83125"
+  },
+  {
+    "id": 5271051007,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Dasan Agung Baru",
+    "postal_code": "83125"
+  },
+  {
+    "id": 5271051006,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Gomong",
+    "postal_code": "83126"
+  },
+  {
+    "id": 5271051004,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Karang Baru",
+    "postal_code": "83123"
+  },
+  {
+    "id": 5271051001,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Mataram Barat",
+    "postal_code": "83126"
+  },
+  {
+    "id": 5271051003,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Monjok",
+    "postal_code": "83122"
+  },
+  {
+    "id": 5271051009,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Monjok Barat",
+    "postal_code": "83122"
+  },
+  {
+    "id": 5271051008,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Monjok Timur",
+    "postal_code": "83122"
+  },
+  {
+    "id": 5271051005,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527105,
+    "value": "Rembiga",
+    "postal_code": "83124"
+  }
+]

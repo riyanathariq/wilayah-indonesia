@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9507182006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Jinok",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Kidoni",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Kugame",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Milimbo",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Takobak",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Umbename",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Wamindik",
+    "postal_code": "99579"
+  },
+  {
+    "id": 9507182007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950718,
+    "value": "Wewolome",
+    "postal_code": "99579"
+  }
+]

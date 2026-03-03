@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1504071004,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Bajubang",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072007,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Batin",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072001,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Bungku",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072003,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Ladang Peris",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072008,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Mekar Jaya",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072010,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Mekar Sari Nes",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072005,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Penerokan",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072006,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Petajen",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072002,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Pompa Air",
+    "postal_code": "36615"
+  },
+  {
+    "id": 1504072009,
+    "province_id": 15,
+    "regency_id": 1504,
+    "district_id": 150407,
+    "value": "Sungkai",
+    "postal_code": "36615"
+  }
+]

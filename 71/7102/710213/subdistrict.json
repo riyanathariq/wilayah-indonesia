@@ -1,0 +1,114 @@
+[
+  {
+    "id": 7102132014,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Kali",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132016,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Kali Selatan",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132021,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Lotta",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132020,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Pineleng Dua Indah",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Pineleng I (Pineleng Satu)",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Pineleng II (Pineleng Dua)",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132024,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Pineleng Satu Timur",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Sea",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Sea I",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Sea II",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132022,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Sea Mitra",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132023,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Sea Tumpengan",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Warembungan",
+    "postal_code": "95662"
+  },
+  {
+    "id": 7102132005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710213,
+    "value": "Winagun Atas (Winangun Atas)",
+    "postal_code": "95662"
+  }
+]

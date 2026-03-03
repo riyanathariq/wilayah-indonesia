@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6210112004,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Luwuk Tukau",
+    "postal_code": "74563"
+  },
+  {
+    "id": 6210112006,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Putat Durei",
+    "postal_code": "74563"
+  },
+  {
+    "id": 6210111005,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Tehang",
+    "postal_code": "74563"
+  },
+  {
+    "id": 6210112007,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Tumbang Mantuhe",
+    "postal_code": "74563"
+  },
+  {
+    "id": 6210112003,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Tumbang Oroi",
+    "postal_code": "74563"
+  },
+  {
+    "id": 6210112002,
+    "province_id": 62,
+    "regency_id": 6210,
+    "district_id": 621011,
+    "value": "Tumbang Samui",
+    "postal_code": "74563"
+  }
+]

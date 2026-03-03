@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1501182014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Koto Lua",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182013,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Lubuk Tabun",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Hilir",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Mudik",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Pintu",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Seberang",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Tengah",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Mukai Tinggi",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Pasir Jaya",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Senimpik",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Sungaikuning (Sungai Kuning)",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Sungailangkap (Sungai Langkap)",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Talang Tinggi",
+    "postal_code": "37169"
+  },
+  {
+    "id": 1501182005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150118,
+    "value": "Tebing Tinggi",
+    "postal_code": "37169"
+  }
+]

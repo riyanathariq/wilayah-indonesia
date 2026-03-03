@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1572062002,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Aur Duri",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572062006,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Karya Bakti",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572062007,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Koto Lembu/Lebu",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572062005,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Lawang Agung",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572062004,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Permanti",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572062003,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Pondok Agung",
+    "postal_code": "37111"
+  },
+  {
+    "id": 1572061008,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Pondok Tinggi",
+    "postal_code": "37114"
+  },
+  {
+    "id": 1572062001,
+    "province_id": 15,
+    "regency_id": 1572,
+    "district_id": 157206,
+    "value": "Sungai Jernih",
+    "postal_code": "37111"
+  }
+]

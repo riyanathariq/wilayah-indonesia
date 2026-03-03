@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7373021002,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Batupasi",
+    "postal_code": "91911"
+  },
+  {
+    "id": 7373021008,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Luminda",
+    "postal_code": "91912"
+  },
+  {
+    "id": 7373021009,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Pattene (Patte'ne)",
+    "postal_code": "91912"
+  },
+  {
+    "id": 7373021007,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Penggoli",
+    "postal_code": "91914"
+  },
+  {
+    "id": 7373021003,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Sabbang Paru (Sabbamparu / Saabbang Baru)",
+    "postal_code": "91913"
+  },
+  {
+    "id": 7373021005,
+    "province_id": 73,
+    "regency_id": 7373,
+    "district_id": 737302,
+    "value": "Salobulo",
+    "postal_code": "91911"
+  }
+]

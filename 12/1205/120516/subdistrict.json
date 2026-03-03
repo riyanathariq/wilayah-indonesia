@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1205161010,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Bukit Kubu",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Bukit Mas",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Bukit Selamat",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Halaban",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205161011,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Kampung Lama",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205161009,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Pekan Besitang",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Pir ABD Besitang (Pir Adb Besitang)",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Sekoci",
+    "postal_code": "20859"
+  },
+  {
+    "id": 1205162007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120516,
+    "value": "Suka Jaya",
+    "postal_code": "20859"
+  }
+]

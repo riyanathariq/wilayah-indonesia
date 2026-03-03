@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3674041007,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Cipayung",
+    "postal_code": "15411"
+  },
+  {
+    "id": 3674041003,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Ciputat",
+    "postal_code": "15411"
+  },
+  {
+    "id": 3674041006,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Jombang",
+    "postal_code": "15414"
+  },
+  {
+    "id": 3674041002,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Sarua (Serua)",
+    "postal_code": "15414"
+  },
+  {
+    "id": 3674041001,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Sawah Baru",
+    "postal_code": "15413"
+  },
+  {
+    "id": 3674041004,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Sawah Lama",
+    "postal_code": "15413"
+  },
+  {
+    "id": 3674041005,
+    "province_id": 36,
+    "regency_id": 3674,
+    "district_id": 367404,
+    "value": "Serua Indah (Sarua Indah)",
+    "postal_code": "15414"
+  }
+]

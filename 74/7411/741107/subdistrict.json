@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7411071004,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Horodopi",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411071002,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Inebenggi",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072010,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Lambo Tua",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072008,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Lapangisi",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072003,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Nelombu",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072006,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Puosu",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072009,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Sabi-sabila",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072007,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Ulu Mowewe",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411072005,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Watupute",
+    "postal_code": "93571"
+  },
+  {
+    "id": 7411071001,
+    "province_id": 74,
+    "regency_id": 7411,
+    "district_id": 741107,
+    "value": "Woitombo",
+    "postal_code": "93571"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3212012013,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Cipancuh",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012008,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Haurgeulis",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012007,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Haurkolot",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012011,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Karangtumaritis",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012012,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Kertanegara",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012014,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Mekarjati",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012015,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Sidodadi (Sidadadi)",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012009,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Sukajati",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012016,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Sumbermulya",
+    "postal_code": "45266"
+  },
+  {
+    "id": 3212012010,
+    "province_id": 32,
+    "regency_id": 3212,
+    "district_id": 321201,
+    "value": "Wanakaya",
+    "postal_code": "45266"
+  }
+]

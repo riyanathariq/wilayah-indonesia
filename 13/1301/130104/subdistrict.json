@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1301042001,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "IV Koto Hilie",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042002,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "IV Koto Mudiek",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042004,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Koto Nan Duo IV Koto Hilie",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042005,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Koto Nan Tigo IV Koto Hilie",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042008,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Sungai Nyalo IV Koto Mudiek (Sungainyalo)",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042003,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Taluak",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042009,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Taluk Tigo Sakato",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042006,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Teratak Tempatih IV Koto Mudiek",
+    "postal_code": "25661"
+  },
+  {
+    "id": 1301042007,
+    "province_id": 13,
+    "regency_id": 1301,
+    "district_id": 130104,
+    "value": "Tuik IV Koto Mudiek",
+    "postal_code": "25661"
+  }
+]

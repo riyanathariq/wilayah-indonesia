@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8103022001,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Adaut",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022007,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Eliasa",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022005,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Fursuy (Fursui)",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022003,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Kandar",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022004,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Lingat",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022002,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Namtabung",
+    "postal_code": "97481"
+  },
+  {
+    "id": 8103022006,
+    "province_id": 81,
+    "regency_id": 8103,
+    "district_id": 810302,
+    "value": "Werain",
+    "postal_code": "97481"
+  }
+]

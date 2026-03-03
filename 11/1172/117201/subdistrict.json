@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1172012005,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117201,
+    "value": "Aneuk Laot",
+    "postal_code": "23514"
+  },
+  {
+    "id": 1172012004,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117201,
+    "value": "Krueng Raya",
+    "postal_code": "23515"
+  },
+  {
+    "id": 1172012008,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117201,
+    "value": "Kuta Ateuh (Kota Atas)",
+    "postal_code": "23511"
+  },
+  {
+    "id": 1172012007,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117201,
+    "value": "Kuta Barat (Kota Bawah Barat)",
+    "postal_code": "23512"
+  },
+  {
+    "id": 1172012006,
+    "province_id": 11,
+    "regency_id": 1172,
+    "district_id": 117201,
+    "value": "Kuta Timu (Kota Bawah Timur)",
+    "postal_code": "23513"
+  }
+]

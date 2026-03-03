@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1602232001,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Benawa",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232012,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Bumi Harapan",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232006,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Cinta Marga (Cintamarga)",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232005,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Kuripan",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232004,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Muara Telang",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232010,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Mulyaguna (Mulya Guna)",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232011,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Panca Tunggal Benawa",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232007,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Penyandingan",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232002,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Serapek",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232014,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Seriguna",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232013,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Sinar Harapan Mulya",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232003,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Sugih Waras",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232008,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Talang Pengeran (Talang Pangeran)",
+    "postal_code": "30673"
+  },
+  {
+    "id": 1602232009,
+    "province_id": 16,
+    "regency_id": 1602,
+    "district_id": 160223,
+    "value": "Ulak Ketapang",
+    "postal_code": "30673"
+  }
+]

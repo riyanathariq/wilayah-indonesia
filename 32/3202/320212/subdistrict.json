@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3202122010,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Babakan Panjang",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122009,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Balekambang",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122012,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Cihanyawar",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122004,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Cisarua",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122011,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Darmareja",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122014,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Girijaya",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122001,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Kalaparea",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122013,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Nagrak Selatan",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122003,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Nagrak Utara",
+    "postal_code": "43352"
+  },
+  {
+    "id": 3202122002,
+    "province_id": 32,
+    "regency_id": 3202,
+    "district_id": 320212,
+    "value": "Pawenang",
+    "postal_code": "43352"
+  }
+]

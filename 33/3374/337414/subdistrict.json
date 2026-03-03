@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3374141002,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Bubakan",
+    "postal_code": "50216"
+  },
+  {
+    "id": 3374141001,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Cangkiran",
+    "postal_code": "50216"
+  },
+  {
+    "id": 3374141009,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Jatibarang",
+    "postal_code": "50219"
+  },
+  {
+    "id": 3374141013,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Jatisari",
+    "postal_code": "50275"
+  },
+  {
+    "id": 3374141003,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Karangmalang",
+    "postal_code": "50216"
+  },
+  {
+    "id": 3374141010,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Kedungpane (Kedungpani)",
+    "postal_code": "50211"
+  },
+  {
+    "id": 3374141008,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Mijen",
+    "postal_code": "50519"
+  },
+  {
+    "id": 3374141011,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Ngadirgo",
+    "postal_code": "50213"
+  },
+  {
+    "id": 3374141014,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Pesantren",
+    "postal_code": "50212"
+  },
+  {
+    "id": 3374141004,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Polaman",
+    "postal_code": "50217"
+  },
+  {
+    "id": 3374141005,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Purwosari",
+    "postal_code": "50217"
+  },
+  {
+    "id": 3374141006,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Tambangan",
+    "postal_code": "50215"
+  },
+  {
+    "id": 3374141007,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Wonolopo",
+    "postal_code": "50215"
+  },
+  {
+    "id": 3374141012,
+    "province_id": 33,
+    "regency_id": 3374,
+    "district_id": 337414,
+    "value": "Wonoplumbon",
+    "postal_code": "50214"
+  }
+]

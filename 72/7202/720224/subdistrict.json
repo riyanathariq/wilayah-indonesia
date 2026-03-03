@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7202242005,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720224,
+    "value": "Kalemago",
+    "postal_code": "94657"
+  },
+  {
+    "id": 7202242002,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720224,
+    "value": "Maholo",
+    "postal_code": "94657"
+  },
+  {
+    "id": 7202242004,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720224,
+    "value": "Mekarsari",
+    "postal_code": "94657"
+  },
+  {
+    "id": 7202242003,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720224,
+    "value": "Tamadue",
+    "postal_code": "94657"
+  },
+  {
+    "id": 7202242001,
+    "province_id": 72,
+    "regency_id": 7202,
+    "district_id": 720224,
+    "value": "Winowanga",
+    "postal_code": "94657"
+  }
+]

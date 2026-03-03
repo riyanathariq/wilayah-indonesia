@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7603082008,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Lisuan Ada",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082012,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Malangkena Padang",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082013,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Malimbong",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082014,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Marampan Orobua",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082002,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Orobua",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082010,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Orobua Selatan",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082004,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Orobua Timur",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082003,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Paladan",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082006,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Rante Puang",
+    "postal_code": "91365"
+  },
+  {
+    "id": 7603082007,
+    "province_id": 76,
+    "regency_id": 7603,
+    "district_id": 760308,
+    "value": "Satenetean",
+    "postal_code": "91365"
+  }
+]

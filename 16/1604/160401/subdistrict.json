@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1604012004,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Batu Rancing",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012006,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Genting/Genteng",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012007,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Gunung Ayu",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012002,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Gunung Meraksa",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012012,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Gunung Raya",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012014,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Karang Agung",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012001,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Kembang Ayun",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012010,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Kepala Siring",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012009,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Muara Cawang",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012011,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Simpang III Pumu (Simpang Tiga Pomo / Pumu)",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012005,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Suban",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012013,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Talang Tinggi",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012003,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Tanjung Alam",
+    "postal_code": "31582"
+  },
+  {
+    "id": 1604012008,
+    "province_id": 16,
+    "regency_id": 1604,
+    "district_id": 160401,
+    "value": "Ujung Pulau",
+    "postal_code": "31582"
+  }
+]

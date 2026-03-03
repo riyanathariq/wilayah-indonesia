@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1106062025,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Aneuk Batee",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062021,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Aneuk Galong Baro",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062022,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Aneuk Galong Titi",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062004,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Baet Lampuot",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062008,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Baet Mesago (Baet Meusugo)",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062009,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Baet Mesjid",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062023,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Blang Cot/Cut",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062019,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Bukloh",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062005,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Dilib Bukit (Dilib Bukti)",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062003,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Dilib Lamteungoh",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062034,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Kayee Adang",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062024,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Klieng Mayang (Klieng Manyang)",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062017,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lam Lheu",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062035,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lam Tanjong",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062018,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lambarih Jurong Raya",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062010,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lambaro Sibreh",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062033,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lambirah",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062029,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lambirah Bak Mee (Lambarih Bak Mee)",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062011,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lamgeu Baro",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062012,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lamgeu Tuha",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062013,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lampanah Ineu",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062027,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lampisang",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062016,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Lamteh Dayah",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062030,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Luthu Dayah Krueng",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062031,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Luthu Lamweu",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062028,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Meunasah Bakthu",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062026,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Meunasah Tuha",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062020,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Niron",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062032,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Panterawa",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062001,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Reuhat Tuha",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062006,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Seumeureung",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062007,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Sibreh Keumudee",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062015,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Tampok Blang",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062014,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Tampok Jeurat Raya",
+    "postal_code": "23361"
+  },
+  {
+    "id": 1106062002,
+    "province_id": 11,
+    "regency_id": 1106,
+    "district_id": 110606,
+    "value": "Weusiteh",
+    "postal_code": "23361"
+  }
+]

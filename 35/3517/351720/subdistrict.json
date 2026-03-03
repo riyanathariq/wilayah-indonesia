@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3517202009,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Balonggemek",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202005,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Balongsari",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202010,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Dukuharum (Dukuh Arum)",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202002,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Gongseng",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202013,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Kedungrejo (Kedung Rejo)",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202003,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Megaluh",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202007,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Ngogri",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202012,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Pacarpeluk (Pacar Peluk)",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202008,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Sidomulyo",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202004,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Sudimoro",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202011,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Sumberagung (Sumber Agung)",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202006,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Sumbersari",
+    "postal_code": "61457"
+  },
+  {
+    "id": 3517202001,
+    "province_id": 35,
+    "regency_id": 3517,
+    "district_id": 351720,
+    "value": "Turipinggir (Turi Pinggir)",
+    "postal_code": "61457"
+  }
+]

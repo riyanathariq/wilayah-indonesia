@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3603332003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Cijeruk",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332008,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Gandaria (Ganda Ria)",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332006,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Jenggot",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332002,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Kedaung",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332005,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Klutuk",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Kosambi Dalam",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Mekar Baru",
+    "postal_code": "15551"
+  },
+  {
+    "id": 3603332004,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360333,
+    "value": "Waliwis",
+    "postal_code": "15551"
+  }
+]

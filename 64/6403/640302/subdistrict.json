@@ -1,0 +1,82 @@
+[
+  {
+    "id": 6403022015,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Bumi Jaya",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022014,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Campur Sari",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022023,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Capuak",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022002,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Dumaring",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022021,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Eka Sapta",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022019,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Purna Sari Jaya",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022018,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Suka Murya",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022017,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Sumber Mulya (Sumber Mulia)",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022003,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Talisayan",
+    "postal_code": "77375"
+  },
+  {
+    "id": 6403022016,
+    "province_id": 64,
+    "regency_id": 6403,
+    "district_id": 640302,
+    "value": "Tunggal Bumi",
+    "postal_code": "77375"
+  }
+]

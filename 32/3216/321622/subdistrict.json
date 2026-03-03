@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3216222006,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Cibarusah Jaya (Cibarusahjaya)",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222005,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Cibarusah Kota (Cibarusahkota)",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222002,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Ridogalih",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222003,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Ridomanah",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222007,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Sindangmulya",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222001,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Sirnajaya (Sirnajati)",
+    "postal_code": "17340"
+  },
+  {
+    "id": 3216222004,
+    "province_id": 32,
+    "regency_id": 3216,
+    "district_id": 321622,
+    "value": "Wibawamulya",
+    "postal_code": "17340"
+  }
+]

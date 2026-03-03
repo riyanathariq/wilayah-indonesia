@@ -1,0 +1,66 @@
+[
+  {
+    "id": 7102181005,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Koya",
+    "postal_code": "95618"
+  },
+  {
+    "id": 7102181008,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Maesa Unima",
+    "postal_code": "95618"
+  },
+  {
+    "id": 7102181006,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Paleloan (Peleloan)",
+    "postal_code": "95619"
+  },
+  {
+    "id": 7102181003,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Tataaran Dua (II)",
+    "postal_code": "95618"
+  },
+  {
+    "id": 7102181007,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Tataaran Patar",
+    "postal_code": "95619"
+  },
+  {
+    "id": 7102181004,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Tataaran Satu (I)",
+    "postal_code": "95618"
+  },
+  {
+    "id": 7102181002,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Tounsaru",
+    "postal_code": "95619"
+  },
+  {
+    "id": 7102181001,
+    "province_id": 71,
+    "regency_id": 7102,
+    "district_id": 710218,
+    "value": "Urongo",
+    "postal_code": "95619"
+  }
+]

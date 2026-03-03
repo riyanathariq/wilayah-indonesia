@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3310251001,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Bareng",
+    "postal_code": "57414"
+  },
+  {
+    "id": 3310251006,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Buntalan",
+    "postal_code": "57419"
+  },
+  {
+    "id": 3310252009,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Gumulan",
+    "postal_code": "57417"
+  },
+  {
+    "id": 3310252007,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Jomboran",
+    "postal_code": "57418"
+  },
+  {
+    "id": 3310251002,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Kabupaten",
+    "postal_code": "57413"
+  },
+  {
+    "id": 3310251003,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Klaten",
+    "postal_code": "57411"
+  },
+  {
+    "id": 3310251008,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Mojayan",
+    "postal_code": "57416"
+  },
+  {
+    "id": 3310252005,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Semangkak",
+    "postal_code": "57415"
+  },
+  {
+    "id": 3310251004,
+    "province_id": 33,
+    "regency_id": 3310,
+    "district_id": 331025,
+    "value": "Tonggalan",
+    "postal_code": "57412"
+  }
+]

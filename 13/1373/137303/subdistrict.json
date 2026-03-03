@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1373032004,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137303,
+    "value": "Muaro Kalaban",
+    "postal_code": "27435"
+  },
+  {
+    "id": 1373032001,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137303,
+    "value": "Silungkang Duo",
+    "postal_code": "27432"
+  },
+  {
+    "id": 1373032002,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137303,
+    "value": "Silungkang Oso",
+    "postal_code": "27433"
+  },
+  {
+    "id": 1373032003,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137303,
+    "value": "Silungkang Tigo",
+    "postal_code": "27431"
+  },
+  {
+    "id": 1373032005,
+    "province_id": 13,
+    "regency_id": 1373,
+    "district_id": 137303,
+    "value": "Taratak Bancah/Boncah",
+    "postal_code": "27434"
+  }
+]

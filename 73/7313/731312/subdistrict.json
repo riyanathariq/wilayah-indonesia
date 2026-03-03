@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7313122006,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Benteng",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313121001,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Doping",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122005,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Lawesso",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122008,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Makmur",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122002,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Padaelo",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122004,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Penrang",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122010,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Raddae",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122009,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Tadangpalie (Tadang Palie)",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122003,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Temmabarang",
+    "postal_code": "90983"
+  },
+  {
+    "id": 7313122007,
+    "province_id": 73,
+    "regency_id": 7313,
+    "district_id": 731312,
+    "value": "Walanga",
+    "postal_code": "90983"
+  }
+]

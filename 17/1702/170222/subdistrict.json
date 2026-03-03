@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1702222002,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "Air Rusa",
+    "postal_code": "39154"
+  },
+  {
+    "id": 1702222003,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "Bengko",
+    "postal_code": "39154"
+  },
+  {
+    "id": 1702222001,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "IV Suko Menanti (IV / Empat Suku Menanti)",
+    "postal_code": "39154"
+  },
+  {
+    "id": 1702222004,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "Sinar Gunung",
+    "postal_code": "39154"
+  },
+  {
+    "id": 1702222006,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "Talang Belitar",
+    "postal_code": "39154"
+  },
+  {
+    "id": 1702222005,
+    "province_id": 17,
+    "regency_id": 1702,
+    "district_id": 170222,
+    "value": "Warung Pojok",
+    "postal_code": "39154"
+  }
+]

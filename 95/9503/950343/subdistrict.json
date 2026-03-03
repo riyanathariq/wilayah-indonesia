@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9503432004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Balinggama",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432012,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Benembia",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Dohong",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432006,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Hamik",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432013,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Hubik",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432007,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Kulahaik",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432009,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Puahuun",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432011,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Sele",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432010,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Silak Pahabol",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432008,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Simbuk",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Sobaham",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Yabi (Jabi)",
+    "postal_code": "99742"
+  },
+  {
+    "id": 9503432001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950343,
+    "value": "Yalisomon",
+    "postal_code": "99742"
+  }
+]

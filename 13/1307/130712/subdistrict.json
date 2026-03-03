@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1307122002,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130712,
+    "value": "Banja Loweh (Banja Laweh)",
+    "postal_code": "26257"
+  },
+  {
+    "id": 1307122003,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130712,
+    "value": "Baruah Gunuang",
+    "postal_code": "26257"
+  },
+  {
+    "id": 1307122005,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130712,
+    "value": "Koto Tangah",
+    "postal_code": "26257"
+  },
+  {
+    "id": 1307122001,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130712,
+    "value": "Maek",
+    "postal_code": "26257"
+  },
+  {
+    "id": 1307122004,
+    "province_id": 13,
+    "regency_id": 1307,
+    "district_id": 130712,
+    "value": "Sungai Naniang",
+    "postal_code": "26257"
+  }
+]

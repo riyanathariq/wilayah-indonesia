@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3322132010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Bergas Kidul",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322131009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Bergas Lor",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132013,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Diwak",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Gebugan",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Gondoriyo",
+    "postal_code": "50187"
+  },
+  {
+    "id": 3322132012,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Jatijajar",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322131002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Karangjati",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Munding",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322131001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Ngempon",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Pagersari",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Randugunting",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322132003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Wringinputih (Wringin Putih)",
+    "postal_code": "50552"
+  },
+  {
+    "id": 3322131005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332213,
+    "value": "Wujil",
+    "postal_code": "50552"
+  }
+]

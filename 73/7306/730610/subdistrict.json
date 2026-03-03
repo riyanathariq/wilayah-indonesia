@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7306102006,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Balassuka",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102009,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Bolaromang",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102003,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Erelembang",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102004,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Kanreapia",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102007,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Mamampang",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102005,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Pao",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102002,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Ta'binjai",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306101001,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Tamaona",
+    "postal_code": "92170"
+  },
+  {
+    "id": 7306102008,
+    "province_id": 73,
+    "regency_id": 7306,
+    "district_id": 730610,
+    "value": "Tonasa",
+    "postal_code": "92170"
+  }
+]

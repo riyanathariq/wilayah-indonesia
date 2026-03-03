@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9501182003,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Bokiem",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182005,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Budliem",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182008,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Entagekokma",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182007,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Huluaima",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182004,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Iyora",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182002,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Senogolik",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182001,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Tailarek (Taila)",
+    "postal_code": "99555"
+  },
+  {
+    "id": 9501182006,
+    "province_id": 95,
+    "regency_id": 9501,
+    "district_id": 950118,
+    "value": "Yoman Weya",
+    "postal_code": "99555"
+  }
+]

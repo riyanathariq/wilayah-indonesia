@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7415062007,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Batuawu",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062001,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Biwinapada",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062002,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Kaimbulawa",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062006,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Karae",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062010,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Lapara",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062005,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Lontoi",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062008,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Nggulanggula",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062004,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Tongali",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062009,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Waindawula",
+    "postal_code": "93743"
+  },
+  {
+    "id": 7415062003,
+    "province_id": 74,
+    "regency_id": 7415,
+    "district_id": 741506,
+    "value": "Wakinamboro",
+    "postal_code": "93743"
+  }
+]

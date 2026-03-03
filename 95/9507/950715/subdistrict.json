@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9507152006,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Bogun Kunik",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152009,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Gimili Alome",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152002,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Giwan",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152001,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Konikme",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152003,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Lugom",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152004,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Mabume",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152008,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Omapaga",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152007,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Urgelo",
+    "postal_code": "99599"
+  },
+  {
+    "id": 9507152005,
+    "province_id": 95,
+    "regency_id": 9507,
+    "district_id": 950715,
+    "value": "Wandoak",
+    "postal_code": "99599"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": 532005,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Hawu Mehara"
+  },
+  {
+    "id": 532006,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Raijua"
+  },
+  {
+    "id": 532001,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Sabu Barat"
+  },
+  {
+    "id": 532004,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Sabu Liae"
+  },
+  {
+    "id": 532002,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Sabu Tengah"
+  },
+  {
+    "id": 532003,
+    "province_id": 53,
+    "regency_id": 5320,
+    "value": "Sabu Timur"
+  }
+]

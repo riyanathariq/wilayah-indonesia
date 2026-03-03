@@ -1,0 +1,98 @@
+[
+  {
+    "id": 9301102011,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Bouwer",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102012,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Bumun",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102010,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Bunggay",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102001,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Bupul",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102008,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Bupul Indah",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102006,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Enggal Jaya",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102007,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Gerisar (Geriser)",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102003,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Kweel",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102005,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Metaat Makmur (Mantaat Makmur)",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102004,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Sipias",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102002,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Tanas (Tanaas)",
+    "postal_code": "99633"
+  },
+  {
+    "id": 9301102009,
+    "province_id": 93,
+    "regency_id": 9301,
+    "district_id": 930110,
+    "value": "Tof-Tof (Taftof)",
+    "postal_code": "99633"
+  }
+]

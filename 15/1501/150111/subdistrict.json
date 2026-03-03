@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1501112008,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Air Hangat",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112027,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Air Panas Sungaiabu",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112026,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Baru Air Hangat",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112009,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Baru Sungai Tutung",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112028,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Baru Sungaiabu",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112022,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Baru Sungaideras",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112024,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Baru Sungaimedang",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112018,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Agung",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112003,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Darat",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112014,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Hilir",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112002,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Kebalai",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112020,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Mudik",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112025,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Raya",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112001,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Kemantan Tinggi",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112006,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Koto Tebat",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112005,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Pondok Sungaiabu (Pondok Sungai Abu)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112011,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Pungut Hilir",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112012,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Pungut Mudik",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112010,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Pungut Tengah",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112021,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Simpang Empat (Simpang Empat Sungai Tutung)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112004,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Sungaiabu (Sungai Abu)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112019,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Sungaideras (Sungai Deras)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112007,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Sungaimedang (Sungai Medang)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112015,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Sungaitutung (Sungai Tutung)",
+    "postal_code": "37167"
+  },
+  {
+    "id": 1501112023,
+    "province_id": 15,
+    "regency_id": 1501,
+    "district_id": 150111,
+    "value": "Taman Jernih (Taman Jernih Sungaitutung)",
+    "postal_code": "37167"
+  }
+]

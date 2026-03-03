@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1211082005,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Jambur Indonesia",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082007,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Janji",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082010,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Lae Haporas",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082001,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Lae Itam",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082002,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Lae Luhung",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082004,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Lae Markelang",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082009,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Lae Sering (Lae Saring)",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082003,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Pardomuan",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082006,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Simungun",
+    "postal_code": "22263"
+  },
+  {
+    "id": 1211082008,
+    "province_id": 12,
+    "regency_id": 1211,
+    "district_id": 121108,
+    "value": "Sopo Butar (Sopobutar)",
+    "postal_code": "22263"
+  }
+]

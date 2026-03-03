@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3505022005,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Bakung",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022012,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Bendorejo",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022003,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Besuki",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022001,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Jati",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022007,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Karanggondang",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022006,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Mangunan",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022008,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Ringinanom",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022010,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Slemanan",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022009,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Sukorejo",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022011,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Sumbersari",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022002,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Temenggungan",
+    "postal_code": "66154"
+  },
+  {
+    "id": 3505022004,
+    "province_id": 35,
+    "regency_id": 3505,
+    "district_id": 350502,
+    "value": "Tunjung",
+    "postal_code": "66154"
+  }
+]

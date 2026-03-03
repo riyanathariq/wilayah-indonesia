@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3211142010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Cihanjuang",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Cikahuripan",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Cimanggung",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Mangunarga",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Pasirnanjung (Pasirnunjang)",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Sawahdadap",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Sindanggalih",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Sindangpakuon",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Sindulang",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Sukadana",
+    "postal_code": "45364"
+  },
+  {
+    "id": 3211142003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321114,
+    "value": "Tegalmanggung",
+    "postal_code": "45364"
+  }
+]

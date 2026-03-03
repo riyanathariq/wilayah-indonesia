@@ -1,0 +1,58 @@
+[
+  {
+    "id": 5301252001,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Fatukanutu (Fatuknutu)",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301252005,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Fatuteta",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301252002,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Kairane",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301252004,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Kuanheun (Kuanheum)",
+    "postal_code": "85362"
+  },
+  {
+    "id": 5301252007,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Niunbaun",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301252006,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Oeleto (Oefeto)",
+    "postal_code": "85363"
+  },
+  {
+    "id": 5301252003,
+    "province_id": 53,
+    "regency_id": 5301,
+    "district_id": 530125,
+    "value": "Raknamo",
+    "postal_code": "85362"
+  }
+]

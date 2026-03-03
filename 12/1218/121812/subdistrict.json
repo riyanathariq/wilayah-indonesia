@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1218122038,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Bah Sidua Dua",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122014,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Karang Tengah",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122015,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Kelapa Bajohor/Bajohom",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122011,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Kwala/Kuala Bali",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122018,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Manggis",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122020,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Pulau Gambar",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122021,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Pulau Tagor",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122032,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Serba Jadi",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122033,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Tambak Cekur",
+    "postal_code": "20990"
+  },
+  {
+    "id": 1218122010,
+    "province_id": 12,
+    "regency_id": 1218,
+    "district_id": 121812,
+    "value": "Tanjung Harap",
+    "postal_code": "20990"
+  }
+]

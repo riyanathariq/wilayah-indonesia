@@ -1,0 +1,58 @@
+[
+  {
+    "id": 8106112006,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Abio Ahiolo",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112008,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Elpaputih",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112007,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Huku Kecil",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112002,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Sanahu",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112004,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Sumeith/Sameith Pasinaro",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112003,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Wasia (Waisa)",
+    "postal_code": "97564"
+  },
+  {
+    "id": 8106112005,
+    "province_id": 81,
+    "regency_id": 8106,
+    "district_id": 810611,
+    "value": "Watuy (Watui)",
+    "postal_code": "97564"
+  }
+]

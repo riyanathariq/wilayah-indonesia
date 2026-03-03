@@ -1,0 +1,50 @@
+[
+  {
+    "id": 3207052001,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Cidolog",
+    "postal_code": "46352"
+  },
+  {
+    "id": 3207052005,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Ciparay",
+    "postal_code": "46352"
+  },
+  {
+    "id": 3207052003,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Hegarmanah",
+    "postal_code": "46352"
+  },
+  {
+    "id": 3207052002,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Janggala",
+    "postal_code": "46352"
+  },
+  {
+    "id": 3207052004,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Jelegong",
+    "postal_code": "46352"
+  },
+  {
+    "id": 3207052006,
+    "province_id": 32,
+    "regency_id": 3207,
+    "district_id": 320705,
+    "value": "Sukasari",
+    "postal_code": "46352"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3518092002,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Babadan",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092001,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Bukur",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092005,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Lestari",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092003,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Ngepung",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092010,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Ngrombot",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092008,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Pakuncen",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092007,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Patianrowo",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092006,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Pecuk",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092004,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Pisang",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092009,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Rowomarto",
+    "postal_code": "64391"
+  },
+  {
+    "id": 3518092011,
+    "province_id": 35,
+    "regency_id": 3518,
+    "district_id": 351809,
+    "value": "Tirtobinangun",
+    "postal_code": "64391"
+  }
+]

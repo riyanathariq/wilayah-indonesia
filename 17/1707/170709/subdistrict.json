@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1707092004,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Gunung Alam",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092006,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Kota Baru Santan",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092008,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Pelabai",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092002,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Sukau Datang",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092003,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Sukau Datang I",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092005,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Tabeak Blau II",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707091001,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Tanjung Agung",
+    "postal_code": "39266"
+  },
+  {
+    "id": 1707092007,
+    "province_id": 17,
+    "regency_id": 1707,
+    "district_id": 170709,
+    "value": "Tik Teleu",
+    "postal_code": "39266"
+  }
+]

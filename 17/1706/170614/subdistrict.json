@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1706142002,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Air Dikit",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142007,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Air Kasai",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142001,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Dusun Baru V Koto",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142003,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Pondok Lunang",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142004,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Sari Bulan",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142005,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Sari Makmur",
+    "postal_code": "38765"
+  },
+  {
+    "id": 1706142006,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170614,
+    "value": "Sumber Sari",
+    "postal_code": "38765"
+  }
+]

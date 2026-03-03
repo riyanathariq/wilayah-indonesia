@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3213042020,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Banggalamulya",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042017,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Caracas",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042018,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Ciruluk",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042019,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Jalupang",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042008,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Kaliangsana",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042011,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Kalijati Barat",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042007,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Kalijati Timur",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042006,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Marengmang",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042013,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Tanggulun Barat",
+    "postal_code": "41271"
+  },
+  {
+    "id": 3213042012,
+    "province_id": 32,
+    "regency_id": 3213,
+    "district_id": 321304,
+    "value": "Tanggulun Timur",
+    "postal_code": "41271"
+  }
+]

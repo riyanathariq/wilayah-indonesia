@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3211132001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Cigendel",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Cijeruk",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Cilembu",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Cimarias",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Cinanggerang",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Ciptasari",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Citali",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Haurgombong (Haurngombong)",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Mekarbakti",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Pamulihan",
+    "postal_code": "45365"
+  },
+  {
+    "id": 3211132009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321113,
+    "value": "Sukawangi",
+    "postal_code": "45365"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1205141006,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Berandan Barat (Brandan Barat)",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205141008,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Berandan Timur (Brandan Timur)",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205141007,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Berandan Timur Baru (Brandan Timur Baru)",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205142004,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Pelawi Selatan",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205141001,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Pelawi Utara",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205142005,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Securai Selatan",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205142002,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Securai Utara",
+    "postal_code": "20857"
+  },
+  {
+    "id": 1205142003,
+    "province_id": 12,
+    "regency_id": 1205,
+    "district_id": 120514,
+    "value": "Teluk Meku",
+    "postal_code": "20857"
+  }
+]

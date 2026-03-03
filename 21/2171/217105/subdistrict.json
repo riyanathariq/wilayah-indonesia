@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2171051004,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Batu Legong",
+    "postal_code": "29474"
+  },
+  {
+    "id": 2171051001,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Bulang Lintang",
+    "postal_code": "29471"
+  },
+  {
+    "id": 2171051005,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Pantai Gelam",
+    "postal_code": "29473"
+  },
+  {
+    "id": 2171051002,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Pulau Buluh",
+    "postal_code": "29472"
+  },
+  {
+    "id": 2171051006,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Pulau Setokok",
+    "postal_code": "29476"
+  },
+  {
+    "id": 2171051003,
+    "province_id": 21,
+    "regency_id": 2171,
+    "district_id": 217105,
+    "value": "Temoyong",
+    "postal_code": "29475"
+  }
+]

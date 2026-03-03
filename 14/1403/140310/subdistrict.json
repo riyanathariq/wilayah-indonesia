@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1403101001,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Batu Panjang",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102011,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Darul Aman",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102016,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Dungun Baru",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102008,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Hutan Panjang",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102007,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Makeruh",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102014,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Pancur Jaya",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102009,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Pangkalan Nyirih",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102015,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Pangkalan Pinang",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102012,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Parit Kebumen",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403101002,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Pergam",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102013,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Sri Tanjung",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102010,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Sukarjo Mesin",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102005,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Sungaicingam (Sei / Sungai Cingam)",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403101004,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Tanjungkapal (Tanjung Kapal)",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403102006,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Teluklecah (Teluk Lecah)",
+    "postal_code": "28781"
+  },
+  {
+    "id": 1403101003,
+    "province_id": 14,
+    "regency_id": 1403,
+    "district_id": 140310,
+    "value": "Terkul",
+    "postal_code": "28781"
+  }
+]

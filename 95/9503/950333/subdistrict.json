@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9503332002,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950333,
+    "value": "Aksal",
+    "postal_code": "99752"
+  },
+  {
+    "id": 9503332001,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950333,
+    "value": "Dirwemna",
+    "postal_code": "99752"
+  },
+  {
+    "id": 9503332003,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950333,
+    "value": "Dolsen",
+    "postal_code": "99752"
+  },
+  {
+    "id": 9503332004,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950333,
+    "value": "Salengkomo",
+    "postal_code": "99752"
+  },
+  {
+    "id": 9503332005,
+    "province_id": 95,
+    "regency_id": 9503,
+    "district_id": 950333,
+    "value": "Silion",
+    "postal_code": "99752"
+  }
+]

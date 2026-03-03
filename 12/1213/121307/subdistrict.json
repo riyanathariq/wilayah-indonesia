@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1213072001,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Bange",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072015,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Bange Nauli",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072003,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Huta Bangun",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072014,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Huta Bangun Jae",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072005,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Janji Matogu",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072013,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Lambou Darul Ihsan",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072016,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Malintang",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072006,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Malintang Jae",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072007,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Malintang Julu",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072008,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Pasar Baru Malintang",
+    "postal_code": "22977"
+  },
+  {
+    "id": 1213072010,
+    "province_id": 12,
+    "regency_id": 1213,
+    "district_id": 121307,
+    "value": "Sidojadi",
+    "postal_code": "22977"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 6571031002,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Gunung Lingkas",
+    "postal_code": "77115"
+  },
+  {
+    "id": 6571031003,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Kampung Empat",
+    "postal_code": "77124"
+  },
+  {
+    "id": 6571031004,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Kampung Enam",
+    "postal_code": "77123"
+  },
+  {
+    "id": 6571031001,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Lingkas Ujung",
+    "postal_code": "77126"
+  },
+  {
+    "id": 6571031005,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Mamburungan",
+    "postal_code": "77125"
+  },
+  {
+    "id": 6571031007,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Mamburungan Timur",
+    "postal_code": "77115"
+  },
+  {
+    "id": 6571031006,
+    "province_id": 65,
+    "regency_id": 6571,
+    "district_id": 657103,
+    "value": "Pantai Amal",
+    "postal_code": "77115"
+  }
+]

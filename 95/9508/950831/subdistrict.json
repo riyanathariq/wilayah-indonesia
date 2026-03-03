@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9508312002,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Alguru",
+    "postal_code": "99924"
+  },
+  {
+    "id": 9508312006,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Banggabeak",
+    "postal_code": "99924"
+  },
+  {
+    "id": 9508312005,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Ginid",
+    "postal_code": "99924"
+  },
+  {
+    "id": 9508312001,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Krepkuri",
+    "postal_code": "99924"
+  },
+  {
+    "id": 9508312004,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Mumugu",
+    "postal_code": "99924"
+  },
+  {
+    "id": 9508312003,
+    "province_id": 95,
+    "regency_id": 9508,
+    "district_id": 950831,
+    "value": "Sagapusatu",
+    "postal_code": "99924"
+  }
+]

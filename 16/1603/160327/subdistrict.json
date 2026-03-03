@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1603272010,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Bedegung",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272009,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Inderamayu",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272002,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Lambur",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272001,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Lebak Budi",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272012,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Lubuk Nipis",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272007,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Muara Meo",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272011,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Padang Bindu",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272003,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Pagar Jati",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272006,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Pandan Dulang",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272008,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Sugih Waras",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272005,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Sukaraja",
+    "postal_code": "31354"
+  },
+  {
+    "id": 1603272004,
+    "province_id": 16,
+    "regency_id": 1603,
+    "district_id": 160327,
+    "value": "Tanjung Baru",
+    "postal_code": "31354"
+  }
+]

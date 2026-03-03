@@ -1,0 +1,106 @@
+[
+  {
+    "id": 9502062007,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Arina",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062016,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Aringgon",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062015,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Bordamban",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062001,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Borme",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062017,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Bukam",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062020,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Cangdamban",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062019,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Kolgir",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062018,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Kwime",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062021,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Laydamban",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062002,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Omban",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062006,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Onya",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062022,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Seban",
+    "postal_code": "99452"
+  },
+  {
+    "id": 9502062005,
+    "province_id": 95,
+    "regency_id": 9502,
+    "district_id": 950206,
+    "value": "Sikibur",
+    "postal_code": "99452"
+  }
+]

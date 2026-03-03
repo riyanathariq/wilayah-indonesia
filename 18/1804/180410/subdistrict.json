@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1804102007,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Canggu",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102004,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Gunung Sugih",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102003,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Kegeringan",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102001,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Kembahang",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102010,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Kerang",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102008,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Kota Besi",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102002,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Negeri Ratu",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102005,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Pekon Balak",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102006,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Sukabumi",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102009,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Sukaraja",
+    "postal_code": "34881"
+  },
+  {
+    "id": 1804102011,
+    "province_id": 18,
+    "regency_id": 1804,
+    "district_id": 180410,
+    "value": "Teba Liyokh",
+    "postal_code": "34881"
+  }
+]

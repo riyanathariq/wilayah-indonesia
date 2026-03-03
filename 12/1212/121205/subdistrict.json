@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1212052008,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Ambar Halim",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052010,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Halado",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052003,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Meranti Tengah",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052002,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Meranti Timur",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052001,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Meranti Utara",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052007,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Pintu Pohan",
+    "postal_code": "22384"
+  },
+  {
+    "id": 1212052009,
+    "province_id": 12,
+    "regency_id": 1212,
+    "district_id": 121205,
+    "value": "Pintu Pohan Dolok",
+    "postal_code": "22384"
+  }
+]

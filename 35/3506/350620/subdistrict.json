@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3506202008,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Blimbing",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202003,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Bulusari",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202010,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Cengkok",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202009,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Jati",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202002,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Kaliboto",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202001,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Kalirong",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202005,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Kedungsari",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202007,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Kerep",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202006,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Sumberduren",
+    "postal_code": "64152"
+  },
+  {
+    "id": 3506202004,
+    "province_id": 35,
+    "regency_id": 3506,
+    "district_id": 350620,
+    "value": "Tarokan",
+    "postal_code": "64152"
+  }
+]

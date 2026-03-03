@@ -1,0 +1,98 @@
+[
+  {
+    "id": 3211112008,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Cijambu",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112012,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Cinanjung",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112001,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Gudang",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112010,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Gunungmanik",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112003,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Jatisari",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112011,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Kadakajaya",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112005,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Kutamandiri",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112006,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Margajaya (Marga Jaya)",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112004,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Margaluyu",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112009,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Pasigaran",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112007,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Raharja",
+    "postal_code": "45362"
+  },
+  {
+    "id": 3211112002,
+    "province_id": 32,
+    "regency_id": 3211,
+    "district_id": 321111,
+    "value": "Tanjungsari",
+    "postal_code": "45362"
+  }
+]

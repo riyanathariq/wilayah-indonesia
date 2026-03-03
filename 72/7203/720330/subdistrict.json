@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7203302005,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720330,
+    "value": "Bengkoli",
+    "postal_code": "94358"
+  },
+  {
+    "id": 7203302003,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720330,
+    "value": "Lenju",
+    "postal_code": "94358"
+  },
+  {
+    "id": 7203302001,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720330,
+    "value": "Ogoamas I",
+    "postal_code": "94358"
+  },
+  {
+    "id": 7203302002,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720330,
+    "value": "Ogoamas II",
+    "postal_code": "94358"
+  },
+  {
+    "id": 7203302004,
+    "province_id": 72,
+    "regency_id": 7203,
+    "district_id": 720330,
+    "value": "Pesik",
+    "postal_code": "94358"
+  }
+]

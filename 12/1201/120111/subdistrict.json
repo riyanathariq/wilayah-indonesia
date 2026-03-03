@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1201111001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Bajamas",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112007,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Masnauli",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112008,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Muara Ode (Muara Ore)",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Pardomuan",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Sampang Maruhur",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Sigodung",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Simpang III Lae Bingke (Simpang Tiga Lae Bingke)",
+    "postal_code": "22566"
+  },
+  {
+    "id": 1201112003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120111,
+    "value": "Siordang",
+    "postal_code": "22566"
+  }
+]

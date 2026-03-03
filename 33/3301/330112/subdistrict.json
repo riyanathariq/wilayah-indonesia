@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3301122010,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Babakan",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122008,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Bengbulang",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122001,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Cidadap",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122006,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Ciporos",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122011,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Ciruyung",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122003,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Gunungtelu",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122005,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Karangpucung",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122012,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Pamulihan",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122002,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Pangawaren (Pengawaren)",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122014,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Sidamulya",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122004,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Sindangbarang",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122009,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Surusunda",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122007,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Tayem",
+    "postal_code": "53255"
+  },
+  {
+    "id": 3301122013,
+    "province_id": 33,
+    "regency_id": 3301,
+    "district_id": 330112,
+    "value": "Tayem Timur (Tayemtimur)",
+    "postal_code": "53255"
+  }
+]

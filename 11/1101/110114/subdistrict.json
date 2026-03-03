@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1101142003,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Alai",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142004,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Durian Kawan",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142006,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Lawe Buluh Didi",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142009,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Lawe Cimanok",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142005,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Lawe Sawah",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142001,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Paya Dapur",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142008,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Paya Laba",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142007,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Pucuk Lembang",
+    "postal_code": "23779"
+  },
+  {
+    "id": 1101142002,
+    "province_id": 11,
+    "regency_id": 1101,
+    "district_id": 110114,
+    "value": "Sapik",
+    "postal_code": "23779"
+  }
+]

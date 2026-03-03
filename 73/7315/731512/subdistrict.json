@@ -1,0 +1,42 @@
+[
+  {
+    "id": 7315122001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731512,
+    "value": "Batu Lappa (Batulappa)",
+    "postal_code": "91253"
+  },
+  {
+    "id": 7315122005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731512,
+    "value": "Kaseralau",
+    "postal_code": "91253"
+  },
+  {
+    "id": 7315121003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731512,
+    "value": "Kassa",
+    "postal_code": "91253"
+  },
+  {
+    "id": 7315122004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731512,
+    "value": "Tapporang",
+    "postal_code": "91253"
+  },
+  {
+    "id": 7315122006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731512,
+    "value": "Watang Kassa (Mattirowali)",
+    "postal_code": "91253"
+  }
+]

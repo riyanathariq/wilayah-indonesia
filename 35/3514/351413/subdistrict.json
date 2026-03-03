@@ -1,0 +1,114 @@
+[
+  {
+    "id": 3514132001,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Baujeng",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132012,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Beji",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132009,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Cangkringmalang (Cangkring Malang)",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132005,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Gajahrejo (Gajahbendo)",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514131013,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Glanggang",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132006,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Gunung Gangsir",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132008,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Gunungsari (Gunung Sari)",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132011,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Kedungboto (Kedung Boto)",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132010,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Kedungringin (Kedung Ringin)",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132003,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Kenep",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132002,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Ngembe",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514131014,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Pagak",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132004,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Sidowayah",
+    "postal_code": "67154"
+  },
+  {
+    "id": 3514132007,
+    "province_id": 35,
+    "regency_id": 3514,
+    "district_id": 351413,
+    "value": "Wonokoyo",
+    "postal_code": "67154"
+  }
+]

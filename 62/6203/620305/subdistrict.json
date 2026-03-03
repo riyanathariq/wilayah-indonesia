@@ -1,0 +1,98 @@
+[
+  {
+    "id": 6203052003,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Anjir Kalampan",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052012,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Basuta Raya",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052011,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Maju Bersama",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203051004,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Mandomai",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052005,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Pantai",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052007,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Penda Katapi (Penda Ketapi)",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052002,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Saka Mangkahai",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052006,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Saka Tamiang",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052010,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Sei Pitung",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052009,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Sei/Sungai Dusun",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052001,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Sei/Sungai Kayu",
+    "postal_code": "73552"
+  },
+  {
+    "id": 6203052008,
+    "province_id": 62,
+    "regency_id": 6203,
+    "district_id": 620305,
+    "value": "Teluk Hiri",
+    "postal_code": "73552"
+  }
+]

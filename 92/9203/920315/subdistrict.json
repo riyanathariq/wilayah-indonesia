@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9203152004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Homorkokma",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Kaburbur",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Kayuni",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Kuagas",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152009,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Mananmur",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Pattukar",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152008,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Rangkendak",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Ubadari",
+    "postal_code": "98015"
+  },
+  {
+    "id": 9203152010,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920315,
+    "value": "Warpa",
+    "postal_code": "98015"
+  }
+]

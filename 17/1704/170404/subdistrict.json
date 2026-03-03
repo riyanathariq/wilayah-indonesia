@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1704042004,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Kemang Manis",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042009,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Padang Baru",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042003,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Padang Hangat",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042002,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Pajar Bulan",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042005,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Penyandingan",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042006,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Sinar Jaya",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042001,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Sukarami",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704041007,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Tanjung Iman",
+    "postal_code": "38961"
+  },
+  {
+    "id": 1704042008,
+    "province_id": 17,
+    "regency_id": 1704,
+    "district_id": 170404,
+    "value": "Tanjung Pandan",
+    "postal_code": "38961"
+  }
+]

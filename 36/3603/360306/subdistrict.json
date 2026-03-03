@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3603062014,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Jengkol",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062007,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Kemuning",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062013,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Koper",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062018,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Kresek",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062001,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Pasir Ampo",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062015,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Patrasana (Patra Sana)",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062003,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Rancailat (Ranca Ilat)",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062009,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Renged",
+    "postal_code": "15621"
+  },
+  {
+    "id": 3603062011,
+    "province_id": 36,
+    "regency_id": 3603,
+    "district_id": 360306,
+    "value": "Talok",
+    "postal_code": "15621"
+  }
+]

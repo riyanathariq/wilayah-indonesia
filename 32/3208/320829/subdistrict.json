@@ -1,0 +1,74 @@
+[
+  {
+    "id": 3208292009,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Cihanjaro",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292007,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Jabranti",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292002,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Kaduagung",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292001,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Karangkancana",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292006,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Margacina",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292003,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Segong",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292008,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Simpayjaya",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292005,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Sukasari",
+    "postal_code": "45584"
+  },
+  {
+    "id": 3208292004,
+    "province_id": 32,
+    "regency_id": 3208,
+    "district_id": 320829,
+    "value": "Tanjungkerta",
+    "postal_code": "45584"
+  }
+]

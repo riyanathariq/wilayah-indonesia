@@ -1,0 +1,138 @@
+[
+  {
+    "id": 3322042002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Beji Lor",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Bonomerto",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042016,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Cukilan",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042017,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Dadap Ayam (Dadapayam)",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Dersansari",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Gunung Tumpeng",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Jatirejo",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Kebowan",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042010,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Kedungringin",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Ketanggi",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042015,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Krandon Lor",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Medayu",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042014,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Plumbon",
+    "postal_code": "50186"
+  },
+  {
+    "id": 3322042005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Purworejo",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042012,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Reksosari",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Sukorejo",
+    "postal_code": "50776"
+  },
+  {
+    "id": 3322042013,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332204,
+    "value": "Suruh",
+    "postal_code": "50776"
+  }
+]

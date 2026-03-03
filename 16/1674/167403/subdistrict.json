@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1674031001,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167403,
+    "value": "Cambai",
+    "postal_code": "31141"
+  },
+  {
+    "id": 1674032004,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167403,
+    "value": "Muara Sungai",
+    "postal_code": "31144"
+  },
+  {
+    "id": 1674032003,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167403,
+    "value": "Pangkul",
+    "postal_code": "31143"
+  },
+  {
+    "id": 1674031002,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167403,
+    "value": "Sindur",
+    "postal_code": "31142"
+  },
+  {
+    "id": 1674031005,
+    "province_id": 16,
+    "regency_id": 1674,
+    "district_id": 167403,
+    "value": "Sungai Medang",
+    "postal_code": "31145"
+  }
+]

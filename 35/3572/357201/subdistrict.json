@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3572011006,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Bendo",
+    "postal_code": "66116"
+  },
+  {
+    "id": 3572011004,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Kauman",
+    "postal_code": "66117"
+  },
+  {
+    "id": 3572011001,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Kepanjenkidul (Kepanjen Kidul)",
+    "postal_code": "66117"
+  },
+  {
+    "id": 3572011007,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Kepanjenlor (Kepanjen Lor)",
+    "postal_code": "66117"
+  },
+  {
+    "id": 3572011002,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Ngadirejo",
+    "postal_code": "66114"
+  },
+  {
+    "id": 3572011003,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Sentul",
+    "postal_code": "66113"
+  },
+  {
+    "id": 3572011005,
+    "province_id": 35,
+    "regency_id": 3572,
+    "district_id": 357201,
+    "value": "Tanggung",
+    "postal_code": "66115"
+  }
+]

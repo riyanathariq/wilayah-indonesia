@@ -1,0 +1,66 @@
+[
+  {
+    "id": 6107122005,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Hli Buei",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122004,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Siding",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122002,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Sungkung I",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122007,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Sungkung II",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122008,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Sungkung III",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122009,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Tamong",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122006,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Tangguh",
+    "postal_code": "79287"
+  },
+  {
+    "id": 6107122010,
+    "province_id": 61,
+    "regency_id": 6107,
+    "district_id": 610712,
+    "value": "Tawang",
+    "postal_code": "79287"
+  }
+]

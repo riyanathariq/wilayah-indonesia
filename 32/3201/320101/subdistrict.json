@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3201011006,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Cibinong",
+    "postal_code": "16911"
+  },
+  {
+    "id": 3201011011,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Cirimekar",
+    "postal_code": "16917"
+  },
+  {
+    "id": 3201011010,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Ciriung",
+    "postal_code": "16918"
+  },
+  {
+    "id": 3201011003,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Harapanjaya (Harapan Jaya)",
+    "postal_code": "16914"
+  },
+  {
+    "id": 3201011002,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Karadenan",
+    "postal_code": "16913"
+  },
+  {
+    "id": 3201011004,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Nanggewer",
+    "postal_code": "16912"
+  },
+  {
+    "id": 3201011005,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Nanggewer Mekar",
+    "postal_code": "16912"
+  },
+  {
+    "id": 3201011012,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Pabuaran",
+    "postal_code": "16916"
+  },
+  {
+    "id": 3201011013,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Pabuaran Mekar",
+    "postal_code": "16916"
+  },
+  {
+    "id": 3201011007,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Pakansari",
+    "postal_code": "16915"
+  },
+  {
+    "id": 3201011001,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Pondok Rajeg",
+    "postal_code": "16914"
+  },
+  {
+    "id": 3201011009,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Sukahati",
+    "postal_code": "16913"
+  },
+  {
+    "id": 3201011008,
+    "province_id": 32,
+    "regency_id": 3201,
+    "district_id": 320101,
+    "value": "Tengah",
+    "postal_code": "16914"
+  }
+]

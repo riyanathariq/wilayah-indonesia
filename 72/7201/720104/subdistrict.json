@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7201041010,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Baru",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201041012,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Bungin",
+    "postal_code": "94712"
+  },
+  {
+    "id": 7201041034,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Bungin Timur",
+    "postal_code": "94712"
+  },
+  {
+    "id": 7201041033,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Kaleke (Keleke)",
+    "postal_code": "94713"
+  },
+  {
+    "id": 7201041031,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Karaton (Keraton)",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201042013,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Lumpoknyo",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201041009,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Luwuk",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201041035,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Mangkio Baru-Hanga Permai (Mangkio Baru)",
+    "postal_code": "94711"
+  },
+  {
+    "id": 7201041011,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Soho",
+    "postal_code": "94713"
+  },
+  {
+    "id": 7201042008,
+    "province_id": 72,
+    "regency_id": 7201,
+    "district_id": 720104,
+    "value": "Tontouan",
+    "postal_code": "94711"
+  }
+]

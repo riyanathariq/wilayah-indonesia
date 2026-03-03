@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1203142034,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Aek Haminjon (Arse Hanopan)",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203141039,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Arse",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142038,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Dalihan Natolu",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203141040,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Lancat",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142036,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Nanggar Jati",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142035,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Nanggar Jati Huta Padang (Hutapadang)",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142037,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Natambang Roncitan",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142033,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Pardomuan",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142032,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Pinagar",
+    "postal_code": "22748"
+  },
+  {
+    "id": 1203142028,
+    "province_id": 12,
+    "regency_id": 1203,
+    "district_id": 120314,
+    "value": "Sipogu",
+    "postal_code": "22748"
+  }
+]

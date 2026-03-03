@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9304172005,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Awok",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172003,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Biwar Darat",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172002,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Damen",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172006,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Fos",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172004,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Kaimo",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172008,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Sakor",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172007,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Waganu",
+    "postal_code": "99787"
+  },
+  {
+    "id": 9304172001,
+    "province_id": 93,
+    "regency_id": 9304,
+    "district_id": 930417,
+    "value": "Yausakor",
+    "postal_code": "99787"
+  }
+]

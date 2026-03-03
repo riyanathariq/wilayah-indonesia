@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1271091001,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Amplas",
+    "postal_code": "20229"
+  },
+  {
+    "id": 1271091007,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Bangun Mulia",
+    "postal_code": "20149"
+  },
+  {
+    "id": 1271091004,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Harjosari I",
+    "postal_code": "20147"
+  },
+  {
+    "id": 1271091005,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Harjosari II",
+    "postal_code": "20147"
+  },
+  {
+    "id": 1271091002,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Sitirejo II",
+    "postal_code": "20219"
+  },
+  {
+    "id": 1271091003,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Sitirejo III",
+    "postal_code": "20219"
+  },
+  {
+    "id": 1271091006,
+    "province_id": 12,
+    "regency_id": 1271,
+    "district_id": 127109,
+    "value": "Timbang Deli",
+    "postal_code": "20148"
+  }
+]

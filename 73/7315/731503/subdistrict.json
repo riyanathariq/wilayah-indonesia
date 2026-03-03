@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7315032006,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Alitta",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032008,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Bunga",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032009,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Makkawaru",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315031001,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Manarang",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032005,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Marannu",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032007,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Padaelo",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315031002,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Padaidi",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032004,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Padakkalawa",
+    "postal_code": "91271"
+  },
+  {
+    "id": 7315032003,
+    "province_id": 73,
+    "regency_id": 7315,
+    "district_id": 731503,
+    "value": "Pananrang (Pannanrang)",
+    "postal_code": "91271"
+  }
+]

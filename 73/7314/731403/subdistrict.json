@@ -1,0 +1,82 @@
+[
+  {
+    "id": 7314031002,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Arawa",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314031003,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Bangkai",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314031005,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Batu Lappa (Batulappa)",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314032008,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Buae",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314032007,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Carawali",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314032010,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Ciro-Ciroe",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314032006,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Lainungan",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314031001,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Lawawoi",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314032009,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Mattirotasi",
+    "postal_code": "91661"
+  },
+  {
+    "id": 7314031004,
+    "province_id": 73,
+    "regency_id": 7314,
+    "district_id": 731403,
+    "value": "Uluale",
+    "postal_code": "91661"
+  }
+]

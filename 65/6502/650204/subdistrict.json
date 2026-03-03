@@ -1,0 +1,42 @@
+[
+  {
+    "id": 6502042001,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650204,
+    "value": "Data Dian",
+    "postal_code": "77571"
+  },
+  {
+    "id": 6502042005,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650204,
+    "value": "Long Metun (Long Metun II)",
+    "postal_code": "77571"
+  },
+  {
+    "id": 6502042002,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650204,
+    "value": "Long Pipa",
+    "postal_code": "77571"
+  },
+  {
+    "id": 6502042003,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650204,
+    "value": "Long Sule",
+    "postal_code": "77571"
+  },
+  {
+    "id": 6502042004,
+    "province_id": 65,
+    "regency_id": 6502,
+    "district_id": 650204,
+    "value": "Sungai Anai",
+    "postal_code": "77571"
+  }
+]

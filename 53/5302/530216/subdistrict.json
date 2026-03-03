@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5302162005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Bokong",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Lobus",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Milli",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Noeolin",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Oeleu",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Sanbet (Sambet)",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Skinu",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Toianas",
+    "postal_code": "85578"
+  },
+  {
+    "id": 5302162006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530216,
+    "value": "Tuataum",
+    "postal_code": "85578"
+  }
+]

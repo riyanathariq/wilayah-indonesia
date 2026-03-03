@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3322201011,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Bandungan",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202009,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Banyukuning",
+    "postal_code": "50663"
+  },
+  {
+    "id": 3322202005,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Candi",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202002,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Duren",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202003,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Jetis",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202006,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Jimbaran",
+    "postal_code": "50661"
+  },
+  {
+    "id": 3322202004,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Kenteng",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202001,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Mlilir",
+    "postal_code": "50614"
+  },
+  {
+    "id": 3322202007,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Pakopen",
+    "postal_code": "50661"
+  },
+  {
+    "id": 3322202008,
+    "province_id": 33,
+    "regency_id": 3322,
+    "district_id": 332220,
+    "value": "Sidomukti",
+    "postal_code": "50661"
+  }
+]

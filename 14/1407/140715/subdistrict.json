@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1407152006,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Jojol",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152008,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Pulauhalang Belakang (Pulau Halang Belakang)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152012,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Pulauhalang Hulu (Pulau Halang Hulu)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152007,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Pulauhalang Muka (Pulau Halang Muka)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152001,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Rantau Panjang Kiri",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152009,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Rantau Panjang Kiri Hilir",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152003,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Sungaimajo (Sei / Sungai Majo)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152011,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Sungaimajo Pusako",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152005,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Sungaipanji-panji (Sei / Sungai Panji Panji)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152004,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Sungaipinang (Sei / Sungai Pinang)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152002,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Teluknilap (Teluk Nilap)",
+    "postal_code": "28990"
+  },
+  {
+    "id": 1407152010,
+    "province_id": 14,
+    "regency_id": 1407,
+    "district_id": 140715,
+    "value": "Teluknilap Jaya (Teluk Nilap Jaya)",
+    "postal_code": "28990"
+  }
+]

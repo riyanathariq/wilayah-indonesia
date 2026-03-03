@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1201182004,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Janji Maria",
+    "postal_code": "22656"
+  },
+  {
+    "id": 1201182001,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Pulo Pakkat (Pulo Pakkat I)",
+    "postal_code": "22656"
+  },
+  {
+    "id": 1201182003,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Pulo Pakkat II",
+    "postal_code": "22656"
+  },
+  {
+    "id": 1201182005,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Sihadatuon",
+    "postal_code": "22656"
+  },
+  {
+    "id": 1201182006,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Sihapas",
+    "postal_code": "22656"
+  },
+  {
+    "id": 1201182002,
+    "province_id": 12,
+    "regency_id": 1201,
+    "district_id": 120118,
+    "value": "Tebing Tinggi",
+    "postal_code": "22656"
+  }
+]

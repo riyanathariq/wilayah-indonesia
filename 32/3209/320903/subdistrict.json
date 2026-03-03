@@ -1,0 +1,82 @@
+[
+  {
+    "id": 3209032009,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Ambulu",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032001,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Astanalanggar",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032002,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Barisan",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032007,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Kalirahayu",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032008,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Kalisari",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032003,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Losari Kidul",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032005,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Losari Lor",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032006,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Mulyasari",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032004,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Panggangsari",
+    "postal_code": "45192"
+  },
+  {
+    "id": 3209032010,
+    "province_id": 32,
+    "regency_id": 3209,
+    "district_id": 320903,
+    "value": "Tawangsari",
+    "postal_code": "45192"
+  }
+]

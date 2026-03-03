@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1706032026,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Karang Jaya",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032027,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Mekar Jaya",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032009,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Pondok Kopi",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032013,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Setia Budi",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032024,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Talang Kuning",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032008,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Teras Terunjam",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032025,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Teruntung",
+    "postal_code": "38758"
+  },
+  {
+    "id": 1706032014,
+    "province_id": 17,
+    "regency_id": 1706,
+    "district_id": 170603,
+    "value": "Tunggal Jaya",
+    "postal_code": "38758"
+  }
+]

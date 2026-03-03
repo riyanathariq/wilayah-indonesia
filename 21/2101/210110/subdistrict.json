@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2101102001,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Berakit",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101102002,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Ekang Anculai",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101101007,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Kota Baru",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101102003,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Pengudang",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101102004,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Sebung/Sebong Lagoi",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101102005,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Sebung/Sebong Pereh",
+    "postal_code": "29154"
+  },
+  {
+    "id": 2101102006,
+    "province_id": 21,
+    "regency_id": 2101,
+    "district_id": 210110,
+    "value": "Sri Bintan",
+    "postal_code": "29154"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": 3372041004,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Gandekan",
+    "postal_code": "57122"
+  },
+  {
+    "id": 3372041007,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Jagalan",
+    "postal_code": "57162"
+  },
+  {
+    "id": 3372041010,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Jebres",
+    "postal_code": "57126"
+  },
+  {
+    "id": 3372041001,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Kepatihan Kulon",
+    "postal_code": "57129"
+  },
+  {
+    "id": 3372041002,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Kepatihan Wetan",
+    "postal_code": "57129"
+  },
+  {
+    "id": 3372041011,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Mojosongo",
+    "postal_code": "57127"
+  },
+  {
+    "id": 3372041006,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Pucangsawit",
+    "postal_code": "57125"
+  },
+  {
+    "id": 3372041008,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Purwodiningratan",
+    "postal_code": "57128"
+  },
+  {
+    "id": 3372041005,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Sewu",
+    "postal_code": "57129"
+  },
+  {
+    "id": 3372041003,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Sudiroprajan",
+    "postal_code": "57121"
+  },
+  {
+    "id": 3372041009,
+    "province_id": 33,
+    "regency_id": 3372,
+    "district_id": 337204,
+    "value": "Tegalharjo",
+    "postal_code": "57128"
+  }
+]

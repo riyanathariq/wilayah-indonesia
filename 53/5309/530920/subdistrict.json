@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5309202012,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Enabhara",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202003,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Inerie",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202006,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Kelitei (Kelitey)",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202009,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Legeriwu (Legariwu)",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202010,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Manubhara",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202013,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Nagebaru",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202001,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Paupaga",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202011,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Ruto",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202002,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Sebowuli",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202008,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Tiwurana",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202007,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Waebela",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202005,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Warupele Dua (Warupele II)",
+    "postal_code": "86450"
+  },
+  {
+    "id": 5309202004,
+    "province_id": 53,
+    "regency_id": 5309,
+    "district_id": 530920,
+    "value": "Warupele Satu (Warupele I)",
+    "postal_code": "86450"
+  }
+]

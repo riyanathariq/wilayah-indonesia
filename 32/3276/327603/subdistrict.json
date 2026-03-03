@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3276031002,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Bedahan",
+    "postal_code": "16519"
+  },
+  {
+    "id": 3276031009,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Cinangka",
+    "postal_code": "16516"
+  },
+  {
+    "id": 3276031012,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Kedaung",
+    "postal_code": "16516"
+  },
+  {
+    "id": 3276031001,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Pasir Putih",
+    "postal_code": "16519"
+  },
+  {
+    "id": 3276031003,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Pengasinan (Pengasihan)",
+    "postal_code": "16518"
+  },
+  {
+    "id": 3276031010,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Sawangan (Lama)",
+    "postal_code": "16511"
+  },
+  {
+    "id": 3276031011,
+    "province_id": 32,
+    "regency_id": 3276,
+    "district_id": 327603,
+    "value": "Sawangan Baru",
+    "postal_code": "16511"
+  }
+]

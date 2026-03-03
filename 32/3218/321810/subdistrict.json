@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3218102002,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Cikalong",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102004,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Cikembulan",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102007,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Kalijati",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102006,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Kersaratu",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102005,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Pajaten",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102001,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Sidamulih",
+    "postal_code": "46365"
+  },
+  {
+    "id": 3218102003,
+    "province_id": 32,
+    "regency_id": 3218,
+    "district_id": 321810,
+    "value": "Sukaresik",
+    "postal_code": "46365"
+  }
+]

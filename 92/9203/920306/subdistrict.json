@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9203062004,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Antalisa",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062002,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Faur",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062003,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Kiaba",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062001,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Malakuli",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062007,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Mas",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062005,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Tarak",
+    "postal_code": "98032"
+  },
+  {
+    "id": 9203062006,
+    "province_id": 92,
+    "regency_id": 9203,
+    "district_id": 920306,
+    "value": "Tuberwasak",
+    "postal_code": "98032"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 7403062009,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Lambiku",
+    "postal_code": "93622"
+  },
+  {
+    "id": 7403062007,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Langkumapo",
+    "postal_code": "93622"
+  },
+  {
+    "id": 7403061004,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Napabalano",
+    "postal_code": "93622"
+  },
+  {
+    "id": 7403062003,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Napalakura",
+    "postal_code": "93622"
+  },
+  {
+    "id": 7403062006,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Pentiro",
+    "postal_code": "93622"
+  },
+  {
+    "id": 7403061005,
+    "province_id": 74,
+    "regency_id": 7403,
+    "district_id": 740306,
+    "value": "Tampo",
+    "postal_code": "93622"
+  }
+]

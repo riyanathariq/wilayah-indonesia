@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9401062002,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Aibone (Aibore)",
+    "postal_code": "98841"
+  },
+  {
+    "id": 9401062003,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Epomani",
+    "postal_code": "98841"
+  },
+  {
+    "id": 9401062005,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Mabua / Mabou",
+    "postal_code": "98841"
+  },
+  {
+    "id": 9401062004,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Tibai",
+    "postal_code": "98841"
+  },
+  {
+    "id": 9401062006,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Ugida",
+    "postal_code": "98841"
+  },
+  {
+    "id": 9401062001,
+    "province_id": 94,
+    "regency_id": 9401,
+    "district_id": 940106,
+    "value": "Unipa (Siriwo / Unipo)",
+    "postal_code": "98841"
+  }
+]

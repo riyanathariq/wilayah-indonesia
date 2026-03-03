@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6501012007,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Antutan",
+    "postal_code": "77211"
+  },
+  {
+    "id": 6501012005,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Gunung Putih",
+    "postal_code": "77211"
+  },
+  {
+    "id": 6501011004,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Karang Anyar",
+    "postal_code": "77214"
+  },
+  {
+    "id": 6501012006,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Pejalin",
+    "postal_code": "77211"
+  },
+  {
+    "id": 6501011003,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Tanjung Palas Ilir/Hilir",
+    "postal_code": "77211"
+  },
+  {
+    "id": 6501011002,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Tanjung Palas Tengah",
+    "postal_code": "77216"
+  },
+  {
+    "id": 6501011001,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Tanjung Palas Ulu/Hulu",
+    "postal_code": "77215"
+  },
+  {
+    "id": 6501012008,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Teras Baru",
+    "postal_code": "77214"
+  },
+  {
+    "id": 6501012009,
+    "province_id": 65,
+    "regency_id": 6501,
+    "district_id": 650101,
+    "value": "Teras Nawang",
+    "postal_code": "77214"
+  }
+]

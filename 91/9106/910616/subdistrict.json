@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9106162004,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Amberparem (Amperem)",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162009,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Arimi Jaya",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162002,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Bruyadori",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162003,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Dafi",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162006,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Duai",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162008,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Kamumi",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162005,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Mandori",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162007,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Mandori Sup",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162001,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Sandou (Sandau)",
+    "postal_code": "98561"
+  },
+  {
+    "id": 9106162010,
+    "province_id": 91,
+    "regency_id": 9106,
+    "district_id": 910616,
+    "value": "Warbukor",
+    "postal_code": "98561"
+  }
+]

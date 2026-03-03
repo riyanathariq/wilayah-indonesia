@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1802282007,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Bina Karya Baru (Binakarya Baru)",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282001,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Bina Karya Jaya",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282003,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Bina Karya Sakti",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282002,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Bina Karya Utama",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282004,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Joharan",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282009,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Mekar Jaya",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282008,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Mranggi Jaya",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282005,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Rantau Jaya Baru",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282006,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Rantau Jaya Ilir",
+    "postal_code": "34157"
+  },
+  {
+    "id": 1802282010,
+    "province_id": 18,
+    "regency_id": 1802,
+    "district_id": 180228,
+    "value": "Rantau Jaya makmur",
+    "postal_code": "34157"
+  }
+]

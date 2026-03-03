@@ -1,0 +1,18 @@
+[
+  {
+    "id": 3471111002,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347111,
+    "value": "Gunungketur (Gunung Ketur)",
+    "postal_code": "55111"
+  },
+  {
+    "id": 3471111001,
+    "province_id": 34,
+    "regency_id": 3471,
+    "district_id": 347111,
+    "value": "Purwokinanti (Purwo Kinanti)",
+    "postal_code": "55112"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6372031002,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637203,
+    "value": "Bangkal",
+    "postal_code": "70732"
+  },
+  {
+    "id": 6372031004,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637203,
+    "value": "Cempaka",
+    "postal_code": "70733"
+  },
+  {
+    "id": 6372031001,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637203,
+    "value": "Palam",
+    "postal_code": "70731"
+  },
+  {
+    "id": 6372031003,
+    "province_id": 63,
+    "regency_id": 6372,
+    "district_id": 637203,
+    "value": "Sei/Sungai Tiung",
+    "postal_code": "70734"
+  }
+]

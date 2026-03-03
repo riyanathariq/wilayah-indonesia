@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5271021002,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Mataram Timur",
+    "postal_code": "83121"
+  },
+  {
+    "id": 5271021001,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagesangan",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021009,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagesangan Barat",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021010,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagesangan Timur",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021008,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagutan",
+    "postal_code": "83117"
+  },
+  {
+    "id": 5271021014,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagutan Barat",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021013,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pagutan Timur",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021011,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Pejanggik",
+    "postal_code": "83127"
+  },
+  {
+    "id": 5271021012,
+    "province_id": 52,
+    "regency_id": 5271,
+    "district_id": 527102,
+    "value": "Punia",
+    "postal_code": "83127"
+  }
+]

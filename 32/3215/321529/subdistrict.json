@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3215292006,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Cengkong",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292001,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Darawolong",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292008,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Karangsari",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292004,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Mekarjaya",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292003,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Purwasari",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292007,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Sukasari",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292005,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Tamelang",
+    "postal_code": "41377"
+  },
+  {
+    "id": 3215292002,
+    "province_id": 32,
+    "regency_id": 3215,
+    "district_id": 321529,
+    "value": "Tegalsari",
+    "postal_code": "41377"
+  }
+]

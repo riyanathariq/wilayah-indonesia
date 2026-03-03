@@ -1,0 +1,114 @@
+[
+  {
+    "id": 8171021019,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Ahusen",
+    "postal_code": "97127"
+  },
+  {
+    "id": 8171021012,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Amantelu",
+    "postal_code": "97122"
+  },
+  {
+    "id": 8171021016,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Batu Gajah (Batu Gaja / Batugajah)",
+    "postal_code": "97127"
+  },
+  {
+    "id": 8171021015,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Batu Meja",
+    "postal_code": "97125"
+  },
+  {
+    "id": 8171022003,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Batu Merah",
+    "postal_code": "97128"
+  },
+  {
+    "id": 8171022002,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Galala",
+    "postal_code": "97128"
+  },
+  {
+    "id": 8171022001,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Hative Kecil",
+    "postal_code": "97128"
+  },
+  {
+    "id": 8171021018,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Honipopu",
+    "postal_code": "97126"
+  },
+  {
+    "id": 8171021013,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Karang Panjang",
+    "postal_code": "97121"
+  },
+  {
+    "id": 8171021010,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Pandan Kasturi",
+    "postal_code": "97128"
+  },
+  {
+    "id": 8171021011,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Rijali",
+    "postal_code": "97123"
+  },
+  {
+    "id": 8171022009,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Soya",
+    "postal_code": "97129"
+  },
+  {
+    "id": 8171021017,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Uritetu",
+    "postal_code": "97124"
+  },
+  {
+    "id": 8171021014,
+    "province_id": 81,
+    "regency_id": 8171,
+    "district_id": 817102,
+    "value": "Waihoka",
+    "postal_code": "97129"
+  }
+]

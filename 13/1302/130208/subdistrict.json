@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1302082003,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130208,
+    "value": "Bukit Tandang",
+    "postal_code": "27381"
+  },
+  {
+    "id": 1302082005,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130208,
+    "value": "Dilam",
+    "postal_code": "27381"
+  },
+  {
+    "id": 1302082002,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130208,
+    "value": "Kinari",
+    "postal_code": "27381"
+  },
+  {
+    "id": 1302082001,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130208,
+    "value": "Muaro Paneh",
+    "postal_code": "27381"
+  },
+  {
+    "id": 1302082004,
+    "province_id": 13,
+    "regency_id": 1302,
+    "district_id": 130208,
+    "value": "Parambahan",
+    "postal_code": "27381"
+  }
+]
