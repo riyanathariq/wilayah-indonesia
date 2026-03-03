@@ -1,0 +1,19 @@
+{
+  "name": "wilayah",
+  "version": "1.0.0",
+  "description": "Indonesian administrative regions API (provinsi, kabupaten/kota, kecamatan, desa/kelurahan)",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js",
+    "deploy": "npm run build && npx gh-pages -d dist"
+  },
+  "author": "Riyan Athariq",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riyanathariq/wilayah-indonesia.git"
+  }
+}
