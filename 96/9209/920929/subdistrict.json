@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9209292001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920929,
+    "value": "Della (Dela)",
+    "postal_code": "98362"
+  },
+  {
+    "id": 9209292005,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920929,
+    "value": "Klabili",
+    "postal_code": "98362"
+  },
+  {
+    "id": 9209292003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920929,
+    "value": "Klasbon (Kaladum)",
+    "postal_code": "98362"
+  },
+  {
+    "id": 9209292004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920929,
+    "value": "Klasei",
+    "postal_code": "98362"
+  },
+  {
+    "id": 9209292002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920929,
+    "value": "Malayauw (Megame)",
+    "postal_code": "98362"
+  }
+]

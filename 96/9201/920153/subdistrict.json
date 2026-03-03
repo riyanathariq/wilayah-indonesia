@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9201532007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Batbiro",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Duriankari (Durian Kari)",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Manfanim",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Maralol",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Meyaup",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532010,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Sailen",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Sakapul",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Waibin",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Waiman",
+    "postal_code": "98425"
+  },
+  {
+    "id": 9201532001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920153,
+    "value": "Waliam",
+    "postal_code": "98425"
+  }
+]

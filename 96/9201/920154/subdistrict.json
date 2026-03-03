@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9201542005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920154,
+    "value": "Botain",
+    "postal_code": "98213"
+  },
+  {
+    "id": 9201542001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920154,
+    "value": "Klafluk",
+    "postal_code": "98433"
+  },
+  {
+    "id": 9201542004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920154,
+    "value": "Klayastani",
+    "postal_code": "98433"
+  },
+  {
+    "id": 9201542002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920154,
+    "value": "Mamsit",
+    "postal_code": "98433"
+  },
+  {
+    "id": 9201542003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920154,
+    "value": "Sabake",
+    "postal_code": "98433"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201422001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Klafdalim",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Klaforo",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Klasari (Klasarin)",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Klasof",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Klawoton",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Masmili",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Ninjimur (Ninjemur)",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Sakamerin",
+    "postal_code": "98422"
+  },
+  {
+    "id": 9201422007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920142,
+    "value": "Wonosobo",
+    "postal_code": "98422"
+  }
+]

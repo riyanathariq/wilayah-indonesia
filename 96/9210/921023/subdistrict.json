@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9210232009,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Faithowes",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232002,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Ikuf",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232005,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Ikuf Utara",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232003,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Isir",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232001,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Jitmau",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232004,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Jitmau Timur",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232007,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Kambusabo",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232006,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Sarimo",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232008,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Srirtabam",
+    "postal_code": "98263"
+  },
+  {
+    "id": 9210232010,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921023,
+    "value": "Yumame",
+    "postal_code": "98263"
+  }
+]

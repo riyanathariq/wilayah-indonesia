@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9209202002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920920,
+    "value": "Hohair",
+    "postal_code": "98375"
+  },
+  {
+    "id": 9209202005,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920920,
+    "value": "Ifatkan (fatkan)",
+    "postal_code": "98375"
+  },
+  {
+    "id": 9209202003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920920,
+    "value": "Ruriai",
+    "postal_code": "98375"
+  },
+  {
+    "id": 9209202004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920920,
+    "value": "Soon",
+    "postal_code": "98375"
+  },
+  {
+    "id": 9209202001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920920,
+    "value": "Tinggouw",
+    "postal_code": "98375"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9205042003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Jefman Barat",
+    "postal_code": "98495"
+  },
+  {
+    "id": 9205042016,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Jefman Timur",
+    "postal_code": "98495"
+  },
+  {
+    "id": 9205042002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Kapatlap",
+    "postal_code": "98495"
+  },
+  {
+    "id": 9205042001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Samate",
+    "postal_code": "98495"
+  },
+  {
+    "id": 9205042017,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Waidim",
+    "postal_code": "98495"
+  },
+  {
+    "id": 9205042015,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920504,
+    "value": "Wamega",
+    "postal_code": "98495"
+  }
+]

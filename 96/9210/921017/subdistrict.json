@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9210172005,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Arus",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172002,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Asses",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172003,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Fait Nigre (Fait Nggre)",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172001,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Faitsimar",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172007,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Isnum",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172006,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Kofait",
+    "postal_code": "98244"
+  },
+  {
+    "id": 9210172004,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921017,
+    "value": "Sufu",
+    "postal_code": "98244"
+  }
+]

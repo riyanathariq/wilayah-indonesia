@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205181003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920518,
+    "value": "Bonwakir",
+    "postal_code": "98471"
+  },
+  {
+    "id": 9205181002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920518,
+    "value": "Sapordanco",
+    "postal_code": "98471"
+  },
+  {
+    "id": 9205181001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920518,
+    "value": "Waisai",
+    "postal_code": "98471"
+  },
+  {
+    "id": 9205181004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920518,
+    "value": "Warmasen",
+    "postal_code": "98471"
+  }
+]

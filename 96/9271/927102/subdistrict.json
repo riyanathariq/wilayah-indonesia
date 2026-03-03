@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271021013,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927102,
+    "value": "Kladufu",
+    "postal_code": "98418"
+  },
+  {
+    "id": 9271021010,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927102,
+    "value": "Klamana",
+    "postal_code": "98418"
+  },
+  {
+    "id": 9271021008,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927102,
+    "value": "Klawalu",
+    "postal_code": "98418"
+  },
+  {
+    "id": 9271021011,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927102,
+    "value": "Klawuyuk",
+    "postal_code": "98418"
+  }
+]

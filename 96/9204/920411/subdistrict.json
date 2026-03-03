@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9204112001,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Haha",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112009,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Kakas",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112008,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Kamaro",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112003,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Klaogin",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112005,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Sbir",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112006,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Srer",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112004,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Tofot",
+    "postal_code": "98214"
+  },
+  {
+    "id": 9204112007,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920411,
+    "value": "Woloin",
+    "postal_code": "98214"
+  }
+]

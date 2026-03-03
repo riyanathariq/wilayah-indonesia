@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271011002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927101,
+    "value": "Klademak",
+    "postal_code": "98416"
+  },
+  {
+    "id": 9271011007,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927101,
+    "value": "Kofkerbu",
+    "postal_code": "98416"
+  },
+  {
+    "id": 9271011008,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927101,
+    "value": "Remu",
+    "postal_code": "98416"
+  },
+  {
+    "id": 9271011001,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927101,
+    "value": "Remu Utara",
+    "postal_code": "98416"
+  }
+]

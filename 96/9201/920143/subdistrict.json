@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9201432003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920143,
+    "value": "Kabanmolo",
+    "postal_code": "98446"
+  },
+  {
+    "id": 9201432004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920143,
+    "value": "Kagiwala (Klatok)",
+    "postal_code": "98446"
+  },
+  {
+    "id": 9201432001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920143,
+    "value": "Maibo",
+    "postal_code": "98446"
+  },
+  {
+    "id": 9201432002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920143,
+    "value": "Malaflon",
+    "postal_code": "98446"
+  }
+]

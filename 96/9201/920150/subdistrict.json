@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201502006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Klafelem",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Klaflum",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Klafyo",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Klamne",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Klarin",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Mlaron",
+    "postal_code": "98437"
+  },
+  {
+    "id": 9201502005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Mlasiwor",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Tarsa",
+    "postal_code": "98438"
+  },
+  {
+    "id": 9201502003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920150,
+    "value": "Wisbiak",
+    "postal_code": "98438"
+  }
+]

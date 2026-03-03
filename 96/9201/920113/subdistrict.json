@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9201132005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Arar",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132010,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Asjidba",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Jeflio",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Klain (Klalin)",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Klasmelek",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201131002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Makbalim",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201131001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Makbusun (Makbusum)",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201131003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Makotyamsa",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132011,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Malamay",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Warmon Kokoda",
+    "postal_code": "98421"
+  },
+  {
+    "id": 9201132008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920113,
+    "value": "Wen",
+    "postal_code": "98421"
+  }
+]

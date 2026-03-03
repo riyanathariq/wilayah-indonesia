@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9210142002,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Makiri",
+    "postal_code": "98275"
+  },
+  {
+    "id": 9210142005,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Srumate",
+    "postal_code": "98275"
+  },
+  {
+    "id": 9210142003,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Warba",
+    "postal_code": "98275"
+  },
+  {
+    "id": 9210142004,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Winuni",
+    "postal_code": "98275"
+  },
+  {
+    "id": 9210142006,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Womba",
+    "postal_code": "98275"
+  },
+  {
+    "id": 9210142001,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921014,
+    "value": "Wormu",
+    "postal_code": "98275"
+  }
+]

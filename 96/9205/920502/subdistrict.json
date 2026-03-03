@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9205022010,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Andey",
+    "postal_code": "98466"
+  },
+  {
+    "id": 9205022011,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Asukweri",
+    "postal_code": "98466"
+  },
+  {
+    "id": 9205022013,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Bonsayor",
+    "postal_code": "98466"
+  },
+  {
+    "id": 9205022014,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Darumbab",
+    "postal_code": "98466"
+  },
+  {
+    "id": 9205022003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Kabare",
+    "postal_code": "98466"
+  },
+  {
+    "id": 9205022015,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920502,
+    "value": "Kalisade",
+    "postal_code": "98466"
+  }
+]

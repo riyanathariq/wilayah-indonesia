@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9205152005,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Gag",
+    "postal_code": "98465"
+  },
+  {
+    "id": 9205152001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Manyaifun",
+    "postal_code": "98465"
+  },
+  {
+    "id": 9205152002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Meosmanggara",
+    "postal_code": "98465"
+  },
+  {
+    "id": 9205152003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Pam",
+    "postal_code": "98465"
+  },
+  {
+    "id": 9205152004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Saukabu",
+    "postal_code": "98465"
+  },
+  {
+    "id": 9205152006,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920515,
+    "value": "Saupapir",
+    "postal_code": "98465"
+  }
+]

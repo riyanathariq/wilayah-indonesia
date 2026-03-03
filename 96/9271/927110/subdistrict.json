@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271101003,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927110,
+    "value": "Saoka",
+    "postal_code": "98411"
+  },
+  {
+    "id": 9271101001,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927110,
+    "value": "Suprau",
+    "postal_code": "98411"
+  },
+  {
+    "id": 9271101002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927110,
+    "value": "Tampa Garam",
+    "postal_code": "98411"
+  },
+  {
+    "id": 9271101004,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927110,
+    "value": "Tanjung Kasuari",
+    "postal_code": "98411"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209112004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Arapi",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112016,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Hobiah",
+    "postal_code": "98371"
+  },
+  {
+    "id": 9209112007,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Ifat Mitu",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112008,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Povokek Ania",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Senopi",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112005,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Srurem",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112006,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Sumo",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112012,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Thomas",
+    "postal_code": "98396"
+  },
+  {
+    "id": 9209112015,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920911,
+    "value": "Tintum Araw",
+    "postal_code": "98396"
+  }
+]

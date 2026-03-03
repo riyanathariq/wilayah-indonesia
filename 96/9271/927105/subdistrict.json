@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271051002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927105,
+    "value": "Malanu",
+    "postal_code": "98410"
+  },
+  {
+    "id": 9271051007,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927105,
+    "value": "Malasilen",
+    "postal_code": "98410"
+  },
+  {
+    "id": 9271051010,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927105,
+    "value": "Matalamagi",
+    "postal_code": "98410"
+  },
+  {
+    "id": 9271051011,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927105,
+    "value": "Sawagumu",
+    "postal_code": "98410"
+  }
+]

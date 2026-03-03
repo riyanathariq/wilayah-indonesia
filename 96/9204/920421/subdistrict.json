@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9204212003,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Adona",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212005,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Atori",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212004,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Benawa II",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212008,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Bubuko",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212009,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Kamundan Dua",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212006,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Kamundan Satu",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212007,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Karirif",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212002,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Kayubiro",
+    "postal_code": "98224"
+  },
+  {
+    "id": 9204212001,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920421,
+    "value": "Udagaga",
+    "postal_code": "98224"
+  }
+]

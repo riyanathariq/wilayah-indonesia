@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9209092022,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Anarum",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092015,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Apoki",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092007,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Injai",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092017,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Jafai",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092018,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Jambuani",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092019,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Manaria",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092016,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Matatun",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092028,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Wabanek",
+    "postal_code": "98391"
+  },
+  {
+    "id": 9209092027,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920909,
+    "value": "Wasanggon",
+    "postal_code": "98391"
+  }
+]

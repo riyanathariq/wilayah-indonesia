@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201492002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Klagulu",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Klamugun",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Klasman",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Magatarum",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Malajapa",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Malamoja",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Malasigit",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Marik May",
+    "postal_code": "98443"
+  },
+  {
+    "id": 9201492008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920149,
+    "value": "Tanah Tinggi",
+    "postal_code": "98443"
+  }
+]

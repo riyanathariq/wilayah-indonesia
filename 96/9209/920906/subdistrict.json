@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9209062002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920906,
+    "value": "Syukwo (Warmandi)",
+    "postal_code": "98363"
+  },
+  {
+    "id": 9209062003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920906,
+    "value": "Waibem",
+    "postal_code": "98363"
+  },
+  {
+    "id": 9209062001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920906,
+    "value": "Wau",
+    "postal_code": "98363"
+  },
+  {
+    "id": 9209062006,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920906,
+    "value": "Weprari",
+    "postal_code": "98363"
+  },
+  {
+    "id": 9209062005,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920906,
+    "value": "Weyaf",
+    "postal_code": "98363"
+  }
+]

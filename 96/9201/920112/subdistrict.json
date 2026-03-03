@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9201122002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Gisim",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Klajaring",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Klasegun",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Klasin",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Majemau",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122010,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Malamas",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Segun",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Waimlabat",
+    "postal_code": "98427"
+  },
+  {
+    "id": 9201122003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920112,
+    "value": "Waimon",
+    "postal_code": "98427"
+  }
+]

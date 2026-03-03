@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9209032001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Baun",
+    "postal_code": "98379"
+  },
+  {
+    "id": 9209032007,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Metbelum",
+    "postal_code": "98379"
+  },
+  {
+    "id": 9209032013,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Metbesa",
+    "postal_code": "98378"
+  },
+  {
+    "id": 9209032003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Metnayam",
+    "postal_code": "98379"
+  },
+  {
+    "id": 9209032012,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Salem",
+    "postal_code": "98379"
+  },
+  {
+    "id": 9209032002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920903,
+    "value": "Sumbekas",
+    "postal_code": "98379"
+  }
+]

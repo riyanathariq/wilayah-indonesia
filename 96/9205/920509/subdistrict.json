@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205092010,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920509,
+    "value": "Kalitoko",
+    "postal_code": "98473"
+  },
+  {
+    "id": 9205092001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920509,
+    "value": "Lopintol",
+    "postal_code": "98473"
+  },
+  {
+    "id": 9205092009,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920509,
+    "value": "Mumes",
+    "postal_code": "98473"
+  },
+  {
+    "id": 9205092007,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920509,
+    "value": "Warsamdin",
+    "postal_code": "98473"
+  }
+]

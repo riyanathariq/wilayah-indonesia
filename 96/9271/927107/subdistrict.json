@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271071001,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927107,
+    "value": "Kampung Baru",
+    "postal_code": "98414"
+  },
+  {
+    "id": 9271071002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927107,
+    "value": "Klabala",
+    "postal_code": "98414"
+  },
+  {
+    "id": 9271071004,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927107,
+    "value": "Klakublik",
+    "postal_code": "98414"
+  },
+  {
+    "id": 9271071003,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927107,
+    "value": "Klasuur",
+    "postal_code": "98414"
+  }
+]

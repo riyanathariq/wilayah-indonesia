@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271031005,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927103,
+    "value": "Klawasi",
+    "postal_code": "98412"
+  },
+  {
+    "id": 9271031007,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927103,
+    "value": "Pal Putih",
+    "postal_code": "98412"
+  },
+  {
+    "id": 9271031006,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927103,
+    "value": "Puncak Cendrawasih",
+    "postal_code": "98412"
+  },
+  {
+    "id": 9271031002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927103,
+    "value": "Rufei",
+    "postal_code": "98412"
+  }
+]

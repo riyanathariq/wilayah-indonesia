@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9205032016,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920503,
+    "value": "Friwen",
+    "postal_code": "98475"
+  },
+  {
+    "id": 9205032004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920503,
+    "value": "Saonek",
+    "postal_code": "98475"
+  },
+  {
+    "id": 9205032014,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920503,
+    "value": "Saporkren",
+    "postal_code": "98475"
+  },
+  {
+    "id": 9205032017,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920503,
+    "value": "Wawiyai",
+    "postal_code": "98475"
+  },
+  {
+    "id": 9205032015,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920503,
+    "value": "Yenbeser",
+    "postal_code": "98475"
+  }
+]

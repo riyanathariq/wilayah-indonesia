@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9210112009,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Bakrabi",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112006,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Kombif",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112011,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Mahos",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112010,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Nafasi",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112008,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Rufases",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112012,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Sawo",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112002,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Seya",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112001,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Suswa",
+    "postal_code": "98251"
+  },
+  {
+    "id": 9210112005,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921011,
+    "value": "Waban (Wabam)",
+    "postal_code": "98251"
+  }
+]

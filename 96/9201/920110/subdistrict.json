@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9201102014,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Klain",
+    "postal_code": "98453"
+  },
+  {
+    "id": 9201102012,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Klamintu",
+    "postal_code": "98453"
+  },
+  {
+    "id": 9201102004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Maladofok",
+    "postal_code": "98453"
+  },
+  {
+    "id": 9201102011,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Samusa",
+    "postal_code": "98453"
+  },
+  {
+    "id": 9201102001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Sayosa",
+    "postal_code": "98453"
+  },
+  {
+    "id": 9201102006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920110,
+    "value": "Yorbes",
+    "postal_code": "98453"
+  }
+]

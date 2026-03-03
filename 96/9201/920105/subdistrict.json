@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9201051001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Katinim",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201051007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Majaran",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201051006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Majener",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201052012,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Malaus",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201051009,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Matawolot",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201052018,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Rawa Sugi",
+    "postal_code": "98423"
+  },
+  {
+    "id": 9201052011,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920105,
+    "value": "Walal",
+    "postal_code": "98423"
+  }
+]

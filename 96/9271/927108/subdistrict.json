@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271081004,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927108,
+    "value": "Giwu",
+    "postal_code": "98417"
+  },
+  {
+    "id": 9271081002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927108,
+    "value": "Klablim",
+    "postal_code": "98417"
+  },
+  {
+    "id": 9271081003,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927108,
+    "value": "Klasaman",
+    "postal_code": "98417"
+  },
+  {
+    "id": 9271081001,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927108,
+    "value": "Klasuat",
+    "postal_code": "98417"
+  }
+]

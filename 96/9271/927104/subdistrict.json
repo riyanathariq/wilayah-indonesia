@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9271041001,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927104,
+    "value": "Dum Barat",
+    "postal_code": "98413"
+  },
+  {
+    "id": 9271041002,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927104,
+    "value": "Dum Timur",
+    "postal_code": "98413"
+  },
+  {
+    "id": 9271041004,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927104,
+    "value": "Raam",
+    "postal_code": "98413"
+  },
+  {
+    "id": 9271041003,
+    "province_id": 96,
+    "regency_id": 9271,
+    "district_id": 927104,
+    "value": "Soop",
+    "postal_code": "98413"
+  }
+]

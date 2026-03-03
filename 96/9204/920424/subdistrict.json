@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9204242003,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920424,
+    "value": "Bemus",
+    "postal_code": "98231"
+  },
+  {
+    "id": 9204242001,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920424,
+    "value": "Pasir Putih",
+    "postal_code": "98231"
+  },
+  {
+    "id": 9204242002,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920424,
+    "value": "Wandum",
+    "postal_code": "98231"
+  },
+  {
+    "id": 9204242004,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920424,
+    "value": "Welek",
+    "postal_code": "98231"
+  }
+]

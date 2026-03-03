@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9209272002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920927,
+    "value": "Imbuan (Bondopi)",
+    "postal_code": "98382"
+  },
+  {
+    "id": 9209272003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920927,
+    "value": "Manggaew",
+    "postal_code": "98382"
+  },
+  {
+    "id": 9209272001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920927,
+    "value": "Sasui",
+    "postal_code": "98382"
+  },
+  {
+    "id": 9209272004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920927,
+    "value": "Saurabon",
+    "postal_code": "98382"
+  },
+  {
+    "id": 9209272005,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920927,
+    "value": "Wasawmontem",
+    "postal_code": "98382"
+  }
+]

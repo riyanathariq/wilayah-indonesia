@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9201142007,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Dulbatan",
+    "postal_code": "98424"
+  },
+  {
+    "id": 9201142002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Kotlol (Klotlol)",
+    "postal_code": "98424"
+  },
+  {
+    "id": 9201142008,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Manoket",
+    "postal_code": "98424"
+  },
+  {
+    "id": 9201142012,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Masmapop (Masmaspop)",
+    "postal_code": "98424"
+  },
+  {
+    "id": 9201142011,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Payapop",
+    "postal_code": "98424"
+  },
+  {
+    "id": 9201142001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920114,
+    "value": "Sailolof",
+    "postal_code": "98424"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9205162003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920516,
+    "value": "Biga",
+    "postal_code": "98484"
+  },
+  {
+    "id": 9205162002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920516,
+    "value": "Gamta",
+    "postal_code": "98484"
+  },
+  {
+    "id": 9205162004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920516,
+    "value": "Kapatcol",
+    "postal_code": "98484"
+  },
+  {
+    "id": 9205162001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920516,
+    "value": "Lilinta",
+    "postal_code": "98484"
+  },
+  {
+    "id": 9205162005,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920516,
+    "value": "Magey",
+    "postal_code": "98484"
+  }
+]

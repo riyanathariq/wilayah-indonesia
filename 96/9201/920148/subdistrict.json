@@ -1,0 +1,50 @@
+[
+  {
+    "id": 9201482006,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Klagele",
+    "postal_code": "98458"
+  },
+  {
+    "id": 9201482004,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Klamede",
+    "postal_code": "98458"
+  },
+  {
+    "id": 9201482001,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Saengkeduk",
+    "postal_code": "98458"
+  },
+  {
+    "id": 9201482005,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Sambatie",
+    "postal_code": "98458"
+  },
+  {
+    "id": 9201482002,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Selekobo",
+    "postal_code": "98458"
+  },
+  {
+    "id": 9201482003,
+    "province_id": 96,
+    "regency_id": 9201,
+    "district_id": 920148,
+    "value": "Suye",
+    "postal_code": "98458"
+  }
+]

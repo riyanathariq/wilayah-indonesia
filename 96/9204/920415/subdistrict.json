@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9204152003,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920415,
+    "value": "Bariat",
+    "postal_code": "98211"
+  },
+  {
+    "id": 9204152001,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920415,
+    "value": "Konda",
+    "postal_code": "98211"
+  },
+  {
+    "id": 9204152004,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920415,
+    "value": "Manelek",
+    "postal_code": "98211"
+  },
+  {
+    "id": 9204152005,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920415,
+    "value": "Nagna",
+    "postal_code": "98211"
+  },
+  {
+    "id": 9204152002,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920415,
+    "value": "Wamargege",
+    "postal_code": "98211"
+  }
+]

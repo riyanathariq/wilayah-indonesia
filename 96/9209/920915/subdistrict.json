@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9209152001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920915,
+    "value": "Ases",
+    "postal_code": "98364"
+  },
+  {
+    "id": 9209152002,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920915,
+    "value": "Asuon",
+    "postal_code": "98364"
+  },
+  {
+    "id": 9209152004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920915,
+    "value": "Frasayoah",
+    "postal_code": "98364"
+  },
+  {
+    "id": 9209152003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920915,
+    "value": "Safotiek (Safoetiek)",
+    "postal_code": "98364"
+  }
+]

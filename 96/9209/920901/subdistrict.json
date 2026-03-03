@@ -1,0 +1,82 @@
+[
+  {
+    "id": 9209012012,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Banfot",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012014,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Esyum",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012001,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Fef",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012010,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Ibe",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012015,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Imor",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012013,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Iwin",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012006,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Sikor",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012004,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Syubun",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012011,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Syunam",
+    "postal_code": "98366"
+  },
+  {
+    "id": 9209012003,
+    "province_id": 96,
+    "regency_id": 9209,
+    "district_id": 920901,
+    "value": "Wayo",
+    "postal_code": "98366"
+  }
+]

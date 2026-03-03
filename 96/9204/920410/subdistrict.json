@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9204102004,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Bumi Ajo",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102003,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Hararo",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102005,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Hasik Jaya",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102002,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Johsiro (Joshiro)",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102006,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Kamisabe",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102001,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Moswaren",
+    "postal_code": "98212"
+  },
+  {
+    "id": 9204102007,
+    "province_id": 96,
+    "regency_id": 9204,
+    "district_id": 920410,
+    "value": "Tokass",
+    "postal_code": "98212"
+  }
+]

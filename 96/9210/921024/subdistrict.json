@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9210242004,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Fase",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242006,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Kuraso",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242008,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Osom",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242002,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Renis",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242005,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Sabes",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242001,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Seni",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242007,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Sidi",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242003,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Sire",
+    "postal_code": "98252"
+  },
+  {
+    "id": 9210242009,
+    "province_id": 96,
+    "regency_id": 9210,
+    "district_id": 921024,
+    "value": "Sire Timur",
+    "postal_code": "98252"
+  }
+]

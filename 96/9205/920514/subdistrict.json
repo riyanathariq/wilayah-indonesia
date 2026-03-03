@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205142003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920514,
+    "value": "Boni",
+    "postal_code": "98467"
+  },
+  {
+    "id": 9205142002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920514,
+    "value": "Mnier",
+    "postal_code": "98467"
+  },
+  {
+    "id": 9205142004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920514,
+    "value": "Warkori",
+    "postal_code": "98467"
+  },
+  {
+    "id": 9205142001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920514,
+    "value": "Warmanai",
+    "postal_code": "98467"
+  }
+]

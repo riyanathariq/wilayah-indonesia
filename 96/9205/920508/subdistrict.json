@@ -1,0 +1,34 @@
+[
+  {
+    "id": 9205082001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920508,
+    "value": "Puper",
+    "postal_code": "98476"
+  },
+  {
+    "id": 9205082003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920508,
+    "value": "Urbinasopen",
+    "postal_code": "98476"
+  },
+  {
+    "id": 9205082002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920508,
+    "value": "Yenbekaki (Yembekaki)",
+    "postal_code": "98476"
+  },
+  {
+    "id": 9205082004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920508,
+    "value": "Yensener (Yesner)",
+    "postal_code": "98476"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 9205222001,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Kalobo",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222002,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Sakabu",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222003,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Waibu",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222004,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Waijan",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222006,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Wailabu",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222007,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Wailen",
+    "postal_code": "98494"
+  },
+  {
+    "id": 9205222005,
+    "province_id": 96,
+    "regency_id": 9205,
+    "district_id": 920522,
+    "value": "Waimeci",
+    "postal_code": "98494"
+  }
+]
