@@ -1,81 +1,176 @@
 const fs = require('fs');
 const path = require('path');
 
-// Function to read data from CSV files
-function readCSV(filePath) {
-    const fileContent = fs.readFileSync(path.join(__dirname, filePath), { encoding: 'utf8' });
-    return fileContent
-        .split(/\r?\n/)
-        .slice(1)
-        .filter(line => line.trim())
-        .map(line => line.split(',').map(cell => cell.trim()));
+/** Minimal RFC4180-ish CSV parse (handles quoted commas). */
+function parseCsv(content) {
+  const rows = [];
+  let row = [];
+  let cell = '';
+  let i = 0;
+  let inQuotes = false;
+  const s = content.replace(/^\uFEFF/, '');
+
+  while (i < s.length) {
+    const ch = s[i];
+    if (inQuotes) {
+      if (ch === '"') {
+        if (s[i + 1] === '"') {
+          cell += '"';
+          i += 2;
+          continue;
+        }
+        inQuotes = false;
+        i += 1;
+        continue;
+      }
+      cell += ch;
+      i += 1;
+      continue;
+    }
+    if (ch === '"') {
+      inQuotes = true;
+      i += 1;
+      continue;
+    }
+    if (ch === ',') {
+      row.push(cell.trim());
+      cell = '';
+      i += 1;
+      continue;
+    }
+    if (ch === '\n' || (ch === '\r' && s[i + 1] === '\n')) {
+      row.push(cell.trim());
+      if (row.some((c) => c !== '')) rows.push(row);
+      row = [];
+      cell = '';
+      i += ch === '\r' ? 2 : 1;
+      continue;
+    }
+    if (ch === '\r') {
+      row.push(cell.trim());
+      if (row.some((c) => c !== '')) rows.push(row);
+      row = [];
+      cell = '';
+      i += 1;
+      continue;
+    }
+    cell += ch;
+    i += 1;
+  }
+  row.push(cell.trim());
+  if (row.some((c) => c !== '')) rows.push(row);
+  return rows;
 }
 
-// Read data from CSV files
+function readCSV(filePath) {
+  const fileContent = fs.readFileSync(path.join(__dirname, filePath), {
+    encoding: 'utf8',
+  });
+  const rows = parseCsv(fileContent);
+  return rows.slice(1); // drop header
+}
+
 const provinces = readCSV('./provinces.csv');
 const regencies = readCSV('./regencies.csv');
 const districts = readCSV('./districts.csv');
 const villages = readCSV('./villages.csv');
 
-// Create output directory (recursive so re-run does not fail)
 fs.mkdirSync('dist', { recursive: true });
 
-// Write data to provinces.json
-fs.writeFileSync('./dist/provinces.json', JSON.stringify(provinces.map(province => ({
-    id: parseInt(province[1]), // Assuming code is the second field
-    value: province[0] // Assuming name is the first field
-})), null, 2));
+fs.writeFileSync(
+  './dist/provinces.json',
+  JSON.stringify(
+    provinces.map((province) => ({
+      id: parseInt(province[1], 10),
+      value: province[0],
+    })),
+    null,
+    2,
+  ),
+);
 
-// Generate API endpoints for regencies.json, district.json, and subdistrict.json
-provinces.forEach(province => {
-    const [provinceName, provinceId] = province;
-    const provinceRegencies = regencies.filter(regency => regency[2] === provinceId);
+let regencyCount = 0;
+let districtCount = 0;
+let villageCount = 0;
 
-    // Create directory for the province
-    fs.mkdirSync(`dist/${provinceId}`, { recursive: true });
+provinces.forEach((province) => {
+  const [provinceName, provinceId] = province;
+  const provinceRegencies = regencies.filter((regency) => regency[2] === provinceId);
+  regencyCount += provinceRegencies.length;
 
-    // Write data to regencies.json
-    fs.writeFileSync(`./dist/${provinceId}/regencies.json`, JSON.stringify(provinceRegencies.map(regency => ({
-        id: parseInt(regency[4]),
-        province_id: parseInt(provinceId),
+  fs.mkdirSync(`dist/${provinceId}`, { recursive: true });
+
+  fs.writeFileSync(
+    `./dist/${provinceId}/regencies.json`,
+    JSON.stringify(
+      provinceRegencies.map((regency) => ({
+        id: parseInt(regency[4], 10),
+        province_id: parseInt(provinceId, 10),
         type: regency[0],
-        value: regency[0] === 'Kota' ? `${regency[0]} ${regency[1]}` : regency[1]
-    })), null, 2));
+        value: regency[0] === 'Kota' ? `${regency[0]} ${regency[1]}` : regency[1],
+      })),
+      null,
+      2,
+    ),
+  );
 
-    // Generate API endpoints for district.json and subdistrict.json
-    provinceRegencies.forEach(regency => {
-        const regencyDistricts = districts.filter(district => district[4] === regency[4]);
+  provinceRegencies.forEach((regency) => {
+    const regencyDistricts = districts.filter((district) => district[4] === regency[4]);
+    districtCount += regencyDistricts.length;
 
-        // Create directory for the regency
-        fs.mkdirSync(`dist/${provinceId}/${regency[4]}`, { recursive: true });
+    fs.mkdirSync(`dist/${provinceId}/${regency[4]}`, { recursive: true });
 
-        // Write data to district.json
-        fs.writeFileSync(`./dist/${provinceId}/${regency[4]}/district.json`, JSON.stringify(regencyDistricts.map(district => ({
-            id: parseInt(district[5]), // Assuming code is the second field
-            province_id: parseInt(provinceId),
-            regency_id: parseInt(regency[4]),
-            value: district[0] // Assuming name is the first field
-        })), null, 2));
+    fs.writeFileSync(
+      `./dist/${provinceId}/${regency[4]}/district.json`,
+      JSON.stringify(
+        regencyDistricts.map((district) => ({
+          id: parseInt(district[5], 10),
+          province_id: parseInt(provinceId, 10),
+          regency_id: parseInt(regency[4], 10),
+          value: district[0],
+        })),
+        null,
+        2,
+      ),
+    );
 
-        // Generate API endpoints for subdistrict.json
-        regencyDistricts.forEach(district => {
-            // const [, districtId] = district;
-            const districtVillages = villages.filter(village => village[7] == district[5]);
+    regencyDistricts.forEach((district) => {
+      const districtVillages = villages.filter((village) => village[7] == district[5]);
+      villageCount += districtVillages.length;
 
-            // Create directory for the district
-            fs.mkdirSync(`dist/${provinceId}/${regency[4]}/${district[5]}`, { recursive: true });
+      fs.mkdirSync(`dist/${provinceId}/${regency[4]}/${district[5]}`, {
+        recursive: true,
+      });
 
-            // Write data to subdistrict.json
-            fs.writeFileSync(`./dist/${provinceId}/${regency[4]}/${district[5]}/subdistrict.json`, JSON.stringify(districtVillages.map(village => ({
-                id: parseInt(village[6]), // Assuming code is the second field
-                province_id: parseInt(provinceId),
-                regency_id: parseInt(regency[4]),
-                district_id: parseInt(district[5]),
-                value: village[1], // Assuming name is the first field
-                postal_code: village[0]
-            })), null, 2));
-        });
+      fs.writeFileSync(
+        `./dist/${provinceId}/${regency[4]}/${district[5]}/subdistrict.json`,
+        JSON.stringify(
+          districtVillages.map((village) => ({
+            id: parseInt(village[6], 10),
+            province_id: parseInt(provinceId, 10),
+            regency_id: parseInt(regency[4], 10),
+            district_id: parseInt(district[5], 10),
+            value: village[1],
+            postal_code: village[0],
+          })),
+          null,
+          2,
+        ),
+      );
     });
+  });
 });
 
 console.log('Generated successfully!');
+console.log(
+  JSON.stringify(
+    {
+      provinces: provinces.length,
+      regencies: regencyCount,
+      districts: districtCount,
+      villages: villageCount,
+    },
+    null,
+    2,
+  ),
+);

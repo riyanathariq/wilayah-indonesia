@@ -72,15 +72,7 @@ API data wilayah administratif Indonesia: provinsi, kabupaten/kota, kecamatan, d
     ```json
     [
         {
-            "id": 3201012001,
-            "province_id": 32,
-            "regency_id": 3201,
-            "district_id": 320101,
-            "value": "Nanggewer",
-            "postal_code": "16912"
-        },
-        {
-            "id": 3201012002,
+            "id": 3201011007,
             "province_id": 32,
             "regency_id": 3201,
             "district_id": 320101,
