@@ -1,0 +1,106 @@
+[
+  {
+    "id": 5302102004,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Belle",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102006,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Boti",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102011,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Eno Napi (Enonapi)",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102002,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Falas (Fallas)",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102012,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Fatukusi",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102007,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Fatuulan",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102013,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Naile'u",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102005,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Napi",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102010,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Nekmese",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102003,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Oenai",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102009,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Oinlasi",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102001,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Pilli (Pili)",
+    "postal_code": "85575"
+  },
+  {
+    "id": 5302102008,
+    "province_id": 53,
+    "regency_id": 5302,
+    "district_id": 530210,
+    "value": "Tesiayofanu (Tesi Ayofanu)",
+    "postal_code": "85575"
+  }
+]

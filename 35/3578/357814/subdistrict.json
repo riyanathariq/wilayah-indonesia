@@ -16,11 +16,35 @@
     "postal_code": "60185"
   },
   {
+    "id": 3578141006,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Karang Poh (Gadel, Tubanan)",
+    "postal_code": "60186"
+  },
+  {
     "id": 3578141009,
     "province_id": 35,
     "regency_id": 3578,
     "district_id": 357814,
     "value": "Manukan Kulon",
     "postal_code": "60185"
+  },
+  {
+    "id": 3578141011,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Manukan Wetan (Bibis, Buntaran)",
+    "postal_code": "60184"
+  },
+  {
+    "id": 3578141002,
+    "province_id": 35,
+    "regency_id": 3578,
+    "district_id": 357814,
+    "value": "Tandes (Kidul, Lor, Gedang Asin)",
+    "postal_code": "60187"
   }
 ]

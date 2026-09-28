@@ -1,0 +1,106 @@
+[
+  {
+    "id": 7604052002,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Ambopadang (Ambo Padang)",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052010,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Arabua",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052005,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Besoangin",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052011,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Besoangin Utara",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052007,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Peburru",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052006,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Piriang Tapiko",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052012,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Poda",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052009,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Pollewani",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052004,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Ratte",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052008,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Taloba",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604051001,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Taramanu",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052013,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Taramanu Tua",
+    "postal_code": "91355"
+  },
+  {
+    "id": 7604052003,
+    "province_id": 76,
+    "regency_id": 7604,
+    "district_id": 760405,
+    "value": "Tubbi",
+    "postal_code": "91355"
+  }
+]

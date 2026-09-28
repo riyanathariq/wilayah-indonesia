@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5102022003,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Bantas",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022007,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Beraban",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022009,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Dalang",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022002,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Gadungan",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022010,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Gadungsari (Gadung Sari)",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022001,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Gunung Salak",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022004,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Mambang",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022005,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Megati",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022006,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Tangguntiti",
+    "postal_code": "82160"
+  },
+  {
+    "id": 5102022008,
+    "province_id": 51,
+    "regency_id": 5102,
+    "district_id": 510202,
+    "value": "Tegal Mengkeb",
+    "postal_code": "82160"
+  }
+]
